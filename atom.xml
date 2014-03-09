@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-10T09:00:22+11:00</updated>
+  <updated>2014-03-10T09:05:17+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -63,15 +63,15 @@ acting like <em>federales</em> too, and the badge business seems to be booming.<
 <p>Agile was never about badges. It&rsquo;s about productive teams and their practice
 patterns, using peer protocols to self-organise and metric feedback to guide
 their evolution. The original Manifesto values are still relevant and
-valuable, but that doesn&rsquo;t mean they can&rsquo;t be refactored and adapted the same
-way the original open community did. <strong>A:TNG</strong> is for that.</p>
+valuable, but that doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted the
+same way the original open community did. <strong>A:TNG</strong> is for that.</p>
 
 <p>To advance the state of the Agile art we will discover, refactor and evolve
 Agile patterns together in a <a href="http://meatballwiki.org/wiki/NonZeroSumGame">Positive Sum
 Game</a>. Everyone can play. It
-doesn&rsquo;t matter if you&rsquo;ve written a book, earned a badge or attended some
-ancient standup. It only matters that you&rsquo;ve got relevant experience and
-useful ideas now.</p>
+doesn&rsquo;t matter whether or not you&rsquo;ve written a book, earned a badge or
+attended some ancient standup. It only matters that you&rsquo;ve got relevant
+experience and useful ideas to contribute.</p>
 
 <h2>How TNG?</h2>
 
@@ -81,29 +81,29 @@ agreeable content. We might want this old time open Agile back and never mind
 trolls and sheriffs &ndash; but how?</p>
 
 <p>A wiki is basically an open version control system wedded to a content editor.
-Most are centralized, which means people can only have one current version of
-a wiki page at any one time. That&rsquo;s where the trolls and sherrifs came from.</p>
+Most are centralized, which means you can only have one current version of
+a wiki page at any one time. That&rsquo;s where trolls and sherrifs come from.</p>
 
-<p>Here on github we have a decentralized VCS as our basis for consensus
-decisions. TNG can use this new technology as our way of self-organising. If
+<p>On github we have a decentralized VCS as our basis for consensus
+decisions. TNG will use this new technology as its way of self-organising. If
 any trolls turn up we simply don&rsquo;t need to pull from them. And no more trolls
-means no more need for sheriffs.</p>
+means no sheriffs.</p>
 
-<p>We could even get an <a href="http://www.c2.com/cgi/wiki?AgileParliament">Agile
-Parliament</a> going. Treaty
-proposals as pull requests … that will take some doing. Needs trial and error,
-but then that’s what we’re here for. To advance the state of our Agile art.</p>
+<p>We could get an <a href="http://www.c2.com/cgi/wiki?AgileParliament">Agile Parliament</a>
+going. Treaty proposals as pull requests … that would take some doing. Needs
+trial and error, but that’s what we’re here for. To advance the state of our
+Agile art.</p>
 
-<p>Sounds cool but we&rsquo;ve still got lots of basics to cover to give TNG form: pick
-a license, put up an initial community charter, kick the Parliament pattern
-around. figure out how to change the framing content here, figure out a
-decenralized authoring workflow and send out enough invitations to get a
-kernel community moving.</p>
+<p>We&rsquo;ve got lots of basics to cover to give TNG such a form: pick a license, put
+up an initial community charter, kick the Parliament pattern around, figure
+out how to collaborate on the framing content here, figure out a decenralized
+authoring workflow and send out enough invitations to get our kernel community
+moving.</p>
 
 <p>It&rsquo;s like, when we were kids, we had sea monkeys. The instructions said to add
 the sachet to the water and next morning it&rsquo;d be full of little people.
 That&rsquo;s our system metaphor for this. Except maybe I&rsquo;m the brine shrimp and
-you&rsquo;re the kid wondering when it&rsquo;ll start to look like the picture on the
+you&rsquo;re the kid wondering when we&rsquo;ll start to look like the picture on the
 packet.</p>
 
 <p>Let&rsquo;s get stuck in. Star and fork the repo. Help figure the

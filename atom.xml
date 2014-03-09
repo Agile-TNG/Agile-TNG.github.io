@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Agile: The Next Generation]]></title>
-  <link href="http://agiletng.org/atom.xml" rel="self"/>
-  <link href="http://agiletng.org/"/>
-  <updated>2014-03-10T00:58:07+11:00</updated>
-  <id>http://agiletng.org/</id>
+  <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
+  <link href="http://Agile-TNG.github.io/"/>
+  <updated>2014-03-10T01:18:29+11:00</updated>
+  <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why What How]]></title>
-    <link href="http://agiletng.org/blog/2014/03/09/why-what-how/"/>
+    <link href="http://Agile-TNG.github.io/blog/2014/03/09/why-what-how/"/>
     <updated>2014-03-09T22:59:46+11:00</updated>
-    <id>http://agiletng.org/blog/2014/03/09/why-what-how</id>
+    <id>http://Agile-TNG.github.io/blog/2014/03/09/why-what-how</id>
     <content type="html"><![CDATA[<h2>Why TNG?</h2>
 
 <p>The <a href="http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1">stand-up in the
@@ -30,9 +30,9 @@ to any great names. We were conspirators and it was a revolution.</p>
 What was really great about the early days of the Alliance was there
 was no one whose ring needed kissing and change could happen <em>fast</em>.</p>
 
-<p>So how is it that here we are in 2014 the Manifesto hasn&rsquo;t changed since 2001?
-There are conferences every year but it stays the same. And that doesn&rsquo;t seem
-quite &hellip;  Agile.</p>
+<p>So how is it that here in 2014 the Manifesto hasn&rsquo;t changed since 2001?  There
+are conferences every year but it stays the same. Maybe it&rsquo;s a valuable
+historical document but that doesn&rsquo;t seem quite &hellip;  Agile.</p>
 
 <!-- more -->
 

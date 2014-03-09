@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://zefram-cochrane.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://agiletng.org
+title: "Agile: The Next Generation"
+subtitle: "We are uncovering better ways to deliver products and services by improving our teams, enterprises and communities"
+author: A:TNG
 simple_search: http://google.com/search
-description:
+description: "A:TNG is an initiative to re-open the community of Agile practitioners that originally fostered XP and focus on the new frontier of Agile at enterprise scale."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -63,8 +63,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: Agile-TNG
+github_repo_count: 1
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: AgileTNG
 disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

@@ -11,12 +11,12 @@ background-repeat:no-repeat;
 background-attachment:fixed;
 background-position:center top;	
 background-color: #132b2b;
-background-image: url('../images/back5.png');
+background-image: url('../images/back3.png');
 }
 
 #bannerText {
 line-height: 90%;
-font-size: 4.8em;
+font-size: 4.1em;
 
 display:inline-block;
 font-family: 'Nova Flat', sans-serif;

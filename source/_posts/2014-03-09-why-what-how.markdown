@@ -17,9 +17,9 @@ If there were no Agile now we would just go and invent it again.
 What was really great about the early days of the Alliance was there
 was no one whose ring needed kissing and change could happen _fast_. 
 
-So how is it that here we are in 2014 the Manifesto hasn't changed since 2001?
-There are conferences every year but it stays the same. And that doesn't seem
-quite ...  Agile.  
+So how is it that here in 2014 the Manifesto hasn't changed since 2001?  There
+are conferences every year but it stays the same. Maybe it's a valuable
+historical document but that doesn't seem quite ...  Agile.  
 <!-- more -->
 
 We've all seen the [Agle Last Supper

@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-10T13:51:51+11:00</updated>
+  <updated>2014-03-10T13:53:06+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -75,10 +75,8 @@ into the open where we can really sort out what works with what.</p>
     <link href="http://Agile-TNG.github.io/blog/2014/03/09/why-what-how/"/>
     <updated>2014-03-09T22:59:46+11:00</updated>
     <id>http://Agile-TNG.github.io/blog/2014/03/09/why-what-how</id>
-    <content type="html"><![CDATA[<h2>Why TNG?</h2>
-
-<p>Why is it that the Agile Manifesto hasn&rsquo;t changed since 2001?  There
-are conferences every year. Have we learned nothing in this time? Seeing
+    <content type="html"><![CDATA[<p>Why is it that the Agile Manifesto hasn&rsquo;t changed since 2001?  There
+are conferences every year. Have we learned nothing in all that time? Seeing
 the Manifesto as some historical document like the Declaration of Independence
 doesn&rsquo;t seem very Agile. Don&rsquo;t we embrace change around here?</p>
 

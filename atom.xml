@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-10T09:32:36+11:00</updated>
+  <updated>2014-03-10T13:05:57+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4 New Values]]></title>
+    <link href="http://Agile-TNG.github.io/blog/2014/03/10/4-new-values/"/>
+    <updated>2014-03-10T09:43:28+11:00</updated>
+    <id>http://Agile-TNG.github.io/blog/2014/03/10/4-new-values</id>
+    <content type="html"><![CDATA[<p>We boldly identify 4 values Agile needs at enterprise
+scale beyond the original manifesto:</p>
+
+<ul>
+<li><strong>Pattern languages over prescriptive frameworks</strong></li>
+<li><strong>Productive teams over certified individuals</strong></li>
+<li><strong>Metric feedback over command &amp; control</strong></li>
+<li><strong>Consensus protocols over management hierarchies</strong></li>
+</ul>
+
+
+<p>That is, while there is value in the items on the right, we value the
+items on the left more.</p>
+
+<!-- more -->
+
+
+<p>Agile started with XP on the <a href="http://www.c2.com/cgi/wiki/ExtremeProgrammingRoadmap">C2
+Wiki</a>, a high powered
+but open community of professionals sharing patterns and innovations for the
+common good. The Agile Alliance distilled this work into a Manifesto and added
+a signup page, but C2&rsquo;s open community is the real reason for the global
+supremacy of Agile today.</p>
+
+<p>That all happened last century and the Manifesto is showing its age. It&rsquo;s
+still right on when it comes to teams, but lacks values and principles for
+large scale Agile adoption. The gap has led to
+<a href="http://agile.dzone.com/articles/method-wars-scrum-vs-safe">contention</a> as
+consultancies and certificate-mills compete to pry open corporate checkbooks
+for their respective brands.</p>
+
+<p>Which is crazy. There&rsquo;s value in both Scrum and SAFe, and no reason to think
+you can&rsquo;t combine elements of both along with other frameworks. The value of
+frameworks isn&rsquo;t in their brands and certificates, nor in adopting them as
+prescriptions, but in understanding and adpting the the practice patterns they
+contain.</p>
+
+<p>Schwaber is correct in worrying about the danger of making &ldquo;half a cow and
+half a fish&rdquo; when what we really want is dolphins. The question is, on what
+basis do you go about the process of adaptation? How do you do it organically,
+iteratively, and without tripping up at scale? To do that you need a clear set
+of values and principles. And that&rsquo;s where A:TNG comes in.</p>
+
+<p>A:TNG is based on the idea that SAFe, Less, DAD, APF, ETF, OBM, Beyond
+Budgeting, Lean and on and on all provide useful patterns.  And that there&rsquo;s a
+lot more to enterprise agility than all of them put together. We&rsquo;ve augmented
+the Manifesto values not as a way to make yet another brand, but as a basis
+for the work of pulling the pattern languages out of all the brands and
+into the open where we can really sort out what works with what.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why What How]]></title>

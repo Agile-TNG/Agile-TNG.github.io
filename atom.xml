@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-10T13:31:31+11:00</updated>
+  <updated>2014-03-10T13:51:51+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -77,58 +77,61 @@ into the open where we can really sort out what works with what.</p>
     <id>http://Agile-TNG.github.io/blog/2014/03/09/why-what-how</id>
     <content type="html"><![CDATA[<h2>Why TNG?</h2>
 
+<p>Why is it that the Agile Manifesto hasn&rsquo;t changed since 2001?  There
+are conferences every year. Have we learned nothing in this time? Seeing
+the Manifesto as some historical document like the Declaration of Independence
+doesn&rsquo;t seem very Agile. Don&rsquo;t we embrace change around here?</p>
+
 <p>The <a href="http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1">stand-up in the
 Med</a> that presaged
-the famous Snowbird meeting was where <em>Extreme</em> became <em>Agile</em>.  That was
+the famous Snowbird meeting was where <em>Extreme</em> really became <em>Agile</em>.  That was
 the beauty of it. Nothing was sacred and there was no need to pay our respect
 to any great names. We were conspirators and it was a revolution.</p>
-
-<p>If there were no Agile now we would just go and invent it again this way.
-What was really great about those early days of the Alliance was there
-was no one whose ring needed kissing and change could happen <em>fast</em>.</p>
-
-<p>So how is it that here in 2014 the Manifesto hasn&rsquo;t changed since 2001?  There
-are conferences every year; have we learned nothing in all this time? Seeing
-the Manifesto as some historical document like the Declaration of Independence
-just doesn&rsquo;t seem very &hellip; Agile.</p>
 
 <!-- more -->
 
 
+<p>If  were no Agile today we would just go and invent it again this way.
+What was really great about those early days of the Alliance was there
+was no one whose ring needed kissing. So change could happen <em>fast</em>.</p>
+
 <p>We all know the <a href="http://agilemanifesto.org/background.jpg">Agle Last Supper
 picture</a>. The truth is there are
 lots of agilists these days with more experience than the Snowbird guys had
-back then. In the 20th century we&rsquo;d have cruised over to Ward&rsquo;s Wiki &ndash; when it
+then.</p>
+
+<p>In the 20th century we&rsquo;d have cruised over to Ward&rsquo;s Wiki &ndash; when it
 was the only wiki &ndash; to share what we were learning in the
 <a href="http://www.c2.com/cgi/wiki?WikiNow">WikiNow</a>, that gestalt mind almost but
-not entirely unlike Wikipedia. And the Manifesto would have kept evolving.</p>
+not entirely unlike Wikipedia. And the Manifesto would have kept evolving.
+What happened to that open Agile community?</p>
 
-<p>What happened to that first open Agile community? Believe it or not there was
+<p>Believe it or not there was
 actually a guy who spent the first decade of the 21st century <a href="http://www.c2.com/cgi/wiki?GrammarVandal">correcting
 grammar</a> on C2. Correcting it
 <strong>wrong</strong>. He wasn&rsquo;t alone; there were lots of trolls. Strenuous efforts were
-made to salvage C2 but it was in vain, because when the trolls moved in the
+made to salvage C2 but in vain, because when the trolls moved in the
 community moved on.</p>
 
-<p>Likewise some of the original Alliance members seem less interested in
-evolving Agile in the open and more interested in <a href="https://www.youtube.com/watch?v=nsdZKCh6RsU">playing police and wearing
+<p>Similarly some of the original Alliance members seem less interested in
+evolving Agile in the open and more interested in <a href="https://www.youtube.com/watch?v=nsdZKCh6RsU">wearing laurels and
 badges</a>. There are new players
-acting like <em>federales</em> too, and the badge business seems to be booming.</p>
+acting like <em>federales</em> too, and their badge business seems to be booming.</p>
 
 <h2>What TNG?</h2>
 
 <p>Agile was never about badges. It&rsquo;s about productive teams and their practice
 patterns, using peer protocols to self-organise and metric feedback to guide
-their evolution. The original Manifesto values are still relevant and
-valuable, but that doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted the
+their evolution. The original Manifesto values are as relevant as ever,
+but that doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted the
 same way the original open community did. <strong>A:TNG</strong> is for that.</p>
 
-<p>To advance the state of the Agile art we will discover, refactor and evolve
-Agile patterns together in a <a href="http://meatballwiki.org/wiki/NonZeroSumGame">Positive Sum
+<p>To advance the state of the Agile art we are uncovering, refactoring and
+evolving Agile patterns together in a <a href="http://meatballwiki.org/wiki/NonZeroSumGame">Positive Sum
 Game</a>. Everyone can play. It
 doesn&rsquo;t matter whether or not you&rsquo;ve written a book, earned a badge or
 attended some ancient standup. It only matters that you&rsquo;ve got relevant
-experience and useful ideas to contribute.</p>
+experience and ideas to contribute.</p>
 
 <h2>How TNG?</h2>
 

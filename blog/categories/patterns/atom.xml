@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Patterns | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/blog/categories/patterns/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T16:08:53+11:00</updated>
+  <updated>2014-03-12T16:33:20+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[OAPL: An Open Agile Pattern Language]]></title>
-    <link href="http://Agile-TNG.github.io/blog/2014/03/11/oapl-the-open-agile-pattern-language/"/>
-    <updated>2014-03-11T18:02:45+11:00</updated>
-    <id>http://Agile-TNG.github.io/blog/2014/03/11/oapl-the-open-agile-pattern-language</id>
+    <link href="http://Agile-TNG.github.io/blog/2014/03/09/oapl-the-open-agile-pattern-language/"/>
+    <updated>2014-03-09T18:02:45+11:00</updated>
+    <id>http://Agile-TNG.github.io/blog/2014/03/09/oapl-the-open-agile-pattern-language</id>
     <content type="html"><![CDATA[<p>A key activity within A:TNG is the construction of an open pattern language to
 inter-relate learnings drawn from the various frameworks with the experience
 of our practitioners.  The history of Agile is intertwined with the Design

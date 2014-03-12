@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mission | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/blog/categories/mission/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T19:21:13+11:00</updated>
+  <updated>2014-03-12T19:28:16+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -248,10 +248,8 @@ critical Agile process of
 <p>It is unfortunately commmonplace, even in teams that have most of the other
 Agile fundamentals nailed down, that refactoring is either unknown or
 neglected during times of stress. Of course the less refactoring, the more
-frequent those times. This is also true of the structure and process of whole
-organizations.</p>
-
-<p>For this reason we call <em>Not Refactoring</em> an Enterprise Smell.</p>
+frequent those times. The same may be true of whole organizations, and
+for this reason we regard <em>Not Refactoring</em> an Enterprise Smell.</p>
 
 <h2>Enterprise Smells &amp; Enterprise Refactorings</h2>
 

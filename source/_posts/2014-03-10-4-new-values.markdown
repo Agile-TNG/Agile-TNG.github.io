@@ -3,7 +3,9 @@ layout: post
 title: "The New Values"
 date: 2014-03-10 09:43:28 +1100
 comments: true
-categories: values
+categories: 
+- Values
+- Mission
 ---
 
 A:TNG adds four values Agile needs at enterprise
@@ -16,7 +18,7 @@ scale over the original manifesto:
 
 That is, while there is value in the items on the right, we value the
 items on the left more. And while there is value in the Manifesto values,
-we value these values equally.
+we value these TNG values equally.
 <!-- more -->
 
 Agile started with XP on the [C2

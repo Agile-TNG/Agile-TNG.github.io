@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Meta | Agile: The Next Generation]]></title>
+  <link href="http://Agile-TNG.github.io/blog/categories/meta/atom.xml" rel="self"/>
+  <link href="http://Agile-TNG.github.io/"/>
+  <updated>2014-03-12T16:08:53+11:00</updated>
+  <id>http://Agile-TNG.github.io/</id>
+  <author>
+    <name><![CDATA[A:TNG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why What How]]></title>
+    <link href="http://Agile-TNG.github.io/blog/2014/03/09/why-what-how/"/>
+    <updated>2014-03-09T22:59:46+11:00</updated>
+    <id>http://Agile-TNG.github.io/blog/2014/03/09/why-what-how</id>
+    <content type="html"><![CDATA[<p>Why is it that the Agile Manifesto hasn&rsquo;t changed since 2001?  There
+are conferences every year. Have we learned nothing in all that time? Seeing
+the Manifesto as some historical document like the Declaration of Independence
+doesn&rsquo;t seem very Agile. Don&rsquo;t we embrace change around here?</p>
+
+<p>The <a href="http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1">stand-up in the
+Med</a> that presaged
+the famous Snowbird meeting was where <em>Extreme</em> became <em>Agile</em>.  That was
+the beauty of it. Nothing was sacred and there was no need to pay our respect
+to any great names. We were conspirators and it was a revolution.</p>
+
+<!-- more -->
+
+
+<h2>Why TNG?</h2>
+
+<p>If  were no Agile today we would just go and invent it again this way.
+What was really great about those early days of the Alliance was there
+was no one whose ring needed kissing. So change could happen <em>fast</em>.</p>
+
+<p>We all know the <a href="http://agilemanifesto.org/background.jpg">Agle Last Supper
+picture</a>. The truth is there are
+lots of agilists these days with more experience than the Snowbird guys had
+then.  In the 20th century we&rsquo;d have cruised over to Ward&rsquo;s Wiki &ndash; when it was
+the only wiki &ndash; to share what we were learning in the
+<a href="http://www.c2.com/cgi/wiki?WikiNow">WikiNow</a>, that gestalt mind almost but
+not entirely unlike Wikipedia. And the Manifesto would have kept evolving.
+What happened to the original open community that gave us Agile?</p>
+
+<p>Believe it or not there was
+actually a guy who spent the first decade of the 21st century <a href="http://www.c2.com/cgi/wiki?GrammarVandal">correcting
+grammar</a> on C2. Correcting it
+<strong>wrong</strong>. He wasn&rsquo;t alone; there were lots of trolls. Strenuous efforts were
+made to salvage C2 but in vain, because when the trolls moved in the
+community moved on.</p>
+
+<p>Similarly some of the original Alliance members seem less interested in
+evolving the state of the Agile art and more interested in <a href="https://www.youtube.com/watch?v=nsdZKCh6RsU">handing out
+badges</a>. There are some new
+players acting like <em>federales</em> too, and these badge businesses seem to be
+booming.</p>
+
+<h2>What TNG?</h2>
+
+<p>Agile was never about badges. It&rsquo;s about productive teams and their practice
+patterns, using peer protocols to self-organise and metric feedback to guide
+their evolution. The original Manifesto values are as relevant as ever,
+but that doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted the
+same way the original open community did. <strong>A:TNG</strong> is for that.</p>
+
+<p>To advance the state of the Agile art we are uncovering, refactoring and
+evolving Agile patterns together in a <a href="http://meatballwiki.org/wiki/NonZeroSumGame">Positive Sum
+Game</a>. Everyone can play. It
+doesn&rsquo;t matter whether or not you&rsquo;ve written a book, earned a badge or
+attended some ancient standup. It only matters that you&rsquo;ve got relevant
+experience and ideas to contribute.</p>
+
+<h2>How TNG?</h2>
+
+<p>Consensus generation was the most valuable thing about Ward&rsquo;s Wiki.
+Individuals and interactions in open collaboration generated lots of mutually
+agreeable content. We might want this old time open Agile back and never mind
+trolls and sheriffs &ndash; but how?</p>
+
+<p>A wiki is basically an open version control system wedded to a content editor.
+Most are centralized, which means you can only have one current version of
+a wiki page at any one time. That&rsquo;s where trolls and sherrifs come from.</p>
+
+<p>On github we have a decentralized VCS as our basis for consensus
+decisions. TNG will use this new technology as its way of self-organising. If
+any trolls turn up we simply don&rsquo;t need to pull from them. And no more trolls
+means no sheriffs.</p>
+
+<p>We could get an <a href="http://www.c2.com/cgi/wiki?AgileParliament">Agile Parliament</a>
+going. Treaty proposals as pull requests … that would take some doing. Needs
+trial and error, but that’s what we’re here for. To advance the state of our
+Agile art.</p>
+
+<p>We&rsquo;ve got lots of basics to cover to give TNG such a form: pick a license, put
+up an initial community charter, kick the Parliament pattern around, figure
+out how to collaborate on the framing content here, figure out a decenralized
+authoring workflow and send out enough invitations to get our kernel community
+moving.</p>
+
+<p>It&rsquo;s like, when we were kids, we had sea monkeys. The instructions said to add
+the sachet to the water and next morning it&rsquo;d be full of little people.
+That&rsquo;s our system metaphor for this. Except maybe I&rsquo;m the brine shrimp and
+you&rsquo;re the kid wondering when we&rsquo;ll start to look like the picture on the
+packet.</p>
+
+<p>Let&rsquo;s get stuck in. Star and fork the repo. Help figure the
+protocol out. That ol' <a href="http://www.c2.com/cgi/wiki?WikiNature">WikiNature</a>
+will kick in real soon &hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>

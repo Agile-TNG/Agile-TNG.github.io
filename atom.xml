@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T21:32:01+11:00</updated>
+  <updated>2014-03-12T21:35:05+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -235,18 +235,17 @@ identify a short list of design problems they call &ldquo;code smells&rdquo;. Th
 smells are not bugs &ndash; the code still works &ndash; but a form of design pollution
 that makes bugs more likely to occur, and fixing bugs more difficult.</p>
 
-<p>Code smells are often caused by taking shortcuts to get things to work while
-under time pressure, and as such they&rsquo;re part of the Agile process. Beck and
-Fowler emphasize that it&rsquo;s not the smells themselves that constitute
-Anti-Patterns, but a lack of systematic remediation of them through the
-critical Agile process of
+<p>Code smells are often caused by taking shortcuts to get things to work.  As
+such they&rsquo;re part of the Agile process. So Beck and Fowler emphasize that it&rsquo;s
+not the smells themselves that constitute Anti-Patterns, but a lack of
+systematic remediation of them through the critical Agile process of
 <a href="http://c2.com/cgi-bin/wiki?RefactorMercilessly">refactoring</a>.</p>
 
 <p>It is unfortunately commmonplace, even in teams that have most of the other
-Agile fundamentals nailed down, that refactoring is either unknown or
-neglected during times of stress. Of course the less refactoring, the more
-frequent those times. The same may be true of whole organizations, and
-for this reason we regard <em>Not Refactoring</em> an Enterprise Smell.</p>
+Agile fundamentals nailed down, to find that refactoring is neglected during
+times of stress. Of course the less refactoring, the more frequent those
+times. The same vicious cycle may occur at the scale of whole organizations,
+and so we regard <em>Not Refactoring</em> an Enterprise Smell.</p>
 
 <h2>Enterprise Smells &amp; Enterprise Refactorings</h2>
 

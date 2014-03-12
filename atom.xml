@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T21:38:58+11:00</updated>
+  <updated>2014-03-12T21:44:00+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -294,13 +294,11 @@ but as a dangerous cult leader. Counsellors explain the key factors in making
 decisions; they don&rsquo;t describe the one true path.</p>
 
 <p>It is also reasonable for newcomers to Agile to adopt all the patterns from a
-specific framework as a whole. This is why we say the frameworks have value.
-As Alistair Cockburn pointed out in his treatment of
-<a href="http://alistair.cockburn.us/Shu+Ha+Ri">Shu-Ha-Ri</a>, an Agile beginner at the
-Shu level should not be afraid to follow a framework slavishly because the
-value of the framework is in the interlocking relationship between its
-elements. That value can&rsquo;t be obtained unless all the framework&rsquo;s elements are
-pieced together.</p>
+specific framework as their first objective.  As Alistair Cockburn pointed out
+in his treatment of <a href="http://alistair.cockburn.us/Shu+Ha+Ri">Shu-Ha-Ri</a>, an
+Agile beginner at the Shu level is best advised to follow a single framework
+slavishly because that&rsquo;s the only way to experience the behaviour of its
+interlocking elements. This is why we say these frameworks have value.</p>
 
 <p>While a framework forms a good starting point for practice, over time the
 student develops sufficient understanding of the way the framework applies in

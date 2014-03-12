@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T21:31:15+11:00</updated>
+  <updated>2014-03-12T21:32:01+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -227,7 +227,7 @@ studies in related domains, and thereby informed choices can be made.</li>
 solution that fails to solve the problem it was intended to solve, or which
 generates more problems.  You may think of anti-patterns as categories of bad
 ideas, but another class of them has to do with short term thinking at the
-expense of long term goals. This class is rather more commonplace than
+expense of long term goals. This is rather more commonplace than the
 conscious bad choices.</p>
 
 <p>In particular in Martin Fowler&rsquo;s book, &ldquo;Refactoring&rdquo;, he and Kent Beck

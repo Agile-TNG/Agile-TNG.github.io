@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T21:29:54+11:00</updated>
+  <updated>2014-03-12T21:31:15+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -214,10 +214,10 @@ Furthermore,</p>
 <ul>
 <li>patterns can be adapted and refactored to suit specific domains without
 adopting the pattern language as a whole</li>
-<li>they enable a process of adaptive design whereby patterns can by trialled,
-added and substracted iteratively as forces in their domain are experienced</li>
+<li>patterns enable a process of adaptive design whereby each can by trialled,
+added and substracted iteratively as forces in the domain are experienced</li>
 <li>the efficacy of alternative patterns can be determined by comparative
-studies in related domains</li>
+studies in related domains, and thereby informed choices can be made.</li>
 </ul>
 
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Patterns | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/blog/categories/patterns/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-12T21:35:05+11:00</updated>
+  <updated>2014-03-12T21:35:45+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -89,7 +89,7 @@ systematic remediation of them through the critical Agile process of
 Agile fundamentals nailed down, to find that refactoring is neglected during
 times of stress. Of course the less refactoring, the more frequent those
 times. The same vicious cycle may occur at the scale of whole organizations,
-and so we regard <em>Not Refactoring</em> an Enterprise Smell.</p>
+and so we regard <em>Not Refactoring</em> an &ldquo;Enterprise Smell&rdquo;.</p>
 
 <h2>Enterprise Smells &amp; Enterprise Refactorings</h2>
 

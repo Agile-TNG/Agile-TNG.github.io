@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why What How"
-date: 2014-03-09 22:59:46 +1100
+date: 2014-03-11 22:59:46 +1100
 comments: true
 categories: 
 - Meta
@@ -9,15 +9,14 @@ categories:
 ---
 Why is it that the Agile Manifesto hasn't changed since 2001?  There
 are conferences every year. Have we learned nothing in all that time? Seeing
-the Manifesto as some historical document like the Declaration of Independence
+the Manifesto as a historical document like the Declaration of Independence
 doesn't seem very Agile. Don't we embrace change around here?
 
 The [stand-up in the
 Med](http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1) that presaged
-the famous Snowbird meeting was where _Extreme_ became _Agile_.  That was
-the beauty of it. Nothing was sacred and there was no need to pay our respect
-to any great names. We were conspirators and it was a revolution. 
-<!-- more -->
+the famous Snowbird meeting was where _Extreme_ became _Agile_. Nothing was
+sacred and there was no need to pay respect to any great names. That was the
+beauty of it. We were conspirators and it was a revolution.  <!-- more -->
 
 ## Why TNG?
 

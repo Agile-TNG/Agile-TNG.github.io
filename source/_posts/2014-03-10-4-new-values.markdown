@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The New Values"
+title: "A:TNG Values"
 date: 2014-03-10 09:43:28 +1100
 comments: true
 categories: 
@@ -8,17 +8,16 @@ categories:
 - Mission
 ---
 
-A:TNG adds four values Agile needs at enterprise
-scale over the original manifesto:
+By working at enterprise scale and helping others do so we have come to value:
 
 * **Pattern languages over prescriptive frameworks**  
 * **Productive teams over certified individuals**  
 * **Metric feedback over command & control**  
 * **Consensus protocols over management hierarchies**  
 
-That is, while there is value in the items on the right, we value the
-items on the left more. And while there is value in the Manifesto values,
-we value these TNG values equally.
+That is, while there is value in the items on the right, we value the items on
+the left more. And while we honor the original Manifesto values, we honor these
+values equally.
 <!-- more -->
 
 Agile started with XP on the [C2

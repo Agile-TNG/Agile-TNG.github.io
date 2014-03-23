@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Patterns | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/blog/categories/patterns/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-21T10:45:16+11:00</updated>
+  <updated>2014-03-23T17:09:36+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -15,21 +15,26 @@
   
   <entry>
     <title type="html"><![CDATA[OAPL: An Open Agile Pattern Language]]></title>
-    <link href="http://Agile-TNG.github.io/blog/2014/03/09/oapl-the-open-agile-pattern-language/"/>
+    <link href="http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/"/>
     <updated>2014-03-09T18:02:45+11:00</updated>
-    <id>http://Agile-TNG.github.io/blog/2014/03/09/oapl-the-open-agile-pattern-language</id>
-    <content type="html"><![CDATA[<p>The history of Agile is intertwined with the Design Patterns movement. The
-first XP book was framed as a pattern language and while Scrum started as a
-framework it is now <a href="http://www.scrumplop.org">reformulating as a pattern
-language</a>.</p>
+    <id>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language</id>
+    <content type="html"><![CDATA[<p><img src="/images/oapl300.png"></p>
 
 <p>A key activity within A:TNG is organizing an open pattern language to relate
 learnings from Agile frameworks to the experiences of our practitioners.
 What advantage can this pattern language offer over the original
 frameworks? What benefit in a culture where practitioners already have Agile
-certificates? Why is this a big deal for TNG?  <!-- more --></p>
+certificates? Why is this a big deal for TNG?</p>
+
+<!-- more -->
+
 
 <h2>Pattern Language</h2>
+
+<p>The history of Agile is intertwined with the Design Patterns movement. The
+first XP book was framed as a pattern language and while Scrum started as a
+framework it is now <a href="http://www.scrumplop.org">reformulating as a pattern
+language</a>.</p>
 
 <p>Design patterns started with the great 20th century architect Chris Alexander.
 Alexander described them this way: <em>Each pattern describes a problem which

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mission | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/blog/categories/mission/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-21T10:45:16+11:00</updated>
+  <updated>2014-03-23T17:09:36+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -14,61 +14,68 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Why What How]]></title>
-    <link href="http://Agile-TNG.github.io/blog/2014/03/11/why-what-how/"/>
+    <title type="html"><![CDATA[Agile: First Contact]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/11/why-what-how/"/>
     <updated>2014-03-11T22:59:46+11:00</updated>
-    <id>http://Agile-TNG.github.io/blog/2014/03/11/why-what-how</id>
-    <content type="html"><![CDATA[<p>Why is it that the Agile Manifesto hasn&rsquo;t changed since 2001?  There
-are conferences every year. Have we learned nothing in all that time? Seeing
-the Manifesto as a historical document like the Declaration of Independence
-doesn&rsquo;t seem very Agile. Don&rsquo;t we embrace change around here?</p>
+    <id>http://Agile-TNG.github.io/2014/03/11/why-what-how</id>
+    <content type="html"><![CDATA[<p>The <a href="http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1">first Alliance
+meeting</a> preceded
+the famous Snowbird session by almost a year. Sardinia was where <em>Extreme</em>
+became <em>Agile</em>. We don&rsquo;t agree on who said it first. It just happened.
+Nothing was sacred and no one&rsquo;s ring needed kissing. We were conspirators and
+this was a revolution.</p>
 
-<p>The <a href="http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1">stand-up in the
-Med</a> that presaged
-the famous Snowbird meeting was where <em>Extreme</em> became <em>Agile</em>. Nothing was
-sacred and there was no need to pay respect to any great names. That was the
-beauty of it. We were conspirators and it was a revolution.  <!-- more --></p>
+<p><img src="/images/Agile-Alliance-XP2K.png"></p>
+
+<!-- more -->
+
 
 <h2>Why TNG?</h2>
 
-<p>If  were no Agile today we would just go and invent it again this way.
-What was really great about those early days of the Alliance was there
-was no one whose ring needed kissing. So change could happen <em>fast</em>.</p>
+<p>If there were no Agile today we would just invent it all over again, but we
+probably wouldn&rsquo;t do it the same way. The Agile Manifesto hasn&rsquo;t changed since
+2001. We&rsquo;ve learned a few things since then.</p>
 
-<p>We all know the <a href="http://agilemanifesto.org/background.jpg">Agle Last Supper
-picture</a>. The truth is there are
-lots of agilists these days with more experience than the Snowbird guys had
-then.  In the 20th century we&rsquo;d have cruised over to Ward&rsquo;s Wiki &ndash; when it was
-the only wiki &ndash; to share what we were learning in the
+<p>Everyone&rsquo;s seen the <a href="http://agilemanifesto.org/background.jpg">Agle Last
+Supper</a> picture. With its beautiful
+lighting the guys look a lot more credible than half-naked at that first
+standup in the Med. Like some kind of saints. But the Mediterranean picture
+has more truth. Fallible fellows trying to figure out something bigger than all
+of them.</p>
+
+<p>Iconography is important but of course we have lots of agilists these days with
+more Agile experience than the Alliance had then. In the 20th century
+we&rsquo;d all have cruised over to Ward&rsquo;s Wiki &ndash; when it was the only wiki &ndash; to
+share what we&rsquo;re learning in the
 <a href="http://www.c2.com/cgi/wiki?WikiNow">WikiNow</a>, that gestalt mind almost but
-not entirely unlike Wikipedia. And the Manifesto would have kept evolving.
-What happened to the original open community that gave us Agile?</p>
+not entirely unlike Wikipedia. And the Manifesto would have kept evolving.</p>
 
-<p>Believe it or not there was
-actually a guy who spent the first decade of the 21st century <a href="http://www.c2.com/cgi/wiki?GrammarVandal">correcting
-grammar</a> on C2. Correcting it
-<strong>wrong</strong>. He wasn&rsquo;t alone; there were lots of trolls. Strenuous efforts were
-made to salvage C2 but in vain, because when the trolls moved in the
-community moved on.</p>
+<p>What happened to the original open community that gave us Agile?  Believe it
+or not there was actually a guy who spent the first decade of the 21st century
+<a href="http://www.c2.com/cgi/wiki?GrammarVandal">correcting grammar</a> on C2.
+Correcting it <em>wrong</em>. He wasn&rsquo;t alone; there were lots of trolls. Strenuous
+efforts were made to salvage C2, but in vain, because when the trolls moved in
+the community moved on.</p>
 
-<p>Similarly some of the original Alliance members seem less interested in
-evolving the state of the Agile art and more interested in <a href="https://www.youtube.com/watch?v=nsdZKCh6RsU">handing out
-badges</a>. There are some new
-players acting like <em>federales</em> too, and these badge businesses seem to be
-booming.</p>
+<p>Also some of the original Alliance members became less interested in evolving
+the state of the Agile art and more interested in <a href="https://www.youtube.com/watch?v=nsdZKCh6RsU">selling
+badges</a>. There seemed no harm in
+that at first, but with new players getting in on the action and the
+certification businesses booming, it&rsquo;s the opposite of the open spirit of the
+Alliance.</p>
 
 <h2>What TNG?</h2>
 
-<p>Agile was never about badges. It&rsquo;s about productive teams and their practice
-patterns, using peer protocols to self-organise and metric feedback to guide
-their evolution. The original Manifesto values are as relevant as ever,
-but that doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted the
-same way the original open community did. <strong>A:TNG</strong> is for that.</p>
+<p>Agile is about productive teams and their practice patterns, using peer
+protocols to self-organise and metric feedback to guide their evolution. Not
+badges. The original Manifesto values are as relevant as ever, but that
+doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted over time the same way
+the original open community did. <strong>A:TNG</strong> is for that.</p>
 
 <p>To advance the state of the Agile art we are uncovering, refactoring and
 evolving Agile patterns together in a <a href="http://meatballwiki.org/wiki/NonZeroSumGame">Positive Sum
 Game</a>. Everyone can play. It
-doesn&rsquo;t matter whether or not you&rsquo;ve written a book, earned a badge or
+doesn&rsquo;t matter whether or not you&rsquo;ve written a book, earned a certificate or
 attended some ancient standup. It only matters that you&rsquo;ve got relevant
 experience and ideas to contribute.</p>
 
@@ -105,7 +112,7 @@ That&rsquo;s our system metaphor for this. Except maybe I&rsquo;m the brine shri
 you&rsquo;re the kid wondering when we&rsquo;ll start to look like the picture on the
 packet.</p>
 
-<p>Let&rsquo;s get stuck in. Star and fork the repo. Help figure the
+<p>Let&rsquo;s get stuck in. Fork the repo. Help figure the
 protocol out. That ol' <a href="http://www.c2.com/cgi/wiki?WikiNature">WikiNature</a>
 will kick in real soon &hellip;</p>
 ]]></content>
@@ -113,15 +120,15 @@ will kick in real soon &hellip;</p>
   
   <entry>
     <title type="html"><![CDATA[A:TNG Values]]></title>
-    <link href="http://Agile-TNG.github.io/blog/2014/03/10/4-new-values/"/>
+    <link href="http://Agile-TNG.github.io/2014/03/10/4-new-values/"/>
     <updated>2014-03-10T09:43:28+11:00</updated>
-    <id>http://Agile-TNG.github.io/blog/2014/03/10/4-new-values</id>
-    <content type="html"><![CDATA[<p>By working at enterprise scale and helping others do so we have come to value:</p>
+    <id>http://Agile-TNG.github.io/2014/03/10/4-new-values</id>
+    <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
 
 <ul>
-<li><strong>Adaptive patterns over prescriptive frameworks</strong></li>
+<li><strong>Pattern languages over fixed frameworks</strong></li>
 <li><strong>Productive teams over certified authorities</strong></li>
-<li><strong>Metric feedback over empowered intuition</strong></li>
+<li><strong>Metric feedback over empowered insights</strong></li>
 <li><strong>Consensus protocols over accountable hierarchies</strong></li>
 </ul>
 
@@ -170,21 +177,26 @@ into the open where we can really sort out what works with what.</p>
   
   <entry>
     <title type="html"><![CDATA[OAPL: An Open Agile Pattern Language]]></title>
-    <link href="http://Agile-TNG.github.io/blog/2014/03/09/oapl-the-open-agile-pattern-language/"/>
+    <link href="http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/"/>
     <updated>2014-03-09T18:02:45+11:00</updated>
-    <id>http://Agile-TNG.github.io/blog/2014/03/09/oapl-the-open-agile-pattern-language</id>
-    <content type="html"><![CDATA[<p>The history of Agile is intertwined with the Design Patterns movement. The
-first XP book was framed as a pattern language and while Scrum started as a
-framework it is now <a href="http://www.scrumplop.org">reformulating as a pattern
-language</a>.</p>
+    <id>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language</id>
+    <content type="html"><![CDATA[<p><img src="/images/oapl300.png"></p>
 
 <p>A key activity within A:TNG is organizing an open pattern language to relate
 learnings from Agile frameworks to the experiences of our practitioners.
 What advantage can this pattern language offer over the original
 frameworks? What benefit in a culture where practitioners already have Agile
-certificates? Why is this a big deal for TNG?  <!-- more --></p>
+certificates? Why is this a big deal for TNG?</p>
+
+<!-- more -->
+
 
 <h2>Pattern Language</h2>
+
+<p>The history of Agile is intertwined with the Design Patterns movement. The
+first XP book was framed as a pattern language and while Scrum started as a
+framework it is now <a href="http://www.scrumplop.org">reformulating as a pattern
+language</a>.</p>
 
 <p>Design patterns started with the great 20th century architect Chris Alexander.
 Alexander described them this way: <em>Each pattern describes a problem which

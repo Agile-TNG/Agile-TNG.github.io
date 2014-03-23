@@ -16,14 +16,12 @@ background-image: url('../images/xp2k.png');
 
 #bannerText {
 line-height: 90%;
-font-size: 4.1em;
-
+font-size: 4.8em;
 display:inline-block;
-font-family: 'Nova Flat', sans-serif;
-font-weight: bold;
+font-family: 'Nova Square', sans-serif;
 font-style: italic;
-
-color: #fff;
+font-weight: bold;
+color: white;
 text-shadow: 0px 4px 4px brown;
 text-align: center;
 width: 100%;
@@ -32,10 +30,12 @@ width: 100%;
 #cursive {
 display:inline-block;
 font-weight: normal;
+font-style: normal;
 text-shadow: 0px 4px 4px brown;
 color: white;
 font-size: 0.5em;
-font-family: 'Nova Flat', cursive;
+font-family: 'Ubuntu', cursive;
+font-style: italic;
 }
 
 .scene {

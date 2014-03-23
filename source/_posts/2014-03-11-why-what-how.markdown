@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why What How"
+title: "Agile: First Contact"
 date: 2014-03-11 22:59:46 +1100
 comments: true
 author: Peter Merel
@@ -9,12 +9,12 @@ categories:
 - Mission
 ---
 
-The [1st Agile Alliance
+The [first Alliance
 meeting](http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1) preceded
 the famous Snowbird session by almost a year. Sardinia was where _Extreme_
-actually became _Agile_. We didn't plan it. It just happened. Nothing was
-sacred and no one's ring got kissed, but we were conspirators and this was
-a revolution.  
+became _Agile_. We don't agree on who said it first. It just happened.
+Nothing was sacred and no one's ring needed kissing. We were conspirators and
+this was a revolution.  
 
 {% img /images/Agile-Alliance-XP2K.png %}
 
@@ -50,9 +50,9 @@ the community moved on.
 Also some of the original Alliance members became less interested in evolving
 the state of the Agile art and more interested in [selling
 badges](https://www.youtube.com/watch?v=nsdZKCh6RsU). There seemed no harm in
-that at first, but with new players getting in on the action and
-the badge businesses booming, it seems like the opposite of
-the open spirit of the Alliance. 
+that at first, but with new players getting in on the action and the
+certification businesses booming, it's the opposite of the open spirit of the
+Alliance. 
 
 ## What TNG?
 

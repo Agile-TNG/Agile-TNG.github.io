@@ -22,6 +22,9 @@ layout: nil
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
+    {% for category in post.categories %}
+      <category scheme="{{ site.url }}/categories/" term="{{ category | replace: ' ','-' | downcase }}" />
+    {% endfor %}
   </entry>
   {% endfor %}
 </feed>

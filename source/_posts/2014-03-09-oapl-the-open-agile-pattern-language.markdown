@@ -8,18 +8,22 @@ categories:
 - Patterns
 ---
 
-The history of Agile is intertwined with the Design Patterns movement. The
-first XP book was framed as a pattern language and while Scrum started as a
-framework it is now [reformulating as a pattern
-language](http://www.scrumplop.org).
+{% img /images/oapl300.png %}
 
 A key activity within A:TNG is organizing an open pattern language to relate
 learnings from Agile frameworks to the experiences of our practitioners.
 What advantage can this pattern language offer over the original
 frameworks? What benefit in a culture where practitioners already have Agile
-certificates? Why is this a big deal for TNG?  <!-- more -->
+certificates? Why is this a big deal for TNG?  
+
+<!-- more -->
 
 ## Pattern Language
+
+The history of Agile is intertwined with the Design Patterns movement. The
+first XP book was framed as a pattern language and while Scrum started as a
+framework it is now [reformulating as a pattern
+language](http://www.scrumplop.org).
 
 Design patterns started with the great 20th century architect Chris Alexander.
 Alexander described them this way: _Each pattern describes a problem which

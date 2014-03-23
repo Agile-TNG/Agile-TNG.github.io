@@ -8,12 +8,12 @@ categories:
 - Mission
 ---
 
-By working at enterprise scale and helping others do so we have come to value:
+By working Agile and helping others do so we have come to value:
 
-* **Pattern languages over prescriptive frameworks**  
-* **Productive teams over certified individuals**  
-* **Metric feedback over command & control**  
-* **Consensus protocols over management hierarchies**  
+* **Pattern languages over fixed frameworks**  
+* **Productive teams over certified authorities**  
+* **Metric feedback over empowered insights**  
+* **Consensus protocols over accountable hierarchies**  
 
 That is, while there is value in the items on the right, we value the items on
 the left more. And while we honor the original Manifesto values, we honor these

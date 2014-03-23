@@ -3,61 +3,69 @@ layout: post
 title: "Why What How"
 date: 2014-03-11 22:59:46 +1100
 comments: true
+author: Peter Merel
 categories: 
 - Meta
 - Mission
 ---
-Why is it that the Agile Manifesto hasn't changed since 2001?  There
-are conferences every year. Have we learned nothing in all that time? Seeing
-the Manifesto as a historical document like the Declaration of Independence
-doesn't seem very Agile. Don't we embrace change around here?
 
-The [stand-up in the
-Med](http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1) that presaged
-the famous Snowbird meeting was where _Extreme_ became _Agile_. Nothing was
-sacred and there was no need to pay respect to any great names. That was the
-beauty of it. We were conspirators and it was a revolution.  <!-- more -->
+The [1st Agile Alliance
+meeting](http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1) preceded
+the famous Snowbird session by almost a year. Sardinia was where _Extreme_
+actually became _Agile_. We didn't plan it. It just happened. Nothing was
+sacred and no one's ring got kissed, but we were conspirators and this was
+a revolution.  
+
+{% img /images/Agile-Alliance-XP2K.png %}
+
+<!-- more -->
 
 ## Why TNG?
 
-If  were no Agile today we would just go and invent it again this way. 
-What was really great about those early days of the Alliance was there
-was no one whose ring needed kissing. So change could happen _fast_. 
+If there were no Agile today we would just invent it all over again, but we
+probably wouldn't do it the same way. The Agile Manifesto hasn't changed since
+2001. We've learned a few things since then. 
 
-We all know the [Agle Last Supper
-picture](http://agilemanifesto.org/background.jpg). The truth is there are
-lots of agilists these days with more experience than the Snowbird guys had
-then.  In the 20th century we'd have cruised over to Ward's Wiki - when it was
-the only wiki - to share what we were learning in the
+Everyone's seen the [Agle Last
+Supper](http://agilemanifesto.org/background.jpg) picture. With its beautiful
+lighting the guys look a lot more credible than half-naked at that first
+standup in the Med. Like some kind of saints. But the Mediterranean picture
+has more truth. Fallible fellows trying to figure out something bigger than all
+of them.
+
+Iconography is important but of course we have lots of agilists these days with
+more Agile experience than the Alliance had then. In the 20th century
+we'd all have cruised over to Ward's Wiki - when it was the only wiki - to
+share what we're learning in the
 [WikiNow](http://www.c2.com/cgi/wiki?WikiNow), that gestalt mind almost but
 not entirely unlike Wikipedia. And the Manifesto would have kept evolving.
-What happened to the original open community that gave us Agile? 
 
-Believe it or not there was
-actually a guy who spent the first decade of the 21st century [correcting
-grammar](http://www.c2.com/cgi/wiki?GrammarVandal) on C2. Correcting it
-**wrong**. He wasn't alone; there were lots of trolls. Strenuous efforts were
-made to salvage C2 but in vain, because when the trolls moved in the
-community moved on. 
+What happened to the original open community that gave us Agile?  Believe it
+or not there was actually a guy who spent the first decade of the 21st century
+[correcting grammar](http://www.c2.com/cgi/wiki?GrammarVandal) on C2.
+Correcting it _wrong_. He wasn't alone; there were lots of trolls. Strenuous
+efforts were made to salvage C2, but in vain, because when the trolls moved in
+the community moved on. 
 
-Similarly some of the original Alliance members seem less interested in
-evolving the state of the Agile art and more interested in [handing out
-badges](https://www.youtube.com/watch?v=nsdZKCh6RsU). There are some new
-players acting like _federales_ too, and these badge businesses seem to be
-booming. 
+Also some of the original Alliance members became less interested in evolving
+the state of the Agile art and more interested in [selling
+badges](https://www.youtube.com/watch?v=nsdZKCh6RsU). There seemed no harm in
+that at first, but with new players getting in on the action and
+the badge businesses booming, it seems like the opposite of
+the open spirit of the Alliance. 
 
 ## What TNG?
 
-Agile was never about badges. It's about productive teams and their practice
-patterns, using peer protocols to self-organise and metric feedback to guide
-their evolution. The original Manifesto values are as relevant as ever,
-but that doesn't mean they shouldn't be refactored and adapted the
-same way the original open community did. **A:TNG** is for that.
+Agile is about productive teams and their practice patterns, using peer
+protocols to self-organise and metric feedback to guide their evolution. Not
+badges. The original Manifesto values are as relevant as ever, but that
+doesn't mean they shouldn't be refactored and adapted over time the same way
+the original open community did. **A:TNG** is for that.
 
 To advance the state of the Agile art we are uncovering, refactoring and
 evolving Agile patterns together in a [Positive Sum
 Game](http://meatballwiki.org/wiki/NonZeroSumGame). Everyone can play. It
-doesn't matter whether or not you've written a book, earned a badge or
+doesn't matter whether or not you've written a book, earned a certificate or
 attended some ancient standup. It only matters that you've got relevant
 experience and ideas to contribute.
 
@@ -94,7 +102,7 @@ That's our system metaphor for this. Except maybe I'm the brine shrimp and
 you're the kid wondering when we'll start to look like the picture on the
 packet.
 
-Let's get stuck in. Star and fork the repo. Help figure the
+Let's get stuck in. Fork the repo. Help figure the
 protocol out. That ol' [WikiNature](http://www.c2.com/cgi/wiki?WikiNature)
 will kick in real soon ...
 

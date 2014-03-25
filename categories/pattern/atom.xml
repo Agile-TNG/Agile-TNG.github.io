@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pattern | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-26T09:46:41+11:00</updated>
+  <updated>2014-03-26T10:27:01+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -40,7 +40,7 @@ reader.</p>
 
 <h2>The Film</h2>
 
-<p><em>The Seven Samurai</em> concerns a defenceless village that hires a group of
+<p>The Seven Samurai concerns a defenceless village that hires a group of
 down-at-heel samurai as protection against a horde of bandits. The samurais
 transform the village into a force that destroys the bandits and takes
 ownership of its own destiny.</p>
@@ -51,7 +51,7 @@ the first water. While they are hands on and assist with every step of the
 transformation, in the end, as their leader says, it&rsquo;s the village that wins,
 not the samurai.</p>
 
-<p>Close inspction shows the transformation involves 9 distinct strategic
+<p>Closer inspection shows the transformation involves 9 distinct strategic
 patterns, each of which will be augmented with more detailed tactical
 patterns. We&rsquo;ve discussed construction of an Agile pattern language <a href="">here</a>
 and here we employ the <a href="http://c2.com/ppr/about/portland.html">Portland Form</a>

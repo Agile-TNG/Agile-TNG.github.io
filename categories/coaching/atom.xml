@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coaching | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/coaching/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-26T09:45:52+11:00</updated>
+  <updated>2014-03-26T09:46:41+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -256,12 +256,16 @@ and motivated to work in the new way</p></li>
 * virtual environments sufficient for Continuous Delivery
 * version control systems suitable for distributed integration.</p>
 
-<p>At an enterprise level prioritise structural transformation patterns including
-* <a href="">Goose in the Bottle</a>
-* <a href="">Feature Based Teams</a>
-* <a href="">Behavioural Product Planning</a>
-* <a href="">Inversion of Control</a>
-* <a href="">Capability Funding</a></p>
+<p>At an enterprise level prioritise structural transformation patterns including</p>
+
+<ul>
+<li><a href="">Goose in the Bottle</a></li>
+<li><a href="">Feature Based Teams</a></li>
+<li><a href="">Behavioural Product Planning</a></li>
+<li><a href="">Inversion of Control</a></li>
+<li><a href="">Capability Funding</a></li>
+</ul>
+
 
 <hr />
 

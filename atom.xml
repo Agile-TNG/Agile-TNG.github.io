@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-26T09:15:50+11:00</updated>
+  <updated>2014-03-26T09:26:11+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -66,7 +66,7 @@ village that wins, not the samurai.</p>
 
 <h4>Assessment</h4>
 
-<p>Motivate Agile transformation in terms of bottom line metrics.</p>
+<p>Motivate Agile in terms of bottom line metrics.</p>
 
 <p><img src="http://Agile-TNG.github.io/images/Assessment.png" width="400"></p>
 
@@ -93,14 +93,14 @@ activities and constructing cumulative flow metrics for them.</p>
 misalignment. Determine critical numbers that represent real improvements to
 throughput, quality and ROI.</p>
 
-<p>Construct an engagement plan detailing targets for the critical numbers with
-a draft timeframe and budget necessary to transform to the Minimum Viable
-Agile Capability (&ldquo;MVAC&rdquo;) that would meet these targets.</p>
+<p>Construct a preliminary plan detailing targets for these critical numbers with
+a draft timeframe and budget necessary to transform to a Minimum Viable Agile
+Capability (&ldquo;MVAC&rdquo;) that would meet these targets, at least on a small scale.</p>
 
 <p>Assess maturity of existing Agile teams using the <a href="http://comparativeagility.com">Cohn&rsquo;s Comparative Agility
 metrics</a>, and reconcile with the MVAC.</p>
 
-<p>See also <a href="">Goose in the Bottle</a>, <a href="">Kotter Change Step 1</a>.</p>
+<p>See also <a href="">Goose in the Bottle</a></p>
 
 <hr />
 
@@ -136,7 +136,12 @@ Such support is seldom reliable at the start of a transformation, however, and
 it may be an urgent priority of the Strategic Scrum to enrol enterprise
 coaching expertise to obtain it.</p>
 
-<p>The Strategic Scrum provides a way for executives to immediately experience
+<p>The object of this support is to simply establish ownership of the
+transformation as resting with the Strategic Scrum. As with Agile delivery,
+the senior member of the scrum is identified as Chief Product Owner for
+the transformation, with the others dubbed <a href="">Operational Product Owners</a>.</p>
+
+<p>This Strategic Scrum provides a way for executives to immediately experience
 agile for themselves and <a href="http://www.c2.com/cgi/wiki?EatYourOwnDogfood">eat their own
 dogfood</a> and provides a one stop
 shop into which coaches and organisational change agents report progress.</p>
@@ -266,9 +271,10 @@ and motivated to work in the new way</p></li>
 <li><p>Coaching shepherds product planning and delivery teams through the same
 Samurai patterns as it does for the enterprise, just on a smaller scale.</p></li>
 <li><p>A well formed transformation plan involves a backlog of <a href="">Transformation
-Stories</a> motivated by drivers identified by the Transformation Owners.
-These stories should have the <a href="">INVEST</a> properties and be expected
-to demonstrate value by improving <a href="#Assessment">Assessmet</a> metrics.</p></li>
+Stories</a> motivated by drivers identified by <a href="">Operational Product Owners</a>
+from the Strategic Scrum.  These stories should have the <a href="">INVEST</a>
+properties and be expected to demonstrate value by improving
+<a href="#Assessment">Assessmet</a> metrics.</p></li>
 <li><p>ROI for Agile transformation is maximized when transformation stories are
 detailed and delivered iteratively, minimizing <a href="">Work In Progress</a>.</p></li>
 <li><p>Value delivery begins as the <a href="">Product Planning Scrum</a> builds a
@@ -336,7 +342,7 @@ positions, sells and delivers into its marketplace.</p></li>
 
 <p><strong>Therefore,</strong></p>
 
-<p>Capitalise on these improvements by focusing Transformation Owners on
+<p>Capitalise on these improvements by focusing the Strategic Scrum on
 differences between the original <a href="">Agile Transformation Roadmap</a> and the
 emergent reality. Gauge these differences with the Assessment metrics and
 refactor the roadmap accordingly. Seek out new ways to integrate

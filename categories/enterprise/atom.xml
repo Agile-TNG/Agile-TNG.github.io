@@ -4,7 +4,7 @@
   <title><![CDATA[Category: enterprise | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/enterprise/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-27T08:49:13+11:00</updated>
+  <updated>2014-03-27T09:17:18+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -25,10 +25,23 @@
 <!-- more -->
 
 
+<p>Enterprise agile is a phrase that&rsquo;s bandied about a lot.  Sounds like a good
+thing, but why would you want it, what is it, and how do you get it? This
+pattern language answers those questions.</p>
+
+<p>In a nutshell, enterprise agility means continuous adaptation. As nature amply
+demonstrates, organisations that can&rsquo;t continously adapt are rapidly
+outcompeted by those that can. That&rsquo;s why you want it.</p>
+
+<p>Continuous adaptation internally as capabilities and teams evolve. Continuous
+adaptation externally to user experiences, market forces and technological
+innovations. And continuous adaptation in relating the two to make a profit.</p>
+
 <h2>Spoilers</h2>
 
-<p>Akira Kurosawa&rsquo;s cinematic masterpiece provides a great <a href="">system metaphor</a> for
-Enterprise Agile transformation and thereby the fundamental pattern language of the <a href="">OAPL</a>.</p>
+<p>Akira Kurosawa&rsquo;s cinematic masterpiece provides a great <a href="">system metaphor</a>
+for a continuously adaptive enterprise. And that&rsquo;s why we&rsquo;re making it the
+fundamental pattern language of the <a href="">OAPL</a>.</p>
 
 <p>You don&rsquo;t need to see the film to understand this pattern language, but its
 patterns necessarily involve spoilers for the film. So you may want to see it
@@ -50,10 +63,11 @@ and takes ownership of its own destiny.</p>
 
 <p>The popular image of samurai as armored warriors is quite different to their
 depiction here. Kurosawa&rsquo;s samurai are master strategists, coaches of the
-first water. Their transformation involves 8 distinct strategic patterns, each
-augmented by more specific tactical patterns. A:TNG has discussed its approach
-to construction of an Agile pattern language <a href="">here</a> and we use the <a href="http://c2.com/ppr/about/portland.html">Portland
-Form</a> to represent these patterns.</p>
+first water. Their transformation involves eight distinct strategic patterns,
+each augmented by more specific tactical patterns. A:TNG has discussed its
+approach to construction of an Agile pattern language <a href="">here</a> and we use the
+<a href="http://c2.com/ppr/about/portland.html">Portland Form</a> to represent these
+patterns.</p>
 
 <p>Why eight patterns when there are only seven samurai? Simply, the last pattern
 is for the enterprise to take ownership of its own transformation as coaching
@@ -64,7 +78,7 @@ samurai.</p>
 
 <h2>The Patterns</h2>
 
-<h4>Transformation Assessment</h4>
+<h4>Continuous Assessment</h4>
 
 <p>Motivate Agile in terms of bottom line metrics.</p>
 
@@ -72,7 +86,7 @@ samurai.</p>
 
 <ul>
 <li><p>Many organisations embark on Agile ad-hoc, at grass roots level, without
-clearly understandng real drivers, benefits and challenges.</p></li>
+clearly understanding real drivers, benefits and challenges.</p></li>
 <li><p>Enterprise architecture and business constraints can prevent Agile
 transformation from succeeding. Some enterprises may not be ready to
 commit to addressing these constraints.</p></li>
@@ -104,7 +118,7 @@ metrics</a>, and reconcile with the MVAC.</p>
 
 <hr />
 
-<h4>Transformation Alignment</h4>
+<h4>Continuous Alignment</h4>
 
 <p>Enrol decision makers as Product Owners in a Strategic Scrum.</p>
 
@@ -140,7 +154,7 @@ drivers to clearly establish its ownership of a transformation initiative.</p>
 <p>As with Agile delivery, the senior member of this scrum is identified as Chief
 Product Owner for the transformation, with the others dubbed <a href="">Operational
 Product Owners</a>. This Strategic Scrum provides a way for the executives to
-immediately experience agile for themselves and <a href="http://www.c2.com/cgi/wiki?EatYourOwnDogfood">&ldquo;eat their own
+immediately experience agile for themselves and to <a href="http://www.c2.com/cgi/wiki?EatYourOwnDogfood">&ldquo;eat their own
 dogfood&rdquo;</a>. Over the course of
 the transformation it will provide a one stop shop into which coaches and
 organisational change agents report progress.</p>
@@ -150,7 +164,7 @@ Control</a></p>
 
 <hr />
 
-<h4>Transformation Analysis</h4>
+<h4>Continuous Analysis</h4>
 
 <p>Form a Coordination Scrum from coaches and delivery and operational stream
 leads.</p>
@@ -158,14 +172,18 @@ leads.</p>
 <p><img src="/images/Analysis.png" width="400"></p>
 
 <ul>
-<li><p>Once an enterprise has assessed as-is state and aligned executives
-to support its transformation, there is an immediate desire for detailed
-OCM plans.</p></li>
-<li><p>Under time pressure OCM may prefer a one-size-fits-all framework and an
-idealistic &ldquo;to-be state&rdquo; vision. A BDUF focus on vision and framework over
-iterative progress maximises WIP and results in dysfunctional transition
-states where delivery and business metrics consistently worsen, and appetite
-for change wanes.</p></li>
+<li><p>Once an enterprise has assessed its as-is state and aligned executives
+to support its transformation, there is an immediate desire for a detailed
+&ldquo;to-be&rdquo; vision and a plan to get there. This is often called an OCM
+(&ldquo;Organisation Change Management&rdquo;) plan.</p></li>
+<li><p>Under time pressure the people accountable for OCM may feel safest picking a
+one-size-fits-all framework and idealistic &ldquo;to-be state&rdquo; vision. This is
+a waterfall approach to transformation &ndash; what XP used to call &ldquo;Big Design
+Up Front&rdquo; or &ldquo;BDUF&rdquo;.</p></li>
+<li><p>Sounds nasty but why is it actually bad? BDUF focus on vision and
+framework maximises WIP and results in dysfunctional transition states where
+delivery and business metrics consistently worsen. This obviously raises
+risks and can cause executive support for transformation to tail off.</p></li>
 <li><p>OCM plans may also be applied in a non-collaborative &ldquo;they change, we
 don&rsquo;t&rdquo; mindset. If change agents are not also change recipients they are
 insensitive to the wisdom of the doers causing widespread <a href="">FUD</a> and politics.</p></li>
@@ -175,19 +193,19 @@ insensitive to the wisdom of the doers causing widespread <a href="">FUD</a> and
 <p><strong>Therefore,</strong></p>
 
 <p>To make an enterprise Agile, we emphasise that change planning must be Agile.
-What&rsquo;s wanted isn&rsquo;t a precise vision but a disciplined collaboration cycle for
+What&rsquo;s needed isn&rsquo;t a precise vision but a disciplined collaboration cycle for
 a funded Coordination Scrum that includes existing stream leads. That&rsquo;s to say
 lead doers, not middle-management deciders, along with experienced coaches to
 provide sound advice on tactical concerns over the course of the transformation.</p>
 
-<p>The Coordination Scrum represents its work on a <a href="">Agile Transformation
+<p>The Coordination Scrum represents its work on an <a href="">Agile Transformation
 Roadmap</a> from which coaches derive a <a href="">Coaching Kanban</a> that prioritises
 and tracks their team-based coaching activities, and which is iteratively
 reviewed by the transformation product owners of the Strategic Scrum.</p>
 
 <hr />
 
-<h4>Transformation Awareness</h4>
+<h4>Continuous Awareness</h4>
 
 <p>Organise change recipients into a system of <a href="">Guilds and Tribes</a>.</p>
 
@@ -225,7 +243,7 @@ into a Guild in its own right.</p>
 
 <hr />
 
-<h4>Transformation Architecture</h4>
+<h4>Continuous Architecture</h4>
 
 <p>Guilds institute technical enablers for feature based delivery.</p>
 
@@ -237,8 +255,8 @@ change recipients to enable new ways of working.</p></li>
 <li><p>Change patterns promoted by the Coordination Scrum have to be grounded and
 tailored into stories that fit the immediate necessities of the as-is
 enterprise.</p></li>
-<li><p>Change stories that requires anyone to down tools will be immediately
-opposed by the guild system and business stakeholders.</p></li>
+<li><p>Change stories that requires anyone to put down their tools and stand idle
+will be immediately opposed by the guild system and business stakeholders.</p></li>
 <li><p>Collaborative coaching is necessary to assure change recipients are ready
 and motivated to work in the new way</p></li>
 </ul>
@@ -266,7 +284,7 @@ and motivated to work in the new way</p></li>
 
 <hr />
 
-<h4>Transformation Adoption</h4>
+<h4>Continuous Adoption</h4>
 
 <p><img src="/images/Adoption.png" width="400"></p>
 
@@ -284,7 +302,7 @@ properties and be expected to demonstrate value by improving
 detailed and delivered iteratively, minimizing <a href="">Work In Progress</a>.</p></li>
 <li><p>Value delivery begins as the <a href="">Product Planning Scrum</a> builds a
 breadth-first product roadmap and an initial product backlog along with a
-&ldquo;Steel Thread&rdquo; sufficient to commence <a href="">Continuous Delivery</a> of stories.</p></li>
+<a href="">Steel Thread</a> sufficient to commence <a href="">Continuous Delivery</a> of stories.</p></li>
 </ul>
 
 
@@ -301,7 +319,7 @@ metrics and team-member testaments into case studies to support Acceleration.</p
 
 <hr />
 
-<h4>Transformation Acceleration</h4>
+<h4>Continuous Acceleration</h4>
 
 <p><img src="/images/Acceleration.png" width="400"></p>
 
@@ -311,7 +329,7 @@ metrics and team-member testaments into case studies to support Acceleration.</p
 <li><p>As agile metrics make productivity and quality gains and challenges
 transparent, management focus shifts from &ldquo;how to account for slippage&rdquo; to
 &ldquo;how to improve ROI&rdquo;.</p></li>
-<li><p>Broken collaboration cycles, structural problems, and muda-mura-muri
+<li><p>Broken collaboration cycles, structural problems, and <a href="">muda-mura-muri</a>
 often occur without the enterprise properly understanding or addressing them.</p></li>
 <li><p>Decision makers may say that the transformation has &ldquo;hit a
 plateau&rdquo; or experiences pitfalls. They may feel <a href="">FUD</a> about the way ahead.</p></li>

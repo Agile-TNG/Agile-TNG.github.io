@@ -4,7 +4,7 @@
   <title><![CDATA[Category: enterprise | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/enterprise/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-27T09:55:48+11:00</updated>
+  <updated>2014-03-27T09:59:22+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -265,12 +265,16 @@ and motivated to work in the new way</p></li>
 
 <p><strong>Therefore,</strong></p>
 
-<p>Prioritize technical enablers in the Coaching Kanban including
-* work-management and knowledge-management tools
-* test data fixtures and service mock objects
-* BDD tooling and integration of same into dev workflow
-* virtual environments sufficient for Continuous Delivery
-* version control systems suitable for distributed integration.</p>
+<p>Prioritize technical enablers in the Coaching Kanban including</p>
+
+<ul>
+<li>work-management and knowledge-management tools</li>
+<li>test data fixtures and service mock objects</li>
+<li>BDD tooling and integration of same into dev workflow</li>
+<li>virtual environments sufficient for Continuous Delivery</li>
+<li>version control systems suitable for distributed integration.</li>
+</ul>
+
 
 <p>At an enterprise level prioritise structural transformation patterns including</p>
 
@@ -282,6 +286,9 @@ and motivated to work in the new way</p></li>
 <li><a href="">Capability Funding</a></li>
 </ul>
 
+
+<p>Guilds adopt, specialise, adjust and refactor these architectural patterns
+iteratively as they gain experience with their benefits and challenges.</p>
 
 <hr />
 

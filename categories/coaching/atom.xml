@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coaching | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/coaching/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-26T18:10:51+11:00</updated>
+  <updated>2014-03-26T18:50:27+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -33,8 +33,8 @@ Enterprise Agile transformation and thereby the fundamental pattern language of 
 <p>You don&rsquo;t need to see the film to understand this pattern language, but its
 patterns necessarily involve spoilers for the film. So you may want to see it
 first if you haven&rsquo;t already. The <a href="https://www.youtube.com/watch?v=zNqQXC8Tv8U">restored 207-minute
-version</a> is freely available on
-the usual torrent sites.</p>
+version</a> is freely available
+through the usual torrent sites.</p>
 
 <p>From here on out we&rsquo;ll leave the question of spoilage up to you, gentle
 reader.</p>
@@ -46,17 +46,13 @@ down-at-heel samurai as protection against a horde of bandits. The samurais
 transform the village into a force that destroys the bandits and takes
 ownership of its own destiny.</p>
 
-<p>The popular image of samurai as armored warriors is quite different to the way
-they&rsquo;re depicted here. Kurosawa&rsquo;s samurai are master strategists, coaches of
-the first water. While they are hands on and assist with every step of the
-transformation, in the end, as their leader says, it&rsquo;s the village that wins,
-not the samurai.</p>
-
-<p>Closer inspection shows the transformation involves 8 distinct strategic
-patterns, each of which is augmented with more detailed tactical
-patterns. We&rsquo;ve discussed construction of an Agile pattern language <a href="">here</a>
-and here we employ the <a href="http://c2.com/ppr/about/portland.html">Portland Form</a>
-in this due to its simplicity.</p>
+<p>The popular image of samurai as armored warriors is quite different to their
+depiction here. Kurosawa&rsquo;s samurai are master strategists, coaches of the
+first water. Their transformation involves 8 distinct strategic patterns, each
+augmented by more specific tactical patterns. A:TNG has discussed construction
+of an Agile pattern language <a href="">here</a> and we use the <a href="http://c2.com/ppr/about/portland.html">Portland
+Form</a> to represent these samurai
+practice patterns.</p>
 
 <p>Why eight patterns when there are only seven samurai? Simply, the last pattern
 is for the enterprise to take ownership of its own transformation as coaching

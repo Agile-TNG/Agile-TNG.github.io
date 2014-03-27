@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Agile: The Next Generation]]></title>
+  <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
+  <link href="http://Agile-TNG.github.io/"/>
+  <updated>2014-03-27T11:28:44+11:00</updated>
+  <id>http://Agile-TNG.github.io/</id>
+  <author>
+    <name><![CDATA[A:TNG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Seven Samurai]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/21/the-seven-samurai/"/>
+    <updated>2014-03-21T21:53:27+11:00</updated>
+    <id>http://Agile-TNG.github.io/2014/03/21/the-seven-samurai</id>
+    <content type="html"><![CDATA[<p>A pattern language for enterprise agile transformation.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Agreement.jpg"></p>
+
+<!-- more -->
+
+
+<p>Enterprise agile is a phrase that&rsquo;s bandied about a lot.  Sounds like a good
+thing, but why would you want it, what is it, and how do you get it? This
+pattern language answers those questions.</p>
+
+<p>In a nutshell, enterprise agility means continuous adaptation. As nature amply
+demonstrates, organisations that can&rsquo;t continously adapt are rapidly
+outcompeted by those that can. That&rsquo;s why you want it.</p>
+
+<p>Continuous adaptation internally as capabilities and teams evolve. Continuous
+adaptation externally to customer experiences, market forces and technological
+innovations. And continuous adaptation in relating these two to maximise
+your enterprise&rsquo;s ROI. That&rsquo;s what it is. The remaining question is how.</p>
+
+<h2>Spoilers</h2>
+
+<p>Akira Kurosawa&rsquo;s cinematic masterpiece provides a great <a href="">system metaphor</a>
+for a continuously adaptive enterprise. And that&rsquo;s why we&rsquo;re making it the
+fundamental pattern language of the <a href="">OAPL</a>.</p>
+
+<p>You don&rsquo;t need to see the film to understand this pattern language, but its
+patterns necessarily involve spoilers for the film. So you may want to see it
+first if you haven&rsquo;t already. The <a href="https://www.youtube.com/watch?v=zNqQXC8Tv8U">restored 207-minute
+version</a> is freely available
+through the usual torrent sites.</p>
+
+<p>From here on out we&rsquo;ll leave the question of spoilage up to you, gentle
+reader. Note also that at present several of the links below are broken &ndash;
+we&rsquo;re still putting the more detailed patterns together but have put this
+draft up now to generate feedback.</p>
+
+<h2>The Film</h2>
+
+<p>The Seven Samurai concerns a defenceless village that hires a group of
+down-at-heel samurai as protection against a horde of bandits. The samurai
+transform the village into a self-organising force that destroys the bandits
+and takes ownership of its own destiny.</p>
+
+<p>The popular image of samurai as armored warriors is quite different to their
+depiction here. Kurosawa&rsquo;s samurai are master strategists, coaches of the
+first water. Their transformation involves eight distinct strategic patterns,
+each augmented by more specific tactical patterns. A:TNG has discussed its
+approach to construction of an Agile pattern language <a href="">here</a> and we use the
+<a href="http://c2.com/ppr/about/portland.html">Portland Form</a> to represent these
+patterns.</p>
+
+<p>Why eight patterns when there are only seven samurai? Simply, the last pattern
+is for the enterprise to take ownership of its own transformation as coaching
+becomes irrelevant. As in the film, it&rsquo;s the village that wins, not the
+samurai.</p>
+
+<hr />
+
+<h2>The Patterns</h2>
+
+<h4>Continuous Assessment</h4>
+
+<p>Motivate Agile in terms of bottom line metrics.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Assessment.png" width="400"></p>
+
+<ul>
+<li><p>Many organisations embark on Agile ad-hoc, at grass roots level, without
+clearly understanding real drivers, benefits and challenges.</p></li>
+<li><p>Enterprise architecture and business constraints can prevent Agile
+transformation from succeeding. Some enterprises may not be ready to
+commit to addressing these constraints.</p></li>
+<li><p>Teams, programs and business units may begin a transformation without
+realising their organisation isn&rsquo;t ready, and this may lead them to fail.</p></li>
+<li><p>Prominent failures may forestall a successful transformation, creating the
+perception that Agile &ldquo;might work elsewhere but can&rsquo;t work here&rdquo;.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Interview stakeholders to construct preliminary value stream maps of delivery
+and business activities. Validate these by attending the represented
+activities and constructing cumulative flow metrics for them.</p>
+
+<p>Represent as diagrams to motivate urgent concern about waste, stress,
+irregularity and misalignment. Determine critical numbers that represent real
+improvements to throughput, quality and ROI.</p>
+
+<p>Construct a preliminary plan detailing targets for these critical numbers with
+a draft timeframe and budget necessary to transform to a Minimum Viable Agile
+Capability (&ldquo;MVAC&rdquo;) that would meet these targets, at least on a small scale.</p>
+
+<p>Assess maturity of existing Agile teams using the <a href="http://comparativeagility.com">Cohn&rsquo;s Comparative Agility
+metrics</a>, and reconcile with the MVAC.</p>
+
+<p>See also <a href="">Goose in the Bottle</a></p>
+
+<hr />
+
+<h4>Continuous Alignment</h4>
+
+<p>Enrol decision makers as Product Owners in a Strategic Scrum.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Alignment.png" width="400"></p>
+
+<ul>
+<li><p>Component silos, matrix management, waterfall baselines and phase gates,
+project based cost accounting and middle management hierarchies can make it
+difficult for an organisation to achieve and maintain Agile benefits.</p></li>
+<li><p>There are further alignment issues inherent in a transformation program.
+Progressive/conservative antagonism, disagreements over change scope and
+ownership, confusion over metrics and trade-offs, as well as the <a href="">FUD</a>
+induced by piecemeal change &hellip;</p></li>
+<li><p>Enterprise misalignments are commonly associated with the anti-patterns
+we call <a href="">enterprise smells</a>.</p></li>
+<li><p>Ad hoc Agile teams can&rsquo;t address such alignment issues because they don&rsquo;t
+have adequate executive support to change the process of other teams or the
+way they interoperate.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Induce progressive senior executives to meet regularly in a collaborative
+&ldquo;Strategic Scrum&rdquo; that will maintains product ownership for the
+transformation.</p>
+
+<p>Ideally execs are motivated to participate by pre-existing C-level support.
+Such support is seldom reliable at the start of a transformation, however, and
+it may be an urgent priority of the Strategic Scrum to represent sufficient
+drivers to clearly establish its ownership of a transformation initiative.</p>
+
+<p>As with Agile delivery, the senior member of this scrum is identified as Chief
+Product Owner for the transformation, with the others dubbed <a href="">Operational
+Product Owners</a>. This Strategic Scrum provides a way for the executives to
+immediately experience agile for themselves and to <a href="http://www.c2.com/cgi/wiki?EatYourOwnDogfood">&ldquo;eat their own
+dogfood&rdquo;</a>. Over the course of
+the transformation it will provide a one stop shop into which coaches and
+organisational change agents report progress.</p>
+
+<p>See also <a href="">Guiding Coalition</a>, <a href="">Influence the Influencers</a>, <a href="">Inversion of
+Control</a></p>
+
+<hr />
+
+<h4>Continuous Analysis</h4>
+
+<p>Form a Coordination Scrum from coaches and delivery and operational stream
+leads.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Analysis.png" width="400"></p>
+
+<ul>
+<li><p>Once an enterprise has assessed its as-is state and aligned executives
+to support its transformation, there is an immediate desire for a detailed
+&ldquo;to-be&rdquo; vision and a plan to get there. This is often called an OCM
+(&ldquo;Organisation Change Management&rdquo;) plan.</p></li>
+<li><p>Under time pressure the people accountable for OCM may feel safest picking a
+one-size-fits-all framework and idealistic &ldquo;to-be state&rdquo; vision. This is
+a waterfall approach to transformation &ndash; what XP used to call &ldquo;Big Design
+Up Front&rdquo; or &ldquo;BDUF&rdquo;.</p></li>
+<li><p>Sounds nasty but why is it actually bad? BDUF focus on vision and
+framework maximises WIP and results in dysfunctional transition states where
+delivery and business metrics consistently worsen. This obviously raises
+risks and can cause executive support for transformation to tail off.</p></li>
+<li><p>OCM plans may also be applied in a non-collaborative &ldquo;they change, we
+don&rsquo;t&rdquo; mindset. If change agents are not also change recipients they are
+insensitive to the wisdom of the doers causing widespread <a href="">FUD</a> and politics.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>To make an enterprise Agile, we emphasise that change planning must be Agile.
+What&rsquo;s needed isn&rsquo;t a precise vision but a disciplined collaboration cycle for
+a funded Coordination Scrum that includes existing stream leads. That&rsquo;s to say
+lead doers, not middle-management deciders, along with experienced coaches to
+provide sound advice on tactical concerns over the course of the transformation.</p>
+
+<p>The Coordination Scrum represents its work on an <a href="">Agile Transformation
+Roadmap</a> from which coaches derive a <a href="">Coaching Kanban</a> that prioritises
+and tracks their team-based coaching activities, and which is iteratively
+reviewed by the transformation product owners of the Strategic Scrum.</p>
+
+<hr />
+
+<h4>Continuous Awareness</h4>
+
+<p>Organise change recipients into a system of <a href="">Guilds and Tribes</a>.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Awareness.png" width="400"></p>
+
+<ul>
+<li><p>Change plans usually begin with training for the doers on new ways of
+working.  This includes role-specific skills and education on the tools
+necessary to new roles.</p></li>
+<li><p>Awareness as a process isn&rsquo;t merely a matter of training, but ongoing
+agreement about ways of working, For the transformation to become
+sustainable, doers must own and direct the change stories themselves.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Organise people of common capabilities into &ldquo;Guilds&rdquo; and people collaborating
+on common business and delivery streams into &ldquo;Tribes&rdquo;. Let coaches work with
+these teams to plan and effect change using a repeating cycle of Scrum
+<a href="">retrospectives</a> and, at scale, <a href="">agile parliaments</a>.</p>
+
+<p>These consensus protocols spread awareness of the drivers and methods for new
+ways of working, and feed decisions, agreements and concerns back into the
+Coordination Scrum.</p>
+
+<p>Coaches use role-playing games to raise Guild and Tribe awareness of Agile
+methods and their respective parts in the transformation.  The Coordination
+Scrum also works with the Strategic Scrum to obtain support to empower tribes
+and guilds to make their own decisions to enable rapid change.</p>
+
+<p>Once they&rsquo;re up to speed, add Guild and Tribe representatives to the
+Coordination Scrum. If scale requires it, the Coordination Scrum may evolve
+into a Guild in its own right.</p>
+
+<hr />
+
+<h4>Continuous Architecture</h4>
+
+<p>Guilds institute technical enablers for feature based delivery.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Architecture.png" width="400"></p>
+
+<ul>
+<li><p>Technical enablers and structural transformations must be adopted by
+change recipients to enable new ways of working.</p></li>
+<li><p>Change patterns promoted by the Coordination Scrum have to be grounded and
+tailored into stories that fit the immediate necessities of the as-is
+enterprise.</p></li>
+<li><p>Change stories that requires anyone to put down their tools and stand idle
+will be immediately opposed by the guild system and business stakeholders.</p></li>
+<li><p>Collaborative coaching is necessary to assure change recipients are ready
+and motivated to work in the new way</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Prioritize technical enablers in the Coaching Kanban including</p>
+
+<ul>
+<li>work-management and knowledge-management tools</li>
+<li>test data fixtures and service mock objects</li>
+<li>BDD tooling and integration of same into dev workflow</li>
+<li>virtual environments sufficient for Continuous Delivery</li>
+<li>version control systems suitable for distributed integration.</li>
+</ul>
+
+
+<p>At an enterprise level prioritise structural transformation patterns including</p>
+
+<ul>
+<li><a href="">Goose in the Bottle</a></li>
+<li><a href="">Feature Based Teams</a></li>
+<li><a href="">Behavioural Product Planning</a></li>
+<li><a href="">Inversion of Control</a></li>
+<li><a href="">Capability Funding</a></li>
+</ul>
+
+
+<p>Guilds adopt, specialise, adjust and refactor these architectural patterns
+iteratively as they gain experience with their benefits and challenges.</p>
+
+<hr />
+
+<h4>Continuous Adoption</h4>
+
+<p><img src="http://Agile-TNG.github.io/images/Adoption.png" width="400"></p>
+
+<p>Track transformation stories in a coaching kanban.</p>
+
+<ul>
+<li><p>Coaching shepherds product planning and delivery teams through the same
+Samurai patterns as it does for the enterprise, just on a smaller scale.</p></li>
+<li><p>A well formed transformation plan involves a backlog of <a href="">Transformation
+Stories</a> motivated by drivers identified by <a href="">Operational Product Owners</a>
+from the Strategic Scrum.  These stories should have the <a href="">INVEST</a>
+properties and be expected to demonstrate value by improving
+<a href="#Assessment">Assessmet</a> metrics.</p></li>
+<li><p>ROI for Agile transformation is maximized when transformation stories are
+detailed and delivered iteratively, minimizing <a href="">Work In Progress</a>.</p></li>
+<li><p>Value delivery begins as the <a href="">Product Planning Scrum</a> builds a
+breadth-first product roadmap and an initial product backlog along with a
+<a href="">Steel Thread</a> sufficient to commence <a href="">Continuous Delivery</a> of stories.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Adoption provides coaching essential to getting functional scrums up to speed.
+The goal of coaches is always to demonstrate and de-hub, transfrerring
+accountability to the actual doers as soon as they&rsquo;re comfortable.</p>
+
+<p>Coaches co-chair meetings, clarify role-specifics, identify misunderstandings
+and impediments, configure workflows and knowledge structures, and assure the
+team&rsquo;s technical toolset is ready for continuous delivery. They also marshall
+metrics and team-member testaments into case studies to support Acceleration.</p>
+
+<hr />
+
+<h4>Continuous Acceleration</h4>
+
+<p><img src="http://Agile-TNG.github.io/images/Acceleration.png" width="400"></p>
+
+<p>Use consensus protocols to iteratively re-energise the tranformation.</p>
+
+<ul>
+<li><p>As agile metrics make productivity and quality gains and challenges
+transparent, management focus shifts from &ldquo;how to account for slippage&rdquo; to
+&ldquo;how to improve ROI&rdquo;.</p></li>
+<li><p>Broken collaboration cycles, structural problems, and <a href="">muda-mura-muri</a>
+often occur without the enterprise properly understanding or addressing them.</p></li>
+<li><p>Decision makers may say that the transformation has &ldquo;hit a
+plateau&rdquo; or experiences pitfalls. They may feel <a href="">FUD</a> about the way ahead.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Re-energize the transformation by promoting consensus mechanisms to capitalize
+on wins, address root causes of problems, and refocus on improving the
+critical numbers.</p>
+
+<p>Coaches inspect and assure collaboration fundamentals, work with the
+Coordination Scrum to address structural issues, and facilitate <a href="">open
+spaces</a>, <a href="">agile parliaments</a>, <a href="">lean coffees</a> and <a href="">scrum retros</a> within
+guilds and tribes.</p>
+
+<hr />
+
+<h4>Continuous Adaptation</h4>
+
+<p><img src="http://Agile-TNG.github.io/images/Adaptation.png" width="400"></p>
+
+<p>Refactor the Transformation Roadmap to leverage new capabilities.</p>
+
+<ul>
+<li><p>Agility doesn&rsquo;t merely improve productivity and quality metrics.</p></li>
+<li><p>New delivery capabilities and new methods of reflection and collaboration
+enable qualitative improvements in the way an enterprise organises, grows,
+positions, sells and delivers into its marketplace.</p></li>
+</ul>
+
+
+<p><strong>Therefore,</strong></p>
+
+<p>Capitalise on these improvements by focusing the Strategic Scrum on
+differences between the original <a href="">Agile Transformation Roadmap</a> and the
+emergent reality. Gauge these differences with Continuous Assessment metrics
+and refactor the transformation roadmap accordingly. Seek out new ways to
+integrate internal services, leverage new technologies, form new product lines
+and access new market segments. The more often the strategic scrum can review
+these things, the faster its enterprise can adapt.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Agile: First Contact]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/11/why-what-how/"/>
+    <updated>2014-03-11T22:59:46+11:00</updated>
+    <id>http://Agile-TNG.github.io/2014/03/11/why-what-how</id>
+    <content type="html"><![CDATA[<p>The <a href="http://www.compelcon.se/gallery/XP2000/XP2000_A_037?full=1">first Alliance
+meeting</a> preceded
+the famous Snowbird session by almost a year. Sardinia was where <em>Extreme</em>
+became <em>Agile</em>. We don&rsquo;t agree on who said it first. It just happened.
+Nothing was sacred and no one&rsquo;s ring needed kissing. We were conspirators and
+this was a revolution.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Agile-Alliance-XP2K.png"></p>
+
+<!-- more -->
+
+
+<h2>Why TNG?</h2>
+
+<p>If there were no Agile today we would just invent it all over again, but we
+probably wouldn&rsquo;t do it the same way. The Agile Manifesto hasn&rsquo;t changed since
+2001. We&rsquo;ve learned a few things since then.</p>
+
+<p>Everyone&rsquo;s seen the <a href="http://agilemanifesto.org/background.jpg">Agle Last
+Supper</a> picture. With its beautiful
+lighting the guys look a lot more credible than half-naked at that first
+standup in the Med. Like some kind of saints. But the Mediterranean picture
+has more truth. Fallible fellows trying to figure out something bigger than all
+of them.</p>
+
+<p>Iconography is important but of course we have lots of agilists these days with
+more Agile experience than the Alliance had then. In the 20th century
+we&rsquo;d all have cruised over to Ward&rsquo;s Wiki &ndash; when it was the only wiki &ndash; to
+share what we&rsquo;re learning in the
+<a href="http://www.c2.com/cgi/wiki?WikiNow">WikiNow</a>, that gestalt mind almost but
+not entirely unlike Wikipedia. And the Manifesto would have kept evolving.</p>
+
+<p>What happened to the original open community that gave us Agile?  Believe it
+or not there was actually a guy who spent the first decade of the 21st century
+<a href="http://www.c2.com/cgi/wiki?GrammarVandal">correcting grammar</a> on C2.
+Correcting it <em>wrong</em>. He wasn&rsquo;t alone; there were lots of trolls. Strenuous
+efforts were made to salvage C2, but in vain, because when the trolls moved in
+the community moved on.</p>
+
+<p>Also some of the original Alliance members became less interested in evolving
+the state of the Agile art and more interested in <a href="https://www.youtube.com/watch?v=nsdZKCh6RsU">selling
+badges</a>. There seemed no harm in
+that at first, but with new players getting in on the action and the
+certification businesses booming, it&rsquo;s the opposite of the open spirit of the
+Alliance.</p>
+
+<h2>What TNG?</h2>
+
+<p>Agile is about productive teams and their practice patterns, using peer
+protocols to self-organise and metric feedback to guide their evolution. Not
+badges. The original Manifesto values are as relevant as ever, but that
+doesn&rsquo;t mean they shouldn&rsquo;t be refactored and adapted over time the same way
+the original open community did. <strong>A:TNG</strong> is for that.</p>
+
+<p>To advance the state of the Agile art we are uncovering, refactoring and
+evolving Agile patterns together in a <a href="http://meatballwiki.org/wiki/NonZeroSumGame">Positive Sum
+Game</a>. Everyone can play. It
+doesn&rsquo;t matter whether or not you&rsquo;ve written a book, earned a certificate or
+attended some ancient standup. It only matters that you&rsquo;ve got relevant
+experience and ideas to contribute.</p>
+
+<h2>How TNG?</h2>
+
+<p>Consensus generation was the most valuable thing about Ward&rsquo;s Wiki.
+Individuals and interactions in open collaboration generated lots of mutually
+agreeable content. We might want this old time open Agile back and never mind
+trolls and sheriffs &ndash; but how?</p>
+
+<p>A wiki is basically an open version control system wedded to a content editor.
+Most are centralized, which means you can only have one current version of
+a wiki page at any one time. That&rsquo;s where trolls and sherrifs come from.</p>
+
+<p>On github we have a decentralized VCS as our basis for consensus
+decisions. TNG will use this new technology as its way of self-organising. If
+any trolls turn up we simply don&rsquo;t need to pull from them. And no more trolls
+means no sheriffs.</p>
+
+<p>We could get an <a href="http://www.c2.com/cgi/wiki?AgileParliament">Agile Parliament</a>
+going. Treaty proposals as pull requests … that would take some doing. Needs
+trial and error, but that’s what we’re here for. To advance the state of our
+Agile art.</p>
+
+<p>We&rsquo;ve got lots of basics to cover to give TNG such a form: pick a license, put
+up an initial community charter, kick the Parliament pattern around, figure
+out how to collaborate on the framing content here, figure out a decenralized
+authoring workflow and send out enough invitations to get our kernel community
+moving.</p>
+
+<p>It&rsquo;s like, when we were kids, we had sea monkeys. The instructions said to add
+the sachet to the water and next morning it&rsquo;d be full of little people.
+That&rsquo;s our system metaphor for this. Except maybe I&rsquo;m the brine shrimp and
+you&rsquo;re the kid wondering when we&rsquo;ll start to look like the picture on the
+packet.</p>
+
+<p>Let&rsquo;s get stuck in. Fork the repo. Help figure the
+protocol out. That ol&#8217; <a href="http://www.c2.com/cgi/wiki?WikiNature">WikiNature</a>
+will kick in real soon &hellip;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A:TNG Values]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/10/4-new-values/"/>
+    <updated>2014-03-10T09:43:28+11:00</updated>
+    <id>http://Agile-TNG.github.io/2014/03/10/4-new-values</id>
+    <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
+
+<ul>
+<li><strong>Consensus protocols over accountable hierarchies</strong></li>
+<li><strong>Integrated teams over certified authorities</strong></li>
+<li><strong>Open patterns over prescriptive brands</strong></li>
+<li><strong>Metric feedback over empowered insight</strong></li>
+</ul>
+
+
+<p>That is, while there is value in the items on the right, we value the items on
+the left more. And while we honor the original Manifesto values, we honor these
+values equally.</p>
+
+<!-- more -->
+
+
+<p>Agile started with XP on the <a href="http://www.c2.com/cgi/wiki/ExtremeProgrammingRoadmap">C2
+Wiki</a>, a high powered
+but open community of professionals sharing patterns and innovations for the
+common good. The Agile Alliance distilled this work into a Manifesto and added
+a signup page, but C2&rsquo;s open community is the real reason for the global
+supremacy of Agile today.</p>
+
+<p>Nevertheless that all happened last century and the Manifesto is showing
+its age.  It&rsquo;s still right on when it comes to teams, but lacks values and
+principles for large scale Agile adoption. This gap has led to
+<a href="http://agile.dzone.com/articles/method-wars-scrum-vs-safe">contention</a> as
+consultancies and certificate-mills compete to pry open corporate checkbooks
+for their respective brands.</p>
+
+<p>Which is crazy. There&rsquo;s value in both Scrum and SAFe, and no reason to think
+you can&rsquo;t combine elements of both along with other frameworks. The value of
+frameworks isn&rsquo;t in their brands and certificates, nor in adopting them as
+prescriptions, but in understanding and adpting the the practice patterns they
+contain.</p>
+
+<p>Schwaber is correct in worrying about the danger of making &ldquo;half a cow and
+half a fish&rdquo; when what we really want is dolphins. The question is, on what
+basis do you go about the process of adaptation? How do you do it organically,
+iteratively, and without tripping up at scale? To do that you need a clear set
+of values and principles. And that&rsquo;s where A:TNG comes in.</p>
+
+<p>A:TNG is based on the idea that SAFe, Less, DAD, APF, ETF, OBM, Beyond
+Budgeting, Lean and on and on all provide useful patterns.  And that there&rsquo;s a
+lot more to enterprise agility than all of them put together. We&rsquo;ve augmented
+the Manifesto values not as a way to make yet another brand, but as a basis
+for the work of pulling the pattern languages out of all the brands and
+into the open where we can really sort out what works with what.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[OAPL: An Open Agile Pattern Language]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/"/>
+    <updated>2014-03-09T18:02:45+11:00</updated>
+    <id>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language</id>
+    <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/oapl300.png"></p>
+
+<p>A key activity within A:TNG is organizing an open pattern language to relate
+learnings from Agile frameworks to the experiences of our practitioners.
+What advantage can this pattern language offer over the original
+frameworks? What benefit in a culture where practitioners already have Agile
+certificates? Why is this a big deal for TNG?</p>
+
+<!-- more -->
+
+
+<h2>Pattern Language</h2>
+
+<p>The history of Agile is intertwined with the Design Patterns movement. The
+first XP book was framed as a pattern language and while Scrum started as a
+framework it is now <a href="http://www.scrumplop.org">reformulating as a pattern
+language</a>.</p>
+
+<p>Design patterns started with the great 20th century architect Chris Alexander.
+Alexander described them this way: <em>Each pattern describes a problem which
+occurs over and over again in our environment, and then describes the core of
+a trusted solution to that problem</em>. Alexander&rsquo;s insight was that patterns
+work together to generate an architecture as a <a href="http://www.jacana.plus.com/pattern/P0.htm">language of
+design</a>.</p>
+
+<p>Software engineers soon took Alexander&rsquo;s idea to a new level with the &ldquo;Pattern
+Languages of Programs&rdquo; (<a href="http://hillside.net/conferences">PLoP</a>) conference
+series, the best-selling &ldquo;Gang of Four&rdquo; book <a href="http://www.blackwasp.co.uk/GofPatterns.aspx">Design
+Patterns</a>, and Ward Cunningham&rsquo;s
+<a href="http://c2.com/cgi-bin/wiki?PeopleProjectsAndPatterns">Portland Pattern
+Repository</a> which also
+became the first wiki, &ldquo;Ward&rsquo;s Wiki&rdquo;.</p>
+
+<p>The success of wiki as a collaborative editing method may have distracted
+people from the Pattern Language ideas at its core, but there are still PLoP
+conferences every year and popular patterns are known and used by every
+professional software engineer.</p>
+
+<p>The key advantage of pattern languages is the empowerment of their users to
+make decisions that would otherwise require trial and error or deep expertise.
+Furthermore,</p>
+
+<ul>
+<li>patterns can be adapted and refactored to suit specific domains without
+adopting the pattern language as a whole</li>
+<li>patterns enable a process of adaptive design whereby each can by trialled,
+added and substracted iteratively as forces in the domain are experienced</li>
+<li>the efficacy of alternative patterns can be determined by comparative
+studies in related domains, and thereby informed choices can be made.</li>
+</ul>
+
+
+<h2>Anti-Patterns</h2>
+
+<p>The complement to the Design Pattern is the Anti-Pattern, which describes a
+solution that fails to solve the problem it was intended to solve, or which
+generates more problems.  You may think of anti-patterns as categories of bad
+ideas, but another class of them has to do with short term thinking at the
+expense of long term goals. This is rather more commonplace than the
+conscious bad choices.</p>
+
+<p>In particular in Martin Fowler&rsquo;s book, &ldquo;Refactoring&rdquo;, he and Kent Beck
+identify a short list of design problems they call &ldquo;code smells&rdquo;. The code
+smells are not bugs &ndash; the code still works &ndash; but a form of design pollution
+that makes bugs more likely to occur, and fixing bugs more difficult.</p>
+
+<p>Code smells are often caused by taking shortcuts to get things to work.  As
+such they&rsquo;re part of the Agile process. So Beck and Fowler emphasize that it&rsquo;s
+not the smells themselves that constitute Anti-Patterns, but a lack of
+systematic remediation of them through the critical Agile process of
+<a href="http://c2.com/cgi-bin/wiki?RefactorMercilessly">refactoring</a>.</p>
+
+<p>It is unfortunately commmonplace, even in teams that have most of the other
+Agile fundamentals nailed down, to find that refactoring is neglected during
+times of stress. Of course the less refactoring, the more frequent those
+times. The same vicious cycle may occur at the scale of whole organizations,
+and so we regard <em>Not Refactoring</em> an &ldquo;Enterprise Smell&rdquo;.</p>
+
+<h2>Enterprise Smells &amp; Enterprise Refactorings</h2>
+
+<p>At the level of an Enterprise we don&rsquo;t commonly speak of bugs, but after Lean
+we talk of wastes, stressors, irregularities and misalignments. The Lean
+movement has produced a classification of the first three of these, and Lean
+coaches conduct various practices aimed at reducing them. It is reasonable to
+think of Lean as a process of refactoring at an enterprise level.</p>
+
+<p>Lean has not introduced a vocabulary equivalent to that of our Agile
+programmers, however, and A:TNG regards this an an opportunity to provide
+benefit by filling a gap. As it is reasonable to draw analogies between the
+design of an enterprise and the design of a computer program, we can lift each
+of the Beck/Fowler code smells into the context of the enterprise without
+thinking very hard:</p>
+
+<ul>
+<li>duplicated code corresponds with teams with duplicate RACI</li>
+<li>long methods correspond with deferred feedback</li>
+<li>large classes correspond with large teams or component based teams</li>
+<li>too many parameters corresponds with part-time resourcing</li>
+<li>and so on &hellip;</li>
+</ul>
+
+
+<p>It may be that this is putting the cart before the horse. It would be better
+to systematically catalogue enterprise smells and refactorings, and then see
+what they have in common with those at a code level. This may form a key
+activity of the A:TNG community, and a substantial part of the OAPL may be
+devoted to the result. We aim to kick off this cataloguing activity as part of
+our inaugural meeting on March 13 in Sydney.</p>
+
+<h2>Pattern Languages over Prescriptive Frameworks</h2>
+
+<p>The reason this value is so prominent in A:TNG isn&rsquo;t to do with Enterprise
+patterns and anti-patterns so much as the tendency for enterprises on the
+Agile journey to take the advice of experienced agilists for more than it&rsquo;s
+worth.</p>
+
+<p>It is reasonable to believe that someone with long experience will have a
+valuable practice pattern language to share. It is not reasonable for a guru
+to suggest that the patterns in their language are the best, the only, or the
+ultimate solution to the problems they address. Outside of the corporate
+sphere we regard someone making such claims not as a trustworthy counsellor,
+but as a dangerous cult leader. Counsellors explain the key factors in making
+decisions; they don&rsquo;t describe the one true path.</p>
+
+<p>It is also reasonable for newcomers to Agile to adopt all the patterns from a
+specific framework as their first objective.  As Alistair Cockburn pointed out
+in his treatment of <a href="http://alistair.cockburn.us/Shu+Ha+Ri">Shu-Ha-Ri</a>, an
+Agile beginner at the Shu level is best advised to follow a single framework
+slavishly because that&rsquo;s the only way to experience the behaviour of its
+interlocking elements. This is why we say these frameworks have value.</p>
+
+<p>While a framework forms a good starting point for practice, over time the
+student develops sufficient understanding of the way the framework applies in
+their environment to pass into the realm of &ldquo;Ha&rdquo;. Here reflection and
+experimentation with variations and augmentation of the starting framework
+becomes the key way to improve, and pattern languages yield their greatest
+benefits as signposts along he way.</p>
+
+<p>As the practitioner emerges into the realm of Ri they gain their own insights,
+make their own discoveries and solve problems beyond the current state of the
+art. And so they&rsquo;re faced with two alternatives. Create a framework of their
+own to brand and market the benefit of their learnings, or add their patterns
+into an existing pattern language so that other practitioners can test them
+against their own experience and refactor them collaboratively. This is the
+purpose of the OAPL.</p>
+
+<h2><em>We Are Uncovering Better Ways &hellip;</em></h2>
+
+<p>The latter course may not be so remunerative as the former &ndash; but it is more
+Agile because it is more collaborative, more transparent, more scientific, and
+more courageous. For this reason the original Agile Manifesto begins with the
+words, &ldquo;We are uncovering better ways &hellip;&rdquo;. So does TNG, not out of a sense of
+tradition, but because this work of uncovering better ways is our ongoing
+mission.</p>
+
+<p>We are uncovering better ways to deliver products and services by improving
+our teams, enterprises and communities. And we represent and refactor these
+better ways together as patterns in our OAPL. Thereby we make the trade-offs
+clear so we can work with newcomers and help them find better ways for
+themselves, without expecting them merely to follow in our footsteps.</p>
+]]></content>
+  </entry>
+  
+</feed>

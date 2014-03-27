@@ -10,10 +10,10 @@ categories:
 
 By working Agile and helping others do so we have come to value:
 
-* **Pattern languages over fixed frameworks**  
-* **Productive teams over certified authorities**  
-* **Metric feedback over empowered insights**  
 * **Consensus protocols over accountable hierarchies**  
+* **Integrated teams over certified authorities**  
+* **Open patterns over prescriptive brands**  
+* **Metric feedback over empowered insight**  
 
 That is, while there is value in the items on the right, we value the items on
 the left more. And while we honor the original Manifesto values, we honor these

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coaching | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/coaching/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-28T09:03:06+11:00</updated>
+  <updated>2014-03-28T09:07:05+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -110,10 +110,9 @@ improvements to throughput, quality and ROI.</p>
 
 <p>Construct a preliminary plan detailing targets for these critical numbers with
 a draft timeframe and budget necessary to transform to a Minimum Viable Agile
-Capability (&ldquo;MVAC&rdquo;) that would meet these targets, at least on a small scale.</p>
-
-<p>Assess maturity of existing Agile teams using the <a href="http://comparativeagility.com">Cohn&rsquo;s Comparative Agility
-metrics</a>, and reconcile with the MVAC.</p>
+Capability (&ldquo;MVAC&rdquo;) that would meet these targets, at least on a small scale.
+Assess maturity of existing Agile teams using the <a href="http://comparativeagility.com">Cohn&rsquo;s Comparative Agility
+metrics</a>, and reconcile with this MVAC.</p>
 
 <p>See also <a href="">Goose in the Bottle</a></p>
 
@@ -160,8 +159,8 @@ dogfood&rdquo;</a>. Over the course of
 the transformation it will provide a one stop shop into which coaches and
 organisational change agents report progress.</p>
 
-<p>An important first step for the Strategic Scrum is selecting one or more of
-the Agile alignment patterns to kick off the transformation:</p>
+<p>An important first step for the Strategic Scrum is selecting one or more
+alignment patterns to form the initial stage of the transformation:</p>
 
 <ul>
 <li><a href="">Goose in the Bottle</a></li>

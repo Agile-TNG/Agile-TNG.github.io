@@ -101,9 +101,8 @@ improvements to throughput, quality and ROI.
 Construct a preliminary plan detailing targets for these critical numbers with
 a draft timeframe and budget necessary to transform to a Minimum Viable Agile
 Capability ("MVAC") that would meet these targets, at least on a small scale.
-
 Assess maturity of existing Agile teams using the [Cohn's Comparative Agility
-metrics](http://comparativeagility.com), and reconcile with the MVAC.
+metrics](http://comparativeagility.com), and reconcile with this MVAC.
 
 See also [Goose in the Bottle]()
 
@@ -149,10 +148,18 @@ dogfood"](http://www.c2.com/cgi/wiki?EatYourOwnDogfood). Over the course of
 the transformation it will provide a one stop shop into which coaches and
 organisational change agents report progress. 
 
+An important first step for the Strategic Scrum is selecting one or more 
+alignment patterns to form the initial stage of the transformation:
 
-See also [Guiding Coalition](), [Influence the Influencers](), [Inversion of
-Control]() 
+* [Goose in the Bottle]()
+* [Inversion of Control]()
+* [Tribes and Guilds]()
+* [Capability Funding]()
+* [Lean before Agile]()
+* ... 
 
+See also [Behavioural Product Planning](), [Feature Based Teams]()
+[Guiding Coalition](), [Influence the Influencers]()
 
 --- 
 ####Continuous Analysis
@@ -251,7 +258,8 @@ and motivated to work in the new way
 
 **Therefore,**
 
-Prioritize technical enablers in the Coaching Kanban including 
+Prioritize technical enablers in the Coaching Kanban including but not limited
+to:
 
 * work-management and knowledge-management tools 
 * test data fixtures and service mock objects
@@ -259,16 +267,14 @@ Prioritize technical enablers in the Coaching Kanban including
 * virtual environments sufficient for Continuous Delivery
 * version control systems suitable for distributed integration.
 
-At an enterprise level prioritise structural transformation patterns including
+At an enterprise level, Guilds stage the structural alignment patterns
+determined by the Strategic Scrum, assure existing component teams are primed
+to support if not adopt the new ways of working, and that scarce technical
+resources or SMEs are adequately available for new delivery capabilities to
+come on line.
 
-* [Goose in the Bottle]()
-* [Feature Based Teams]()
-* [Behavioural Product Planning]()
-* [Inversion of Control]()
-* [Capability Funding]()
-
-Guilds adopt, specialise, adjust and refactor these architectural patterns
-iteratively as they gain experience with their benefits and challenges.
+Guilds adopt, specialise, adjust and refactor architectural patterns
+iteratively as they gain experience with the benefits and challenges.
 
 --- 
 ####Continuous Adoption

@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-28T16:00:25+11:00</updated>
+  <updated>2014-03-29T20:51:21+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -12,6 +12,207 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Goose In The Bottle]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle/"/>
+    <updated>2014-03-27T11:31:11+11:00</updated>
+    <id>http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle</id>
+    <content type="html"><![CDATA[<p>Take a newly hatched baby goose. Poke it down the neck of an empty saki bottle
+and feed it till it&rsquo;s grown. Without killing the goose or breaking the bottle,
+how do you get the goose out of the bottle?</p>
+
+<p><img src="http://Agile-TNG.github.io/images/gib.png"></p>
+
+<!-- more -->
+
+
+<h2>Zen Riddles</h2>
+
+<p>This is what the Japanese Zen tradition calls a <em>koan</em>, a kind of riddle for
+personal transformation. It has no rational answer.</p>
+
+<p>If you were to stop reading now and solve this one yourself, it might take
+some sweat. You may have to travel. Consult wise people from diverse
+traditions. Spend days in silent meditation. Raise children and learn from
+them. Grok out.</p>
+
+<p>You&rsquo;re a busy person, however, and this is about Agile, not Zen, so I&rsquo;ll just
+give you the answer so we can move on.</p>
+
+<h2>The Coach in the Bottle</h2>
+
+<p>I first read the goose koan as a young man. I puzzled over it for weeks but
+then set it aside.  Who has time for a riddle with no answer? I thought it
+could have no practical importance and I had no shortage of more interesting
+questions to worry about.</p>
+
+<p>Until, as a coach, I became a goose.</p>
+
+<p>I accepted a role transforming a business unit of the largest Australian
+insurer. A year earlier I had successfully transformed an insurance BI group
+of about seventy. Now I had three hundred staff stuck in silos and component
+layers, with myself the sole coach charged with getting them out.</p>
+
+<p>This insurer had attempted ad-hoc Agile twice. Its first project went cowboy,
+shipping 5 months late with 1200 defects and zero documentation. The second
+project used Agile to fail fast, demonstrating it business case didn&rsquo;t stand
+up. For which learning it was blamed and shamed, and its excellent
+Scrum-master got handed her hat.</p>
+
+<p>I naturally expect to walk into this kind of thing. A coach is only engaged
+when management strikes a problem it can&rsquo;t solve without a coach. You expect to
+walk into trouble, or else you wouldn&rsquo;t be there in the first place.</p>
+
+<p>Per the <a href="">seven samurai</a> I set about assessing and aligning senior business
+and delivery management and also technical leads per silo.  That&rsquo;s when I hit
+the wall. People were happy to engage with me, but I was getting the same
+conversation over and over. Six times in a week according to my diary.</p>
+
+<p>&ldquo;I completely agree with you,&rdquo; they said. &ldquo;Agile is great. If we could do
+it properly, life would be much better. But you&rsquo;ll never get <em>them</em> to do it.&rdquo;</p>
+
+<p>They&rsquo;d point out another team. I would talk to that team and <em>they</em> would say
+the same about further teams, who would point back at teams I&rsquo;d already spoken
+to.</p>
+
+<p>It wasn&rsquo;t blamestorming &ndash; it was respect for their conservative co-workers.
+Each team has conservatives and progressives, and no team can change faster
+than its most conservative member. The progressives had learned that through
+bitter experience.</p>
+
+<p>That was the bottle, and I the goose.</p>
+
+<h2>Therefore,</h2>
+
+<p>Grow a better gosling.</p>
+
+<p>Some mornings I woke in a cold sweat. I realised we were all geese in some
+way. The managers who hired me, the progressives who wanted change, but
+the conservatives too. They all made up each others&#8217; bottle.</p>
+
+<p>In my previous role, on a smaller scale and with sufficient executive support,
+I had been able to break a bottle. But this one was too strong. I wasn&rsquo;t going
+to kill the goose by quitting either. So now I really needed an answer &hellip; how
+did those old Zen guys get their damned goose out of their damned bottle?</p>
+
+<p>There&rsquo;s a lovely and controversial Zen book called <a href="http://www.amazon.com/The-Sound-One-Hand-Answers/dp/0465080782">The Sound of the One
+Hand</a>, which
+poses answers to 281 Zen Koans. It offers the following for this one:</p>
+
+<p><strong>&ldquo;It&rsquo;s out!&rdquo;</strong></p>
+
+<p>I found that answer a little unhelpful. In fact I have yet to draw any
+assistance from that book in regard to any koan. Which is to say it&rsquo;s a
+really great zen book and I highly recommend it.</p>
+
+<p>In a flash, enlightenment occurred, that experience the Zen adepts spend their
+time desperately attempting to attain. Or if it wasn&rsquo;t enlightenment, it would
+do until enlightenment came along.</p>
+
+<p><em>Take a baby goose, a newly hatched gosling. Feed it outside the bottle until
+it&rsquo;s full grown. Feel your heart swell as you watch it flying away.</em></p>
+
+<p>This is to say, don&rsquo;t attempt to make an enterprise become Agile. Nor a
+program, nor a project, nor a team. Instead, create a new cross-functional
+end-to-end feature based Agile capability for the enterprise uncompromised by
+any existing ways of working. And then grow it.</p>
+
+<p>Feed it a budget, requirements, and team members drawn from the progressive
+people you&rsquo;ve assessed in interviews. Form a coordination scrum of stream
+leaders from the old organisation, empowered by senior management not to
+change how the old organisation works, but just to support the new capability.</p>
+
+<p>Let the new capability leverage the quickest dirtiest deployment pathway that
+exists for hotfixing. Make them accountable for their own quality and go whole
+hog on virtual environments and test-first automation. Use a DVCS to manage
+integration between old and new rationally. Add  product owners focused on
+maximising ROI in the backlog rather than variance to baseline.</p>
+
+<p>Coach this tiny new capability to produce just the minimum amount of
+documentation necessary to satisfy their own operational members. Don&rsquo;t call
+it a goose, but something completely innocuous, &ldquo;the small changes team&rdquo; or
+similar.</p>
+
+<p>Put in place bottom-line metrics to demonstrate that the throughput, quality
+and ROI of the new team far exceeds the performance of the jugged goose.
+Promote and leverage their wins to gain them more requirements from the
+business.</p>
+
+<p>Never ask anyone to join the new capability, but let the best people do so,
+backfilling the old organisation if necessary, letting it diminish otherwise.</p>
+
+<p>That&rsquo;s how I coached. Over the course of a year, the first gosling grew
+organically, splitting and splitting again. Business people saw concrete
+benefit and flocked together. The coordination forum used this as a model to
+create similar goslings. They grew fat and laid golden eggs &hellip;</p>
+
+<h2>The Ugly Duckling</h2>
+
+<p>Two years later the insurer&rsquo;s senior management turned up at Australia&rsquo;s
+largest Agile conference to trumpet their wins. Still I wondered &ndash; is this a
+reproducible pattern? I soon had a chance to find out.</p>
+
+<p>There&rsquo;s a very large bank, the twentieth largest corporation in the world.
+Long before that insurance gig I&rsquo;d been engaged as a coach to take a couple of
+its projects Agile. I didn&rsquo;t use the <a href="">seven samurai</a> then, just got stuck in
+and went for it.</p>
+
+<p>While we made progress we were stopped by unaligned senior management when
+they found out what we were up to.  My coaching sponsors were none too pleased
+that I hadn&rsquo;t addressed alignment before moving onto adoption. The
+experience turned ugly and I never expected to be invited back.</p>
+
+<p>Well, never say never. Six years later I was re-engaged by the same senior
+manager who&rsquo;d handed me my hat. We had both learned in the interim, and he had
+an ad-hoc Agile project in the online division that was struggling.</p>
+
+<p>This project was for a ground-breaking product, but it was perceived to have
+under-delivered its first release with severe quality problems. I found all
+manner of waste, stress, compromise and misalignment. But there was one great
+advantage. This product was regarded as special. The team was already out of
+the bottle.</p>
+
+<p>Over the next 18 months I aligned the rest of the business unit to support the
+new capability and worked with the team directly to consistently exceed their
+metrics release on release. The product won a dozen external awards and the
+team received the Group CIO award for best project in the bank.</p>
+
+<p>It wasn&rsquo;t a perfect project. There were hard yards to make.  But the
+realignment of delivery pipeline, team structure and environment management
+that resulted became a model to be leveraged. First within the online
+program, then within its business unit, and then throughout the bank.</p>
+
+<p>Sorry, but I can&rsquo;t resist talking about the waterfowl method here &hellip;
+comparing Agile in the bank with Aesop&rsquo;s <a href="">ugly duckling</a> who grew up &hellip;
+and then everyone saw it as a beautiful swan &hellip;</p>
+
+<h2>Will it Zen?</h2>
+
+<p>In a <a href="">conversation with Alistair Cockburn</a> I explained the Goose In the
+Bottle pattern. He felt that whether or not it could work for the enterprise,
+it was cheating the koan. How is this getting the goose out of the bottle?
+Surely it is a different goose!</p>
+
+<p>I wanted to point Alistair at the <a href="">laws of form</a> but I didn&rsquo;t get time to
+say that in full. I hope he won&rsquo;t be offended if I school him in public.  Of
+course it requires only a moment&rsquo;s thought to realize there can never be a
+real goose in a real bottle. If you&rsquo;re silly enough to try this with a real
+gosling, it will perish long before it&rsquo;s old enough to poke its head out. Our
+goose is always a metaphor.</p>
+
+<p>On the zen of it, the moment you hear this koan, some part of you becomes the
+goose, and the koan your bottle. Like all koans, to get out you have to change
+who you are.</p>
+
+<p>The bottle doesn&rsquo;t break &ndash; the old organisation never changes. The goose
+doesn&rsquo;t have to be killed &ndash; neither in the bottle nor out of it. But as you
+feed the goose outside more requirements and more budget and more people,
+soon there is no goose left in the bottle. Nor a bottle for it to be in.</p>
+
+<p>It&rsquo;s out!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Seven Samurai]]></title>

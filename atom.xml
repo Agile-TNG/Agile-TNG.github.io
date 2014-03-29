@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-29T21:00:13+11:00</updated>
+  <updated>2014-03-29T21:04:55+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -127,7 +127,7 @@ change how the old organisation works, but just to support the new capability.</
 exists for hotfixing. Make them accountable for their own quality and go whole
 hog on virtual environments and test-first automation. Use a DVCS to manage
 integration between old and new rationally. Add  product owners focused on
-maximising ROI in the backlog rather than variance to baseline.</p>
+maximising ROI in the backlog rather than minimising variance to baseline.</p>
 
 <p>Coach this tiny new capability to produce just the minimum amount of
 documentation necessary to satisfy their own operational members. Don&rsquo;t call
@@ -210,7 +210,7 @@ doesn&rsquo;t have to be killed &ndash; neither in the bottle nor out of it. But
 feed the goose outside more requirements and more budget and more people,
 soon there is no goose left in the bottle. Nor a bottle for it to be in.</p>
 
-<p>It&rsquo;s out!</p>
+<p><strong>It&rsquo;s out!</strong></p>
 ]]></content>
   </entry>
   

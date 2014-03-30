@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pattern | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-30T08:47:52+11:00</updated>
+  <updated>2014-03-30T16:31:16+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -319,7 +319,8 @@ Capability (&ldquo;MVAC&rdquo;) that would meet these targets, at least on a sma
 Assess maturity of existing Agile teams using the <a href="http://comparativeagility.com">Cohn&rsquo;s Comparative Agility
 metrics</a>, and reconcile with this MVAC.</p>
 
-<p>See also <a href="">Goose in the Bottle</a></p>
+<p>See also <a href="http://agiletng.org/2014/03/27/the-goose-in-the-bottle/">Goose in the
+Bottle</a></p>
 
 <hr />
 
@@ -368,7 +369,8 @@ organisational change agents report progress.</p>
 alignment patterns to form the initial stage of the transformation:</p>
 
 <ul>
-<li><a href="">Goose in the Bottle</a></li>
+<li><a href="http://agiletng.org/2014/03/27/the-goose-in-the-bottle/">Goose in the
+Bottle</a></li>
 <li><a href="">Inversion of Control</a></li>
 <li><a href="">Tribes and Guilds</a></li>
 <li><a href="">Capability Funding</a></li>

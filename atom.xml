@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-03-31T13:37:22+11:00</updated>
+  <updated>2014-03-31T13:48:09+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -27,20 +27,23 @@ how do you get the goose out of the bottle?</p>
 <!-- more -->
 
 
-<h2>Pattern Summary in Portland Form</h2>
+<p>Let&rsquo;s start with the problem and the solution in context and leave the riddle
+till after.</p>
+
+<h2>Pattern in Portland Form</h2>
 
 <ul>
 <li><p>A team can only change as quickly as its most conservative member. A program
 of component teams or an organization of silos can only change as rapidly as
-its most conservative team.</p></li>
+its most conservative part.</p></li>
 <li><p>Every team has its progressives. If they&rsquo;re empowered, they foster
-change. If they&rsquo;re disempowered, they&rsquo;re eager to take part in change.</p></li>
+change. If they&rsquo;re disempowered, they&rsquo;re still eager to take part in change.</p></li>
 <li><p>Middle managers account for costs and apologise for slippage. They&rsquo;re used
-to that. Telling them to account for ROI and taking away the apologetic
-methods causes the infamous <a href="">Frozen Middle</a> anti-pattern.</p></li>
+to that. Telling them to account for ROI and taking away their apologetic
+method causes the infamous <a href="">Frozen Middle</a> anti-pattern.</p></li>
 <li><p>Taking a team, program or organization part-way Agile offers questionable
 benefit and creates risks of failure and reversion to tradition. Taking part
-of it part-way amplifies these risks.</p></li>
+of it part-way reduces the benefit and amplifies the risks.</p></li>
 </ul>
 
 
@@ -52,17 +55,18 @@ project, nor a team.</p>
 <p>Instead, create a new cross-functional end-to-end feature based Agile
 capability uncompromised by existing ways of working.</p>
 
-<p>And then grow it with the support of a coordination scrum of stream leaders
-from the old organisation, empowered by senior management.</p>
+<p>Staff it with progressives And grow it with the support of a coordination
+scrum of lead doers from the old organisation with the blessing of senior
+management.</p>
 
-<p>Let the it leverage the quickest deployment pathway but make it
+<p>Let it leverage the quickest dirtiest deployment pathway but make it
 accountable for its own quality.</p>
 
 <p>Add product owners focused on maximising ROI per release rather than
 minimising variance to baseline.</p>
 
 <p>Put in place bottom-line metrics to demonstrate that the throughput, quality
-and ROI of the new team exceeds the performance of the old way of working.</p>
+and ROI of the new capability exceeds the performance of the old.</p>
 
 <p>Never ask anyone to join the new capability, but let the best people do so,
 backfilling the old organisation if necessary, letting it diminish otherwise.</p>

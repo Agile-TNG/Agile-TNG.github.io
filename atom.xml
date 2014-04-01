@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-01T17:27:59+11:00</updated>
+  <updated>2014-04-02T08:21:16+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -755,40 +755,43 @@ will kick in real soon &hellip;</p>
 
 <ul>
 <li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Self-organized teams over certified masters</strong></li>
-<li><strong>Capability funding over project budgeting</strong></li>
-<li><strong>Pattern language over prescriptive frameworks</strong></li>
+<li><strong>Awakened teams over certified experts</strong></li>
+<li><strong>Capability funding over project funding</strong></li>
+<li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>
 
 
 <p>That is, while there is value in the items on the right, we value the items on
 the left more. And while we honor the original Manifesto values, we honor these
-values equally.</p>
+TNG values equally.</p>
 
 <!-- more -->
 
 
 <h2>What do those items on the left mean?</h2>
 
-<p>The items on the right are familiar to us all. The items on the left may have
-a pleasant ring, but let&rsquo;s have some concrete examples to make them clear.</p>
+<p>The items on the right are familiar to us all. The items on the left have
+a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.</p>
 
 <ul>
 <li><p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
-<a href="">retrospectives</a>, <a href="">agile parliaments</a> and other ways for people to align
-understanding and make decisions together. Lean coffees and open spaces do
+<a href="">retrospectives</a>, <a href="">agile parliament</a> and other ways for people to align
+understandings and make decisions together. Lean coffees and open spaces do
 the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Self-organized teams</strong> optimize quality, throughput and ROI through a
-process of collaborative adaptation. Certificates provide a way to assure
-basic understanding of theory, but self-organization is learned as teams
-deliver, experience and reflect together, not by book-learning.</p></li>
+<li><p><strong>Awakened teams</strong> self-organize to optimize quality, throughput and ROI
+through a process of continuous adaptation. Certificates provide a way to
+assure basic understanding of theory, but self-organization is learned as
+teams deliver, experience and reflect together, not by book-learning.</p></li>
 <li><p><strong>Capability funding</strong> means empowering teams to continuously deliver and
 improve their value streams, rather than arbitrarily dividing objectives and
 budgets into projects. It includes patterns of work from <a href="">Beyond
 Budeting</a>, <a href="">Beta Codex</a>,<a href="">Lean Software Delivery</a> and <a href="">Open Book
 Management</a>.</p></li>
-<li><p><strong>Pattern language</strong> is a method of describing good design practices
-within some complex activity other than communication. (more to come here &hellip;)</p></li>
+<li><p><strong>Adaptation patterns</strong> are a method of describing good design practices for
+collaborative work. Similar to design patterns for software, each pattern
+describes a proven solution to a commonplace problem in a well-known
+context. They were pioneered by Beck in his initial description of XP and
+revived by Jim Coplien and Ken Schwaber in their <a href="">ScrumPLOP</a> conference.</p></li>
 </ul>
 
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mission | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/mission/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-02T08:41:00+11:00</updated>
+  <updated>2014-04-02T08:42:07+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -160,8 +160,8 @@ budgets arbitrarily into projects. It includes patterns of work from <a href="">
 Budeting</a>, <a href="">Beta Codex</a>, <a href="">Lean Software Delivery</a> and <a href="">Open Book
 Management</a>.</p></li>
 <li><p><strong>Adaptation patterns</strong> are a method of describing good design practices for
-collaborative work. Similar to design patterns for software, each pattern
-describes a proven solution to a commonplace problem in a well-known
+team working. Similar to design patterns for software, each pattern
+describes a proven solution to a commonplace problem in a collaborative
 context. They were pioneered by Beck in his initial description of XP and
 revived by Jim Coplien and Ken Schwaber in their <a href="">ScrumPLOP</a> conference.</p></li>
 </ul>

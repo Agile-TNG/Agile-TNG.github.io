@@ -12,37 +12,40 @@ categories:
 - Spotify
 ---
 
-The Spotify pattern of [Tribes and Guilds]() is a rediscovered social method.
-The Iroquois Confederacy used it for centuries on a larger scale than
-any modern corporation [Agile Parliament]() is how they did it.
+A scalable consensus game based on the traditional Iroquois protocol of
+councils and treaties. Agile Parliament enables communities and enterprises to
+make decisions together without deferring to hierarchies of accountable
+individuals.
 
 {% img /images/parliament.png %}
 
 <!-- more -->
 
-The Iroquois Confederacy interoperated with European governance in North
-America for two centuries. The two co-existed up to the American revolution,
-and the Iroquois directly influenced the new American form of government.
+The Spotify pattern of [Tribes and Guilds]() is a rediscovered social method.
+The Iroquois Confederacy used it on a larger scale than any modern corporation
+for [almost a thousand years](http://www.haudenosauneeconfederacy.com/whatisconfederacy.html).  For two centuries they peacefully inter-operated
+with European governance in North America. 
+
+The two co-existed right up to the American revolution with the Iroquois
+directly influencing the American founding fathers and their new form of
+government.
 
 Iroquois and American forms differ in that Iroquois society was based on
-unanimity and reciprocity rather than democracy and ownership. Their nations
-were made up of chains of autonomous tribes managed by a pattern of councils
-and intermarriages rather hierarchies of accountable middlemen.
+unanimity and reciprocity rather than democracy and property. Their nations
+were made up of chains of autonomous tribes managed by a cycle of councils
+and intermarriages rather than hierarchies of managers.
 
 Collaborative agreements between the autonomous tribes were called treaties.
 To take effect a treaty required ratification, not just by the people
-attending a council, but by the groups they represented. As opposed to
-European laws, continuous review of treaties was required to maintain their
-effect.
+attending a council, but unanimously by the groups they represented. As
+opposed to European laws, continuous review of these treaties was required to
+maintain their effect.
 
 [Agile Parliament]() is a distillation of the Iroquois treaty protocol. It
-consists of an [Open Space]() with [story-form treaties](), a decision-making
-[Kanban]() and reciprocal ratification by participant teams. 
+consists of an [Open Space]() for [story-form treaties](), a decision-making
+[Kanban]() and reciprocal ratification by the participant teams. 
 
 ## The Pattern in Portland Form
-
-* [Open Space]() is good for aligning understanding, but doesn’t achieve
-alignment on decisions.
 
 * Agile enterprises must continously adapt to market forces, technological
   innovations and internal constraints. An enterprise needs an efficient way
@@ -51,12 +54,17 @@ alignment on decisions.
 * Accountable hierarchies are the traditional Taylorist method for making
   corporate decisions. Unfortunately they aren't continously adaptive and
   frequently obstruct internal collaboration to maintain power relationships,
-  generating a whole [Anti-Pattern Language]().
+  generating a whole [Anti-Pattern
+  Language](http://www.c2.com/cgi/wiki?OpenSpace).
 
-* Retrospectives work well for consensus decisions on the scale of a scrum,
-  but don't scale. Scrum of Scrums doesn't represent a whole interdependent
-  team so SoS retros experience political anti-patterns including
-  polarization, compromise and power games.
+* [Open Space](http://www.c2.com/cgi/wiki?OpenSpace) is good for aligning
+  understanding, but doesn’t achieve alignment on decisions.
+
+* [Retrospectives](http://c2.com/cgi/wiki?IterationRetrospective) work well
+  for consensus decisions on the scale of a scrum, but don't scale. Scrum of
+  Scrums doesn't represent a whole interdependent team so SoS retros
+  experience political anti-patterns including polarization, compromise and
+  power games.
 
 * Similarly to Spotify, Iroquois society was structured as a matrix of
   councils, not a hierarchy of accountables. Tribes grouped into longhouses,
@@ -150,7 +158,7 @@ enterprises and communities to make decisions together.
   They may join a treaty in a subsequent parliament or they may agree to work
   together by other means.
 
-  - Teams that decide to block a passed treaty - to prevent it going Unanimous
+- Teams that decide to block a passed treaty - to prevent it going Unanimous
   do so by turning up at the next parliament sessoin and moving it back to the
   Question column. The parliament reviews the blocked treaty in due course as
   it would any treaty proposal.
@@ -158,14 +166,16 @@ enterprises and communities to make decisions together.
 ## Agile Treaties
 
 As to the form of a treaty, there's a wonderful collection of real historical
-Iroquois treaties collected by Benjamin Franklin [here]() derived from the
-Iroquois "Great Law of Peace" - http://www.manataka.org/page135.html .
+Iroquois treaties collected by Benjamin Franklin
+[here](https://archive.org/details/indiantreatiespr00vand) derived from the
+Iroquois ["Great Law of Peace"](http://www.manataka.org/page135.html).
 
 Despite idealization by the likes of Rousseau and Franklin, Iroquois laws had
 glaring inconsistencies from the standpoint of a Rawlsian [Theory Of
-Justice](). Privileging the five Iroquois nations over other tribes caused
-inequities that eventually ended the rule of the confederacy. There
-were also rules of "Peace" that don't conform with modern notions, such as, 
+Justice](http://c2.com/cgi/wiki?TheoryOfJustice). Privileging the five
+Iroquois nations over other tribes caused inequities that eventually ended the
+rule of the confederacy. There were also rules of "Peace" that don't conform
+with modern notions, such as, 
 
 > _If refusal steadfastly follows, the War Chief shall let the bunch of white
 > lake shells drop from his outstretched hand to the ground, and shall bound
@@ -175,9 +185,10 @@ Nevertheless, Iroquois treaties seem to fit into [story normal form]() adorned
 with [Behavior Driven Development]() scenarios. To bring them in line with
 Rawls we'd add these constraints:
 
-- To observe the [VeilOfIgnorance](), no treaty is permitted to refer to a
-  specific individual or group of people by name. Instead the treaty must
-  refer to people and groups in terms of their roles in relationships.
+- To observe the [VeilOfIgnorance](http://c2.com/cgi/wiki?VeilOfIgnorance), no
+  treaty is permitted to refer to a specific individual or group of people by
+  name. Instead the treaty must refer to people and groups in terms of their
+  roles in relationships.
 
 - In order to preserve reciprocity, a treaty may not obligate individuals or
   groups that have not unanimously agreed to take part in it. This is the
@@ -200,6 +211,8 @@ were encoded into the wampum belts that signified treaty proposals, council
 occasions and agreements. The three metrics seem to apply equally well to
 the state of health of Agile teams in a modern enterprises so we'll dig in
 here in some depth.
+
+{% img /images/iroquois.png %}
 
 __The Fire__ indicates the quality of internal self-organisation of a tribe or
 guild.  Iroquois chiefs were charged with keeping the fire lit and the

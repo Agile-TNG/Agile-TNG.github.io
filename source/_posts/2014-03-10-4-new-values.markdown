@@ -10,15 +10,44 @@ categories:
 
 By working Agile and helping others do so we have come to value:
 
-* **Consensus protocols over accountable hierarchies**  
-* **Productive teams over certified authorities**  
-* **Evolving pattern languages over prescriptive frameworks**  
-* **Capability funding over project funding**
+* **Consensus games over accountable hierarchies**  
+* **Awakened teams over certified experts**  
+* **Capability funding over project budgets**
+* **Adaptation patterns over prescriptive frameworks**  
 
 That is, while there is value in the items on the right, we value the items on
 the left more. And while we honor the original Manifesto values, we honor these
-values equally.
+TNG values equally.
 <!-- more -->
+
+## What do those items on the left mean?
+
+The items on the right are familiar to us all. The items on the left have
+a pleasant ring, but let's make some concrete examples to make them clear.
+
+* **Consensus games** include [lean coffees](), [open spaces](),
+[retrospectives](), [agile parliament]() and other ways for people to align
+understandings and make decisions together. Lean coffees and open spaces do
+the former; retros and parliaments do the latter. 
+
+* **Awakened teams** self-organize to optimize quality, throughput and ROI
+through a process of continuous adaptation. Certificates provide a way to
+assure basic understanding of theory, but self-organization is learned as
+teams experience, reflect and deliver together, not by book-learning.
+
+* **Capability funding** means empowering teams to continuously deliver and
+improve their value streams, rather than chunking objectives and
+budgets arbitrarily into projects. It includes patterns of work from [Beyond
+Budeting](), [Beta Codex](), [Lean Software Delivery]() and [Open Book
+Management]().
+
+* **Adaptation patterns** are a method of describing good design practices for
+team working. Similar to design patterns for software, each pattern
+describes a proven solution to a commonplace problem in a collaborative
+context. They were pioneered by Beck in his initial description of XP and
+revived by Jim Coplien and Ken Schwaber in their [ScrumPLOP]() conference.
+
+## Where do these values come from?
 
 Agile started with XP on the [C2
 Wiki](http://www.c2.com/cgi/wiki/ExtremeProgrammingRoadmap), a high powered
@@ -37,8 +66,7 @@ for their respective brands.
 Which is crazy. There's value in both Scrum and SAFe, and no reason to think
 you can't combine elements of both along with other frameworks. The value of
 frameworks isn't in their brands and certificates, nor in adopting them as
-prescriptions, but in understanding and adpting the the practice patterns they
-contain. 
+prescriptions, but in adapting the practice patterns they contain. 
 
 Schwaber is correct in worrying about the danger of making "half a cow and
 half a fish" when what we really want is dolphins. The question is, on what
@@ -47,8 +75,8 @@ iteratively, and without tripping up at scale? To do that you need a clear set
 of values and principles. And that's where A:TNG comes in.
 
 A:TNG is based on the idea that SAFe, Less, DAD, APF, ETF, OBM, Beyond
-Budgeting, Lean and on and on all provide useful patterns.  And that there's a
-lot more to enterprise agility than all of them put together. We've augmented
-the Manifesto values not as a way to make yet another brand, but as a basis
-for the work of pulling the pattern languages out of all the brands and
-into the open where we can really sort out what works with what.
+Budgeting, Lean and on and on all provide useful adaptation patterns.  And
+that there's a lot more to enterprise agility than all of them put together.
+We've augmented the Manifesto values not as a way to make yet another brand,
+but as a basis for the work of pulling these pattern languages out of all the
+brands and into the open where we can really sort out what works with what.

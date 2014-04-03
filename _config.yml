@@ -89,6 +89,9 @@ pinboard_count: 3
 delicious_user:
 delicious_count: 3
 
+#LinkedIn
+linkedin_user: petermerel
+
 # Disqus Comments
 disqus_short_name: AgileTNG
 disqus_show_comment_count: false
@@ -96,5 +99,9 @@ disqus_show_comment_count: false
 # Google Analytics
 google_analytics_tracking_id:
 
-# Facebook Like
+# Facebook
 facebook_like: true
+facebook_page: Agile-The-Next-Generation/1437168026520416
+
+# turn off design credits
+hide_design_credits: true

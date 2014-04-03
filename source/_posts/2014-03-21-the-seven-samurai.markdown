@@ -104,7 +104,8 @@ Capability ("MVAC") that would meet these targets, at least on a small scale.
 Assess maturity of existing Agile teams using the [Cohn's Comparative Agility
 metrics](http://comparativeagility.com), and reconcile with this MVAC.
 
-See also [Goose in the Bottle]()
+See also [Goose in the
+Bottle](http://agiletng.org/2014/03/27/the-goose-in-the-bottle/)
 
 ---
 #### Continuous Alignment
@@ -151,7 +152,8 @@ organisational change agents report progress.
 An important first step for the Strategic Scrum is selecting one or more 
 alignment patterns to form the initial stage of the transformation:
 
-* [Goose in the Bottle]()
+* [Goose in the
+  Bottle](http://agiletng.org/2014/03/27/the-goose-in-the-bottle/)
 * [Inversion of Control]()
 * [Tribes and Guilds]()
 * [Capability Funding]()

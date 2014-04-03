@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iroquois | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/iroquois/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-03T23:58:26+11:00</updated>
+  <updated>2014-04-04T09:26:47+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -18,33 +18,39 @@
     <link href="http://Agile-TNG.github.io/2014/04/02/agile-parliament/"/>
     <updated>2014-04-02T15:04:37+11:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/02/agile-parliament</id>
-    <content type="html"><![CDATA[<p>The Spotify pattern of <a href="">Tribes and Guilds</a> is a rediscovered social method.
-The Iroquois Confederacy used it for centuries on a larger scale than
-any modern corporation <a href="">Agile Parliament</a> is how they did it.</p>
+    <content type="html"><![CDATA[<p><a href="">Agile Parliament</a> is a consensus game based on the traditional Iroquois
+protocol of councils and treaties. It enables communities and enterprises to
+make decisions together without deferring to hierarchies of accountable
+individuals.</p>
 
 <p><img src="/images/parliament.png"></p>
 
 <!-- more -->
 
 
-<p>The Iroquois Confederacy interoperated with European governance in North
-America for two centuries. The two co-existed up to the American revolution,
-and the Iroquois directly influenced the new American form of government.</p>
+<p>The Spotify pattern of <a href="">Tribes and Guilds</a> is a rediscovered social method.
+The Iroquois Confederacy used it on a larger scale than any modern corporation
+for almost a thousand years.</p>
 
-<p>Iroquois and American forms differ in that Iroquois society was based on
-unanimity and reciprocity rather than democracy and ownership. Their nations
+<p>For two centuries of that they used it to peacefully inter-operate with
+European governance in North America. The two co-existed right up to the
+American revolution, with the Iroquois directly influencing the American
+founding fathers and their new form of government.</p>
+
+<p>The Iroquois and American forms differ in that Iroquois society was based on
+unanimity and reciprocity rather than democracy and property. Their nations
 were made up of chains of autonomous tribes managed by a pattern of councils
-and intermarriages rather hierarchies of accountable middlemen.</p>
+and intermarriages rather than hierarchies of managers.</p>
 
 <p>Collaborative agreements between the autonomous tribes were called treaties.
 To take effect a treaty required ratification, not just by the people
-attending a council, but by the groups they represented. As opposed to
-European laws, continuous review of treaties was required to maintain their
-effect.</p>
+attending a council, but unanimously by the groups they represented. As
+opposed to European laws, continuous review of these treaties was required to
+maintain their effect.</p>
 
 <p><a href="">Agile Parliament</a> is a distillation of the Iroquois treaty protocol. It
-consists of an <a href="">Open Space</a> with <a href="">story-form treaties</a>, a decision-making
-<a href="">Kanban</a> and reciprocal ratification by participant teams.</p>
+consists of an <a href="">Open Space</a> for <a href="">story-form treaties</a>, a decision-making
+<a href="">Kanban</a> and reciprocal ratification by the participant teams.</p>
 
 <h2>The Pattern in Portland Form</h2>
 

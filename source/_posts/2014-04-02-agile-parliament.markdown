@@ -21,10 +21,12 @@ individuals.
 
 <!-- more -->
 
-The Spotify pattern of [Tribes and Guilds]() is a rediscovered social method.
-The Iroquois Confederacy used it on a larger scale than any modern corporation
-for [almost a thousand years](http://www.haudenosauneeconfederacy.com/whatisconfederacy.html).  For two centuries they peacefully inter-operated
-with European governance in North America. 
+The Spotify pattern of [Tribes and Guilds](http://vimeo.com/85490944) is a
+rediscovered social method.  The Iroquois Confederacy used it on a larger
+scale than any modern corporation for [almost a thousand
+years](http://www.haudenosauneeconfederacy.com/whatisconfederacy.html).  For
+two centuries they peacefully inter-operated with European governance in North
+America. 
 
 The two co-existed right up to the American revolution with the Iroquois
 directly influencing the American founding fathers and their new form of

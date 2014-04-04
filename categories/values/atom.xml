@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Values | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/values/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-04T10:19:45+11:00</updated>
+  <updated>2014-04-04T11:23:24+11:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -22,7 +22,7 @@
 
 <ul>
 <li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Awakened teams over certified experts</strong></li>
+<li><strong>Agile teams over certified masters</strong></li>
 <li><strong>Capability funding over project budgets</strong></li>
 <li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>
@@ -42,16 +42,17 @@ a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.
 
 <ul>
 <li><p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
-<a href="">retrospectives</a>, <a href="">agile parliament</a> and other ways for people to align
-understandings and make decisions together. Lean coffees and open spaces do
-the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Awakened teams</strong> self-organize to optimize quality, throughput and ROI
+<a href="">retrospectives</a>, <a href="http://agiletng.org/2014/04/02/agile-parliament/">agile
+parliament</a> and other ways
+for people to align understandings and make decisions together. Lean coffees
+and open spaces do the former; retros and parliaments do the latter.</p></li>
+<li><p><strong>Agile teams</strong> self-organize to optimize quality, throughput and ROI
 through a process of continuous adaptation. Certificates provide a way to
-assure basic understanding of theory, but self-organization is learned as
-teams experience, reflect and deliver together, not by book-learning.</p></li>
+assure basic understanding of theory, but Agile self-organization is learned
+as teams experience, reflect and deliver together, not by book-learning.</p></li>
 <li><p><strong>Capability funding</strong> means empowering teams to continuously deliver and
-improve their value streams, rather than chunking objectives and
-budgets arbitrarily into projects. It includes patterns of work from <a href="">Beyond
+improve their value streams, rather than chunking objectives and budgets
+arbitrarily into projects. It includes patterns of work from <a href="">Beyond
 Budeting</a>, <a href="">Beta Codex</a>, <a href="">Lean Software Delivery</a> and <a href="">Open Book
 Management</a>.</p></li>
 <li><p><strong>Adaptation patterns</strong> are a method of describing good design practices for

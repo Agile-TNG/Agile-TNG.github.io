@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-06T16:58:13+10:00</updated>
+  <updated>2014-04-07T13:06:40+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -42,17 +42,17 @@ government.</p>
 <p>Iroquois and American forms differ in that Iroquois society was based on
 unanimity and reciprocity rather than democracy and property. Their nations
 were made up of chains of autonomous tribes managed by a cycle of councils
-and intermarriages rather than hierarchies of managers.</p>
+and intermarriages rather than hierarchies of accountable individuals.</p>
 
 <p>Collaborative agreements between the autonomous tribes were called treaties.
 To take effect a treaty required ratification, not just by the people
 attending a council, but unanimously by the groups they represented. As
-opposed to European laws, continuous review of these treaties was required to
-maintain their effect.</p>
+opposed to European laws, continuous review of Iroquois treaties was required
+to maintain their effect.</p>
 
 <p><a href="">Agile Parliament</a> is a distillation of the Iroquois treaty protocol. It
 consists of an <a href="">Open Space</a> for <a href="">story-form treaties</a>, a decision-making
-<a href="">Kanban</a> and reciprocal ratification by the participant teams.</p>
+<a href="">Kanban</a> and reciprocal ratification by participant teams.</p>
 
 <h2>The Pattern in Portland Form</h2>
 
@@ -826,9 +826,9 @@ iteratively as they gain experience with the benefits and challenges.</p>
 
 <h4>Continuous Adoption</h4>
 
-<p><img src="http://Agile-TNG.github.io/images/Adoption.png" width="400"></p>
-
 <p>Track transformation stories in a coaching kanban.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Adoption.png" width="400"></p>
 
 <ul>
 <li><p>Coaching shepherds product planning and delivery teams through the same
@@ -861,9 +861,9 @@ metrics and team-member testaments into case studies to support Acceleration.</p
 
 <h4>Continuous Acceleration</h4>
 
-<p><img src="http://Agile-TNG.github.io/images/Acceleration.png" width="400"></p>
-
 <p>Use consensus protocols to iteratively re-energise the tranformation.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Acceleration.png" width="400"></p>
 
 <ul>
 <li><p>As agile metrics make productivity and quality gains and challenges
@@ -891,9 +891,9 @@ guilds and tribes.</p>
 
 <h4>Continuous Adaptation</h4>
 
-<p><img src="http://Agile-TNG.github.io/images/Adaptation.png" width="400"></p>
-
 <p>Refactor the Transformation Roadmap to leverage new capabilities.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/Adaptation.png" width="400"></p>
 
 <ul>
 <li><p>Agility doesn&rsquo;t merely improve productivity and quality metrics.</p></li>
@@ -1056,7 +1056,7 @@ and open spaces do the former; retros and parliaments do the latter.</p></li>
 <li><p><strong>Extreme teams</strong> self-organize to optimize quality, throughput, ROI and
 alignment by continuously adapting their value stream to its market. They
 consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their evolving
-experience and work together and with other teams to avail themselves of
+experience and coordinate with other teams to avail themselves of
 learnings and innovations.</p></li>
 <li><p><strong>Capability funding</strong> means empowering teams to continuously deliver and
 improve their value streams, rather than chunking objectives and budgets

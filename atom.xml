@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-08T21:10:34+10:00</updated>
+  <updated>2014-04-08T21:17:35+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -1053,11 +1053,12 @@ a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.
 parliament</a> and other ways
 for people to align understandings and make decisions together. Lean coffees
 and open spaces do the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Extreme teams</strong> self-organize to optimize quality, throughput, ROI and
-alignment by continuously adapting their value stream to its market. They
-consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their evolving
-experience and coordinate with other teams to avail themselves of
-learnings and innovations.</p></li>
+<li><p><strong>Extreme teams</strong> self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
+rules</a> to optimize
+quality, throughput, ROI and alignment by continuously adapting their value
+stream to its market. They consciously &ldquo;turn all the dials to ten&rdquo; to
+capitalize on their evolving experience and coordinate with other teams to
+avail themselves of learnings and innovations.</p></li>
 <li><p><strong>Value stream funding</strong> means funding stable teams to continuously deliver
 the maximum ROI features to improve their value streams, rather than
 chunking objectives and budgets arbitrarily into projects. It includes

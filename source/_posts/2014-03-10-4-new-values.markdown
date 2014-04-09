@@ -10,8 +10,8 @@ categories:
 
 By working Agile and helping others do so we have come to value:
 
-* **Consensus games over accountable hierarchies**  
-* **Autonomous teams over corporate committees**  
+* **Consensus games over corporate committees**  
+* **Autonomous teams over component silos**  
 * **Value stream funding over project budgets**
 * **Adaptation patterns over prescriptive frameworks**  
 

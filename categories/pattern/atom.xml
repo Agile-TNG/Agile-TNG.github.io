@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pattern | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-09T20:02:07+10:00</updated>
+  <updated>2014-04-09T20:29:48+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -91,7 +91,7 @@ reciprocal treaties.</p></li>
 <p>Use a game of unanimous consent to reciprocal treaties to enable teams within
 enterprises and communities to make decisions together.</p>
 
-<ul>
+<ol>
 <li><p>As in an Open Space, individuals propose item for discussion in turn. Voting
 dots are used to amalgamate and prioritize items, and the law of 2 feet
 enables everyone to contribute to all sessions.</p></li>
@@ -99,34 +99,36 @@ enables everyone to contribute to all sessions.</p></li>
 teams attempting to arrive at decisions to deal with their common concerns.</p></li>
 <li><p>Each council session is split into 3 rounds. In each round:</p>
 
-<ul>
-<li><p>Instead of just a conference backlog, employ a 6 column kanban to forge
-treaties. As with any kanban, limit the amount of Work In Progress in
-order to maximize total throughput. The columns of this kanban are:</p>
+<ol>
+<li><p> Instead of just a conference backlog, employ a 6 column kanban to forge
+ treaties. As with any kanban, limit the amount of Work In Progress in
+ order to maximize total throughput. The columns of this kanban are:</p>
 
 <ul>
-<li><p>Team learnings that could be leveraged by the broader community (Smiley face)</p></li>
-<li><p>Challenges a team can’t solve for itself (Red Flag)</p></li>
-<li><p>Ideas for the improvement of more teams than just one (Question mark)</p></li>
-<li><p>Treaty proposals that have gained unanimous consent of a session and
-are ready for council review (Exclamation mark)</p></li>
-<li><p>Proposals that have passed review and are ready for respective team
-ratification at retrospectives (Circle) – initially empty.</p></li>
-<li><p>Proposals that have since previous council sessions been
-unanimously ratified by all represented teams (Trefoil Knot).</p></li>
+<li><strong>Team learnings</strong> that could be leveraged by the broader community
+(Smiley face)</li>
+<li><strong>Challenges</strong> a team can’t solve for itself (Red Flag)</li>
+<li><strong>Ideas</strong> for the improvement of more teams than just one (Question
+mark)</li>
+<li><strong>Treaty</strong> proposals that have gained unanimous consent of a session
+and are ready for council review (Exclamation mark)</li>
+<li><strong>Proposals that have passed review</strong> and are ready for respective
+team ratification at retrospectives (Circle) – initially empty.</li>
+<li><strong>Proposals that have been unanimously ratified</strong> since previous
+council sessions by all represented teams (Trefoil Knot).</li>
 </ul>
 </li>
 <li><p>Each session attempts to either create or refine a specific output: a
 treaty proposal:</p>
 
 <ul>
-<li><p>Smiley face sessions try to come up with a treaty about how the
-community can capitalize on a specific team learning.</p></li>
-<li><p>Flag sessions try to come up with a treaty about how the community
-can organize to solve a specific team&rsquo;s problem.</p></li>
-<li><p>Question mark sessions review a specific treaty proposal to try to
-find a way to refactor it and the passed treaties into a consistent
-whole.</p></li>
+<li><strong>Smiley face</strong> sessions try to come up with a treaty about how the
+community can capitalize on a specific team learning.</li>
+<li><strong>Red flag</strong> sessions try to come up with a treaty about how the
+community can organize to solve a specific team&rsquo;s problem.</li>
+<li><strong>Question mark</strong> sessions review a specific treaty proposal to try
+to find a way to refactor it and the passed treaties into a consistent
+whole.</li>
 </ul>
 </li>
 <li><p>Unanimity in each session is required before a treaty proposal is
@@ -144,7 +146,7 @@ new session in the next round to try to sort out whatever is worrying them
 about it.</p></li>
 <li><p>Proposals that are not moved back into the Question mark column by any
 participant are regarded as passed and moved into the Circle column.</p></li>
-</ul>
+</ol>
 </li>
 <li><p>At the end of the council session, the circled treaties affect no one. A
 circled treaty must be unanimously ratified by every team – it’s presented
@@ -162,7 +164,7 @@ together by other means.</p></li>
 do so by turning up at the next council sessoin and moving it back to the
 Question column. The council reviews the blocked treaty in due course as
 it would any treaty proposal.</p></li>
-</ul>
+</ol>
 
 
 <h2>Agile Treaties</h2>

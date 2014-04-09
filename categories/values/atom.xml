@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Values | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/values/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-08T21:19:45+10:00</updated>
+  <updated>2014-04-09T19:56:33+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -22,7 +22,7 @@
 
 <ul>
 <li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Extreme teams over corporate committees</strong></li>
+<li><strong>Autonomous teams over corporate committees</strong></li>
 <li><strong>Value stream funding over project budgets</strong></li>
 <li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>
@@ -46,12 +46,12 @@ a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.
 parliament</a> and other ways
 for people to align understandings and make decisions together. Lean coffees
 and open spaces do the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Extreme teams</strong> self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
-rules</a> to optimize
-quality, throughput, ROI and alignment of their value stream to its market.
-They consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their evolving
-experience and coordinate with other teams to avail themselves of learnings
-and innovations.</p></li>
+<li><p><strong>Autonomous teams</strong> are cross-component feature teams that self-organize
+via <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP rules</a> to
+optimize quality, throughput, ROI and alignment of their value stream to its
+market.  They consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their
+evolving experience and coordinate with other teams to avail themselves of
+learnings and innovations.</p></li>
 <li><p><strong>Value stream funding</strong> means funding stable teams to continuously deliver
 the maximum ROI features to improve their value streams, rather than
 chunking objectives and budgets arbitrarily into projects. It includes

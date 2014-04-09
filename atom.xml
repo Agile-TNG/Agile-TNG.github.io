@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-08T21:19:45+10:00</updated>
+  <updated>2014-04-09T19:56:33+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -14,12 +14,12 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Agile Parliament]]></title>
-    <link href="http://Agile-TNG.github.io/2014/04/02/agile-parliament/"/>
+    <title type="html"><![CDATA[Iroquois Councils]]></title>
+    <link href="http://Agile-TNG.github.io/2014/04/02/agile-council/"/>
     <updated>2014-04-02T15:04:37+11:00</updated>
-    <id>http://Agile-TNG.github.io/2014/04/02/agile-parliament</id>
-    <content type="html"><![CDATA[<p>A scalable consensus game based on the traditional Iroquois protocol of
-councils and treaties. Agile Parliament enables communities and enterprises to
+    <id>http://Agile-TNG.github.io/2014/04/02/agile-council</id>
+    <content type="html"><![CDATA[<p>A scalable consensus game based on the traditional Haudenosaunee protocol of
+councils and treaties. Iroquois Councils enable communities and enterprises to
 make decisions together without deferring to hierarchies of accountable
 individuals.</p>
 
@@ -32,10 +32,10 @@ individuals.</p>
 rediscovered social method.  The Iroquois Confederacy used it on a larger
 scale than any modern corporation for <a href="http://www.haudenosauneeconfederacy.com/whatisconfederacy.html">almost a thousand
 years</a>.  For
-two centuries they peacefully inter-operated with European governance in North
+two centuries it peacefully inter-operated with European governance in North
 America.</p>
 
-<p>The two co-existed right up to the American revolution with the Iroquois
+<p>These two co-existed right up to the American revolution with the Iroquois
 directly influencing the American founding fathers and their new form of
 government.</p>
 
@@ -50,9 +50,9 @@ attending a council, but unanimously by the groups they represented. As
 opposed to European laws, continuous review of Iroquois treaties was required
 to maintain their effect.</p>
 
-<p><a href="">Agile Parliament</a> is a distillation of the Iroquois treaty protocol. It
-consists of an <a href="">Open Space</a> for <a href="">story-form treaties</a>, a decision-making
-<a href="">Kanban</a> and reciprocal ratification by participant teams.</p>
+<p><a href="">Iroquois Council</a> is a distillation of this protocol. It consists of an
+<a href="">Open Space</a> for <a href="">BDD treaties</a>, a decision-making <a href="">Kanban</a> and
+reciprocal ratification by participant teams.</p>
 
 <h2>The Pattern in Portland Form</h2>
 
@@ -97,7 +97,7 @@ dots are used to amalgamate and prioritize items, and the law of 2 feet
 enables everyone to contribute to all sessions.</p></li>
 <li><p>Unlike an open space, individuals identify themselves as representatives of
 teams attempting to arrive at decisions to deal with their common concerns.</p></li>
-<li><p>Each parliamentary session is split into 3 rounds. In each round:</p>
+<li><p>Each council session is split into 3 rounds. In each round:</p>
 
 <ul>
 <li><p>Instead of just a conference backlog, employ a 6 column kanban to forge
@@ -109,10 +109,10 @@ order to maximize total throughput. The columns of this kanban are:</p>
 <li><p>Challenges a team can’t solve for itself (Red Flag)</p></li>
 <li><p>Ideas for the improvement of more teams than just one (Question mark)</p></li>
 <li><p>Treaty proposals that have gained unanimous consent of a session and
-are ready for parliamentary review (Exclamation mark)</p></li>
+are ready for council review (Exclamation mark)</p></li>
 <li><p>Proposals that have passed review and are ready for respective team
 ratification at retrospectives (Circle) – initially empty.</p></li>
-<li><p>Proposals that have since previous parliamentary sessions been
+<li><p>Proposals that have since previous council sessions been
 unanimously ratified by all represented teams (Trefoil Knot).</p></li>
 </ul>
 </li>
@@ -146,21 +146,21 @@ about it.</p></li>
 participant are regarded as passed and moved into the Circle column.</p></li>
 </ul>
 </li>
-<li><p>At the end of the parliament session, the circled treaties affect no one. A
+<li><p>At the end of the council session, the circled treaties affect no one. A
 circled treaty must be unanimously ratified by every team – it’s presented
 at each respective team retro to be considered for testing and ratification
-over the period between parliament sessions.</p></li>
+over the period between council sessions.</p></li>
 <li><p>Only treaties that are unanimously ratified by all members of all teams at
-their retros are enacted by the parliament in its next session. These are
+their retros are enacted by the council in its next session. These are
 moved to the Trefoil Knot column at the start of the session.</p></li>
 <li><p>There is nothing to prevent a smaller subset of teams meeting separately to
 ratify on a treaty that only affects themselves.  Likewise teams that don&rsquo;t
-represent themselves at a parliament aren&rsquo;t bound by treaties agreed there.
-They may join a treaty in a subsequent parliament or they may agree to work
+represent themselves at a council aren&rsquo;t bound by treaties agreed there.
+They may join a treaty in a subsequent council or they may agree to work
 together by other means.</p></li>
 <li><p>Teams that decide to block a passed treaty &ndash; to prevent it going Unanimous
-do so by turning up at the next parliament sessoin and moving it back to the
-Question column. The parliament reviews the blocked treaty in due course as
+do so by turning up at the next council sessoin and moving it back to the
+Question column. The council reviews the blocked treaty in due course as
 it would any treaty proposal.</p></li>
 </ul>
 
@@ -243,7 +243,7 @@ were said to have rusted, where those still in force were iron, and those
 recently re-affirmed were silver. Under conditions of disruptive market
 change, technological innovation and internal refactoring, it is a given that
 enterprises should revisit their internal assumptions and agreements in a
-similar way, and this is the intent of the Agile Parliament pattern.</p>
+similar way, and this is the intent of the Iroquois Council pattern.</p>
 
 <p>The chain began with a single family. Faced with an unforgiving environment,
 Iroquois families could not be maintained in the isolated, nuclear form with
@@ -261,20 +261,20 @@ then a council involving two further tribal units. Thus chains brightened
 by councils occurring at all levels, with each level maintaining pure autonomy
 from the one above it, as limited only by treaties.</p>
 
-<h2>The Parliament of Github?</h2>
+<h2>The Councils of Github?</h2>
 
 <p>An obvious question is how this kind of system can be enacted in a modern
 online social network, specifically github. It is fair to think of a github
 pull-request as a treaty proposal, but there is no equivalent of a
-parliamentary system on github today. Instead collaborators either work
+council system on github today. Instead collaborators either work
 together in a single repository, effectively functioning as a single tribe, or
 assemble a feudal hierarchy of forks, sometimes hubbing on one base, or in
 larger projects constituting an informal management hierarchy.</p>
 
 <p>Work is going on within the Agile:TNG group to create a protocol, eventually
 to be automated, whereby a system of branches can represent the different
-states in the Parliamentary kanban, with a central repository pulling from
-forks as governed by the parliamentary protocol described above.</p>
+states in the council kanban, with a central repository pulling from
+forks as governed by the council protocol described above.</p>
 
 <p>A key challenge to be surmounted in effecting this is the protocol to
 apply to the distinction between a fork and a collaborator where the latter
@@ -283,7 +283,7 @@ untrusted, uninvited or even inimical one.</p>
 
 <p>In general github, as a do-ocracy, provides straightforward social methods for
 participants to cross from the status of fork to collaborator, but it remains
-to arrange a parliamentary protocol that uses this as a channel.</p>
+to arrange a council protocol that uses this as a channel.</p>
 ]]></content>
   </entry>
   
@@ -1029,7 +1029,7 @@ will kick in real soon &hellip;</p>
 
 <ul>
 <li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Extreme teams over corporate committees</strong></li>
+<li><strong>Autonomous teams over corporate committees</strong></li>
 <li><strong>Value stream funding over project budgets</strong></li>
 <li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>
@@ -1053,12 +1053,12 @@ a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.
 parliament</a> and other ways
 for people to align understandings and make decisions together. Lean coffees
 and open spaces do the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Extreme teams</strong> self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
-rules</a> to optimize
-quality, throughput, ROI and alignment of their value stream to its market.
-They consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their evolving
-experience and coordinate with other teams to avail themselves of learnings
-and innovations.</p></li>
+<li><p><strong>Autonomous teams</strong> are cross-component feature teams that self-organize
+via <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP rules</a> to
+optimize quality, throughput, ROI and alignment of their value stream to its
+market.  They consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their
+evolving experience and coordinate with other teams to avail themselves of
+learnings and innovations.</p></li>
 <li><p><strong>Value stream funding</strong> means funding stable teams to continuously deliver
 the maximum ROI features to improve their value streams, rather than
 chunking objectives and budgets arbitrarily into projects. It includes

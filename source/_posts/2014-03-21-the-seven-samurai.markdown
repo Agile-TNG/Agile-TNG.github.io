@@ -281,9 +281,9 @@ iteratively as they gain experience with the benefits and challenges.
 --- 
 ####Continuous Adoption
 
-{% img /images/Adoption.png 400 %}
-
 Track transformation stories in a coaching kanban.
+
+{% img /images/Adoption.png 400 %}
 
 * Coaching shepherds product planning and delivery teams through the same
 Samurai patterns as it does for the enterprise, just on a smaller scale.
@@ -292,7 +292,7 @@ Samurai patterns as it does for the enterprise, just on a smaller scale.
 Stories]() motivated by drivers identified by [Operational Product Owners]()
 from the Strategic Scrum.  These stories should have the [INVEST]()
 properties and be expected to demonstrate value by improving
-[Assessmet](#Assessment) metrics. 
+[Assessment](#Assessment) metrics. 
 
 * ROI for Agile transformation is maximized when transformation stories are
 detailed and delivered iteratively, minimizing [Work In Progress]().
@@ -315,9 +315,9 @@ metrics and team-member testaments into case studies to support Acceleration.
 ---
 ####Continuous Acceleration
 
-{% img /images/Acceleration.png 400 %}
-
 Use consensus protocols to iteratively re-energise the tranformation.
+
+{% img /images/Acceleration.png 400 %}
 
 * As agile metrics make productivity and quality gains and challenges
 transparent, management focus shifts from "how to account for slippage" to
@@ -343,9 +343,9 @@ guilds and tribes.
 ---
 #### Continuous Adaptation
 
-{% img /images/Adaptation.png 400 %}
-
 Refactor the Transformation Roadmap to leverage new capabilities.
+
+{% img /images/Adaptation.png 400 %}
 
 * Agility doesn't merely improve productivity and quality metrics. 
 

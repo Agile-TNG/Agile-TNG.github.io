@@ -20,21 +20,22 @@ Language](http://agiletng.org/2014/03/09/oapl-the-open-agile-pattern-language/).
 
 ## Conspiracy
 
-Robert Heinlein said that inside every revolution there's a conspiracy. Some
-conspiracies get on their high horses and call themselves founders and try to
-lead from the front. But our fellows believe in servant-leadership and put
-their pants on one leg at a time:
+Robert Heinlein said that inside every revolution there's a conspiracy.  We
+aim to open the gates to all comers now so it won't matter who kicked this
+thing off. If we do that right, A:TNG will evolve over time in ways we can't
+possibly anticipate. We hope you'll contribute ideas and feedback to take
+part in this revolution yourself.
 
-* Peter Merel
-* Dave Geving
-* Dave Martin
-* Dave Bales
-* Dries Louw
+* [Peter Merel](http://www.linkedin.com/in/petermerel) -- Tea Master, Editor
+  in Chief
 
-Soon we'll open the gates to all comers, and it won't matter who kicked this
-thing off because it will evolve over time in ways we can't possibly
-anticipate. The Alliance should have done that at the start. We hope you'll
-contribute ideas and feedback and take part in this revolution yourself.
+* [Dave Geving]() -- Chargé D'Affaires Américains
+
+* [Dave Martin]() -- Master at Arms and Brewing
+
+* [Dave Bales]() -- Certified Scrum Liaison, Lean Waterfowl
+
+* [Dries Louw]() -- Agile Architecture & Sports Desk
 
 If you're sympathetic, [fork](http://github.com/Agile-TNG/Agile-TNG.github.io)
 us on github. We have a lot of work to do just on the basics before we get the

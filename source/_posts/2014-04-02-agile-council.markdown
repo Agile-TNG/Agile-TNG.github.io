@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agile Parliament"
+title: "Iroquois Councils"
 date: 2014-04-02 15:04:37 +1100
 author: Peter Merel
 comments: true
@@ -12,8 +12,8 @@ categories:
 - Spotify
 ---
 
-A scalable consensus game based on the traditional Iroquois protocol of
-councils and treaties. Agile Parliament enables communities and enterprises to
+A scalable consensus game based on the traditional Haudenosaunee protocol of
+councils and treaties. Iroquois Councils enable communities and enterprises to
 make decisions together without deferring to hierarchies of accountable
 individuals.
 
@@ -25,27 +25,27 @@ The Spotify pattern of [Tribes and Guilds](http://vimeo.com/85490944) is a
 rediscovered social method.  The Iroquois Confederacy used it on a larger
 scale than any modern corporation for [almost a thousand
 years](http://www.haudenosauneeconfederacy.com/whatisconfederacy.html).  For
-two centuries they peacefully inter-operated with European governance in North
+two centuries it peacefully inter-operated with European governance in North
 America. 
 
-The two co-existed right up to the American revolution with the Iroquois
+These two co-existed right up to the American revolution with the Iroquois
 directly influencing the American founding fathers and their new form of
 government.
 
 Iroquois and American forms differ in that Iroquois society was based on
 unanimity and reciprocity rather than democracy and property. Their nations
 were made up of chains of autonomous tribes managed by a cycle of councils
-and intermarriages rather than hierarchies of managers.
+and intermarriages rather than hierarchies of accountable individuals.
 
 Collaborative agreements between the autonomous tribes were called treaties.
 To take effect a treaty required ratification, not just by the people
 attending a council, but unanimously by the groups they represented. As
-opposed to European laws, continuous review of these treaties was required to
-maintain their effect.
+opposed to European laws, continuous review of Iroquois treaties was required
+to maintain their effect.
 
-[Agile Parliament]() is a distillation of the Iroquois treaty protocol. It
-consists of an [Open Space]() for [story-form treaties](), a decision-making
-[Kanban]() and reciprocal ratification by the participant teams. 
+[Iroquois Council]() is a distillation of this protocol. It consists of an
+[Open Space]() for [BDD treaties](), a decision-making [Kanban]() and
+reciprocal ratification by participant teams. 
 
 ## The Pattern in Portland Form
 
@@ -93,7 +93,7 @@ enterprises and communities to make decisions together.
 - Unlike an open space, individuals identify themselves as representatives of
   teams attempting to arrive at decisions to deal with their common concerns.
 
-- Each parliamentary session is split into 3 rounds. In each round:
+- Each council session is split into 3 rounds. In each round:
 
     - Instead of just a conference backlog, employ a 6 column kanban to forge
     treaties. As with any kanban, limit the amount of Work In Progress in
@@ -105,12 +105,12 @@ enterprises and communities to make decisions together.
         - Ideas for the improvement of more teams than just one (Question mark)
 
         - Treaty proposals that have gained unanimous consent of a session and
-        are ready for parliamentary review (Exclamation mark)
+        are ready for council review (Exclamation mark)
 
         - Proposals that have passed review and are ready for respective team
         ratification at retrospectives (Circle) – initially empty.
 
-        - Proposals that have since previous parliamentary sessions been
+        - Proposals that have since previous council sessions been
         unanimously ratified by all represented teams (Trefoil Knot).
 
     - Each session attempts to either create or refine a specific output: a
@@ -145,24 +145,24 @@ enterprises and communities to make decisions together.
     - Proposals that are not moved back into the Question mark column by any
     participant are regarded as passed and moved into the Circle column.
 
-- At the end of the parliament session, the circled treaties affect no one. A
+- At the end of the council session, the circled treaties affect no one. A
   circled treaty must be unanimously ratified by every team – it’s presented
   at each respective team retro to be considered for testing and ratification
-  over the period between parliament sessions.
+  over the period between council sessions.
   
 - Only treaties that are unanimously ratified by all members of all teams at
-  their retros are enacted by the parliament in its next session. These are
+  their retros are enacted by the council in its next session. These are
   moved to the Trefoil Knot column at the start of the session.
 
 - There is nothing to prevent a smaller subset of teams meeting separately to
   ratify on a treaty that only affects themselves.  Likewise teams that don't
-  represent themselves at a parliament aren't bound by treaties agreed there.
-  They may join a treaty in a subsequent parliament or they may agree to work
+  represent themselves at a council aren't bound by treaties agreed there.
+  They may join a treaty in a subsequent council or they may agree to work
   together by other means.
 
 - Teams that decide to block a passed treaty - to prevent it going Unanimous
-  do so by turning up at the next parliament sessoin and moving it back to the
-  Question column. The parliament reviews the blocked treaty in due course as
+  do so by turning up at the next council sessoin and moving it back to the
+  Question column. The council reviews the blocked treaty in due course as
   it would any treaty proposal.
 
 ## Agile Treaties
@@ -242,7 +242,7 @@ were said to have rusted, where those still in force were iron, and those
 recently re-affirmed were silver. Under conditions of disruptive market
 change, technological innovation and internal refactoring, it is a given that
 enterprises should revisit their internal assumptions and agreements in a
-similar way, and this is the intent of the Agile Parliament pattern. 
+similar way, and this is the intent of the Iroquois Council pattern. 
 
 The chain began with a single family. Faced with an unforgiving environment,
 Iroquois families could not be maintained in the isolated, nuclear form with
@@ -260,20 +260,20 @@ then a council involving two further tribal units. Thus chains brightened
 by councils occurring at all levels, with each level maintaining pure autonomy
 from the one above it, as limited only by treaties.
 
-## The Parliament of Github?
+## The Councils of Github?
 
 An obvious question is how this kind of system can be enacted in a modern
 online social network, specifically github. It is fair to think of a github
 pull-request as a treaty proposal, but there is no equivalent of a
-parliamentary system on github today. Instead collaborators either work
+council system on github today. Instead collaborators either work
 together in a single repository, effectively functioning as a single tribe, or
 assemble a feudal hierarchy of forks, sometimes hubbing on one base, or in
 larger projects constituting an informal management hierarchy. 
 
 Work is going on within the Agile:TNG group to create a protocol, eventually
 to be automated, whereby a system of branches can represent the different
-states in the Parliamentary kanban, with a central repository pulling from
-forks as governed by the parliamentary protocol described above. 
+states in the council kanban, with a central repository pulling from
+forks as governed by the council protocol described above. 
 
 A key challenge to be surmounted in effecting this is the protocol to
 apply to the distinction between a fork and a collaborator where the latter
@@ -282,5 +282,5 @@ untrusted, uninvited or even inimical one.
 
 In general github, as a do-ocracy, provides straightforward social methods for
 participants to cross from the status of fork to collaborator, but it remains
-to arrange a parliamentary protocol that uses this as a channel.
+to arrange a council protocol that uses this as a channel.
 

@@ -86,7 +86,7 @@ reciprocal ratification by participant teams.
 Use a game of unanimous consent to reciprocal treaties to enable teams within
 enterprises and communities to make decisions together.
 
-- As in an Open Space, individuals propose item for discussion in turn. Voting
+1. As in an Open Space, individuals propose item for discussion in turn. Voting
   dots are used to amalgamate and prioritize items, and the law of 2 feet
   enables everyone to contribute to all sessions.
 
@@ -95,34 +95,29 @@ enterprises and communities to make decisions together.
 
 - Each council session is split into 3 rounds. In each round:
 
-    - Instead of just a conference backlog, employ a 6 column kanban to forge
-    treaties. As with any kanban, limit the amount of Work In Progress in
-    order to maximize total throughput. The columns of this kanban are:
-        - Team learnings that could be leveraged by the broader community (Smiley face)
-
-        - Challenges a team can’t solve for itself (Red Flag)
-
-        - Ideas for the improvement of more teams than just one (Question mark)
-
-        - Treaty proposals that have gained unanimous consent of a session and
-        are ready for council review (Exclamation mark)
-
-        - Proposals that have passed review and are ready for respective team
-        ratification at retrospectives (Circle) – initially empty.
-
-        - Proposals that have since previous council sessions been
-        unanimously ratified by all represented teams (Trefoil Knot).
+    1. Instead of just a conference backlog, employ a 6 column kanban to forge
+       treaties. As with any kanban, limit the amount of Work In Progress in
+       order to maximize total throughput. The columns of this kanban are:
+       - __Team learnings__ that could be leveraged by the broader community
+       (Smiley face)
+       - __Challenges__ a team can’t solve for itself (Red Flag)
+       - __Ideas__ for the improvement of more teams than just one (Question
+       mark)
+       - __Treaty__ proposals that have gained unanimous consent of a session
+       and are ready for council review (Exclamation mark)
+       - __Proposals that have passed review__ and are ready for respective
+       team ratification at retrospectives (Circle) – initially empty.
+       - __Proposals that have been unanimously ratified__ since previous
+       council sessions by all represented teams (Trefoil Knot).
 
     - Each session attempts to either create or refine a specific output: a
     treaty proposal:
-        - Smiley face sessions try to come up with a treaty about how the
+        - __Smiley face__ sessions try to come up with a treaty about how the
         community can capitalize on a specific team learning.
-
-        - Flag sessions try to come up with a treaty about how the community
-        can organize to solve a specific team's problem.
-
-        - Question mark sessions review a specific treaty proposal to try to
-        find a way to refactor it and the passed treaties into a consistent
+        - __Red flag__ sessions try to come up with a treaty about how the
+        community can organize to solve a specific team's problem.
+        - __Question mark__ sessions review a specific treaty proposal to try
+        to find a way to refactor it and the passed treaties into a consistent
         whole.
 
     - Unanimity in each session is required before a treaty proposal is

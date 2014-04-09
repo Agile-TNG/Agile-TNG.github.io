@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-09T20:29:48+10:00</updated>
+  <updated>2014-04-09T20:54:37+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -1030,8 +1030,8 @@ will kick in real soon &hellip;</p>
     <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
 
 <ul>
-<li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Autonomous teams over corporate committees</strong></li>
+<li><strong>Consensus games over corporate committees</strong></li>
+<li><strong>Autonomous teams over component silos</strong></li>
 <li><strong>Value stream funding over project budgets</strong></li>
 <li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>

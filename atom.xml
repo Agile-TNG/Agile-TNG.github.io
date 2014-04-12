@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-09T21:24:05+10:00</updated>
+  <updated>2014-04-12T14:40:35+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -1086,9 +1086,9 @@ will kick in real soon &hellip;</p>
     <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
 
 <ul>
-<li><strong>Consensus games over corporate committees</strong></li>
-<li><strong>Autonomous teams over component silos</strong></li>
-<li><strong>Value stream funding over project budgets</strong></li>
+<li><strong>Consensus games over accountable hierarchies</strong></li>
+<li><strong>Autonomous teams over corporate committees</strong></li>
+<li><strong>Capability funding over project budgets</strong></li>
 <li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>
 
@@ -1117,11 +1117,10 @@ rules</a> to optimize
 quality, throughput, ROI and alignment of their value stream to its market.
 They consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their evolving
 experience and coordinate with other teams to share learnings and innovations.</p></li>
-<li><p><strong>Value stream funding</strong> means funding stable teams to continuously deliver
-the maximum ROI features to improve their value streams, rather than
-chunking objectives and budgets arbitrarily into projects. It includes
-patterns of work from <a href="">Beyond Budeting</a>, <a href="">Beta Codex</a>, and <a href="">Open Book
-Management</a>.</p></li>
+<li><p><strong>Capability funding</strong> means funding to continuously deliver the maximum ROI
+features to improve a value stream, rather than chunking objectives,
+timeframes and budgets arbitrarily into projects. It includes patterns of
+work from <a href="">Beyond Budeting</a>, <a href="">Beta Codex</a>, and <a href="">Open Book Management</a>.</p></li>
 <li><p><strong>Adaptation patterns</strong> describe proven solutions to commonplace problems in
 a collaborative context. Similar to design patterns for software, they were
 pioneered in the initial description of XP and revived by Jim Coplien and

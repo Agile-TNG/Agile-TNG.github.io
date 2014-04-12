@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Iroquois Councils"
+title: "Iroquois Council"
 date: 2014-04-02 15:04:37 +1100
 author: Peter Merel
 comments: true
@@ -110,7 +110,7 @@ enterprises and communities to make decisions together.
        - __Proposals that have been unanimously ratified__ since previous
        council sessions by all represented teams (Trefoil Knot).
 
-    - Each session attempts to either create or refine a specific output: a
+    - Each session attempts to either create or refine a specific output - a
     treaty proposal:
         - __Smiley face__ sessions try to come up with a treaty about how the
         community can capitalize on a specific team learning.
@@ -159,6 +159,62 @@ enterprises and communities to make decisions together.
   do so by turning up at the next council sessoin and moving it back to the
   Question column. The council reviews the blocked treaty in due course as
   it would any treaty proposal.
+
+## Unanimity or Bust
+
+Many modern processes have tried to use unanimity and have wound up
+running headlong into the [tragedy of the
+commons](https://www.sciencemag.org/content/162/3859/1243.full). For
+example the UN climate committees are hopelessly [blocked and
+compromised](http://theconversation.com/votes-not-vetoes-a-new-way-to-cut-a-united-nations-climate-deal-24288?utm_medium=email&utm_campaign=Latest+from+The+Conversation+for+9+April+2014&utm_content=Latest+from+The+Conversation+for+9+April+2014+CID_4bbd0a6f6eeb3c8a3d8719978ad1547f&utm_source=campaign_monitor&utm_term=Votes%20not%20vetoes%20a%20new%20way%20to%20cut%20a%20United%20Nations%20climate%20deal). How did the Iroquois deal with something like that?
+
+Looking through their "Great Law of Peace" they used a system of checks and
+balances based on the desire people may have to keep power. It worked as
+follows.
+
+Each tribe represented itself via a sachem. The sachems were males chosen by
+the agreement of the females of the tribe, with offices that could be revoked
+if their females saw them as unfit or disrespectful of protocol. 
+
+There was also a special tribe of fire keepers (Onondaga) whose responsibility
+ordinarily was simply to make certain protocol was followed properly. You may
+think of them in a Spotify context as equivalent to the coaching guild, or
+otherwise as an executive round table.
+
+For any question raised to the great council - say an upstream tribe fouling
+the waters of the downstream tribes - the sachems had power to decide the 
+matter so long as they agreed unanimously. 
+
+If they didn't, then and only then the decision fell to the fire keepers.  If
+the sachems wanted to be in charge, they were motivated to find their way to
+unanimous agreement. If they couldn't, their opinion no longer mattered and
+the matter fell to the fire keepers.
+
+Then the fire keepers had to agree unanimously among themselves before
+their decisions could be regarded as binding. If they couldn't agree, no
+decision was made. They were motivated to find unanimity because otherwise
+the sachems could begin squabbling again. And that sort of thing could
+disrupt the Great Peace.
+
+You might think that a particularly feisty Sachem might bribe a particularly
+corrupt pack of fire keepers and thereby seize absolute power. If one tried,
+however, he risked expulsion along with his tribe for treason and thereby
+the cessation of mutual trade and support. This doesn't seem to have ever
+happened in the history of the six nations.
+
+Clever fellow that Decanawidah. Shame the UN doesn't work it this way.
+
+__Therefore,__
+
+\[Assume a Spotify model of tribes and guilds\]
+
+Teams use councils to create mutually beneficial treaties. If these teams
+cannot come to agreement on a treaty, any team may call for a decision from a
+council of a whole Tribe or a whole Guild.
+
+If that higher council cannot reach unanimity, then the matter is forwarded to
+a great council of the whole enterprise. If and only if that council cannot
+reach unanimity, the amtter is decided by the the company's chief executives.
 
 ## Agile Treaties
 

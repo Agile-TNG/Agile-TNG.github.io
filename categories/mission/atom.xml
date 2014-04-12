@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mission | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/mission/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-12T17:58:46+10:00</updated>
+  <updated>2014-04-12T18:06:18+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -127,7 +127,7 @@ will kick in real soon &hellip;</p>
 
 <ul>
 <li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Autonomous teams over corporate committees</strong></li>
+<li><strong>Extreme teams over corporate committees</strong></li>
 <li><strong>Capability funding over project budgets</strong></li>
 <li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
 </ul>
@@ -147,16 +147,16 @@ a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.
 
 <ul>
 <li><p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
-<a href="">retrospectives</a>, <a href="http://agiletng.org/2014/04/02/agile-parliament/">agile
+<a href="">retrospectives</a>, <a href="http://agiletng.org/2014/04/02/iroquois-council/">agile
 parliament</a> and other ways
 for people to align understandings and make decisions together. Lean coffees
 and open spaces do the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Autonomous teams</strong> are cross-component cross-functional feature teams that
-self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
+<li><p><strong>Extreme teams</strong> are autonomous cross-component cross-functional end-to-end
+feature-based teams that self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
 rules</a> to optimize
 quality, throughput, ROI and alignment of their value stream to its market.
-They consciously &ldquo;turn all the dials to ten&rdquo; to capitalize on their evolving
-experience and coordinate with other teams to share learnings and innovations.</p></li>
+They&rsquo;re extreme in that they consciously &ldquo;turn all the dials to ten&rdquo; to
+capitalize on learnings and innovations.</p></li>
 <li><p><strong>Capability funding</strong> means funding to continuously deliver the maximum ROI
 features to improve a value stream, rather than chunking objectives,
 timeframes and budgets arbitrarily into projects. It includes patterns of

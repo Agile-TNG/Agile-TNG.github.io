@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "The Seven Samurai"
-date: 2014-03-21 21:53:27 +1100
+title: The Seven Samurai
+date: "2014-03-21 21:53:27 +1100"
 comments: true
 author: Peter Merel
-categories:
-- enterprise 
-- coaching
-- pattern
+categories: 
+  - enterprise
+  - coaching
+  - pattern
+published: true
 ---
 
 A pattern language for enterprise agile transformation.
@@ -362,5 +363,3 @@ and refactor the transformation roadmap accordingly. Seek out new ways to
 integrate internal services, leverage new technologies, form new product lines
 and access new market segments. The more often the strategic scrum can review
 these things, the faster its enterprise can adapt.
-
-

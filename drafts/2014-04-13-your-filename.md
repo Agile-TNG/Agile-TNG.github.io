@@ -51,7 +51,7 @@ The problem with projects like this is that they aren’t really projects.
 Product development should be treated as a continuous activity. One release of
 a product shouldn’t mess up the organisation’s ability to deliver the next
 release. What we need is a Product focus rather than a Project focus. The team
-shouldn’t be  the 2.0 team, they should be the Wonder Widget team. They should
+shouldn’t be the 2.0 team, they should be the Wonder Widget team. They should
 be responsible for all the releases of the product. They should flow from one
 release to the next as a stable team.
 

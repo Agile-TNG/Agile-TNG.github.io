@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-22T08:38:51+10:00</updated>
+  <updated>2014-04-22T08:46:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -21,14 +21,22 @@
     <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
 
 <p>XSCALE is a pattern language for a continously delivering,
-continously self-organizing, continuously adaptive Agile enterprise.</p>
+continously self-organizing, continuously adaptive Agile enterprise that
+turns all the dials to ten.</p>
 
 <!-- more -->
 
 
 <h2>Why XSCALE?</h2>
 
-<hr />
+<p>Scrum is basically just watered-down XP. It&rsquo;s more permissive than XP, which
+was good because that made it easier for teams to do and enabled it to be used
+in more contexts than just product development.  But it was also bad because
+it was too permissive of bad practices in product development, which is why so
+few development teams do &ldquo;just Scrum&rdquo;, the majority adopting at least part of
+XP whether they know it or not.</p>
+
+<p>[&hellip;]</p>
 
 <h2>Vs. Taylorism</h2>
 

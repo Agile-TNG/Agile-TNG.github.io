@@ -11,11 +11,10 @@ Agile practitioners that originally fostered
 [XP](http://c2.com/cgi/wiki?ExtremeProgrammingRoadmap) to focus on the new
 frontier of Agile at enterprise scale.
 
-A:TNG is identifying the pattern languages contained in the branded frameworks
-and augmenting them with patterns contributed by its community of Agilists
-in the trenches. It will distribute this work via github under an open
-content license to enable the community to curate and refactor these
-patterns to form an [Open Agile Pattern
+A:TNG identifies the state of the Agile art through patterns contributed by
+its community of Agilists in the trenches. It will distribute this work via
+github under an open content license to enable the community to curate and
+refactor these patterns to form an [Open Agile Pattern
 Language](http://agiletng.org/2014/03/09/oapl-the-open-agile-pattern-language/).
 
 ## Conspiracy
@@ -26,19 +25,18 @@ thing off. If we do that right, A:TNG will evolve over time in ways we can't
 possibly anticipate. We hope you'll contribute ideas and feedback to take
 part in this revolution yourself.
 
-* [Peter Merel](http://www.linkedin.com/in/petermerel) -- Tea Master, Editor
-  in Chief
+* [Peter Merel](http://www.linkedin.com/in/petermerel) -- Tea Master & Editor in Chief
 
 * [Dave Geving]() -- Chargé D'Affaires Américains
 
 * [Dave Martin]() -- Master at Arms and Brewing
 
-* [Dave Bales]() -- Certified Scrum Liaison, Lean Waterfowl
+* [Dave Bales]() -- Lean Waterfowl, Certified Scrum Everything
 
-* [Dries Louw]() -- Agile Architecture & Sports Desk
+* [The Masked Methodologist]() -- Architecture & Sports Desk
 
 If you're sympathetic, [fork](http://github.com/Agile-TNG/Agile-TNG.github.io)
 us on github. We have a lot of work to do just on the basics before we get the
-collaborative pattern authoring flow going, but forking will help us feel
-we're not plumb loco here. And forking is good for the soul.
+collaborative pattern authoring flow going, but forking will helps us feel
+we're not plumb loco here. And it's good for the soul.
 

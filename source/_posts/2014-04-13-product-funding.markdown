@@ -1,13 +1,26 @@
+---
+layout: post
+title: "The Problem With Projects"
+author: Dave Martin
+date: 2014-04-13 20:15:15 +1000
+comments: true
+categories: 
+- Values
+- Pattern
+- Alignment
+---
 
-## The Problem With Projects
+{% img /images/nails.png 400 %}
 
-They say that when all you have is a hammer, every problem looks like a nail.
-It’s the same in business – when all you have is a project management
-methodology, everything looks like a project. Most organisations have become
-very project focussed. Everything is a project. New release of software –
-project. Some process change – project. That’s great. Projects are good. They
-are certainly better than the ad-hoc approach we had before projects. But
-projects do have some drawbacks.
+When all you have is a hammer, every problem looks like a nail.  When all you
+have is a project management methodology, everything looks like a project. 
+
+<!-- more -->
+
+Most organisations have become very project focussed. Everything is a project.
+New release of software – project. Some process change – project. That’s
+great. Projects are good. They are certainly better than the ad-hoc approach
+we had before projects. But projects do have some drawbacks.
 
 To work out what the drawbacks are, we need to look at what a project is. A
 project is defined (by the PMI who should know) as something that has a
@@ -48,12 +61,15 @@ The problem with projects like this is that they aren’t really projects.
 
 ## Therefore
 
-Product development should be treated as a continuous activity. One release of
-a product shouldn’t mess up the organisation’s ability to deliver the next
-release. What we need is a Product focus rather than a Project focus. The team
-shouldn’t be the 2.0 team, they should be the Wonder Widget team. They should
-be responsible for all the releases of the product. They should flow from one
-release to the next as a stable team.
+Treat Product development as a continuous activity. 
+
+{% img /images/zipper.png %}
+
+One release of a product shouldn’t mess up the organisation’s ability to
+deliver the next release. What we need is a Product focus rather than a
+Project focus. The team shouldn’t be the 2.0 team, they should be the Wonder
+Widget team. They should be responsible for all the releases of the product.
+They should flow from one release to the next as a stable team.
 
 Quite obviously this removes the learning stage from the beginning of each
 release but more importantly “that’s their problem” suddenly becomes “that’s

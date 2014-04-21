@@ -1,0 +1,68 @@
+---
+layout: post
+title: "XSCALE: Beyond LeSS and SAFe."
+date: 2014-04-21 20:46:55 +1000
+author: Peter Merel
+comments: true
+categories: 
+- XP
+- Scalable
+- Continuous
+- Autonomous
+- Lean
+- Ecosystem
+---
+
+{% img /images/xscale.png %}
+
+XSCALE is a pattern language for a continously delivering,
+continuously adaptive, continously self-organizing enterprise.
+
+<!-- more -->
+
+## Why XSCALE?
+
+---
+
+## Vs. Taylorism
+
+---
+
+## Vs. Scale Scrum, Agile Path, Enterprise Scrum
+
+---
+
+## Vs. SAFe
+
+---
+
+### Lean Business Modelling
+
+### Business Bingo
+
+### Behavioural Product Planning
+
+### Roadmap Refactoring
+
+### Spotify Model + Iroquois Councils
+
+### Value Stream Kanban
+
+### Lean UX + BDD + XP
+
+### DevOps + CD + GitFlow
+
+### Chapters
+
+### Stream Council
+
+### Enterprise Council
+
+### Continous Knowledge
+
+### Continuous Adaptation
+
+---
+
+## The Red Pill
+

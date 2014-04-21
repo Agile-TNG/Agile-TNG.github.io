@@ -10,9 +10,9 @@ categories:
 
 By working Agile and helping others do so we have come to value:
 
-* **Consensus games over corporate committees**  
-* **Autonomous teams over component silos**  
-* **Value stream funding over project budgets**
+* **Consensus games over accountable hierarchies**  
+* **Extreme teams over corporate committees**  
+* **Product funding over project budgets**
 * **Adaptation patterns over prescriptive frameworks**  
 
 That is, while there is value in the items on the right, we value the items on
@@ -27,22 +27,21 @@ a pleasant ring, but let's make some concrete examples to make them clear.
 
 * **Consensus games** include [lean coffees](), [open spaces](),
   [retrospectives](), [agile
-  parliament](http://agiletng.org/2014/04/02/agile-parliament/) and other ways
+  parliament](http://agiletng.org/2014/04/02/iroquois-council/) and other ways
   for people to align understandings and make decisions together. Lean coffees
   and open spaces do the former; retros and parliaments do the latter. 
 
-* **Autonomous teams** are cross-component cross-functional feature teams that
-  self-organize via the [XP
+* **Extreme teams** are autonomous cross-component cross-functional end-to-end
+  feature-based teams that self-organize via the [XP
   rules](http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices) to optimize
   quality, throughput, ROI and alignment of their value stream to its market.
-  They consciously "turn all the dials to ten" to capitalize on their evolving
-  experience and coordinate with other teams to share learnings and innovations.
+  They're extreme in that they consciously "turn all the dials to ten" to
+  capitalize on learnings and innovations.
 
-* **Value stream funding** means funding stable teams to continuously deliver
-  the maximum ROI features to improve their value streams, rather than
-  chunking objectives and budgets arbitrarily into projects. It includes
-  patterns of work from [Beyond Budeting](), [Beta Codex](), and [Open Book
-  Management]().
+* **Product funding** means funding to continuously deliver the maximum ROI
+  features to improve a value stream, rather than chunking objectives,
+  timeframes and budgets arbitrarily into projects. It includes patterns 
+  from [Beyond Budeting](), [Beta Codex](), and [Open Book Management]().
 
 * **Adaptation patterns** describe proven solutions to commonplace problems in
   a collaborative context. Similar to design patterns for software, they were

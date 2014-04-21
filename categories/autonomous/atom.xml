@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
+  <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
+  <link href="http://Agile-TNG.github.io/"/>
+  <updated>2014-04-22T00:29:46+10:00</updated>
+  <id>http://Agile-TNG.github.io/</id>
+  <author>
+    <name><![CDATA[A:TNG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[XSCALE: Beyond LeSS and SAFe.]]></title>
+    <link href="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
+    <updated>2014-04-21T20:46:55+10:00</updated>
+    <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
+    <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
+
+<p>XSCALE is a pattern language for a continously delivering,
+continuously adaptive, continously self-organizing enterprise.</p>
+
+<!-- more -->
+
+
+<h2>Why XSCALE?</h2>
+
+<hr />
+
+<h2>Vs. Taylorism</h2>
+
+<hr />
+
+<h2>Vs. Scale Scrum, Agile Path, Enterprise Scrum</h2>
+
+<hr />
+
+<h2>Vs. SAFe</h2>
+
+<hr />
+
+<h3>Lean Business Modelling</h3>
+
+<h3>Business Bingo</h3>
+
+<h3>Behavioural Product Planning</h3>
+
+<h3>Roadmap Refactoring</h3>
+
+<h3>Spotify Model + Iroquois Councils</h3>
+
+<h3>Value Stream Kanban</h3>
+
+<h3>Lean UX + BDD + XP</h3>
+
+<h3>DevOps + CD + GitFlow</h3>
+
+<h3>Chapters</h3>
+
+<h3>Stream Council</h3>
+
+<h3>Enterprise Council</h3>
+
+<h3>Continous Knowledge</h3>
+
+<h3>Continuous Adaptation</h3>
+
+<hr />
+
+<h2>The Red Pill</h2>
+]]></content>
+  </entry>
+  
+</feed>

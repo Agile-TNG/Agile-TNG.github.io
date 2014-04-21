@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XSCALE: Beyond LeSS and SAFe."
+title: "XSCALE: Beyond Lean, LeSS & SAFe."
 date: 2014-04-21 20:46:55 +1000
 author: Peter Merel
 comments: true
@@ -16,7 +16,7 @@ categories:
 {% img /images/xscale.png %}
 
 XSCALE is a pattern language for a continously delivering,
-continuously adaptive, continously self-organizing enterprise.
+continously self-organizing, continuously adaptive enterprise.
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ continuously adaptive, continously self-organizing enterprise.
 
 ---
 
-## Vs. Scale Scrum, Agile Path, Enterprise Scrum
+## Vs. Large Scale Scrum, Agile Path, Enterprise Scrum
 
 ---
 

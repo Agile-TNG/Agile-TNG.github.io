@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-23T11:52:18+10:00</updated>
+  <updated>2014-04-23T15:10:00+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -14,41 +14,99 @@
 
   
   <entry>
-    <title type="html"><![CDATA[XP in a <br> Scalable<br> Continuous<br> Autonomous<br> Lean <br>Ecosystem]]></title>
+    <title type="html"><![CDATA[XSCALE:<br>XP-based <br> Scalable <br> Continuous <br> Autonomous <br> Lean Ecosystem]]></title>
     <link href="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
     <updated>2014-04-21T20:46:55+10:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
     <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
 
-<p>XSCALE is a pattern language for a continously delivering,
-continously self-organizing, continuously adaptive Agile enterprise that
-turns all the knobs to ten.</p>
+<p>XSCALE is a pattern language for a continously delivering, continously
+self-organizing, continuously adaptive Agile enterprise that turns all the
+knobs to ten.</p>
 
 <!-- more -->
 
 
 <h2>Why XSCALE?</h2>
 
-<p>Scrum is basically just watered-down XP. It&rsquo;s more permissive than XP, which
-was good because that made it easier for teams to do and enabled it to be used
-in more contexts than just product development.  But it was also bad because
-it was too permissive of bad practices in product development, which is why so
-few development teams do &ldquo;just Scrum&rdquo;, the majority adopting at least part of
-XP whether they know it or not.</p>
+<p>Agile has become a minefield of competing processes. Lean Startup, Continuous
+Delivery, Scrum, XP, LSD, Lean UX, BDD. the Spotify Model, KanBan, ScrumBan,
+BPP, DevOps, GitFlow, all the &ldquo;agile&rdquo; certificate programs, &ldquo;agile&rdquo;
+tools, &ldquo;agile&rdquo; architecture &hellip; plus a dozen &ndash; and counting &ndash; &ldquo;enterprise
+scale agile&rdquo; frameworks.</p>
 
-<p>[&hellip;]</p>
+<p>Plus a bunch of worried looking Manifesto greybeards wanting to rename Agile
+something else now and start over. Or going to war over brandname mindshare
+&hellip;</p>
 
-<h2>Vs. Taylorism</h2>
+<p>If it were a software project we&rsquo;d say it&rsquo;s a big ball of mud that is long
+overdue for refactoring.  Each of the brandnames has value to offer, but hat&rsquo;s
+missing is how to plug them together, tailor them, and plug in whatever new
+Agile innovations come to light without drama.</p>
 
-<hr />
+<p>XSCALE is just that. It&rsquo;s a combination of existing, proven state of the art
+Agile practices tailored to work together at any scale.  Not an alternative to
+them, but an uncompromising configuration of them. No flab, no church, and
+no special sauce, all open content proven by real world experience.</p>
 
-<h2>Vs. Large Scale Scrum, Agile Path, Enterprise Scrum</h2>
+<p>To be specific XSCALE is a configuration of Lean Startup, BDD, Lean UX,
+Spotify, Lean Kanban, Iroquois Councils, XP, DevOps and CD.  XSCALE supports a
+journey that has no big-training-up-front, no low-ROI compromised states, no
+half-way transition teams, no bureaucracy, no stress and no surprises.</p>
 
-<hr />
+<p>You don&rsquo;t have to take your whole organisation or your whole value stream to
+XSCALE. In fact a great way to use it is to start small, a <a href="">Goose in the
+Bottle</a>, and then grow organically it as it proves its worth. So don&rsquo;t think
+of XSCALE as some alternative to Scrum, Lean, SAFe or whatever. Just think of
+it as Agile. Because really that&rsquo;s all anyone wants &ndash; the rest is people
+selling something.</p>
 
-<h2>Vs. SAFe</h2>
+<h2>XP-based</h2>
 
-<hr />
+<p>We left out an important word in the summary above. Scrum. How come?</p>
+
+<p>Despite all the certicates, books and general foofooraw, Scrum has never been
+anything more than a watered-down version of XP. It&rsquo;s more permissive than XP
+because that makes it easier for teams to do and enables it to be used in more
+contexts than just product development. Which is why it&rsquo;s more popular than
+XP. But there&rsquo;s also a downside to it.</p>
+
+<p>Though Scrum is intentionally lower discipline than XP that doesn&rsquo;t mean a
+Scrum team can&rsquo;t do XP. The vast majority adopt at least some XP practices
+whether they call them by that name or not. But Scrum permits inefficient
+practices that reduce the ROI, throughput and quality of a team. Its
+permissive nature represents a real problem at scale.</p>
+
+<p>Without XP&rsquo;s pairing, test automation, collective code ownership, continuous
+integration and merciless refactoring, which are all the &ldquo;hard bits&rdquo; that
+Scrum leaves out, ambient technical debt is inevitable. Scrum&rsquo;s long
+iterations — up to four weeks — permit misalignment and thereby rework.
+Resulting quality problems lead to long release cycles and combinatorial risk.</p>
+
+<p>Worst of all, where XP requires teams to deliver end-to-end features, Scrum
+<a href="http://www.scrumalliance.org/community/articles/2012/september/working-with-component-teams-how-to-navigate-the-c">intentionally permits teams to continue to work in component
+silos</a>,
+throwing work over the wall at each other with the attendant bureaucratic
+waste.</p>
+
+<p>There is certainly a real benefit to component teams in using Scrum vs some
+Waterfall process, but component teams are a deep pitfall when it comes to
+Agile scaling to the enterprise because they absolutely prohibit continuous
+delivery.</p>
+
+<p>So &hellip; XSCALE doesn&rsquo;t say you can&rsquo;t do Scrum. It simply notes that if you&rsquo;re
+doing XP you are already doing Scrum plus the things that make Scrum work
+really well.</p>
+
+<h2>Scalable</h2>
+
+<h2>Continuous</h2>
+
+<h2>Autonomous</h2>
+
+<h2>Lean</h2>
+
+<h2>Ecosystem</h2>
 
 <h3>Lean Business Modelling</h3>
 
@@ -72,11 +130,7 @@ XP whether they know it or not.</p>
 
 <h3>Enterprise Council</h3>
 
-<h3>Continous Knowledge</h3>
-
 <h3>Continuous Adaptation</h3>
-
-<hr />
 
 <h2>The Red Pill</h2>
 ]]></content>

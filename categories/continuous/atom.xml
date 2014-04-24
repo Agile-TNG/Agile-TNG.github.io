@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T15:48:24+10:00</updated>
+  <updated>2014-04-24T19:04:24+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -26,6 +26,8 @@ Agile enterprise that turns all the knobs to ten.</p>
 
 <!-- more -->
 
+
+<p>[This post is currently in draft. I hope to finish it this weekend.]</p>
 
 <h2>Why XSCALE?</h2>
 
@@ -98,17 +100,18 @@ of cross-cutting chapters and guilds to scope conversations to small teams,
 so their combinations of concerns become a problem to solve. The Spotify and
 Iroquois models eliminate this problem before it can occur.</p>
 
-<p>There is one further big challenge in chopping things up fine as Agile does.
+<p>There is one further big challenge in chopping things up fine as Agile must.
 Agile works as a hill-climbing algorithm; it&rsquo;s happy to climb a molehill of
-value, while there&rsquo;s an Everest right next door. Making certain that
+value while there&rsquo;s an Everest right next door. Making certain that
 team backlogs add up to a coherent product backlog requires a breadth-first
 view of the product and of the business model that hosts it.</p>
 
 <p>So XSCALE incorporates Business Model Canvases from Lean Startup and
 Breadth-first Product Roadmaps, Behavioural Product Planning and Roadmap
-Refactoring from TNG. These make certain all the little batches of little
-stories produced by all the little teams still add up to a maximum ROI stream
-of whole features that respects MVP and CoD constraints.</p>
+Refactoring from TNG. These practice patterns make certain all the little
+batches of little stories produced by all the little teams still add up to a
+maximum ROI stream of whole features that respects funding, MVP and CoD
+constraints.</p>
 
 <h2>Continuous</h2>
 

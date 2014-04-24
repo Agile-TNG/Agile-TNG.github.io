@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T15:15:46+10:00</updated>
+  <updated>2014-04-24T15:18:33+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -66,15 +66,14 @@ than trying to effect big-change-up-front for existing teams.</p>
 collaborative and continuous in all its methods of planning, delivery and
 transformation. It offers a more coherent organization than LeSS because it
 combines the Spotify model of <a href="">Tribes and Guilds</a> with the historically
-proven method of <a href="">Iroquois Councils</a>. It&rsquo;s also more accessible than Spotify
-because it provides a simple, bumpless way for existing programs to achieve
-transformation from their current state of organization.</p>
+proven method of <a href="">Iroquois Councils</a>. And it&rsquo;s more accessible than Spotify
+because it provides an iterative, bumpless way for existing programs to
+achieve transformation from their current SDLC.</p>
 
-<p>XSCALE also differs from these three by augmenting proper XP with a
-standardization of the best proven practice patterns from Lean Startup, BDD,
-Lean UX, Kanban, DevOps, CD and TNG, refactoring these into a single,
-consistent ecosystem that represents the absolute Agile state of the art on
-any scale.</p>
+<p>XSCALE also differs from these three by augmenting proper XP with an
+interlocking cycle of the best proven practice patterns from Lean Startup,
+BDD, Lean UX, Kanban, DevOps, CD and TNG, refactoring these for form a simple,
+consistent ecosystem that represents the absolute Agile state of the art.</p>
 
 <h2>XP-based</h2>
 

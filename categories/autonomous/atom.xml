@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T19:18:29+10:00</updated>
+  <updated>2014-04-25T00:43:00+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -72,16 +72,16 @@ proven method of <a href="">Iroquois Councils</a>. And it&rsquo;s more accessibl
 because it provides an iterative, bumpless way for existing programs to
 achieve transformation from their current SDLC.</p>
 
-<p>XSCALE also differs from these three by augmenting proper XP with an
-interlocking cycle of the best proven practice patterns from Lean Startup,
-BDD, Lean UX, Kanban, DevOps, CD and TNG, refactoring these for form a simple,
-consistent ecosystem that represents the absolute Agile state of the art.</p>
+<p>XSCALE also differs from these three by augmenting proper XP with an ecosystem
+of interlocking, proven practice patterns drawn from Lean Startup, BDD, Lean
+UX, Kanban, DevOps, CD and TNG&rsquo;s OAPL. Once matured we believe this ecosystem
+represents the current ultimate Agile state of the art.</p>
 
 <h2>XP-based</h2>
 
 <p>Why not Scrum? Well, Scrum is really just a watered-down version of XP. If you
 do XP you already do all the Scrum practices. Full XP, however, enormously
-simplifies the job of making combinations of Agile teams scale.</p>
+simplifies the challenge of making combinations of Agile teams scale.</p>
 
 <p>XP&rsquo;s pair working, test automation, collective code ownership, continuous
 integration and merciless refactoring &ndash; the &ldquo;extreme&rdquo; parts of Agile that

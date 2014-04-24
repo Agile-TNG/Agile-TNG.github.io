@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T13:31:46+10:00</updated>
+  <updated>2014-04-24T13:32:50+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -72,10 +72,9 @@ turned to ten.</p>
 
 <h2>XP-based</h2>
 
-<p>We left out an important word in that laundry list. Scrum.  Well, Scrum is
-really just a watered-down version of XP. If you do XP you already do all the
-Scrum practices. Full XP, however, enormously simplifies the job of making
-combinations of teams scale.</p>
+<p>Why not Scrum? Well, Scrum is really just a watered-down version of XP. If you
+do XP you already do all the Scrum practices. Full XP, however, enormously
+simplifies the job of making combinations of Agile teams scale.</p>
 
 <p>Why? Because without XP&rsquo;s pair working, test automation, collective code
 ownership, continuous integration and merciless refactoring &ndash; the &ldquo;hard bits&rdquo;

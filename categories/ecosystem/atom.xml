@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T13:35:24+10:00</updated>
+  <updated>2014-04-24T13:37:33+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -87,16 +87,17 @@ That means rework and surprises, and those things cascade at scale.</p>
 of people. The number of combinations of a set grows very rapidly. The set of
 combinations of just 10 things, for example, has over 3.6 million variants.</p>
 
-<p>Waterfall failed in part because it doesn&rsquo;t control for combinations.  Big
+<p>Waterfall failed in part because it didn&rsquo;t control for combinations.  Big
 teams, big meetings, big batch sizes, big chunks of work, big changes &hellip;
 Agile keeps these things small to stay away from the nasty end of the
 combinatorial curve.</p>
 
 <p>But Agile works as a hill-climbing algorithm; it&rsquo;s happy to climb a molehill
 of value, while there&rsquo;s Everest right next door. To deal with this XSCALE
-incorporates Lean Startup, Behavioural Product Planning and Roadmap
-Refactoring to make certain all the little batches of little stories produced
-by all the little teams still add up to whole (and maximum ROI) features.</p>
+incorporates Business Model Canvases from Lean Startup and Behavioural Product
+Planning and Roadmap Refactoring from TNG to make certain all the little
+batches of little stories produced by all the little teams still add up to
+a maximum ROI stream of whole features.</p>
 
 <h2>Continuous</h2>
 

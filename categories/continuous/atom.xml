@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T15:18:33+10:00</updated>
+  <updated>2014-04-24T15:23:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -81,10 +81,10 @@ consistent ecosystem that represents the absolute Agile state of the art.</p>
 do XP you already do all the Scrum practices. Full XP, however, enormously
 simplifies the job of making combinations of Agile teams scale.</p>
 
-<p>Why? Because without XP&rsquo;s pair working, test automation, collective code
-ownership, continuous integration and merciless refactoring &ndash; the &ldquo;hard bits&rdquo;
-of Agile that Scrum leaves out, technical debt inevitably increases over time.
-That means rework and surprises, and those things cascade at scale.</p>
+<p>XP&rsquo;s pair working, test automation, collective code ownership, continuous
+integration and merciless refactoring &ndash; the &ldquo;hard bits&rdquo; of Agile that Scrum
+leaves out &ndash; continuously pay off technical debt and assure there will be no
+cycles of rework and team interdependency to trip up delivery at scale.</p>
 
 <h2>Scalable</h2>
 

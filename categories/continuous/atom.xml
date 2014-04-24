@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T14:30:30+10:00</updated>
+  <updated>2014-04-24T14:41:04+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -38,41 +38,42 @@ has its strengths and weaknesses.</p>
 big-change-up-front, punctuated cadence model that combines Kanban, the
 <a href="">release train</a> integration pattern, and Scrum. SAFe lets an organization
 keep its component silos intact and includes some XP practices but ignores
-anything to do with continuous delivery, collective ownership, merciless
-refactoring or feature teams.</p></li>
-<li><p>LeSS is more progressive, offering a high-collaboration, continuous cadence
-model that relies on <a href="">Scrum of Scrums</a> to deal with integration and
-cross-cutting concerns. It is still big-change-up-front, however, requiring
-an organization to refactor its component silos into feature teams before
-commencing sprints, This seems to be why SAFe is winning on mindshare.  LeSS
-also leaves specifics of product planning, automation and so on for its
-teams to solve for themselves over time.</p></li>
+continuous delivery, collective ownership, merciless refactoring and feature
+teams.</p></li>
+<li><p>LeSS is more progressive in some ways, offering a high-collaboration,
+continuous cadence model that relies on <a href="">Scrum of Scrums</a> to deal with
+integration and cross-cutting concerns. It is still big-change-up-front,
+however, requiring an organization to refactor its component silos into
+feature teams before commencing sprints, It leaves specifics of product
+planning, test automation and so on for its teams to discover for themselves
+over time.</p></li>
 <li><p>The Spotify model dispenses with Scrum in favour of a pattern of <a href="">Tribes and
 Guilds</a>, strongly emphasizing bottom-up collaboration and team autonomy.
-It gives no further guidance on methodology as it expects its structure of
-autonomous teams is capable of deciding for itself how to choose and
-coordinate further Agile practices.</p></li>
+It gives no further guidance on method as it expects a structure of
+top-flight autonomous teams is capable of deciding for themselves how to
+choose, tailor and coordinate the rollout of further Agile practices.</p></li>
 </ul>
 
 
-<p>What&rsquo;s common to all of these is that they shy away from the proper
-high-discipline XP practices. XSCALE is based on the premise that XP
-makes scaling a lot easier to do &ndash; and that a large enterprise can start
-with XP if it stages its transformation iteratively, growing organically
-from a small team rather than trying to effect big-change-up-front.</p>
+<p>What&rsquo;s common to all of these is that they don&rsquo;t require proper
+high-discipline XP practices. XSCALE is based on the premise that full XP
+makes scaling a lot easier to do &ndash; and that a large enterprise can achieve
+this if it stages its transformation iteratively, growing organically from a
+small team rather than trying to effect big-change-up-front for all teams.</p>
 
 <p>As a result, XSCALE is more Agile than SAFe in that it is fully collaborative
 and continuous in its methods of planning, delivery and transformation. It
-offers a more cohesive organization than LeSS because it combines the Spotify
-model of <a href="">Tribes and Guilds</a> with the larger scale method of <a href="">Iroquois
-Councils</a>. It&rsquo;s also more accessible than Spotify because it provides a
-simple method for existing programs to achieve the transformation from their
-current state of organization.</p>
+offers a more coherent organization than LeSS because it combines the Spotify
+model of <a href="">Tribes and Guilds</a> with the historically proven method of
+<a href="">Iroquois Councils</a>. It&rsquo;s also more accessible than Spotify because it
+provides a simple, bunpless way for existing programs to achieve
+transformation from their current state of organization.</p>
 
-<p>XSCALE also differs in that it augments proper XP with a standardization of
-the best proven practice patterns from Lean Startup, BDD, Lean UX, Kanban,
-DevOps, CD and TNG, refactoring these into a single, consistent ecosystem that
-represents the absolute Agile state of the art.</p>
+<p>XSCALE also differs from these three by augmenting proper XP with a
+standardization of the best proven practice patterns from Lean Startup, BDD,
+Lean UX, Kanban, DevOps, CD and TNG, refactoring these into a single,
+consistent ecosystem that represents the absolute Agile state of the art on
+any scale.</p>
 
 <h2>XP-based</h2>
 

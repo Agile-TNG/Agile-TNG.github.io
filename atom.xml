@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T14:18:35+10:00</updated>
+  <updated>2014-04-24T14:21:13+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -39,8 +39,7 @@ big-change-up-front, punctuated cadence model that combines Kanban, the
 <a href="">release train</a> integration pattern, and Scrum. SAFe lets an organization
 keep its component silos intact and includes some XP practices but ignores
 anything to do with continuous delivery, collective ownership, merciless
-refactoring or refactoring to feature teams. It doesn&rsquo;t say you can&rsquo;t do
-those things &hellip;</p></li>
+refactoring or feature teams.</p></li>
 <li><p>LeSS is more progressive, offering a low-discipline, high-collaboration,
 big-change-up-front, continuous cadence model that relies on <a href="">Scrum of
 Scrums</a> to deal with integration and cross-cutting concerns and requires

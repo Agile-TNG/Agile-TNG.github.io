@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-24T19:10:37+10:00</updated>
+  <updated>2014-04-24T19:18:29+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -84,20 +84,20 @@ do XP you already do all the Scrum practices. Full XP, however, enormously
 simplifies the job of making combinations of Agile teams scale.</p>
 
 <p>XP&rsquo;s pair working, test automation, collective code ownership, continuous
-integration and merciless refactoring &ndash; the &ldquo;hard bits&rdquo; of Agile that Scrum
-leaves out &ndash; continuously pay off technical debt and assure there will be no
-cycles of rework and team interdependency to trip up delivery at scale.</p>
+integration and merciless refactoring &ndash; the &ldquo;extreme&rdquo; parts of Agile that
+Scrum leaves out &ndash; continuously pay off technical debt and assure there will
+be no cycles of rework and team interdependency to trip up delivery at scale.</p>
 
 <h2>Scalable</h2>
 
 <p>Scale is about combinations. Of requirements, of dependencies, of defects, and
 of people. The number of combinations of a set grows very rapidly; the set of
-combinations of just 10 things, for example, has over 3.6 million variants.</p>
+combinations of just 10 things, for example, has over 3.6 million members.</p>
 
 <p>This is why SAFe&rsquo;s all-hands two-day release planning meetings are so
-stressful. And likewise LeSS&rsquo;s &ldquo;town hall&rdquo; meetings. They provide no structure
-of cross-cutting chapters and guilds to scope conversations to small teams,
-so their combinations of concerns become a problem to solve. The Spotify and
+stressful. And likewise LeSS&rsquo;s &ldquo;town hall&rdquo; meetings. They provide no
+cross-cutting team structure to scope conversations to fewer combinations of
+concerns, and that becomes a problem for their teams to solve. The Spotify /
 Iroquois models eliminate this problem before it can occur.</p>
 
 <p>There is one further big challenge in chopping things up fine as Agile must.

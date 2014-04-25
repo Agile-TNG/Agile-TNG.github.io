@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-25T14:42:31+10:00</updated>
+  <updated>2014-04-25T14:45:07+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -83,7 +83,7 @@ greatest benefit with the lowest risk.</p>
 
 <h2>What&rsquo;s XSCALE?</h2>
 
-<h2>XP-based</h2>
+<h3>XP-based</h3>
 
 <p>Why not Scrum? Scrum is really just a watered-down version of XP. If you do
 proper XP you already have all the Scrum practice patterns. XP, however,
@@ -97,7 +97,7 @@ rework and team interference. At scale these things cascade and multiply,
 representing an unacceptable risk to enterprise productivity. XP largely
 eliminates that risk.</p>
 
-<h2>Scalable</h2>
+<h3>Scalable</h3>
 
 <p>Scale is about combinations. Of requirements, of dependencies, of defects, and
 of people. The number of combinations of a set is the factorial function,
@@ -115,7 +115,7 @@ Canvases from Lean Startup and Behavioural Product Planning from OAPL to make
 sure the output of the multiple Agile teams adds up to a maximum ROI stream of
 whole features that respect stream funding limits, MVP and CoD constraints.</p>
 
-<h2>Continuous</h2>
+<h3>Continuous</h3>
 
 <p>SAFe relies heavily on a quarterly <a href="">release train</a> integration pattern. This
 is good for conservative organizations because it means they don&rsquo;t have to
@@ -134,7 +134,7 @@ acceptance testing in &ldquo;hardening sprints&rdquo;.</li>
 <p>XSCALE avoids these penalties by dispensing with release trains in favour of
 Feature teams, the GitFlow DVCS pattern, virtual environments, CD and BDD.</p>
 
-<h2>Autonomous</h2>
+<h3>Autonomous</h3>
 
 <p>SAFe has been criticized for its assumption of hierarchical, top-down
 decision-making, but LeSS assumes exactly the same thing. Many of the benefits
@@ -160,33 +160,33 @@ proved stable at a national scale over a period of several centuries. XSCALE
 combines it with the Spotify Tribal model to maintain the benefits of
 collaboration at team, stream and whole enterprise levels.</p>
 
-<h2>Lean</h2>
+<h3>Lean</h3>
 
-<h2>Ecosystem</h2>
+<h3>Ecosystem</h3>
 
-<h3>Lean Business Modelling</h3>
+<h4>Lean Business Modelling</h4>
 
-<h3>Business Bingo</h3>
+<h4>Business Bingo</h4>
 
-<h3>Behavioural Product Planning</h3>
+<h4>Behavioural Product Planning</h4>
 
-<h3>Roadmap Refactoring</h3>
+<h4>Roadmap Refactoring</h4>
 
-<h3>Spotify Model + Iroquois Councils</h3>
+<h4>Spotify Model + Iroquois Councils</h4>
 
-<h3>Value Stream Kanban</h3>
+<h4>Value Stream Kanban</h4>
 
-<h3>Lean UX + BDD + XP</h3>
+<h4>Lean UX + BDD + XP</h4>
 
-<h3>DevOps + CD + GitFlow</h3>
+<h4>DevOps + CD + GitFlow</h4>
 
-<h3>Chapters</h3>
+<h4>Chapters</h4>
 
-<h3>Stream Council</h3>
+<h4>Stream Council</h4>
 
-<h3>Enterprise Council</h3>
+<h4>Enterprise Council</h4>
 
-<h3>Continuous Adaptation</h3>
+<h4>Continuous Adaptation</h4>
 
 <h2>The Red Pill</h2>
 ]]></content>

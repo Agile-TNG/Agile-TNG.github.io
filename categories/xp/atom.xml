@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-25T14:46:33+10:00</updated>
+  <updated>2014-04-25T15:32:45+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -38,11 +38,11 @@ has its strengths and weaknesses.</p>
 
 <ul>
 <li><p>SAFe targets conservative businesses with a low-discipline, top-down,
-big-change-up-front, punctuated cadence model that combines Kanban, the
-<a href="">release train</a> integration pattern, and Scrum. SAFe is designed to permit
-an organization to keep its component silos intact. So it includes some XP
-practices but ignores test-first TDD, continuous delivery, collective
-ownership, merciless refactoring and feature teams.</p></li>
+big-change-up-front, punctuated cadence model that combines Kanban, a slow
+quarterly <a href="">release train</a> integration, and Scrum. SAFe is designed to
+permit an organization to keep its component silos intact. So it includes
+some XP practices but ignores test-first TDD, continuous delivery,
+collective ownership, merciless refactoring and feature teams.</p></li>
 <li><p>LeSS is more progressive in some ways, offering a high-collaboration,
 continuous cadence model that relies on <a href="">Scrum of Scrums</a> to deal with
 integration and cross-cutting concerns. It is still big-change-up-front,
@@ -57,15 +57,14 @@ choose, tailor and coordinate the rollout of further Agile practices.</p></li>
 </ul>
 
 
-<p>There are several further variatons on LeSS in the Scrum community but the
-common thread of all of these things is the assumption that requiring
-high-discipline XP practices is too hard for a large enterprise to do.</p>
+<p>There are several further variatons on scaling in the Scrum community but the
+common thread of all these things is the assumption that requiring
+high-discipline XP practices is hard for a large enterprise to do.</p>
 
 <p>XSCALE is based on the premise that full XP makes scaling much easier to do.
-A large enterprise can tranasform to full XP iteratively. By growing from a
-small uncompromised XP team using the <a href="">Seven Samurai</a> patterns it never
-needs to effect big-change-up-front of its portfolios, programs or component
-teams.</p>
+A large enterprise can tranasform to XP iteratively. By growing from a small
+uncompromised XP team using the <a href="">Seven Samurai</a> patterns it never needs to
+effect big-change-up-front of its portfolios, programs or component teams.</p>
 
 <p>As a result, XSCALE offers more Agility than SAFe in that its methods of
 planning, delivery and transformation are fully collaborative and continuous.
@@ -117,13 +116,13 @@ whole features that respect stream funding limits, MVP and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
-<p>SAFe relies heavily on a quarterly <a href="">release train</a> integration pattern. This
-is good for conservative organizations because it means they don&rsquo;t have to
-alter their existing team structures. But there are penalties to pay:</p>
+<p>SAFe relies heavily on a slow quarterly <a href="">release train</a> integration pattern.
+This is good for conservative organizations because it means they don&rsquo;t have
+to alter their existing team structures. But there are penalties to pay:</p>
 
 <ul>
-<li>Lost ROI from keeping finished features on ice rather than immediately
-deploying them.</li>
+<li>Lost ROI from keeping finished features on ice for a quarter rather than
+running the train as quickly as possible.</li>
 <li>Integration overhead due to the large batch sizes involved in quarterly
 releasing.</li>
 <li>Exponentially increased cost of quality due to phased regression and
@@ -131,8 +130,9 @@ acceptance testing in &ldquo;hardening sprints&rdquo;.</li>
 </ul>
 
 
-<p>XSCALE avoids these penalties by dispensing with release trains in favour of
-Feature teams, the GitFlow DVCS pattern, virtual environments, CD and BDD.</p>
+<p>XSCALE avoids these penalties by enabling release trains to run multiple
+times per day be enforcing Feature teams, the GitFlow DVCS pattern, virtual
+environments, CD and BDD.</p>
 
 <h3>Autonomous</h3>
 

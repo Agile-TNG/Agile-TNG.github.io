@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-25T16:12:43+10:00</updated>
+  <updated>2014-04-25T22:52:27+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -136,59 +136,94 @@ environments, CD and BDD.</p>
 
 <h3>Autonomous</h3>
 
-<p>SAFe has been criticized for its assumption of hierarchical, top-down
+<p>SAFe has been <a href="">criticized</a> for its assumption of hierarchical, top-down
 decision-making, but LeSS assumes exactly the same thing. Many of the benefits
-of Agile derive from peer collaboration and consensus games like planning
-poker and retrospectives. Can we really call a process Agile if it doesn&rsquo;t
-empower such collaboration?</p>
+of Agile derive from peer collaboration and team consensus games like planning
+poker and retrospectives. It doesn&rsquo;t seem reasonable to call a process Agile
+if it doesn&rsquo;t empower such collaboration.</p>
 
 <p>People have long dreamt of an anarchic utopia where the only law is the
-<a href="">Golden Rule</a>.  As the population of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
+<a href="">Golden Rule</a>. As the scale of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
 Number</a>, however, the <a href="">Tragedy
 of the Commons</a> inevitably leads to conflicts of interest that must be
-controlled through a more restrictive form of society.</p>
+controlled through some more restrictive form of society.</p>
 
 <p>Rationally, individual accountability should be assigned when the business
 cost of delaying a decision is greater than the social cost of failing to
-achieve consensus. Historically, this trade-off was best managed by the
-the Iroquois Confederacy of North America.</p>
+achieve consensus. Perhaps this trade-off was best managed, historically, by
+the the Iroquois Confederacy of North America.</p>
 
-<p>The Iroquois combined a system of bottom-up autonomy managed by a chain of
-consensus councils with a set of &ldquo;war chiefs&rdquo; who only took accountability
-when protocol was violated or time did not permit consensus. This trade-off
-proved stable at a national scale over a period of several centuries. XSCALE
-combines it with the Spotify Tribal model to maintain the benefits of
-collaboration at team, stream and whole enterprise levels.</p>
+<p>The Iroquois used unanimous consent at a sub-Dunbar scale to govern a
+hierarchy of treaty-making councils. Where consensus protocol was violated or
+timing called for an immediate decision, per-tribe &ldquo;war chiefs&rdquo; were made
+accountable. This proved stable at a national scale over a period of
+centuries. XSCALE applies it to the Spotify Tribal model to <a href="">scale
+collaboration to the enterprise</a> while maintaining proper team and stream
+autonomy.</p>
 
 <h3>Lean</h3>
 
+<p><a href="http://en.wikipedia.org/wiki/Dunbar's_number">Lean</a> is an even more over-used
+buzzword than Agile. Lean Startup, Lean UX and the Poppendiecks' <a href="">LSD</a> use
+the two terms almost as synonyms. Process control frameworks  such as Lean Six
+Sigma and Lean Accounting focus instead on cost control over ROI and
+hierarchical standardization over adaptive collaboration, which places them
+in opposition to Agile ways of working.</p>
+
+<p>So it&rsquo;s important to be specific about the use of Lean in XSCALE. In concrete
+terms it involves:</p>
+
+<ul>
+<li>a <a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>.</li>
+<li>a Lean Startup <a href="">business model canvas</a> to focus and pivot the enterprise&rsquo;s
+value streams</li>
+<li>Per stream VSMs, <a href="">Lean Kanban</a> and <a href="">cumulative flow diagrams</a> to
+quantify and optimize the relationship between stream funding, stream
+return, and product roadmap.</li>
+<li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
+<a href="">set-based-design</a> with prototyping, BDD and Roadmap Refactoring.</li>
+</ul>
+
+
+<p>This isn&rsquo;t to exclude other bits of Lean, but these specific practice patterns
+interlock to support a simple stream funding cycle that effectively replaces
+project budgeting in XSCALE.</p>
+
 <h2>Ecosystem</h2>
 
-<h3>Lean Business Modelling</h3>
+<h3>Team process</h3>
 
-<h3>Business Bingo</h3>
+<h4>Lean UX + BDD + XP</h4>
 
-<h3>Behavioural Product Planning</h3>
+<h4>DevOps + CD + GitFlow</h4>
 
-<h3>Roadmap Refactoring</h3>
+<h3>Stream process</h3>
 
-<h3>Spotify Model + Iroquois Councils</h3>
+<h4>Spotify Model + Iroquois Councils</h4>
 
-<h3>Value Stream Kanban</h3>
+<h4>Value Stream Kanban</h4>
 
-<h3>Lean UX + BDD + XP</h3>
+<h3>Enterprise process</h3>
 
-<h3>DevOps + CD + GitFlow</h3>
+<h4>Lean Business Modelling</h4>
 
-<h3>Chapters</h3>
+<h4>Business Bingo</h4>
 
-<h3>Stream Council</h3>
+<h4>Behavioural Product Planning</h4>
 
-<h3>Enterprise Council</h3>
+<h4>Roadmap Refactoring</h4>
 
-<h3>Continuous Adaptation</h3>
+<h3>Consensus games</h3>
 
-<h2>The Red Pill</h2>
+<h4>Chapters</h4>
+
+<h4>Stream Council</h4>
+
+<h4>Enterprise Council</h4>
+
+<h4>Continuous Adaptation</h4>
+
+<h3>Stream Funding cycle</h3>
 ]]></content>
   </entry>
   

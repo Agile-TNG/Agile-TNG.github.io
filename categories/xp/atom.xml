@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-25T00:43:00+10:00</updated>
+  <updated>2014-04-25T14:31:25+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -32,7 +32,7 @@ thought some folk would enjoy looking at the pretty picture.]</strong></p>
 
 <h2>Why XSCALE?</h2>
 
-<p>There have been several attempts to provide enterprises with a way to scale
+<p>There have been several efforts to provide enterprises with a way to scale
 Agile. The best known are SAFe, LeSS, and the Spotify Tribal model. Each
 has its strengths and weaknesses.</p>
 
@@ -57,76 +57,106 @@ choose, tailor and coordinate the rollout of further Agile practices.</p></li>
 </ul>
 
 
-<p>What&rsquo;s common to all of these is that they don&rsquo;t require proper
-high-discipline XP practices. XSCALE is based on the premise that full XP
-makes scaling a lot easier to do &ndash; and that a large enterprise can easily
-achieve full XP if it stages its transformation iteratively, growing
-organically from a small team using the <a href="">Goose in the Bottle</a> pattern rather
-than trying to effect big-change-up-front for existing teams.</p>
+<p>There are several further variatons on LeSS in the Scrum community, but the
+common thread is that none require proper high-discipline XP practices at a
+team level because that seems too hard for a large enterprise to do.</p>
 
-<p>As a result, XSCALE offers more Agility than SAFe in that it is fully
-collaborative and continuous in all its methods of planning, delivery and
-transformation. It offers a more coherent organization than LeSS because it
-combines the Spotify model of <a href="">Tribes and Guilds</a> with the historically
-proven method of <a href="">Iroquois Councils</a>. And it&rsquo;s more accessible than Spotify
-because it provides an iterative, bumpless way for existing programs to
-achieve transformation from their current SDLC.</p>
+<p>XSCALE is based on the premise that full XP makes scaling much easier to do,
+and that a large enterprise can tranasform to full XP so long as it stages the
+transformation iteratively. By growing organically from a small uncompromised
+team using the <a href="">Seven Samurai</a> pattern it never needs to effect
+big-change-up-front for existing portfolios, programs or teams.</p>
 
-<p>XSCALE also differs from these three by augmenting proper XP with an ecosystem
-of interlocking, proven practice patterns drawn from Lean Startup, BDD, Lean
-UX, Kanban, DevOps, CD and TNG&rsquo;s OAPL. Once matured we believe this ecosystem
-represents the current ultimate Agile state of the art.</p>
+<p>As a result, XSCALE offers more Agility than SAFe in that its methods of
+planning, delivery and transformation are fully collaborative and continuous.
+It offers a more coherent organization than LeSS by combining Spotify <a href="">Tribes
+and Guilds</a> with consensus decisioning via <a href="">Iroquois Councils</a>. But it&rsquo;s
+more accessible than Spotify because it provides an iterative, standardized,
+bump-free way to transform enterprise value streams over time.</p>
+
+<p>XSCALE further differs from the other enterprise agile frameworks by embedding
+proper XP in an ecosystem of interlocking Agile practice patterns from Lean
+Startup, BDD, Lean UX, Kanban, DevOps, CD and A:TNG&rsquo;s OAPL. This leapfrogs the
+enterprise to the ultimate Agile state of the art &ndash; not because that waves a
+flag but because with iterative transformation this strategy achieves the
+greatest benefit with the lowest risk.</p>
 
 <h2>XP-based</h2>
 
-<p>Why not Scrum? Well, Scrum is really just a watered-down version of XP. If you
-do XP you already do all the Scrum practices. Full XP, however, enormously
-simplifies the challenge of making combinations of Agile teams scale.</p>
+<p>Why not Scrum? Scrum is really just a watered-down version of XP. If you do
+proper XP you already have all the Scrum practice patterns. XP, however,
+enormously simplifies the challenge of making combinations of Agile teams
+work together.</p>
 
-<p>XP&rsquo;s pair working, test automation, collective code ownership, continuous
-integration and merciless refactoring &ndash; the &ldquo;extreme&rdquo; parts of Agile that
-Scrum leaves out &ndash; continuously pay off technical debt and assure there will
-be no cycles of rework and team interdependency to trip up delivery at scale.</p>
+<p>Why? XP&rsquo;s pair working, test automation, collective code ownership, continuous
+integration and merciless refactoring &ndash; the &ldquo;extreme&rdquo; parts that Scrum makes
+optional &ndash; continuously pay off technical debt and actively prevent cycles of
+rework and team interference. At scale these things cascade and multiply,
+representing an unacceptable risk to enterprise productivity. XP largely
+eliminates that risk.</p>
 
 <h2>Scalable</h2>
 
 <p>Scale is about combinations. Of requirements, of dependencies, of defects, and
-of people. The number of combinations of a set grows very rapidly; the set of
-combinations of just 10 things, for example, has over 3.6 million members.</p>
+of people. The number of combinations of a set is the factorial function,
+which grows very rapidly; a set of just 10 things, for example, has over
+\3.6 million distinct combinations.</p>
 
-<p>This is why SAFe&rsquo;s all-hands two-day release planning meetings are so
-stressful. And likewise LeSS&rsquo;s &ldquo;town hall&rdquo; meetings. They provide no
-cross-cutting team structure to scope conversations to fewer combinations of
-concerns, and that becomes a problem for their teams to solve. The Spotify /
-Iroquois models eliminate this problem before it can occur.</p>
+<p>SAFe&rsquo;s all-hands release planning meetings and LeSS&rsquo;s &ldquo;town halls&rdquo; fail to
+limit conversations to small combinations of concerns. XSCALE leverages the
+Spotify / Iroquois patterns to reduce the scope of these conversations.
+Neverthelss, further challenges come from chopping things up this fine.</p>
 
-<p>There is one further big challenge in chopping things up fine as Agile must.
-Agile works as a hill-climbing algorithm; it&rsquo;s happy to climb a molehill of
-value while there&rsquo;s an Everest right next door. Making certain that
-team backlogs add up to a coherent product backlog requires a breadth-first
-view of the product and of the business model that hosts it.</p>
-
-<p>So XSCALE incorporates Business Model Canvases from Lean Startup and
-Breadth-first Product Roadmaps, Behavioural Product Planning and Roadmap
-Refactoring from TNG. These practice patterns make certain all the little
-batches of little stories produced by all the little teams still add up to a
-maximum ROI stream of whole features that respects funding, MVP and CoD
-constraints.</p>
+<p>Agile works as a hill-climbing algorithm; it&rsquo;s happy to climb a molehill of
+value while there&rsquo;s an Everest right next door. XSCALE adopts Business Model
+Canvases from Lean Startup and Behavioural Product Planning from OAPL to make
+sure the output of the multiple Agile teams adds up to a maximum ROI stream of
+whole features that respect stream funding limits, MVP and CoD constraints.</p>
 
 <h2>Continuous</h2>
 
-<p>One of the chief complaints about SAFe is its punctuated delivery. SAFe relies
-heavily on a quarterly <a href="">release train</a> integration pattern. This is good for
-conservative organizations because it</p>
+<p>SAFe relies heavily on a quarterly <a href="">release train</a> integration pattern. This
+is good for conservative organizations because it means they don&rsquo;t have to
+alter their existing team structures. But there are penalties to pay:</p>
 
-<p>But there&rsquo;s a heavy price to pay terms of losing ROI by keeping finisshed
-features on ice, and integration overhead due to the large batch sizes and
-exponentially increased cost of quality.</p>
+<ul>
+<li>Lost ROI from keeping finished features on ice rather than immediately
+deploying them.</li>
+<li>Integration overhead due to the large batch sizes involved in quarterly
+releasing.</li>
+<li>Exponentially increased cost of quality due to phased regression and
+acceptance testing in &ldquo;hardening sprints&rdquo;.</li>
+</ul>
 
-<p>XSCALE avoids this penalty by dispensing with release trains in favour of
+
+<p>XSCALE avoids these penalties by dispensing with release trains in favour of
 Feature teams, the GitFlow DVCS pattern, virtual environments, CD and BDD.</p>
 
 <h2>Autonomous</h2>
+
+<p>SAFe has been criticized for its assumption of hierarchical, top-down
+decision-making, but LeSS assumes exactly the same thing. The key benefit
+of Agile is its emphasis on adaptive collaboration among peer team members.
+Can we really call an enterprise Agile if it doesn&rsquo;t mantain this fundamental?</p>
+
+<p>People dream of an anarchic utopia where the only law is the <a href="">Golden Rule</a>.
+As the population of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
+Number</a>, however, the <a href="">Tragedy
+of the Commons</a> inevitably leads to conflicts of interest that must be
+controlled through a more restrictive form of society.</p>
+
+<p>Rationally, individual accountability should be assigned when the business
+cost of delaying a decision is greater than the social cost of failing to
+achieve consensus. Historically, this trade-off was most successfully managed
+by the Haudenosaunee tribes of North America, popularly known as the Iroquois
+Confederacy.</p>
+
+<p>The Iroquois combined a system of bottom-up autonomy managed by a hierarchy of
+consensus councils with a set of &ldquo;war chiefs&rdquo; who became accountable for
+decisions whenever protocol was violated or time did not permit consensus.
+This trade-off was stable at a national scale over a period of several
+centuries. XSCALE combines it with the Spotify model to maintain autonomy,
+consensus, and adaptive collaboration at team, stream and enterprise levels.</p>
 
 <h2>Lean</h2>
 

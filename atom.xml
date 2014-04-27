@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-27T13:04:37+10:00</updated>
+  <updated>2014-04-27T13:42:40+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -73,9 +73,9 @@ bump-free way to transform enterprise value streams over time.</p>
 
 <p>XSCALE further differs from the other enterprise agile frameworks by embedding
 XP in an ecosystem of interlocking Agile practice patterns from Lean Startup,
-BDD, Lean UX, Kanban, DevOps, CD and A:TNG&rsquo;s OAPL. This leapfrogs the
-enterprise to the ultimate Agile state of the art &ndash; not because that waves a
-banner but because with iterative transformation that strategy achieves the
+BDD, Lean UX, Kanban, DevOps, CD and A:TNG&rsquo;s OAPL to leapfrog the enterprise
+to the ultimate Agile state of the art. Not because that waves a banner but
+simply because with iterative transformation this strategy achieves the
 greatest benefit with the lowest risk.</p>
 
 <h2>What&rsquo;s XSCALE?</h2>
@@ -85,10 +85,10 @@ greatest benefit with the lowest risk.</p>
 <p>Why not just Scrum?</p>
 
 <p>XP simplifies the challenge of making combinations of Agile teams work
-together.  XP&rsquo;s pair working, test automation, collective code ownership,
+together. XP&rsquo;s pair working, test automation, collective code ownership,
 continuous integration and merciless refactoring continuously pay off
-technical debt and actively prevent cycles of rework. At scale those things
-can cascade and multiply, representing an unacceptable risk to productivity.</p>
+technical debt and actively prevent cycles of rework. At scale those problems
+cascade and multiply, representing a real drag on productivity.</p>
 
 <h3>Scalable</h3>
 
@@ -97,16 +97,16 @@ of people. The number of combinations of a set grows very rapidly; a set of
 just 10 things has over 3.6 million distinct combinations.</p>
 
 <p>The all-hands release planning meetings and &ldquo;town halls&rdquo; in SAFe  and LeSS
-fail to limit conversation to small combinations of concerns. The Spotify /
-Iroquois patterns actively reduce the scope of these conversations.</p>
+fail to limit conversation to small combinations of people and concerns. The
+Spotify / Iroquois patterns actively reduce the scope of conversations.</p>
 
-<p>Neverthelss, challenges come from chopping things up fine. Because Agile works
-as a hill-climbing algorithm, continously integrating little bits of
+<p>Neverthless, other challenges come from chopping things up fine. Because Agile
+works as a hill-climbing algorithm, continously integrating little bits of
 functionality into an existing whole, it&rsquo;s happy to climb a molehill of value
-when there&rsquo;s an Everest right next door. Business Model Canvases and
+when there&rsquo;s an Everest right next door. Business Model Canvas and
 Breadth-First Product Roadmaps make sure the output of multiple teams adds up
 to a stream of whole features that respect relative ROI, stream funding
-limits, single piece flow, MVP and CoD constraints.</p>
+limits, one piece flow, MVP and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
@@ -119,69 +119,69 @@ their existing team structures. But penalties come with it:</p>
 &ldquo;hardening sprints&rdquo;.</li>
 <li>Lost ROI from keeping finished features on ice for a quarter rather than
 releasing them as quickly as possible.</li>
-<li>Integration overhead due to the large batch sizes involved in quarterly
-releasing.</li>
+<li>Surprises and integration overhead due to the large batch sizes involved in
+quarterly releasing.</li>
 </ul>
 
 
 <p>XSCALE avoids these penalties by enabling independent feature teams to deploy
-multiple times per day using the GitFlow DVCS pattern, virtual environments,
-CD and BDD.</p>
+multiple times per day using the GitFlow pattern, environment mapping, CD and
+BDD.</p>
 
 <h3>Autonomous</h3>
 
 <p>SAFe has been <a href="">criticized</a> for its assumption of hierarchical, top-down
-decision-making, but LeSS assumes exactly the same thing. Many of the benefits
+decision-making, but LeSS tacitly assumes the same thing. Many of the benefits
 of Agile derive from peer collaboration and team consensus games like planning
-poker and retrospectives. It doesn&rsquo;t seem reasonable to call a process Agile
-if it doesn&rsquo;t empower such collaboration.</p>
+poker and retrospectives, and it doesn&rsquo;t seem reasonable to call a process
+Agile at any scale if it doesn&rsquo;t empower consensus.</p>
 
 <p>People have long dreamt of an anarchic utopia where the only law is the
 <a href="">Golden Rule</a>. As the scale of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
 Number</a>, however, the <a href="">Tragedy
 of the Commons</a> inevitably leads to conflicts of interest that must be
-controlled through some more restrictive form of society.</p>
+controlled through more restrictive forms of society.</p>
 
-<p>Rationally, individual accountability should be assigned when the business
-cost of delaying a decision is greater than the social cost of failing to
-achieve consensus. Perhaps this trade-off was best managed, historically, by
-the the Iroquois Confederacy of North America.</p>
+<p>Rationally, individual accountability should be applied when the business cost
+of delaying a decision is greater than the social cost of failing to maintain
+consensus. This trade-off seems to have been best managed, historically, by
+the Iroquois Confederacy of North America.</p>
 
 <p>The Iroquois used unanimous consent at a sub-Dunbar scale to govern a
 hierarchy of treaty-making councils. Where consensus protocol was violated or
 timing called for an immediate decision, per-tribe &ldquo;war chiefs&rdquo; were made
-accountable. This proved stable at a national scale over a period of
-centuries. XSCALE applies it to the Spotify Tribal model to <a href="">scale
-collaboration to the enterprise</a> while maintaining proper team and stream
-autonomy.</p>
+accountable. This proved stable at a multi-national scale over a period of
+centuries. XSCALE combines it with the Spotify Tribal model to scale consensus
+decisions while maintaining proper team and stream autonomy.</p>
 
 <h3>Lean</h3>
 
-<p><a href="http://en.wikipedia.org/wiki/Dunbar's_number">Lean</a> is an even more over-used
-buzzword than Agile. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use the two
-terms almost as synonyms. Process control frameworks  such as Lean Six Sigma
-and Lean Accounting instead interpret Lean to mean cost reduction over ROI and
-hierarchical standardization over adaptive collaboration, which makes them
+<p><a href="http://en.wikipedia.org/wiki/Lean">Lean</a> is an even more over-used buzzword
+than Agile. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use the two terms almost
+as synonyms. Process control frameworks like Lean Six Sigma and Lean
+Accounting instead interpret Lean to prefer cost reduction over ROI and
+hierarchical standardization over adaptive collaboration. This makes them
 less suitable for the purpose of XSCALE.</p>
 
-<p>To avoid Lean as buzzword it&rsquo;s important to be specific about the practice
-patterns involved. In concrete terms XSCALE involves:</p>
+<p>To avoid using Lean as buzzword it&rsquo;s important to be specific about the
+practice patterns involved. In concrete terms XSCALE involves:</p>
 
 <ul>
-<li>a <a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>.</li>
+<li>a <a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>
+patterns.</li>
 <li>a Lean Startup <a href="">business model canvas</a> to focus and pivot the enterprise&rsquo;s
 value streams</li>
 <li>Per stream <a href="">Value Stream Maps</a> converted to <a href="">Lean Kanban</a> and
-<a href="">cumulative flow diagrams</a> to optimize the relationship between stream
+<a href="">cumulative flow diagrams</a> to represent the relationship between stream
 funding, stream return, and product roadmaps.</li>
 <li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
-<a href="">set-based-design</a> with prototyping, BDD and Roadmap Refactoring.</li>
+<a href="">set-based-design</a> with lo-fi prototyping, BDD and Roadmap Refactoring.</li>
 </ul>
 
 
-<p>Naturally this doesn&rsquo;t mean you can&rsquo;t take on other parts of Lean, but these
-specific practice patterns interlock to generate a simple stream funding cycle
-is superior to project budgeting in N ways:</p>
+<p>These practice patterns interlock to generate a stream funding cycle without
+need for project budgets and baselines, and continuously responsive to metrics
+and learnings relative both to the stream and its market.</p>
 
 <h2>Ecosystem</h2>
 
@@ -197,11 +197,11 @@ is superior to project budgeting in N ways:</p>
 
 <h4>Value Stream Kanban</h4>
 
+<h4>Stream Funding cycle</h4>
+
 <h3>Enterprise process</h3>
 
 <h4>Lean Business Modelling</h4>
-
-<h4>Business Bingo</h4>
 
 <h4>Behavioural Product Planning</h4>
 
@@ -209,15 +209,15 @@ is superior to project budgeting in N ways:</p>
 
 <h3>Consensus games</h3>
 
+<h4>Business Bingo</h4>
+
 <h4>Chapters</h4>
 
 <h4>Stream Council</h4>
 
 <h4>Enterprise Council</h4>
 
-<h4>Continuous Adaptation</h4>
-
-<h3>Stream Funding cycle</h3>
+<h3>Continuous Adaptation</h3>
 ]]></content>
   </entry>
   

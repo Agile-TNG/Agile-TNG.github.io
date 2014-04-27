@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-27T12:39:04+10:00</updated>
+  <updated>2014-04-27T12:55:15+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -95,17 +95,17 @@ can cascade and multiply, representing an unacceptable risk to productivity.</p>
 of people. The number of combinations of a set grows very rapidly; a set of
 just 10 things has over 3.6 million distinct combinations.</p>
 
-<p>The all-hands release planning meetings &ldquo;town halls&rdquo; in SAFe  and LeSS fail to
-limit conversation to small combinations of concerns. The Spotify / Iroquois
-patterns reduce the scope of these conversations.</p>
+<p>The all-hands release planning meetings and &ldquo;town halls&rdquo; in SAFe  and LeSS
+fail to limit conversation to small combinations of concerns. The Spotify /
+Iroquois patterns actively reduce the scope of these conversations.</p>
 
-<p>Neverthelss, further challenges come from chopping things up fine.  Because
-Agile works as a hill-climbing algorithm, continously integrating little bits
-of functionality into the existing whole, it&rsquo;s happy to climb a molehill of
-value when there&rsquo;s an Everest right next door. XSCALE 8ses Business Model
-Canvases and Behavioural Product Planning to make sure the output of multiple
-teams adds up to a stream of whole features that respect relative ROI, stream
-funding limits, single piece flow, MVP and CoD constraints.</p>
+<p>Neverthelss, challenges come from chopping things up fine. Because Agile works
+as a hill-climbing algorithm, continously integrating little bits of
+functionality into an existing whole, it&rsquo;s happy to climb a molehill of value
+when there&rsquo;s an Everest right next door. Business Model Canvases and
+Breadth-First Product Roadmaps make sure the output of multiple teams adds up
+to a stream of whole features that respect relative ROI, stream funding
+limits, single piece flow, MVP and CoD constraints.</p>
 
 <h3>Continuous</h3>
 

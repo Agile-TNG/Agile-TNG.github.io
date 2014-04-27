@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scalable | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scalable/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-25T22:52:27+10:00</updated>
+  <updated>2014-04-27T12:27:15+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -92,47 +92,46 @@ work together.</p>
 <p>Why? XP&rsquo;s pair working, test automation, collective code ownership, continuous
 integration and merciless refactoring &ndash; the &ldquo;extreme&rdquo; parts that Scrum makes
 optional &ndash; continuously pay off technical debt and actively prevent cycles of
-rework and team interference. At scale these things cascade and multiply,
-representing an unacceptable risk to enterprise productivity. XP largely
-eliminates that risk.</p>
+rework. At scale those things cascade and multiply, representing an
+unacceptable risk to productivity.</p>
 
 <h3>Scalable</h3>
 
 <p>Scale is about combinations. Of requirements, of dependencies, of defects, and
-of people. The number of combinations of a set is the factorial function,
-which grows very rapidly; a set of just 10 things, for example, has over
-\3.6 million distinct combinations.</p>
+of people. The number of combinations of a set grows very rapidly; a set of
+just 10 things has over 3.6 million distinct combinations.</p>
 
-<p>SAFe&rsquo;s all-hands release planning meetings and LeSS&rsquo;s &ldquo;town halls&rdquo; fail to
-limit conversations to small combinations of concerns. XSCALE leverages the
-Spotify / Iroquois patterns to reduce the scope of these conversations.
-Neverthelss, further challenges come from chopping things up this fine.</p>
+<p>The all-hands release planning meetings &ldquo;town halls&rdquo; in SAFe  and LeSS fail to
+limit conversation to small combinations of concerns. The Spotify / Iroquois
+patterns reduce the scope of these conversations.</p>
 
-<p>Agile works as a hill-climbing algorithm; it&rsquo;s happy to climb a molehill of
-value while there&rsquo;s an Everest right next door. XSCALE adopts Business Model
-Canvases from Lean Startup and Behavioural Product Planning from OAPL to make
-sure the output of the multiple Agile teams adds up to a maximum ROI stream of
-whole features that respect stream funding limits, MVP and CoD constraints.</p>
+<p>Neverthelss, further challenges come from chopping things up fine.  Because
+Agile works as a hill-climbing algorithm, continously integrating little bits
+of functionality into the existing whole, it&rsquo;s happy to climb a molehill of
+value when there&rsquo;s an Everest right next door. XSCALE 8ses Business Model
+Canvases and Behavioural Product Planning to make sure the output of multiple
+teams adds up to a stream of whole features that respect relative ROI, stream
+funding limits, single piece flow, MVP and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
-<p>SAFe relies heavily on a slow quarterly <a href="">release train</a> integration pattern.
-This is good for conservative organizations because it means they don&rsquo;t have
-to alter their existing team structures. But there are penalties to pay:</p>
+<p>SAFe employs a slow quarterly <a href="">release train</a> integration pattern. That&rsquo;s
+good for conservative organizations because it means they don&rsquo;t have to alter
+their existing team structures. But penalties come with it:</p>
 
 <ul>
+<li>Increased cost of quality due to phased regression and acceptance testing in
+&ldquo;hardening sprints&rdquo;.</li>
 <li>Lost ROI from keeping finished features on ice for a quarter rather than
-running the train as quickly as possible.</li>
+releasing them as quickly as possible.</li>
 <li>Integration overhead due to the large batch sizes involved in quarterly
 releasing.</li>
-<li>Exponentially increased cost of quality due to phased regression and
-acceptance testing in &ldquo;hardening sprints&rdquo;.</li>
 </ul>
 
 
-<p>XSCALE avoids these penalties by enabling release trains to run multiple
-times per day be enforcing Feature teams, the GitFlow DVCS pattern, virtual
-environments, CD and BDD.</p>
+<p>XSCALE avoids these penalties by enabling independent feature teams to deploy
+multiple times per day using the GitFlow DVCS pattern, virtual environments,
+CD and BDD.</p>
 
 <h3>Autonomous</h3>
 
@@ -164,30 +163,30 @@ autonomy.</p>
 <h3>Lean</h3>
 
 <p><a href="http://en.wikipedia.org/wiki/Dunbar's_number">Lean</a> is an even more over-used
-buzzword than Agile. Lean Startup, Lean UX and the Poppendiecks' <a href="">LSD</a> use
-the two terms almost as synonyms. Process control frameworks  such as Lean Six
-Sigma and Lean Accounting focus instead on cost control over ROI and
-hierarchical standardization over adaptive collaboration, which places them
-in opposition to Agile ways of working.</p>
+buzzword than Agile. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use the two
+terms almost as synonyms. Process control frameworks  such as Lean Six Sigma
+and Lean Accounting instead interpret Lean to mean cost reduction over ROI and
+hierarchical standardization over adaptive collaboration, which makes them
+less suitable for the purpose of XSCALE.</p>
 
-<p>So it&rsquo;s important to be specific about the use of Lean in XSCALE. In concrete
-terms it involves:</p>
+<p>To avoid Lean as buzzword it&rsquo;s important to be specific about the practice
+patterns involved. In concrete terms XSCALE involves:</p>
 
 <ul>
 <li>a <a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>.</li>
 <li>a Lean Startup <a href="">business model canvas</a> to focus and pivot the enterprise&rsquo;s
 value streams</li>
-<li>Per stream VSMs, <a href="">Lean Kanban</a> and <a href="">cumulative flow diagrams</a> to
-quantify and optimize the relationship between stream funding, stream
-return, and product roadmap.</li>
+<li>Per stream <a href="">Value Stream Maps</a> converted to <a href="">Lean Kanban</a> and
+<a href="">cumulative flow diagrams</a> to optimize the relationship between stream
+funding, stream return, and product roadmaps.</li>
 <li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
 <a href="">set-based-design</a> with prototyping, BDD and Roadmap Refactoring.</li>
 </ul>
 
 
-<p>This isn&rsquo;t to exclude other bits of Lean, but these specific practice patterns
-interlock to support a simple stream funding cycle that effectively replaces
-project budgeting in XSCALE.</p>
+<p>Naturally this doesn&rsquo;t mean you can&rsquo;t take on other parts of Lean, but these
+specific practice patterns interlock to generate a simple stream funding cycle
+is superior to project budgeting in N ways:</p>
 
 <h2>Ecosystem</h2>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-27T23:27:03+10:00</updated>
+  <updated>2014-04-27T23:34:41+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -137,7 +137,7 @@ and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
-<p><strong>All practice cycles should use the smallest effective batch size.</strong></p>
+<p><strong>All cycles use the smallest effective batch size.</strong></p>
 
 <p>SAFe employs a slow quarterly <a href="">release train</a> integration pattern. That&rsquo;s
 useful for conservative organizations because it means they don&rsquo;t have to

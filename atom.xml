@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-28T08:51:03+10:00</updated>
+  <updated>2014-04-28T08:54:14+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -125,19 +125,20 @@ of people. The number of combinations of a set grows very rapidly; a set of
 just 10 things has over 3.6 million distinct combinations.  So the principle
 of scalability is to:</p>
 
-<p><strong>Continuously minimize combinatorial space</strong></p>
+<p><strong>Continuously minimize combinatorial spaces</strong></p>
 
-<p>Agile chunks up requirements into stories, refactors design artefacts,
-automates testing and integration, and factors people into feature teams
-all to comply with this principle.</p>
+<p>Agile chunks requirements into stories, <a href="">DRY</a>s design artefacts, automates
+testing and integration, and refactors people into feature teams all to comply
+with this principle.</p>
 
 <p>Contrariwise the all-hands release planning meetings and &ldquo;town halls&rdquo; in SAFe
-and LeSS fail to limit conversation to small combinations of people and
-concerns. The Spotify / Iroquois patterns actively reduce the scope of
-conversations, so they&rsquo;re good for minimizing their combinatorial space.</p>
+and LeSS are stressful because they fail to limit conversation to small
+combinations of people and concerns. The Spotify / Iroquois patterns actively
+reduce the scope of conversations, so they&rsquo;re good for minimizing that
+combinatorial space.</p>
 
 <p>Another scaling challenge comes from combinations of business alternatives.
-The problem is determining which part of the combinatorial space has the most
+The problem is determining which combinatoins of alternatives have the most
 value. Because Agile works as a hill-climbing algorithm, continously
 integrating little bits of functionality into an existing whole, it&rsquo;s happy to
 climb a molehill of value when there&rsquo;s an Everest right next door.</p>

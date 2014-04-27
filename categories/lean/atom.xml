@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-27T21:57:29+10:00</updated>
+  <updated>2014-04-27T22:54:09+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -129,14 +129,14 @@ they support this principle.</p>
 as a hill-climbing algorithm, continously integrating little bits of
 functionality into an existing whole, it&rsquo;s happy to climb a molehill of value
 when there&rsquo;s an Everest right next door. Business Model Canvas and
-Breadth-First Product Roadmaps the combined work of multiple teams  still adds
-up to a stream of whole features that maximize relative ROI, respect stream
-funding limits, focus one piece delivery flow, and comply with MVP and CoD
-constraints.</p>
+Breadth-First Product Roadmaps assure the combined work of multiple teams
+still adds up to a stream of whole features that maximize relative ROI,
+respect stream funding limits, generate one piece flow, and comply with MVP
+and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
-<p><strong>Link practices in cycles with the smallest possible batch size.</strong></p>
+<p><strong>Practice cycles should use the smallest effective batch size.</strong></p>
 
 <p>SAFe employs a slow quarterly <a href="">release train</a> integration pattern. That&rsquo;s
 useful for conservative organizations because it means they don&rsquo;t have to
@@ -153,8 +153,7 @@ quarterly releasing.</li>
 
 
 <p>XSCALE avoids these penalties by enabling independent feature teams to deploy
-multiple times per using the GitFlow pattern, environment mapping, CD and
-BDD.</p>
+asynchronously using the GitFlow pattern, environment mapping, CD and BDD.</p>
 
 <h3>Autonomous</h3>
 
@@ -186,24 +185,25 @@ decisions while maintaining proper team and stream autonomy.</p>
 
 <h3>Lean</h3>
 
-<p><strong>Maximize ROI.</strong></p>
-
-<p><a href="http://en.wikipedia.org/wiki/Lean">Lean</a> is an even more over-used buzzword
-than Agile. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use the two terms almost
-as synonyms. Process control frameworks like Lean Six Sigma and Lean
-Accounting instead interpret Lean to prefer cost reduction over ROI and
+<p>Lean is often defined as &ldquo;Minimizing Waste&rdquo;. Unfortunately that definition
+admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use Lean almost
+as synonymous with Agile. But command and control frameworks like Lean Six
+Sigma and Lean Accounting interpret Lean to mean cost reduction over ROI and
 hierarchical standardization over adaptive collaboration. This makes them
-less suitable for the purpose of XSCALE.</p>
+unsuited to our purpose in XSCALE.</p>
 
-<p>To avoid using Lean as buzzword it&rsquo;s important to be specific about the
-practice patterns involved. In concrete terms XSCALE involves:</p>
+<p>So let&rsquo;s eliminate the ambiguity and give the following as our Lean principle:</p>
+
+<p><strong>Maximize ROI</strong></p>
+
+<p>With this in mind we can adopt the following Lean practice patterns:</p>
 
 <ul>
-<li>a <a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>
+<li><a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>
 patterns.</li>
-<li>a Lean Startup <a href="">business model canvas</a> to focus and pivot the enterprise&rsquo;s
+<li>Lean Startup&rsquo;s <a href="">business model canvas</a> to focus and pivot the enterprise&rsquo;s
 value streams</li>
-<li>Per stream <a href="">Value Stream Maps</a> converted to <a href="">Lean Kanban</a> and
+<li>Per stream <a href="">Value Stream Maps</a> converted to a <a href="">Lean Kanban</a> and
 <a href="">cumulative flow diagrams</a> to represent the relationship between stream
 funding, stream return, and product roadmaps.</li>
 <li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
@@ -211,16 +211,17 @@ funding, stream return, and product roadmaps.</li>
 </ul>
 
 
-<p>These practice patterns interlock to render a stream funding cycle without
-need for project budgets and baselines, and continuously responsive to metrics
-and learnings relative both to the stream and its market.</p>
+<p>These Lean practice patterns interlock to render a stream funding cycle
+without need for project budgets and baselines, and continuously responsive to
+metrics and learnings relative both to the stream and its market.</p>
 
 <h2>Ecosystem</h2>
 
 <p>The term &ldquo;Software Development Life Cycle&rdquo; is well accepted even though no one
-puts too fine a point on the word &ldquo;life&rdquo;. Ecosystem takes this a bit further,
-meaning a closed set of processes that combine to achieve a self-sustaining
-behaviour &ndash; which we intend as the maximization of ROI.</p>
+puts too fine a point on the word &ldquo;life&rdquo; here. We use the term ecosystem to
+take this a bit further. We mean an <a href="">OpenClosed</a> set of processes that
+combine to achieve a self-sustaining behaviour &ndash; which would be our Lean
+maximization of ROI.</p>
 
 <h3>Team process</h3>
 

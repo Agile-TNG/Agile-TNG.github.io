@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scalable | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scalable/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-28T08:10:23+10:00</updated>
+  <updated>2014-04-28T08:17:12+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -103,15 +103,20 @@ sustainability. So we could define &ldquo;eXtreme&rdquo; as</p>
 
 <p><strong>Pay technical debt before it incurs interest.</strong></p>
 
-<p>XSCALE takes this principle and XP practices as its base because this
+<p>XSCALE takes this principle and XP practices as its foundation because this
 enormously simplifies the challenge of making combinations of Agile teams work
 together. The Scrum practices of sprint reviews and sprint retrospectives are
 likewise eXtreme in defining and actioning pay down of analysis and process
 debt.</p>
 
+<p>But we still have to deal with that bad word. Happily the Manifesto boys
+already did it for us. They picked a principle that reads, &ldquo;Continuous
+attention to technical excellence and good design enhances agility&rdquo;. We take
+our X principle as the definition of their &ldquo;excellence&rdquo;.</p>
+
 <p>So &hellip; if someone you trust asks you what you mean by X, tell them &ldquo;XP-based&rdquo;.
-If it&rsquo;s some historical management dudes, tell &lsquo;em it means &ldquo;eXcellent&rdquo; and
-play air guitar. And &hellip; party on, dude.</p>
+But if it&rsquo;s some historical management dudes, tell &lsquo;em it means &ldquo;eXcellent&rdquo;
+and &hellip; party on, dudes.</p>
 
 <h3>Scalable</h3>
 

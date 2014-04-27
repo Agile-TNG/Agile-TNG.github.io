@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-27T22:54:09+10:00</updated>
+  <updated>2014-04-27T23:08:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -27,8 +27,8 @@ Agile enterprise that turns all the knobs to ten.</p>
 <!-- more -->
 
 
-<p><strong>[This post is currently in draft. I hope to finish it this weekend but
-thought some folk would enjoy looking at the pretty picture.]</strong></p>
+<p><strong>[This post is currently in draft. I hope to finish it today but welcome
+feedback both from my TNG compadres and anyone else who happens by &hellip;.]</strong></p>
 
 <h2>Why XSCALE?</h2>
 
@@ -85,7 +85,8 @@ greatest benefit with the lowest risk.</p>
 
 <p>XSCALE conforms with the <a href="">A:TNG values</a>, which form a strict superset of
 those in the Agile Manifesto. As a practice pattern language XSCALE also rests
-on principles that likewise form a strict superset of those in the Manifesto.</p>
+on five principles that should likewise be regarded as a strict superset of
+those in the Manifesto.</p>
 
 <h3>XP-based or &ldquo;eXcellent&rdquo;</h3>
 
@@ -136,7 +137,7 @@ and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
-<p><strong>Practice cycles should use the smallest effective batch size.</strong></p>
+<p><strong>All practice cycles should use the smallest effective batch size.</strong></p>
 
 <p>SAFe employs a slow quarterly <a href="">release train</a> integration pattern. That&rsquo;s
 useful for conservative organizations because it means they don&rsquo;t have to
@@ -196,10 +197,10 @@ unsuited to our purpose in XSCALE.</p>
 
 <p><strong>Maximize ROI</strong></p>
 
-<p>With this in mind we can adopt the following Lean practice patterns:</p>
+<p>With this in mind we adopt the following Lean practice patterns:</p>
 
 <ul>
-<li><a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>
+<li><a href="">Lean Transformation Canvas</a> to use as a roadmap for the <a href="">Seven Samurai</a>
 patterns.</li>
 <li>Lean Startup&rsquo;s <a href="">business model canvas</a> to focus and pivot the enterprise&rsquo;s
 value streams</li>
@@ -212,8 +213,9 @@ funding, stream return, and product roadmaps.</li>
 
 
 <p>These Lean practice patterns interlock to render a stream funding cycle
-without need for project budgets and baselines, and continuously responsive to
-metrics and learnings relative both to the stream and its market.</p>
+without any need for project budgets and baselines, but continuously
+responsive to metrics and learnings relative both to the teams in the stream
+and its market.</p>
 
 <h2>Ecosystem</h2>
 

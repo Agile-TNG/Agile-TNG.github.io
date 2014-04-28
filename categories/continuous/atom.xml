@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-28T08:54:14+10:00</updated>
+  <updated>2014-04-28T10:04:45+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -151,15 +151,15 @@ while respecting stream funding limits and MVP and CoD constraints.</p>
 
 <h3>Continuous</h3>
 
-<p><strong>All cycles use the smallest effective batch size.</strong></p>
-
-<p>SAFe employs a slow quarterly <a href="">release train</a> integration pattern. That&rsquo;s
-useful for conservative organizations because it means they don&rsquo;t have to
-alter their existing team structures. But several penalties come with it:</p>
+<p>SAFe employs a quarterly <a href="">release train</a> integration pattern. That&rsquo;s useful
+for conservative organizations because it means they don&rsquo;t have to alter their
+component silos. But several penalties come with it:</p>
 
 <ul>
-<li>Increased cost of quality due to phased regression and acceptance testing in
-&ldquo;hardening sprints&rdquo;.</li>
+<li>Increased cost of quality due to delayed regression and acceptance testing
+in &ldquo;hardening sprints&rdquo;.</li>
+<li>Wasted time in meetings to figure out how to satisfy combinatoric inter-team
+dependency cycles.</li>
 <li>Lost ROI from keeping finished features on ice for a quarter rather than
 releasing them as quickly as possible.</li>
 <li>Surprises and integration overhead due to the large batch sizes involved in
@@ -167,8 +167,15 @@ quarterly releasing.</li>
 </ul>
 
 
-<p>XSCALE avoids these penalties by enabling independent feature teams to deploy
-asynchronously using the GitFlow pattern, environment mapping, CD and BDD.</p>
+<p>XSCALE avoids those penalties by enabling independent feature teams to deploy
+continuously using the GitFlow pattern and environment mapping for continuous
+delivery. It also uses continuous business modelling and roadmap refactoring,
+continuous stream coordination using chapters and councils, continuous
+coordination across streams using guilds and treaties, continous refactoring,
+continuous integration and continuous improvement. In all of these things
+the principle is,</p>
+
+<p><strong>Minimize cycle time and batch size.</strong></p>
 
 <h3>Autonomous</h3>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-28T10:16:58+10:00</updated>
+  <updated>2014-04-28T11:32:34+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -88,35 +88,35 @@ those in the Agile Manifesto. As a practice pattern language XSCALE also rests
 on five principles that should likewise be regarded as a strict superset of
 those in the Manifesto.</p>
 
-<h3>XP-based or &ldquo;eXcellent&rdquo;</h3>
+<h3>The eXcellence Principle</h3>
 
-<p>The word &ldquo;eXtreme&rdquo; in XP was so ill-chosen it became the impetus of the effort
-to define the word &ldquo;Agile&rdquo; with a manifesto. Yet even now most Agile software
-development teams use at least some XP, and the best ones use all of it. So
-there&rsquo;s proven value in that X. Ignoring the word, what&rsquo;s the value?</p>
+<p>The word &ldquo;extreme&rdquo; in the original XP was so ill-chosen it kicked off the
+effort to find the word &ldquo;Agile&rdquo;. Yet even now most Agile software development
+teams use some XP, and the best ones use all of it. So there&rsquo;s proven value in
+this X.Ignoring the word, what&rsquo;s the value?</p>
 
 <p>XP mainly differs from Scrum in its engineering practices &ndash; pair working, TDD,
 collective ownership, continuous integration and merciless refactoring &ndash; which
 interlock to continuously pay off technical debt and thereby prevent cycles of
 rework. At scale such debts multiply to reduce throughput, transparency and
-sustainability. So we can define &ldquo;eXtreme&rdquo; as</p>
+sustainability. So we could define &ldquo;eXtreme&rdquo; as</p>
 
 <p><strong>Pay technical debt before it incurs interest.</strong></p>
 
-<p>XSCALE takes this principle and the XP practices as its foundation because
+<p>XSCALE takes that principle and the XP practices as its foundation because
 this enormously simplifies the challenge of making combinations of Agile teams
 work together. The Scrum practices of sprint reviews and sprint retrospectives
-are likewise eXtreme in defining and actioning early pay down of analysis and
+are likewise eXtreme in defining and actioning early pay-back of analysis and
 process debt.</p>
 
-<p>But we still have to deal with that bad X word. Happily the Manifesto dudes
-already did this for us. They offer a principle that reads, &ldquo;Continuous
-attention to technical excellence and good design enhances agility&rdquo;. So why
-not take our X principle here as the definition of their &ldquo;excellence&rdquo;?</p>
+<p>But we still have to deal with that terrible X word. Happily the Manifesto
+dudes already figured it out. They offered a principle that reads, &ldquo;Continuous
+attention to technical excellence and good design enhances agility&rdquo;. We just
+take the principle above as our distinction for their &ldquo;excellence&rdquo;.</p>
 
-<p>That way if someone you trust asks you what you mean by X, tell them
-&ldquo;XP-based&rdquo;.  But if it&rsquo;s some Taylorist management dudes, tell &lsquo;em it means
-&ldquo;eXcellent&rdquo; and &hellip; party on Taylorist management dudes &hellip;</p>
+<p>So if someone you trust asks you what you mean by X, tell them &ldquo;XP-based&rdquo;.
+But if it&rsquo;s some Taylorist management dudes you tell &lsquo;em it means &ldquo;technical
+eXcellence&rdquo; and &hellip; party on Taylorist management dudes &hellip;</p>
 
 <h3>Scalable</h3>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-28T15:35:37+10:00</updated>
+  <updated>2014-04-29T09:48:23+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -75,11 +75,11 @@ accessible than Spotify alone because it provides an iterative, standardized,
 bump-free way to transform enterprise value streams over time.</p>
 
 <p>XSCALE further differs from the other enterprise agile frameworks by embedding
-XP in an ecosystem of interlocking Agile practice patterns from Lean Startup,
-BDD, Lean UX, Kanban, DevOps, CD and A:TNG&rsquo;s OAPL to leapfrog the enterprise
-to the ultimate Agile state of the art. Not because that waves a banner but
-simply because with iterative transformation this strategy achieves the
-greatest benefit with the lowest risk.</p>
+XP in an opinionated ecosystem of interlocking Agile practice patterns from
+Lean Startup, BDD, Lean UX, Kanban, DevOps, CD and A:TNG&rsquo;s OAPL to leapfrog
+the enterprise to the ultimate Agile state of the art. Not because that waves
+a banner but simply because with iterative transformation this strategy
+achieves the greatest benefit with the lowest risk.</p>
 
 <h2>XSCALE Principles</h2>
 
@@ -267,15 +267,83 @@ representatives.  We&rsquo;ll explain how these work below.</p>
 
 <h2>XSCALE Practice Patterns</h2>
 
-<h3>Team process</h3>
+<p>XSCALE is an opinionated ecosystem. This is to say, if you&rsquo;ve got a crew of
+hardcore top-flight engineers already working Agile with full CD kit
+underpinning them and a set of experienced coaches keeping the wheels
+turning, you don&rsquo;t need our advice on how to run your business.</p>
 
-<h4>Lean UX + BDD + XP</h4>
+<p>But if you&rsquo;re not there yet, you&rsquo;ll want to follow these practices very
+closely. Because this is where we turn all the knobs to ten.  Bear in mind
+that XSCALE isn&rsquo;t a big-change-up-front framework. Start with a single squad
+in a single stream and use the <a href="">Seven Samurai</a> to grow it.</p>
+
+<p>As you grow and as you gain experience of doing XSCALE properly, per the
+method of <a href="">Shu Ha Ri</a> cyour councils should Vary these practices to
+continuously adapt to circumstances. That&rsquo;s a key part of XSCALE. But so is
+starting with this set.</p>
+
+<h3>Team Practices</h3>
 
 <h4>DevOps + CD + GitFlow</h4>
 
-<h4>Chapters</h4>
+<ul>
+<li><p>Iterations are 1 week long. Features (defined as groups of stories that when
+deployed together will delivery some concrete business value) are assigned
+one per delivery squad. Delivery is automated and features are delivered
+asynchronously by squads as they&rsquo;re completed.</p></li>
+<li><p>Per the Spotify model, each squad has all the skills and capabilities it
+needs to delivery a feature. Per DevOps, Ops forms a chapter that does not
+gate deployment, but provides delivery squads with automated deployment
+tools and channels that enable them to test and integrate stories and deploy
+features independently.</p></li>
+<li><p>Ops maintains virtualization via Mock Objects, Data Fixtures, BDD step
+implementations and <a href="">Service Virtualization Tools</a> to assure that tests
+cannot interfere with one another and that the behaviour of virtual and
+production-like SIT environments is equivalent under test.</p></li>
+</ul>
 
-<h3>Stream process</h3>
+
+<h4>Lean UX + BDD + XP</h4>
+
+<ul>
+<li><p>Streams use the Lean UX <a href="">Product Team</a> pattern where designers, analysts,
+SMEs, architects and product owners work together to break features down
+into stories to supply a set of delivery squads. To comform with the Spotify
+structure the Product Team takes the form of a chapter. Whenever the Product
+chapter is not meeting its members spend time collaborating with the
+delivery squads.</p></li>
+<li><p>Stories are produced in <a href="">Gherkin</a> format factored to maintain <a href="">INVEST</a>
+properties. Squads get together with the Product Team every Wednesday
+afternoon to estimate its latest batch of stories.</p></li>
+<li><p>A story with INVEST defects is returned without an estiamte to the Product
+Team for clarification. Otherwise the throughput of the Product Team is
+graphed on the <a href="">Stream CF diagram</a> in terms of new estimated story points
+per week.</p></li>
+<li><p>Squads hold reviews and retrospectives every Friday and task breakout
+sessions every Monday. Their CF diagrams roll up together to inform the
+Stream CF diagram&rsquo;s metrics for implemented stories, integrated stories,
+and deployed features.</p></li>
+</ul>
+
+
+<h4>Chapter and Squad meetings</h4>
+
+<ul>
+<li><p>Chapters meet simultaneously every Friday lunch so that squad activites are
+minimally interrupted. Chapters may meet at other times with the permission
+of the Stream Council.</p></li>
+<li><p>At the Friday lunch meeting a Chapter selects its weekly representative for
+the Stream Council, which is conducted immediately afterward while squads
+are conducting their weekly reviews.</p></li>
+<li><p>Squad retrospectives are held immediately following the Stream Council
+meeting so that any Council proposals can be ratified. If unanimous
+ratification of a Council proposal is not achieved, a further Conuncil
+meeting may be held immediately after retros to sort the matter out. See
+details on this below.</p></li>
+</ul>
+
+
+<h3>Stream Practices</h3>
 
 <h4>Spotify Model + Iroquois Councils</h4>
 

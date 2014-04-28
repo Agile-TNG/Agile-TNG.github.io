@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-28T11:32:34+10:00</updated>
+  <updated>2014-04-28T14:30:56+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -90,32 +90,33 @@ those in the Manifesto.</p>
 
 <h3>The eXcellence Principle</h3>
 
-<p>The word &ldquo;extreme&rdquo; in the original XP was so ill-chosen it kicked off the
-effort to find the word &ldquo;Agile&rdquo;. Yet even now most Agile software development
-teams use some XP, and the best ones use all of it. So there&rsquo;s proven value in
-this X.Ignoring the word, what&rsquo;s the value?</p>
+<p>The word &ldquo;extreme&rdquo; in the original XP caused a reaction that prompted the
+effort to define the word &ldquo;Agile&rdquo; with a Manifesto. Even now, however, most
+Agile software development teams use at least some XP practices. The best ones
+use all of them. So there&rsquo;s proven value here. Ignoring the word, what&rsquo;s the
+value?</p>
 
 <p>XP mainly differs from Scrum in its engineering practices &ndash; pair working, TDD,
 collective ownership, continuous integration and merciless refactoring &ndash; which
-interlock to continuously pay off technical debt and thereby prevent cycles of
-rework. At scale such debts multiply to reduce throughput, transparency and
-sustainability. So we could define &ldquo;eXtreme&rdquo; as</p>
+interlock to continuously pay off technical debt At scale such debts compound
+and multiply, reducing throughput, transparency and sustainability. So we can
+define the &ldquo;eXtreme principle&rdquo; as</p>
 
 <p><strong>Pay technical debt before it incurs interest.</strong></p>
 
-<p>XSCALE takes that principle and the XP practices as its foundation because
-this enormously simplifies the challenge of making combinations of Agile teams
-work together. The Scrum practices of sprint reviews and sprint retrospectives
-are likewise eXtreme in defining and actioning early pay-back of analysis and
-process debt.</p>
+<p>XSCALE takes this principle and the XP practices as its foundation because
+doing so enormously simplifies the challenge of making combinations of Agile
+teams work together. The Scrum practices of sprint reviews and sprint
+retrospectives are likewise &ldquo;eXtreme&rdquo; in the sense of defining and actioning
+early pay-back of analysis and process debt.</p>
 
-<p>But we still have to deal with that terrible X word. Happily the Manifesto
-dudes already figured it out. They offered a principle that reads, &ldquo;Continuous
-attention to technical excellence and good design enhances agility&rdquo;. We just
-take the principle above as our distinction for their &ldquo;excellence&rdquo;.</p>
+<p>But we still have to deal with that terrible word. Happily the Manifesto dudes
+already figured it out for us. They give a principle that reads, &ldquo;Continuous
+attention to technical excellence and good design enhances agility&rdquo;. We simply
+take early technical debt pay-back as our distinction for their &ldquo;excellence&rdquo;.</p>
 
-<p>So if someone you trust asks you what you mean by X, tell them &ldquo;XP-based&rdquo;.
-But if it&rsquo;s some Taylorist management dudes you tell &lsquo;em it means &ldquo;technical
+<p>So if someone who understands XP asks us what we mean by X, we say &ldquo;XP-based&rdquo;.
+But if it&rsquo;s some Taylorist management dudes we tell &lsquo;em it means &ldquo;technical
 eXcellence&rdquo; and &hellip; party on Taylorist management dudes &hellip;</p>
 
 <h3>Scalable</h3>
@@ -125,28 +126,28 @@ of people. The number of combinations of a set grows very rapidly; a set of
 just 10 things has over 3.6 million distinct combinations.  So the principle
 of scalability is to:</p>
 
-<p><strong>Continuously minimize combinatorial spaces</strong></p>
+<p><strong>Continuously control combinatorial space</strong></p>
 
-<p>Agile chunks requirements into stories, <a href="">DRY</a>s design artefacts, automates
-testing and integration, and refactors people into feature teams all to comply
-with this principle.</p>
+<p>Agile chunks requirements into stories, <a href="">DRY</a>s design artefacts through
+refactoring mercilessly, automates testing and integration, and refactors
+people into feature teams all to comply with this principle.</p>
 
 <p>Contrariwise the all-hands release planning meetings and &ldquo;town halls&rdquo; in SAFe
-and LeSS are stressful because they fail to limit conversation to small
-combinations of people and concerns. The Spotify / Iroquois patterns actively
-reduce the scope of conversations, so they&rsquo;re good for minimizing that
-combinatorial space.</p>
+and LeSS have been roundly criticized because they fail to limit conversation
+to small combinations of people and concerns. The Spotify / Iroquois patterns
+actively reduce the scope of such conversations, so they&rsquo;re good for
+controlling that combinatorial space.</p>
 
 <p>Another scaling challenge comes from combinations of business alternatives.
-The problem is determining which combinatoins of alternatives have the most
-value. Because Agile works as a hill-climbing algorithm, continously
-integrating little bits of functionality into an existing whole, it&rsquo;s happy to
-climb a molehill of value when there&rsquo;s an Everest right next door.</p>
+The problem is determining which combinatoins have the most value. Because
+Agile works as a hill-climbing algorithm, continously integrating little bits
+of functionality into an existing whole, it&rsquo;s actually happy to climb a
+molehill of value when there&rsquo;s an Everest right next door.</p>
 
-<p>Business Model Canvas, Breadth-First Product Roadmap and Refactoring same
-serve as ways to constract the combinatorial space of alteratives by explcitly
-quantifying relative value. This aims to contract the combination of work of
-multiple teams down to a stream of whole features to maximize relative ROI
+<p>Business Model Canvas, Breadth-First Product Roadmap and Roadmap Refactoring
+are patterns XSCALE uses to control the combinatorial space of alteratives
+through sorting by relative value. This serves to focus the work of multiple
+teams on a single piece flow of whole features that maximize relative ROI
 while respecting stream funding limits and MVP and CoD constraints.</p>
 
 <h3>Continuous</h3>

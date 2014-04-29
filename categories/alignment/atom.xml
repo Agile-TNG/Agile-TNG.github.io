@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Alignment | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/alignment/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-29T10:50:02+10:00</updated>
+  <updated>2014-04-29T11:18:47+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -21,10 +21,9 @@
     <content type="html"><![CDATA[<p><img src="/images/nails.png" width="400"></p>
 
 <p>When all you have is a hammer, every problem looks like a nail.  When all you
-have is a project management methodology, everything looks like a project.</p>
+have is a project management methodology, everything looks like a project. </p>
 
 <!-- more -->
-
 
 <p>Most organisations have become very project focussed. Everything is a project.
 New release of software – project. Some process change – project. That’s
@@ -34,13 +33,13 @@ we had before projects. But projects do have some drawbacks.</p>
 <p>To work out what the drawbacks are, we need to look at what a project is. A
 project is defined (by the PMI who should know) as something that has a
 defined scope, a defined start and a defined end date.  So projects are finite
-in length. Anything without an end date isn’t a project, it&rsquo;s business as
+in length. Anything without an end date isn’t a project, it’s business as
 usual.</p>
 
 <p>This defined end date is where the problem with projects lies. In reality,
 most of the things we treat as projects aren’t really projects. They have no
-real end date. Let&rsquo;s take software delivery as an example. A company develops
-a product, let&rsquo;s call it &ldquo;Wonder Widget&rdquo;. They want to release a new version
+real end date. Let’s take software delivery as an example. A company develops
+a product, let’s call it “Wonder Widget”. They want to release a new version
 (WW 2.0) so they start a WW2.0 project with an end date that matches the
 desired release date. When the release date is reached, the project team is
 disbanded. Then when they want to release WW2.1, they start up the WW2.1
@@ -55,7 +54,7 @@ the key members may be the same but many will be off on other projects (Super
 Service 3.5) so the new team has to learn about Wonder Widget from scratch.</p>
 
 <p>Even worse, the Wonder Widget 2.0 team may have left things in a bad state. We
-all know how this happens &ndash; schedule pressure near the end of a project. The
+all know how this happens - schedule pressure near the end of a project. The
 team feels stressed. There are still new features to deliver. Other things
 start to slip. Like testing and documentation and code quality. All the things
 that will make life really hard for the 2.1 team.  The 2.0 team won’t be
@@ -64,13 +63,13 @@ they accrue. They will be judged on how successful 2.0 is – how many features
 it has, how well it sells. Everyone knows that 2.1 will have a hard time but
 hey, that’s their problem. 2.0 will be a great success.</p>
 
-<p>Sound familiar?</p>
+<p>Sound familiar? </p>
 
 <p>The problem with projects like this is that they aren’t really projects.</p>
 
-<h2>Therefore</h2>
+<h2 id="therefore">Therefore</h2>
 
-<p>Treat Product development as a continuous activity.</p>
+<p>Treat Product development as a continuous activity. </p>
 
 <p><img src="/images/zipper.png"></p>
 
@@ -91,8 +90,9 @@ finish).</p>
 project is a great way to ensure that the change fades away as soon as the
 project is finished. Change management is ongoing, with no real end date.</p>
 
-<p>Projects are fine for things that are actually projects. But let&rsquo;s stop
+<p>Projects are fine for things that are actually projects. But let’s stop
 treating everything like one.</p>
+
 ]]></content>
   </entry>
   

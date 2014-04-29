@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-29T10:50:02+10:00</updated>
+  <updated>2014-04-29T11:18:47+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -26,42 +26,46 @@ Agile enterprise that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-
 <p><strong>[This post is currently in draft. I hope to finish it today but welcome
-feedback both from my TNG compadres and anyone else who happens by &hellip;.]</strong></p>
+feedback both from my TNG compadres and anyone else who happens by ….]</strong></p>
 
-<h2>Why XSCALE?</h2>
+<h2 id="why-xscale">Why XSCALE?</h2>
 
 <p>There have been several efforts to provide enterprises with a way to scale
 Agile. The best known are SAFe, LeSS, and the Spotify Tribal model. Each
 has its strengths and weaknesses.</p>
 
 <ul>
-<li><p>SAFe targets conservative businesses with a low-discipline, top-down,
-big-change-up-front, punctuated cadence model that combines Kanban,
+  <li>
+    <p>SAFe targets conservative businesses with a low-discipline, top-down,
+big-change-up-front, punctuated cadence model that combines Kanban, 
 quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to
 permit an organization to keep its component silos intact. So it includes
 some XP practices but ignores test-first TDD, continuous delivery,
-collective ownership, merciless refactoring and feature teams.</p></li>
-<li><p>LeSS is more progressive in some ways, offering a high-collaboration,
+collective ownership, merciless refactoring and feature teams.</p>
+  </li>
+  <li>
+    <p>LeSS is more progressive in some ways, offering a high-collaboration,
 continuous cadence model that relies on <a href="">Scrum of Scrums</a> to deal with
 integration and cross-cutting concerns. It is still big-change-up-front,
 however, requiring an organization to refactor its component silos into
 feature teams before commencing sprints, It leaves specifics of product
-planning, test automation and so on for teams to determine ad hoc.</p></li>
-<li><p>The Spotify model dispenses with Scrum in favour of a pattern of <a href="">Tribes and
+planning, test automation and so on for teams to determine ad hoc.</p>
+  </li>
+  <li>
+    <p>The Spotify model dispenses with Scrum in favour of a pattern of <a href="">Tribes and
 Guilds</a>, strongly emphasizing bottom-up collaboration and team autonomy.
 It gives no further guidance on method as it expects a structure of
 top-flight autonomous teams is capable of deciding for themselves how to
-choose, tailor and coordinate the rollout of further Agile practices.</p></li>
+choose, tailor and coordinate the rollout of further Agile practices. </p>
+  </li>
 </ul>
-
 
 <p>XSCALE is based on the premise that full XP actually makes scaling easier to
 do, not harder, by assuring that technical debts are continuously paid. And
 that a large enterprise can easily adopt XP practices by starting with a small
 uncompromised XP team using the <a href="">Goose in the Bottle</a> and growing it with
-the <a href="">Seven Samurai</a> patterns.</p>
+the <a href="">Seven Samurai</a> patterns. </p>
 
 <p>So XSCALE never needs to effect big-change-up-front of portfolios, programs or
 component teams, but it still yields a thorough structural refactoring of
@@ -70,50 +74,54 @@ enterprise value streams.</p>
 <p>As a result, XSCALE creates more Agility than SAFe as its methods of planning,
 delivery and transformation are fully continuous and collaborative.  It offers
 a more coherent organization than LeSS by combining Spotify <a href="">Tribes and
-Guilds</a> with consensus decisioning via <a href="">Iroquois Councils</a>. And it&rsquo;s more
+Guilds</a> with consensus decisioning via <a href="">Iroquois Councils</a>. And it’s more
 accessible than Spotify alone because it provides an iterative, standardized,
 bump-free way to transform enterprise value streams over time.</p>
 
 <p>XSCALE further differs from the other enterprise agile frameworks by embedding
 XP in an opinionated ecosystem of interlocking Agile practice patterns from
-Lean Startup, BDD, Lean UX, Kanban, DevOps, CD and A:TNG&rsquo;s OAPL to leapfrog
+Lean Startup, BDD, Lean UX, Kanban, DevOps, CD and A:TNG’s OAPL to leapfrog
 the enterprise to the ultimate Agile state of the art. Not because that waves
 a banner but simply because with iterative transformation this strategy
 achieves the greatest benefit with the lowest risk.</p>
 
-<h2>XSCALE Principles</h2>
+<h2 id="xscale-principles">XSCALE Principles</h2>
 
 <p>XSCALE conforms with the <a href="">A:TNG values</a>, which form a strict superset of
 those in the Agile Manifesto. As a practice pattern language XSCALE also rests
 on six principles that should likewise be regarded as a strict superset of
 those in the Manifesto.</p>
 
-<ul>
-<li><strong>eXcellent</strong>: pay technical debt before it incurs interest.</li>
-<li><strong>Scalable</strong>: make distinctions to control combinations</li>
-<li><strong>Continuous</strong>: use the smallest practical cycle time and batch size</li>
-<li><strong>Autonomous</strong>: use consensus to reach decisions and to delimit
-accountabilities.</li>
-<li><strong>Lean</strong>: maximize net ROI</li>
-<li><strong>Ecosystem</strong>: continuously pivot and refactor to adapt to cycles of change</li>
-</ul>
+<dl>
+  <dt>eXcellent</dt>
+  <dd>Pay technical debt before it incurs interest.</dd>
+  <dt>Scalable</dt>
+  <dd>Make distinctions to control combinations.</dd>
+  <dt>Continuous</dt>
+  <dd>Use the smallest practical cycle time and batch size.</dd>
+  <dt>Autonomous</dt>
+  <dd>Use consensus to reach decisions and to delimit accountabilities.</dd>
+  <dt>Lean</dt>
+  <dd>Maximize net ROI.</dd>
+  <dt>Ecosystem</dt>
+  <dd>Contnuously pivot and refactor to adapt to cycles of change.</dd>
+</dl>
 
+<p>Detailed reasoning for each of these follows, and then </p>
 
-<p>Reasoning for each of these follows:</p>
+<h3 id="excellent">eXcellent</h3>
 
-<h3>eXcellent</h3>
-
-<p>The word &ldquo;extreme&rdquo; in the original XP caused a reaction that prompted the
-effort to define the word &ldquo;Agile&rdquo; with a Manifesto. Even now, however, most
+<p>The word “extreme” in the original XP caused a reaction that prompted the
+effort to define the word “Agile” with a Manifesto. Even now, however, most
 Agile software development teams use at least some XP practices. The best ones
-use them all. So there&rsquo;s proven value here. Ignoring the word, what&rsquo;s the
+use them all. So there’s proven value here. Ignoring the word, what’s the
 value?</p>
 
-<p>XP mainly differs from Scrum in its engineering practices &ndash; pair working, TDD,
-collective ownership, continuous integration and merciless refactoring &ndash; which
+<p>XP mainly differs from Scrum in its engineering practices - pair working, TDD,
+collective ownership, continuous integration and merciless refactoring - which
 interlock to continuously pay off technical debt. At scale such debts compound
 and multiply, reducing throughput, transparency and sustainability. So we can
-define the &ldquo;eXtreme principle&rdquo; as:</p>
+define the “eXtreme principle” as:</p>
 
 <p><strong>Pay technical debt before it incurs interest.</strong></p>
 
@@ -123,12 +131,12 @@ work together. The Scrum practices of sprint reviews and sprint retrospectives
 are likewise indispensable in defining and actioning early pay-back of
 analysis and process debt.</p>
 
-<p>As for &ldquo;eXtreme&rdquo;, the Manifesto dudes figured gave us a principle that reads,
-&ldquo;Continuous attention to technical excellence and good design enhances
-agility&rdquo;. We can simply take early technical debt pay-back as our distinction
-for &ldquo;eXcellence&rdquo; if anyone still cares what the X stands for.</p>
+<p>As for “eXtreme”, the Manifesto dudes figured gave us a principle that reads,
+“Continuous attention to technical excellence and good design enhances
+agility”. We can simply take early technical debt pay-back as our distinction
+for “eXcellence” if anyone still cares what the X stands for.</p>
 
-<h3>Scalable</h3>
+<h3 id="scalable">Scalable</h3>
 
 <p>Scale is about combinations of requirements, of dependencies, of defects, and
 of people. The number of combinations of a set grows very rapidly; a set of
@@ -143,7 +151,7 @@ and integration to iteratively distinguish good system behaviours from bad,
 and refactors people into distinct feature teams all in compliance with this
 principle.</p>
 
-<p>Contrariwise the all-hands release planning meetings and &ldquo;town halls&rdquo; in SAFe
+<p>Contrariwise the all-hands release planning meetings and “town halls” in SAFe
 and LeSS drag out because they fail to distinguish small combinations of
 people and concerns. The Spotify / Iroquois patterns actively channel and
 reduce the scope of conversations to control that combinatorial space.</p>
@@ -151,32 +159,31 @@ reduce the scope of conversations to control that combinatorial space.</p>
 <p>Another scaling challenge comes from the problem of determining which
 combinations of business alternatives have the most value. Because Agile works
 as a hill-climbing algorithm, continously integrating little bits of
-functionality into an existing whole, it&rsquo;s actually happy to climb a molehill
-of value when there&rsquo;s an Everest right next door.</p>
+functionality into an existing whole, it’s actually happy to climb a molehill
+of value when there’s an Everest right next door. </p>
 
 <p>Business Model Canvas, Breadth-First Product Roadmap and Roadmap Refactoring
 are patterns XSCALE uses to collect and distinguish alternatives through
 sorting by relative value. This also serves to combine the work of multiple
 into a single piece flow of whole features that maximize relative ROI while
-respecting stream funding limits and MVP and CoD constraints.</p>
+respecting stream funding limits and MVP and CoD constraints. </p>
 
-<h3>Continuous</h3>
+<h3 id="continuous">Continuous</h3>
 
-<p>SAFe employs a quarterly <a href="">release train</a> integration pattern. That&rsquo;s useful
-for conservative organizations because it means they don&rsquo;t have to alter their
+<p>SAFe employs a quarterly <a href="">release train</a> integration pattern. That’s useful
+for conservative organizations because it means they don’t have to alter their
 component silos. But several penalties come with it:</p>
 
 <ul>
-<li>Increased cost of quality due to delayed regression and acceptance testing
-in &ldquo;hardening sprints&rdquo;.</li>
-<li>Wasted time in meetings to figure out how to satisfy combinatoric inter-team
+  <li>Increased cost of quality due to delayed regression and acceptance testing
+in “hardening sprints”.</li>
+  <li>Wasted time in meetings to figure out how to satisfy combinatoric inter-team
 dependency cycles.</li>
-<li>Lost ROI from keeping finished features on ice for a quarter rather than
+  <li>Lost ROI from keeping finished features on ice for a quarter rather than
 releasing them as quickly as possible.</li>
-<li>Surprises and integration overhead due to the large batch sizes involved in
+  <li>Surprises and integration overhead due to the large batch sizes involved in
 quarterly releasing.</li>
 </ul>
-
 
 <p>XSCALE avoids those penalties by enabling independent feature teams to deploy
 continuously using the GitFlow pattern and environment mapping for continuous
@@ -188,15 +195,15 @@ delivery. This enables delivery teams to</p>
 canvases and breadth-first roadmaps, continuous stream coordination
 using chapters and councils, continuous coordination across streams using
 guilds and treaties, continous refactoring, continuous integration and
-continuous improvement via retrospectives and treaties.</p>
+continuous improvement via retrospectives and treaties. </p>
 
-<h3>Autonomous</h3>
+<h3 id="autonomous">Autonomous</h3>
 
 <p>SAFe has been <a href="">criticized</a> for its assumption of hierarchical, top-down
 decision-making, but LeSS tacitly assumes the same thing. Many of the benefits
 of Agile derive from peer collaboration and team consensus games like planning
-poker and retrospectives, and it doesn&rsquo;t seem reasonable to call a process
-Agile at any scale if it doesn&rsquo;t empower consensus.</p>
+poker and retrospectives, and it doesn’t seem reasonable to call a process
+Agile at any scale if it doesn’t empower consensus.</p>
 
 <p>People have long dreamt of an anarchic utopia where the only law is the
 <a href="">Golden Rule</a>. As the scale of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
@@ -209,61 +216,60 @@ controlled through more restrictive forms of society. Therefore,</p>
 <p>Rationally, individual accountability should be applied when the business cost
 of delaying a decision is greater than the social cost of failing to maintain
 consensus. This trade-off seems to have been best managed, historically, by
-the Iroquois Confederacy of North America.</p>
+the Iroquois Confederacy of North America. </p>
 
 <p>The Iroquois used unanimous consent at a sub-Dunbar scale to govern a
 hierarchy of treaty-making councils. Where consensus protocol was violated or
-timing called for an immediate decision, per-tribe &ldquo;war chiefs&rdquo; were made
+timing called for an immediate decision, per-tribe “war chiefs” were made
 accountable. This proved stable at a multi-national scale over a period of
 centuries. XSCALE combines it with the Spotify Tribal model to scale consensus
 decisions while maintaining proper team and stream autonomy.</p>
 
-<h3>Lean</h3>
+<h3 id="lean">Lean</h3>
 
-<p>Lean is often defined as &ldquo;Minimizing Waste&rdquo;. Unfortunately that definition
+<p>Lean is often defined as “Minimizing Waste”. Unfortunately that definition
 admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use Lean almost
 as synonymous with Agile. But command and control frameworks like Lean Six
 Sigma and Lean Accounting interpret Lean to mean cost reduction over ROI and
 hierarchical standardization over adaptive collaboration. This makes them
-unsuited to our purpose in XSCALE.</p>
+unsuited to our purpose in XSCALE. </p>
 
-<p>So let&rsquo;s eliminate the ambiguity and give the following as our Lean principle:</p>
+<p>So let’s eliminate the ambiguity and give the following as our Lean principle:</p>
 
 <p><strong>Maximize net ROI</strong></p>
 
 <p>With this in mind we adopt the following Lean practice patterns:</p>
 
 <ul>
-<li>Lean Startup&rsquo;s <a href="">business model canvas</a> to pivot the enterprise&rsquo;s
+  <li>Lean Startup’s <a href="">business model canvas</a> to pivot the enterprise’s
 value streams</li>
-<li>Per stream <a href="">Value Stream Maps</a> converted to a <a href="">Lean Kanban</a> and
+  <li>Per stream <a href="">Value Stream Maps</a> converted to a <a href="">Lean Kanban</a> and
 <a href="">cumulative flow diagrams</a> to represent the relationship between stream
 funding, stream return, and product roadmaps</li>
-<li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
+  <li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
 <a href="">set-based-design</a> with lo-fi prototyping, BDD and Roadmap Refactoring</li>
-<li><a href="">Lean Transformation Canvas</a> as a roadmap to focus the <a href="">Seven Samurai</a>
+  <li><a href="">Lean Transformation Canvas</a> as a roadmap to focus the <a href="">Seven Samurai</a>
 patterns.</li>
 </ul>
-
 
 <p>These Lean practice patterns all work to maximise net ROI. XSCALE interlocks
 them to render a stream funding cycle without need for project budgets and
 baselines and continuously responsive to metrics and learnings relative both
 to the teams in the stream and its market.</p>
 
-<h3>Ecosystem</h3>
+<h3 id="ecosystem">Ecosystem</h3>
 
 <p>We have become used to combining the noun ecosystem with the adjective
 fragile. But this is an artefact of the <a href="">anthropocene era</a> where most
 biological ecosystems are undergoing catastrophic change. The salient
-characteristic of an ecosystem is not its fragility, but agility &ndash; that it
+characteristic of an ecosystem is not its fragility, but agility - that it
 embraces change and maintains stable behaviours thereby. This is how a living
-ecosystem differs from a jumble of creatures in a zoo &ndash; it self-organizes to
+ecosystem differs from a jumble of creatures in a zoo - it self-organizes to
 adapt to cycles of change without some external intelligence planning for it.</p>
 
 <p>As the principles of a biological ecosystem we have sex and death. Sex
 continously generates experimental variations on behaviour and death removes
-variations that don&rsquo;t efficiently adapt to circumstances.</p>
+variations that don’t efficiently adapt to circumstances. </p>
 
 <p>As humans our great advantage over other creatures is our ability to
 anticipate cycles of change so that we can adapt to them without resorting to
@@ -273,116 +279,136 @@ is:</p>
 
 <p><strong>Continuously pivot and refactor to adapt to cycles of change</strong></p>
 
-<p>This isn&rsquo;t just about the product, but the structure and practices of teams,
+<p>This isn’t just about the product, but the structure and practices of teams,
 streams and the enterprise. In order to pivot and refactor these things XSCALE
-relies on a hierarchy of Iroquois councils &ndash; chapters as groupings of people
+relies on a hierarchy of Iroquois councils - chapters as groupings of people
 with common capabilities, stream councils which are composed of chapter
 representatives, and an enterrpise council composed of stream council
-representatives.  We&rsquo;ll explain how these work below.</p>
+representatives.  We’ll explain how these work below.</p>
 
-<h2>XSCALE Practice Patterns</h2>
+<h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
 
-<p>XSCALE is an opinionated ecosystem. This is to say, if you&rsquo;ve got a crew of
+<p>XSCALE is an opinionated ecosystem. This is to say, if you’ve got a crew of
 hardcore top-flight engineers already working Agile with full CD kit
 underpinning them and a set of experienced coaches keeping the wheels
-turning, you don&rsquo;t need our advice on how to run your business.</p>
+turning, you don’t need our advice on how to run your business. </p>
 
-<p>But if you&rsquo;re not there yet, you&rsquo;ll want to follow these practices very
+<p>But if you’re not there yet, you’ll want to follow these practices very
 closely. Because this is where we turn all the knobs to ten.  Bear in mind
-that XSCALE isn&rsquo;t a big-change-up-front framework. Start with a single squad
-in a single stream and use the <a href="">Seven Samurai</a> to grow it.</p>
+that XSCALE isn’t a big-change-up-front framework. Start with a single squad
+in a single stream and use the <a href="">Seven Samurai</a> to grow it. </p>
 
 <p>As you grow and as you gain experience of doing XSCALE properly, per the
 method of <a href="">Shu Ha Ri</a> cyour councils should Vary these practices to
-continuously adapt to circumstances. That&rsquo;s a key part of XSCALE. But so is
+continuously adapt to circumstances. That’s a key part of XSCALE. But so is
 starting with this set.</p>
 
-<h3>Team Practices</h3>
+<h3 id="team-practices">Team Practices</h3>
 
-<h4>DevOps + CD + GitFlow</h4>
+<h4 id="devops--cd--gitflow">DevOps + CD + GitFlow</h4>
 
 <ul>
-<li><p>Iterations are 1 week long. Features (defined as groups of stories that when
+  <li>
+    <p>Iterations are 1 week long. Features (defined as groups of stories that when
 deployed together will delivery some concrete business value) are assigned
 one per delivery squad. Delivery is automated and features are delivered
-asynchronously by squads as they&rsquo;re completed.</p></li>
-<li><p>Per the Spotify model, each squad has all the skills and capabilities it
+asynchronously by squads as they’re completed.</p>
+  </li>
+  <li>
+    <p>Per the Spotify model, each squad has all the skills and capabilities it
 needs to delivery a feature. Per DevOps, Ops forms a chapter that does not
 gate deployment, but provides delivery squads with automated deployment
 tools and channels that enable them to test and integrate stories and deploy
-features independently.</p></li>
-<li><p>Ops maintains virtualization via Mock Objects, Data Fixtures, BDD step
+features independently.</p>
+  </li>
+  <li>
+    <p>Ops maintains virtualization via Mock Objects, Data Fixtures, BDD step
 implementations and <a href="">Service Virtualization Tools</a> to assure that tests
 cannot interfere with one another and that the behaviour of virtual and
-production-like SIT environments is equivalent under test.</p></li>
+production-like SIT environments is equivalent under test.</p>
+  </li>
 </ul>
 
-
-<h4>Lean UX + BDD + XP</h4>
+<h4 id="lean-ux--bdd--xp">Lean UX + BDD + XP</h4>
 
 <ul>
-<li><p>Streams use the Lean UX <a href="">Product Team</a> pattern where designers, analysts,
+  <li>
+    <p>Streams use the Lean UX <a href="">Product Team</a> pattern where designers, analysts,
 SMEs, architects and product owners work together to break features down
 into stories to supply a set of delivery squads. To comform with the Spotify
 structure the Product Team takes the form of a chapter. Whenever the Product
 chapter is not meeting its members spend time collaborating with the
-delivery squads.</p></li>
-<li><p>Stories are produced in <a href="">Gherkin</a> format factored to maintain <a href="">INVEST</a>
+delivery squads.</p>
+  </li>
+  <li>
+    <p>Stories are produced in <a href="">Gherkin</a> format factored to maintain <a href="">INVEST</a>
 properties. Squads get together with the Product Team every Wednesday
-afternoon to estimate its latest batch of stories.</p></li>
-<li><p>A story with INVEST defects is returned without an estiamte to the Product
+afternoon to estimate its latest batch of stories.</p>
+  </li>
+  <li>
+    <p>A story with INVEST defects is returned without an estiamte to the Product
 Team for clarification. Otherwise the throughput of the Product Team is
 graphed on the <a href="">Stream CF diagram</a> in terms of new estimated story points
-per week.</p></li>
-<li><p>Squads hold reviews and retrospectives every Friday and task breakout
+per week.</p>
+  </li>
+  <li>
+    <p>Squads hold reviews and retrospectives every Friday and task breakout
 sessions every Monday. Their CF diagrams roll up together to inform the
-Stream CF diagram&rsquo;s metrics for implemented stories, integrated stories,
-and deployed features.</p></li>
+Stream CF diagram’s metrics for implemented stories, integrated stories,
+and deployed features.</p>
+  </li>
 </ul>
 
-
-<h4>Chapter and Squad meetings</h4>
+<h4 id="chapter-and-squad-meetings">Chapter and Squad meetings</h4>
 
 <ul>
-<li><p>Chapters meet simultaneously every Friday lunch so that squad activites are
+  <li>
+    <p>Chapters meet simultaneously every Friday lunch so that squad activites are
 minimally interrupted. Chapters may meet at other times with the permission
-of the Stream Council.</p></li>
-<li><p>At the Friday lunch meeting a Chapter selects its weekly representative for
+of the Stream Council.</p>
+  </li>
+  <li>
+    <p>At the Friday lunch meeting a Chapter selects its weekly representative for
 the Stream Council, which is conducted immediately afterward while squads
-are conducting their weekly reviews.</p></li>
-<li><p>Squad retrospectives are held immediately following the Stream Council
+are conducting their weekly reviews.</p>
+  </li>
+  <li>
+    <p>Squad retrospectives are held immediately following the Stream Council
 meeting so that any treaty proposed by Council can be ratified. If unanimous
 ratification of a treaty is not achieved, a further Conuncil meeting may be
 held immediately after retros to sort the matter out, or if polarization
 occurs the Stream lead may force temporary (1 week) adoption of a treaty.
-See more details on this below.</p></li>
-<li><p>Chapters track an Adaptation Kanban with work states of Awareness,
+See more details on this below.</p>
+  </li>
+  <li>
+    <p>Chapters track an Adaptation Kanban with work states of Awareness,
 Architecture, Adoption, Acceleration and Accepted. This kanban rolls up to
-inform the Stream Council&rsquo;s Adaptation Kanban.</p></li>
+inform the Stream Council’s Adaptation Kanban. </p>
+  </li>
 </ul>
 
+<h3 id="stream-practices">Stream Practices</h3>
 
-<h3>Stream Practices</h3>
+<h4 id="spotify-model--iroquois-councils">Spotify Model + Iroquois Councils</h4>
 
-<h4>Spotify Model + Iroquois Councils</h4>
+<h4 id="value-stream-kanban">Value Stream Kanban</h4>
 
-<h4>Value Stream Kanban</h4>
+<h4 id="stream-funding-cycle">Stream Funding cycle</h4>
 
-<h4>Stream Funding cycle</h4>
+<h4 id="stream-council">Stream Council</h4>
 
-<h4>Stream Council</h4>
+<h3 id="enterprise-process">Enterprise process</h3>
 
-<h3>Enterprise process</h3>
+<h4 id="lean-business-modelling">Lean Business Modelling</h4>
 
-<h4>Lean Business Modelling</h4>
+<h4 id="breadth-first-product-roadmap">Breadth-first Product Roadmap</h4>
 
-<h4>Breadth-first Product Roadmap</h4>
+<h4 id="business-bingo">Business Bingo</h4>
 
-<h4>Business Bingo</h4>
+<h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 
-<h4>Roadmap Refactoring</h4>
+<h4 id="enterprise-council">Enterprise Council</h4>
 
-<h4>Enterprise Council</h4>
 ]]></content>
   </entry>
   

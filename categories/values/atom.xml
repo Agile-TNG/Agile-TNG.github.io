@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Values | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/values/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-29T10:50:02+10:00</updated>
+  <updated>2014-04-29T11:18:47+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -21,10 +21,9 @@
     <content type="html"><![CDATA[<p><img src="/images/nails.png" width="400"></p>
 
 <p>When all you have is a hammer, every problem looks like a nail.  When all you
-have is a project management methodology, everything looks like a project.</p>
+have is a project management methodology, everything looks like a project. </p>
 
 <!-- more -->
-
 
 <p>Most organisations have become very project focussed. Everything is a project.
 New release of software – project. Some process change – project. That’s
@@ -34,13 +33,13 @@ we had before projects. But projects do have some drawbacks.</p>
 <p>To work out what the drawbacks are, we need to look at what a project is. A
 project is defined (by the PMI who should know) as something that has a
 defined scope, a defined start and a defined end date.  So projects are finite
-in length. Anything without an end date isn’t a project, it&rsquo;s business as
+in length. Anything without an end date isn’t a project, it’s business as
 usual.</p>
 
 <p>This defined end date is where the problem with projects lies. In reality,
 most of the things we treat as projects aren’t really projects. They have no
-real end date. Let&rsquo;s take software delivery as an example. A company develops
-a product, let&rsquo;s call it &ldquo;Wonder Widget&rdquo;. They want to release a new version
+real end date. Let’s take software delivery as an example. A company develops
+a product, let’s call it “Wonder Widget”. They want to release a new version
 (WW 2.0) so they start a WW2.0 project with an end date that matches the
 desired release date. When the release date is reached, the project team is
 disbanded. Then when they want to release WW2.1, they start up the WW2.1
@@ -55,7 +54,7 @@ the key members may be the same but many will be off on other projects (Super
 Service 3.5) so the new team has to learn about Wonder Widget from scratch.</p>
 
 <p>Even worse, the Wonder Widget 2.0 team may have left things in a bad state. We
-all know how this happens &ndash; schedule pressure near the end of a project. The
+all know how this happens - schedule pressure near the end of a project. The
 team feels stressed. There are still new features to deliver. Other things
 start to slip. Like testing and documentation and code quality. All the things
 that will make life really hard for the 2.1 team.  The 2.0 team won’t be
@@ -64,13 +63,13 @@ they accrue. They will be judged on how successful 2.0 is – how many features
 it has, how well it sells. Everyone knows that 2.1 will have a hard time but
 hey, that’s their problem. 2.0 will be a great success.</p>
 
-<p>Sound familiar?</p>
+<p>Sound familiar? </p>
 
 <p>The problem with projects like this is that they aren’t really projects.</p>
 
-<h2>Therefore</h2>
+<h2 id="therefore">Therefore</h2>
 
-<p>Treat Product development as a continuous activity.</p>
+<p>Treat Product development as a continuous activity. </p>
 
 <p><img src="/images/zipper.png"></p>
 
@@ -91,8 +90,9 @@ finish).</p>
 project is a great way to ensure that the change fades away as soon as the
 project is finished. Change management is ongoing, with no real end date.</p>
 
-<p>Projects are fine for things that are actually projects. But let&rsquo;s stop
+<p>Projects are fine for things that are actually projects. But let’s stop
 treating everything like one.</p>
+
 ]]></content>
   </entry>
   
@@ -104,79 +104,83 @@ treating everything like one.</p>
     <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
 
 <ul>
-<li><strong>Consensus games over accountable hierarchies</strong></li>
-<li><strong>Extreme teams over corporate committees</strong></li>
-<li><strong>Stream funding over project budgets</strong></li>
-<li><strong>Adaptation patterns over prescriptive frameworks</strong></li>
+  <li><strong>Consensus games over accountable hierarchies</strong>  </li>
+  <li><strong>Extreme teams over corporate committees</strong>  </li>
+  <li><strong>Stream funding over project budgets</strong></li>
+  <li><strong>Adaptation patterns over prescriptive frameworks</strong>  </li>
 </ul>
-
 
 <p>That is, while there is value in the items on the right, we value the items on
 the left more. And while we honor the original Manifesto values, we honor these
-TNG values equally.</p>
+TNG values equally.
+<!-- more --></p>
 
-<!-- more -->
-
-
-<h2>What do those items on the left mean?</h2>
+<h2 id="what-do-those-items-on-the-left-mean">What do those items on the left mean?</h2>
 
 <p>The items on the right are familiar to us all. The items on the left have
-a pleasant ring, but let&rsquo;s make some concrete examples to make them clear.</p>
+a pleasant ring, but let’s make some concrete examples to make them clear.</p>
 
 <ul>
-<li><p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
+  <li>
+    <p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
 <a href="">retrospectives</a>, <a href="http://agiletng.org/2014/04/02/iroquois-council/">agile
 parliament</a> and other ways
 for people to align understandings and make decisions together. Lean coffees
-and open spaces do the former; retros and parliaments do the latter.</p></li>
-<li><p><strong>Extreme teams</strong> are autonomous cross-component cross-functional end-to-end
+and open spaces do the former; retros and parliaments do the latter. </p>
+  </li>
+  <li>
+    <p><strong>Extreme teams</strong> are autonomous cross-component cross-functional end-to-end
 feature-based teams that self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
 rules</a> to optimize
 quality, throughput, ROI and alignment of their value stream to its market.
-They&rsquo;re extreme in that they consciously &ldquo;turn all the dials to ten&rdquo; to
-capitalize on learnings and innovations.</p></li>
-<li><p><strong>Stream funding</strong> means funding to continuously deliver the maximum ROI
+They’re extreme in that they consciously “turn all the dials to ten” to
+capitalize on learnings and innovations.</p>
+  </li>
+  <li>
+    <p><strong>Stream funding</strong> means funding to continuously deliver the maximum ROI
 features to improve a value stream, rather than chunking objectives,
-timeframes and budgets arbitrarily into projects. It includes patterns
-from <a href="">Beyond Budeting</a>, <a href="">Beta Codex</a>, and <a href="">Open Book Management</a>.</p></li>
-<li><p><strong>Adaptation patterns</strong> describe proven solutions to commonplace problems in
+timeframes and budgets arbitrarily into projects. It includes patterns 
+from <a href="">Beyond Budeting</a>, <a href="">Beta Codex</a>, and <a href="">Open Book Management</a>.</p>
+  </li>
+  <li>
+    <p><strong>Adaptation patterns</strong> describe proven solutions to commonplace problems in
 a collaborative context. Similar to design patterns for software, they were
 pioneered in the initial description of XP and revived by Jim Coplien and
-Ken Schwaber in their <a href="">ScrumPLOP</a> conference.</p></li>
+Ken Schwaber in their <a href="">ScrumPLOP</a> conference.</p>
+  </li>
 </ul>
 
-
-<h2>Where do these values come from?</h2>
+<h2 id="where-do-these-values-come-from">Where do these values come from?</h2>
 
 <p>Agile started with XP on the <a href="http://www.c2.com/cgi/wiki/ExtremeProgrammingRoadmap">C2
 Wiki</a>, a high powered
 but open community of professionals sharing patterns and innovations for the
 common good. The Agile Alliance distilled this work into a Manifesto and added
-a signup page, but C2&rsquo;s open community is the real reason for the global
+a signup page, but C2’s open community is the real reason for the global
 supremacy of Agile today.</p>
 
 <p>Nevertheless that all happened last century and the Manifesto is showing
-its age.  It&rsquo;s still right on when it comes to teams, but lacks values and
+its age.  It’s still right on when it comes to teams, but lacks values and
 principles for large scale Agile adoption. This gap has led to
 <a href="http://agile.dzone.com/articles/method-wars-scrum-vs-safe">contention</a> as
 consultancies and certificate-mills compete to pry open corporate checkbooks
-for their respective brands.</p>
+for their respective brands. </p>
 
-<p>Which is crazy. There&rsquo;s value in both Scrum and SAFe, and no reason to think
-you can&rsquo;t combine elements of both along with other frameworks. The value of
-frameworks isn&rsquo;t in their brands and certificates, nor in adopting them as
-prescriptions, but in adapting the practice patterns they contain.</p>
+<p>Which is crazy. There’s value in both Scrum and SAFe, and no reason to think
+you can’t combine elements of both along with other frameworks. The value of
+frameworks isn’t in their brands and certificates, nor in adopting them as
+prescriptions, but in adapting the practice patterns they contain. </p>
 
-<p>Schwaber is correct in worrying about the danger of making &ldquo;half a cow and
-half a fish&rdquo; when what we really want is dolphins. The question is, on what
+<p>Schwaber is correct in worrying about the danger of making “half a cow and
+half a fish” when what we really want is dolphins. The question is, on what
 basis do you go about the process of adaptation? How do you do it organically,
 iteratively, and without tripping up at scale? To do that you need a clear set
-of values and principles. And that&rsquo;s where A:TNG comes in.</p>
+of values and principles. And that’s where A:TNG comes in.</p>
 
 <p>A:TNG is based on the idea that SAFe, Less, DAD, APF, ETF, OBM, Beyond
 Budgeting, Lean and on and on all provide useful adaptation patterns.  And
-that there&rsquo;s a lot more to enterprise agility than all of them put together.
-We&rsquo;ve augmented the Manifesto values not as a way to make yet another brand,
+that there’s a lot more to enterprise agility than all of them put together.
+We’ve augmented the Manifesto values not as a way to make yet another brand,
 but as a basis for the work of pulling these pattern languages out of all the
 brands and into the open where we can really sort out what works with what.</p>
 ]]></content>

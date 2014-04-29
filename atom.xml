@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-29T09:59:43+10:00</updated>
+  <updated>2014-04-29T10:03:47+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -241,20 +241,22 @@ to the teams in the stream and its market.</p>
 <h3>Ecosystem</h3>
 
 <p>We have become used to combining the noun ecosystem with the adjective
-fragile. But this is an artefact of the anthropocene era where most ecosystems
-are undergoing catastrophic change. The salient characteristic of an ecosystem
-is not its fragility, but agility &ndash; that it embraces change and flourishes
-thereby. This is how a living ecosystem differs from just a jumble of
-creatures in a zoo &ndash; it self-organizes to adapt to cycles of change.</p>
+fragile. But this is an artefact of the <a href="">anthropocene era</a> where most
+biological ecosystems are undergoing catastrophic change. The salient
+characteristic of an ecosystem is not its fragility, but agility &ndash; that it
+embraces change and maintains stable behaviours thereby. This is how a living
+ecosystem differs from a jumble of creatures in a zoo &ndash; it self-organizes to
+adapt to cycles of change without some external intelligence planning for it.</p>
 
 <p>As the principles of a biological ecosystem we have sex and death. Sex
-continously generates variations on behaviour and death removes variations
-that don&rsquo;t efficiently adapt to circumstances.  As humans our great advantage
-over other creatures is our ability to anticipate cycles of change so that we
-can adapt to them without falling back on sex and death.</p>
+continously generates experimental variations on behaviour and death removes
+variations that don&rsquo;t efficiently adapt to circumstances.</p>
 
-<p>In XSCALE we can think of Lean pivoting in the place of sex and Agile
-refactoring in the place of death, so we put this as</p>
+<p>As humans our great advantage over other creatures is our ability to
+anticipate cycles of change so that we can adapt to them without resorting to
+sex and death.  In XSCALE we think of Lean pivoting and set-based design in
+the place of sex and Agile refactoring in the place of death, so our principle
+is:</p>
 
 <p><strong>Continuously pivot and refactor process to adapt to cycles of change</strong></p>
 

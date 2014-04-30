@@ -5,7 +5,7 @@
 url: http://Agile-TNG.github.io
 title: "Agile: The Next Generation"
 subtitle: "We are uncovering better ways to deliver products and services by improving our teams, enterprises and communities"
-author: A:TNG
+author: Peter Merel
 simple_search: http://google.com/search
 description: "A:TNG is an initiative to re-open the community of Agile practitioners that originally fostered XP and focus on the new frontier of Agile at enterprise scale."
 
@@ -33,7 +33,7 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: categories
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions:
     - autolink
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 #LinkedIn
-linkedin_user: petermerel
+linkedin_user: 6675422
 
 # Disqus Comments
 disqus_short_name: AgileTNG

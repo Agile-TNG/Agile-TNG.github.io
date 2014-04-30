@@ -12,7 +12,7 @@ By working Agile and helping others do so we have come to value:
 
 * **Consensus games over accountable hierarchies**  
 * **Extreme teams over corporate committees**  
-* **Product funding over project budgets**
+* **Stream funding over project budgets**
 * **Adaptation patterns over prescriptive frameworks**  
 
 That is, while there is value in the items on the right, we value the items on
@@ -38,7 +38,7 @@ a pleasant ring, but let's make some concrete examples to make them clear.
   They're extreme in that they consciously "turn all the dials to ten" to
   capitalize on learnings and innovations.
 
-* **Product funding** means funding to continuously deliver the maximum ROI
+* **Stream funding** means funding to continuously deliver the maximum ROI
   features to improve a value stream, rather than chunking objectives,
   timeframes and budgets arbitrarily into projects. It includes patterns 
   from [Beyond Budeting](), [Beta Codex](), and [Open Book Management]().

@@ -599,14 +599,22 @@ cite {
 }
 
 h1,
-h2,
+h2 {
+  margin: 10px 0;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  line-height: 1;
+  color: inherit;
+  text-rendering: optimizelegibility;
+}
+
 h3,
 h4,
 h5,
 h6 {
   margin: 10px 0;
   font-family: "Ubuntu";
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1;
   color: inherit;
   text-rendering: optimizelegibility;

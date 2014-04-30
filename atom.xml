@@ -4,10 +4,10 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-30T22:23:08+10:00</updated>
+  <updated>2014-05-01T00:50:06+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
-    <name><![CDATA[Peter Merel]]></name>
+    <name><![CDATA[A:TNG]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/xscale.png" /></p>
 
 <p>Reflecting our work over recent years, XSCALE is a continuously delivering,
-continuously self-organizing, continuously adaptive Agile ecosystem that turns
-all the knobs to ten.</p>
+continuously self-organizing, continuously adaptive Agile enterprise ecosystem
+that turns all the knobs to ten.</p>
 
 <!-- more -->
 

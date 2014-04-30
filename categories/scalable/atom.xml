@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scalable | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scalable/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-30T10:26:43+10:00</updated>
+  <updated>2014-04-30T11:29:19+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -401,23 +401,65 @@ theme into a feature.</li>
 detailed for the scale of the roadmap. It’s good to bear in mind that each of
 the features will be expanded into a roadmap at the next level down, until the
 features are small enough to constitute delivery stories, with details
-hammered out by Product Teams. So it’s counterproductive to over-specify these
-things.</p>
+hammered out by Product Teams. It’s counterproductive to over-specify.</p>
 
-<h4 id="business-bingo">Business Bingo</h4>
+<h4 id="backlog-bingo">Backlog Bingo</h4>
 
-<p>Business Bingo’s feature points represent a different ontology to the
-traditional <a href="">Planning Poker</a> story points. Feature points estimate the level
-of funding necesssary to deliver a Feature. Because the number of story points
-that will fit into such an increment depends on team velocity at the time of
-delivery, so there is no simple mapping between feature points and story
-points.</p>
+<p>XP’s original Planning Game, now more popularly known as “Planning Poker”, is
+a proven way for delivery teams to make collaborative estimates about the
+relative effort required to collaboratively deliver stories. XSCALE
+generalizes this game as a method of determining the funding necessary to
+delivery products and services. It does so by changing the unit of estimation
+from story points to feature points.</p>
 
-<p>Nevertheless, because feature points have an empirical basis in previously
-delivered features, they have proved very effective in establishing a
-reasonable level of funding. Moreover, because XSCALE teams are constantly
-becoming more productive, feature points generally represent a level of
-funding that is more than sufficient to deliver a high quality feature.</p>
+<p>Where story points represent only the relative effort required to deliver a
+story, feature points estimate increments of funding necesssary to deploy
+a feature. Because the number of story points that will fit into a funding
+increment depends on team velocity at the time of delivery, there is no linear
+mapping between feature points and story points.</p>
+
+<p>Nevertheless, as Backlog Bingo gives feature points an empirical basis in
+previously delivered features, they have proved very effective in establishing
+a reasonable level of funding to assure delivery. Moreover, as Agile delivery
+teams and streams are continuously becoming more productive over time, feature
+points generally forecast a reasonable level of funding.</p>
+
+<p>Backlog Bingo is played like this:</p>
+
+<ul>
+  <li>
+    <p>Write <a href="">Fibonacci numbers</a> from 1 to 89 on cards and lay them out in a row
+across a large table.</p>
+  </li>
+  <li>
+    <p>Select three previously delivered and deployed features with well documented
+costs, one small, one medium and one large. Call these probes. Describe each
+probe in a story normal form commensurable with the roadmap features you
+want to estimate.</p>
+  </li>
+  <li>
+    <p>Figure out a funding increment that constitutes the greatest common divisor
+of their respective costs and call this a feature point. Place the three
+probes under the Fibonacci numbers that match their respective magnitudes in
+feature points.</p>
+  </li>
+  <li>
+    <p>Pick a feature from your roadmap at random. The estimation team compares it
+with the probes starting with the middle one to evaluate its relative size
+in Fibonnaci multiples of feature points.</p>
+  </li>
+  <li>
+    <p>Continue to add features this way until there are none left to estimate. If
+the estimation team cannot agree on the estimate for a feature, don’t force
+them but set it aside for later clarification.</p>
+  </li>
+</ul>
+
+<p>If in the course of BPP the quality to be estimated is business value or
+uncertainty, you can simply pick 3 different probes that provide a reasonable
+basis for that.</p>
+
+<h4 id="behavioural-product-planning">Behavioural Product Planning</h4>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 

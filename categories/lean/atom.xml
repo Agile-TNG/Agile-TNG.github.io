@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-04-30T11:29:19+10:00</updated>
+  <updated>2014-04-30T11:40:43+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -20,9 +20,9 @@
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
     <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
 
-<p>Reflecting our work over recent years, XSCALE is a pattern language for a
-continuously delivering, continuously self-organizing, continuously adaptive
-Agile enterprise that turns all the knobs to ten.</p>
+<p>Reflecting our work over recent years, XSCALE is a continuously delivering,
+continuously self-organizing, continuously adaptive Agile enterprise
+architecture that turns all the knobs to ten.</p>
 
 <!-- more -->
 

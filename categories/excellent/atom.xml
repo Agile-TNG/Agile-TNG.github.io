@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eXcellent | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/excellent/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T00:54:57+10:00</updated>
+  <updated>2014-05-01T00:55:54+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -145,7 +145,7 @@ of people. The number of combinations of a set grows very rapidly; a set of
 just 10 things has over 3.6 million distinct combinations.  So the principle
 of scalability is to:</p>
 
-<p><strong>Make distinctions to control combinations</strong></p>
+<p><strong>Iterate distinctions to control combinations</strong></p>
 
 <p>Agile already does this. It maps requirements to distinct features and
 stories, mercilessly refactors design artefacts into distinct (<a href="">DRY</a>)

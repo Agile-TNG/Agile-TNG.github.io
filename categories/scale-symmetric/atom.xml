@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T00:57:39+10:00</updated>
+  <updated>2014-05-01T09:47:14+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -103,9 +103,9 @@ of those in the Manifesto.</p>
   <dt>Autonomous</dt>
   <dd>Use consensus to make decisions and to delimit accountabilities.</dd>
   <dt>Lean</dt>
-  <dd>Contnuously pivot and refactor to maximize net ROI.</dd>
+  <dd>Maximize net ROI.</dd>
   <dt>Ecosystem</dt>
-  <dd>Self-organize to adapt to cycles of change.</dd>
+  <dd>Continuous adaptation of the whole to its parts.</dd>
 </dl>
 
 <p>Detailed reasoning for each of these follows, and then </p>
@@ -272,22 +272,24 @@ fragile. But this is an artefact of our <a href="">anthropocene era</a> where mo
 biological ecosystems are undergoing catastrophic change. The prime
 characteristic of an ecosystem is not fragility, but agility - that it
 embraces change to maintain stable behaviours over time. This is how a living
-ecosystem differs from a jumble of creatures in a zoo - it self-organizes to
-adapt to cycles of change without some external intelligence planning for it.</p>
+ecosystem differs from a jumble of creatures in a zoo - it has evolved to
+continuously adapt to cycles of change in the behaviour of its constituent
+organisms.</p>
 
-<p>As the principles of a biological ecosystem we have sex and death. Sex
-continously generates experimental variations on behaviour and death removes
-variations that don’t efficiently adapt to circumstances. </p>
+<p>As the principles of a evolution we have sex and death. Sex continously
+generates experimental variations on behaviour and death removes variations
+that don’t contribute to efficient adaptation of the whole.</p>
 
 <p>As humans our great advantage over other creatures is our ability to
 anticipate cycles of change so that we can adapt to them more rapidly than sex
 and death. In XSCALE we think of Lean pivoting and set-based design in the
-place of sex and Agile refactoring in the place of death, so our principle is:</p>
+place of sex and Agile refactoring in the place of death, but the principle of
+an ecosystem remains the same:</p>
 
-<p><strong>Self-organize to adapt to cycles of change</strong></p>
+<p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
 <p>This isn’t just about products, but the structure and practices of teams,
-streams and the whole enterprise. In order to pivot and refactor these things
+streams and the whole enterprise. In order to pivot and refactor the whole
 XSCALE relies on a hierarchy of Iroquois councils: chapters as groupings of
 people with common capabilities, stream councils composed of chapter
 representatives, and an enterrpise council composed of stream council

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T13:43:32+10:00</updated>
+  <updated>2014-05-01T14:00:29+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -122,25 +122,25 @@ Agile software development teams use at least some XP practices. The best ones
 use them all. So there’s proven value in XP. Ignoring the scary word, what is
 that value?</p>
 
-<p>XP mostly differs from Scrum in its engineering practices - pair working,
-test-first automated testing, collective ownership, continuous integration and
-merciless refactoring - which interlock to continuously pay off technical
-debt. At scale such debts compound exponentially, a ticking time-bomb that
-sabotages throughput, transparency and sustainability. So we would define the
-“eXtreme principle” as:</p>
+<p>XP mostly differs from the more accessible Scrum method in its engineering
+practices - pair working, test-first automated testing, collective ownership,
+continuous integration and merciless refactoring - which interlock to
+continuously pay off technical debt. At scale such debts compound
+exponentially, a ticking time-bomb that eventually sabotages throughput,
+transparency and sustainability. So we define the “eXtreme principle” as:</p>
 
 <p><strong>Pay technical debt before it incurs interest.</strong></p>
 
 <p>XSCALE takes this principle and the XP engineering practices as a foundation
-because doing so enormously simplifies the challenge and reduces the risk of
-making combinations of Agile teams work together. The Scrum practices of
-sprint reviews and sprint retrospectives are likewise eXtreme in the sense
-that they define and action early pay-back of analysis and process debt.</p>
+because that enormously reduces the risks of making combinations of Agile
+teams work together. The Scrum practices of sprint reviews and retrospectives
+are similarly eXtreme in that they define and action early pay-back of
+analysis and process debt.</p>
 
-<p>But let’s not call it “eXtreme” again. the Manifesto authors figured gave us a
-principle that reads, “Continuous attention to technical excellence and good
-design enhances agility”. XSCALE simply takes early technical debt pay-back as
-the distinction for “eXcellent”. So our X stands for that.</p>
+<p>But let’s not call this principle “eXtreme” again. the Manifesto authors gave
+us a principle that reads, “Continuous attention to technical excellence and
+good design enhances agility”. XSCALE takes technical debt pay-back as the
+meaning of “eXcellence”. So our X stands for that.</p>
 
 <h3 id="scale-symmetric">Scale-symmetric</h3>
 
@@ -154,38 +154,39 @@ of scalability is to:</p>
 <p>Agile already does this. It maps requirements to distinct features and
 stories, mercilessly refactors design artefacts into distinct (<a href="">DRY</a>)
 modules, automates testing and integration to iteratively distinguish good
-system behaviours from bad, and refactors capabilities into distinct feature
-teams to minimize inter-team dependencies. All in compliance with this
-principle.</p>
+system behaviours from bad, and refactors people into distinct feature teams
+to minimize inter-team dependencies. </p>
 
-<p>A potential violation of this kind of scalability is found in the all-hands
+<p>A potential violation of combinatorial scalability is found in the all-hands
 release planning meetings and “town halls” in SAFe and LeSS. These fail to
 distinguish small combinations of people and concerns, which means there’s a
-risk of them spinning out of control. The Spotify / Iroquois team patterns
-actively channel and reduce the scope of conversations to limit their
+risk of them failing to land properly. The Spotify / Iroquois team patterns
+actively channel and reduce the scope of team conversations to limit the
 combinatorial space.</p>
 
 <p>Another scaling challenge comes from the problem of determining which
 combinations of business alternatives have the most value. Because Agile works
 as a hill-climbing algorithm, continously integrating little bits of
 functionality into an existing whole, it’s actually happy to climb a molehill
-of value even when there’s an Everest of it right next door. </p>
+of value when there’s an Everest of it right next door. </p>
 
 <p>Business Model Canvas, Breadth-First Product Roadmap and Roadmap Refactoring
 are patterns XSCALE uses to collect and distinguish alternatives through
 sorting by relative value. This also serves to combine the work of multiple
-into a single piece flow of whole features that maximize relative ROI while
+teams into a single piece flow of whole features to maximize ROI while
 respecting stream funding limits and MVP and CoD constraints. </p>
 
 <h3 id="continuous">Continuous</h3>
 
-<p>SAFe employs a quarterly <a href="">release train</a> integration pattern. That’s useful
-for conservative organizations because it means they don’t have to alter their
-component silos. But several penalties come with it:</p>
+<p>This principle is a key difference between XSCALE and SAFe. SAFe promotes
+Punctuated Cadence over Continuous Delivery, employing a quarterly <a href="">release
+train</a> integration pattern. This may appeal to conservative organizations
+that don’t want to refactor their component silos, but several penalties come
+with it:</p>
 
 <ul>
-  <li>Increased cost of quality due to delayed regression and acceptance testing
-in “hardening sprints”.</li>
+  <li>Increased cost of quality due to deferring regression and acceptance testing
+to “hardening sprints”.</li>
   <li>Wasted time in meetings to figure out how to satisfy combinatoric inter-team
 dependency cycles.</li>
   <li>Lost ROI from keeping finished features on ice for a quarter rather than
@@ -194,17 +195,18 @@ releasing them as quickly as possible.</li>
 quarterly releasing.</li>
 </ul>
 
-<p>XSCALE avoids those penalties by enabling independent feature teams to deploy
-continuously using the GitFlow pattern and environment mapping for continuous
-delivery. This enables delivery teams to</p>
+<p>Because it employs continuous rather than big-bang transformation, XSCALE is
+able to avoid these penalties by enabling uncompromised feature teams to use
+the GitFlow pattern and environment mapping for continuous delivery via
+continous refactoring and continuous integration. This benefits ROI,
+adaptability, transparency and risk reduction. The principal is simply:</p>
 
 <p><strong>Use the smallest practical cycle time and batch size</strong></p>
 
 <p>XSCALE applies the same principle to continuous product planning using lean
-canvases and breadth-first roadmaps, continuous stream coordination
-using chapters and councils, continuous coordination across streams using
-guilds and treaties, continous refactoring, continuous integration and
-continuous improvement via retrospectives and treaties. </p>
+canvases and breadth-first roadmaps, continuous stream coordination using
+chapters and councils, and continuous coordination across streams using guilds
+and treaties, </p>
 
 <h3 id="autonomous">Autonomous</h3>
 

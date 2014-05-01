@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T14:11:06+10:00</updated>
+  <updated>2014-05-01T14:16:28+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -271,23 +271,22 @@ market for the stream’s output.</p>
 <h3 id="ecosystem">Ecosystem</h3>
 
 <p>We have become used to combining the noun ecosystem with the adjective
-fragile. This is an artefact of the <a href="">anthropocene era</a> where many biological
-ecosystems are undergoing catastrophic change. The prime characteristic of an
-ecosystem, however, is not fragility, but agility - that it embraces cycles of
-change to maintain stable behaviours over time. This is how an ecosystem
-differs from a jumble of creatures in a zoo - it has evolved to continuously
-adapt to cycles of change in the behaviour of its constituent organisms.</p>
+fragile. This is probably an artefact of the <a href="">anthropocene era</a> where most
+living ecosystems are undergoing catastrophic change. The prime characteristic
+of an ecosystem, however, is not fragility, but agility - that it embraces
+cycles of change to maintain stable behaviours over time. </p>
 
-<p>The principles of evolution are sex and death. Sex continously generates
-experimental variations on behaviour and death removes variations that don’t
-efficiently adapt to the whole. Over time equilibrium states inevitably
-evolve.</p>
+<p>A living ecosystem differs from a jumble of creatures in a zoo in that it has
+evolved to continuously adapt to cycles of change in the behaviour of its
+constituent organisms.  Its principles are sex and death. Sex continously
+generating experimental variations on behaviour, and death removing variations
+that don’t efficiently adapt to the whole. </p>
 
 <p>As humans our advantage over other creatures is our ability to anticipate
-cycles of change so that we can adapt more rapidly than evolution. In XSCALE
-we think of Lean pivoting and set-based design serving the function of sex and
-Agile refactoring serving that of death, but the principle of an ecosystem
-remains the same:</p>
+cycles of change so that we can adapt more rapidly than we evolve. In XSCALE
+we can think of Lean pivoting and set-based design serving the function of
+sex, and Agile refactoring serving that of death, but the principle of an
+ecosystem remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
@@ -298,15 +297,19 @@ serf-like workers on its head, leveraging the Agile function of management as
 <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
 
 <p>In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
-hierarchy of Iroquois councils: chapters as groupings of people with common
-capabilities across the squads, stream councils composed of chapter
-representatives, and an enterrpise council composed of stream council
-representatives. </p>
+hierarchy of Iroquois councils: </p>
 
-<p>At each level there are also specific accountabilities defined by the teams.
-Each squad in a stream has distinct roles for agile coach and product owner.
-Each stream has a lead product owner and a lead coach. The accountabilities of
-these roles are defined in Gherkin format by the respective councils.</p>
+<ul>
+  <li>chapters as groupings of people with common capabilities across squads </li>
+  <li>stream councils composed of chapter representatives</li>
+  <li>an enterrpise council composed of stream council representatives. </li>
+</ul>
+
+<p>At each level there are specific accountabilities defined by the teams.  Each
+squad in a stream has distinct roles for agile coach and product owner.  Each
+stream has a lead product owner and a lead coach. And the enterprise has its
+executive officers. In XSCALE the accountabilities of these roles are defined
+in Gherkin format by their respective councils.</p>
 
 <h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
 

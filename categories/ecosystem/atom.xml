@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T14:00:29+10:00</updated>
+  <updated>2014-05-01T14:07:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -210,48 +210,46 @@ and treaties, </p>
 
 <h3 id="autonomous">Autonomous</h3>
 
-<p>SAFe has been <a href="">criticized</a> for its assumption of hierarchical, top-down
-decision-making, but LeSS tacitly assumes the same thing. Many of the benefits
-of Agile derive from peer collaboration and team consensus games like planning
-poker and retrospectives, and it doesn’t seem reasonable to call a process
-Agile at any scale if it doesn’t empower consensus.</p>
-
 <p>People have long dreamt of an anarchic utopia where the only law is the
 <a href="">Golden Rule</a>. As the scale of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
 Number</a>, however, the <a href="">Tragedy
 of the Commons</a> inevitably leads to conflicts of interest that must be
-controlled through more restrictive forms of society. Therefore,</p>
+controlled through more restrictive forms of society. </p>
+
+<p>Many of the benefits of Agile derive from peer collaboration and team
+consensus games like planning poker and retrospectives. It doesn’t seem
+reasonable to call a process Agile at any scale if it doesn’t empower
+consensus. So the XSCALE principle is:</p>
 
 <p><strong>Use consensus to reach decisions and to delimit accountabilities.</strong></p>
 
 <p>Rationally, individual accountability should be applied when the business cost
 of delaying a decision is greater than the social cost of failing to maintain
-consensus. This trade-off seems to have been best managed, historically, by
-the Iroquois Confederacy of North America. </p>
+consensus. The historical Iroquois Confederacy used unanimous consent at a
+sub-Dunbar scale to govern a hierarchy of treaty-making councils. </p>
 
-<p>The Iroquois used unanimous consent at a sub-Dunbar scale to govern a
-hierarchy of treaty-making councils. Where consensus protocol was violated or
-timing called for an immediate decision, per-tribe “war chiefs” were made
-accountable. This proved stable at a multi-national scale over a period of
-centuries. XSCALE combines it with the Spotify Tribal model to scale consensus
-decisions while maintaining proper team and stream autonomy.</p>
+<p>Where consensus protocol was violated or timing called for an immediate
+decision, per-tribe “war chiefs” were made accountable. This proved stable at
+a multi-national scale over a period of centuries. XSCALE combines it with the
+Spotify tribal model to scale consensus decisions while clearly maintaining
+team and stream autonomy.</p>
 
 <h3 id="lean">Lean</h3>
 
 <p>Lean is often defined as “Minimizing Waste”. Unfortunately that definition
 admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and <a href="">LSD</a> use Lean almost
-as synonymous with Agile. But command and control frameworks like Lean Six
+as synonymous with Agile, but command and control frameworks like Lean Six
 Sigma and Lean Accounting interpret Lean to mean cost reduction over ROI and
-hierarchical standardization over adaptive collaboration. This makes them
-unsuited to our purpose in XSCALE. </p>
+hierarchical standardization over adaptive collaboration. </p>
 
-<p>So let’s eliminate the ambiguity and give the following as our Lean principle:</p>
+<p>This makes the latter unsuited to our purpose in XSCALE.  To prevent confusion
+XSCALE eliminates the ambiguity to define the principle simply as:</p>
 
-<p><strong>Continuously pivot and refactor to maximize net ROI</strong></p>
+<p><strong>Maximize net ROI</strong></p>
 
-<p>We say net ROI to account for Cost of Delay and other factors in projecting
-ROI over time. With this in mind we adopt the following Lean practice
-patterns:</p>
+<p>We say net ROI in order to account for Cost of Delay and other factors in
+projecting ROI over time. With this in mind XSCALE adapts several specific
+Lean practice patterns:</p>
 
 <ul>
   <li>As a special case of Breadth-first Roadmapping, Lean Startup’s <a href="">business

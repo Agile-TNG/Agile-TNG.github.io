@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T14:07:58+10:00</updated>
+  <updated>2014-05-01T14:11:06+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -259,15 +259,14 @@ model canvas</a> to pivot and refactor the enterprise’s value streams</li>
 funding, stream return, and the stream roadmap</li>
   <li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
 <a href="">set-based-design</a> with lo-fi prototyping, BDD and Feature roadmaps</li>
-  <li><a href="">Lean Transformation Canvas</a> also forms a roadmap to focus the <a href="">Seven
-Samurai</a> patterns.</li>
+  <li><a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>.</li>
 </ul>
 
-<p>These Lean practice patterns all work to maximise net ROI. XSCALE interlocks
-them using scale-symmetric roadmapping to render a stream funding cycle
-without need for project budgets and baselines while remaining continuously
-responsive to metrics and learnings relative both to the teams in the stream
-and to its market.</p>
+<p>These Lean practices all work to maximise net ROI. XSCALE interlocks them
+using scale-symmetric roadmapping to render a stream funding cycle without
+resorting to project budgets and baselines yet remaining continuously
+responsive to metrics and learnings for the teams in the stream and for the
+market for the stream’s output.</p>
 
 <h3 id="ecosystem">Ecosystem</h3>
 

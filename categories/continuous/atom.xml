@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T14:22:58+10:00</updated>
+  <updated>2014-05-02T01:17:46+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -41,8 +41,7 @@ has its strengths and weaknesses.</p>
 big-change-up-front, punctuated cadence model that combines Kanban, 
 quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to
 permit an organization to keep its component silos intact. So it includes
-some XP practices but ignores test-first TDD, continuous delivery,
-collective ownership, merciless refactoring and feature teams.</p>
+XP practices but ignores continuous delivery and feature teams.</p>
   </li>
   <li>
     <p><a href="">LeSS</a> is more progressive in some ways, offering a high-collaboration,
@@ -170,11 +169,11 @@ as a hill-climbing algorithm, continously integrating little bits of
 functionality into an existing whole, it’s actually happy to climb a molehill
 of value when there’s an Everest of it right next door. </p>
 
-<p>Business Model Canvas, Breadth-First Product Roadmap and Roadmap Refactoring
-are patterns XSCALE uses to collect and distinguish alternatives through
-sorting by relative value. This also serves to combine the work of multiple
-teams into a single piece flow of whole features to maximize ROI while
-respecting stream funding limits and MVP and CoD constraints. </p>
+<p>Breadth-First Product Roadmap, Behavioural Product Planning and Roadmap
+Refactoring are patterns XSCALE uses to collect and distinguish alternatives
+through sorting by relative value. This also serves to combine the work of
+multiple teams into a single piece flow of whole features to maximize ROI
+while respecting stream funding limits and MVP and CoD constraints. </p>
 
 <h3 id="continuous">Continuous</h3>
 
@@ -346,63 +345,61 @@ in terms of net ROI, and reconcile them with their avaialble funding levels. </p
 <p><img src="/images/lean-startup.png"></p>
 
 <p>Breadth-First Roadmapping (BFR) is a generalization of the Lean Startup
-<a href="">Business Model Canvas</a> that assures complete assessment of a group’s
-delivery targets or courses of action to a limited resolution. It’s composed
-of simple, commonplace Agile practices - story normal form, INVEST properties
-and categories of Gherkin acceptance criteria. </p>
+<a href="">Business Model Canvas</a> composed of simple, commonplace Agile practices -
+story normal form, INVEST properties and categories of Gherkin acceptance
+criteria. Its function is to assure complete consideration and common
+understanding of a group’s delivery targets or courses of action, to a limited
+depth.</p>
 
-<p>We apply BFR at an enterprise level to determine the value streams required to
-realize a business model. At a stream level we use it to determine the
-features of products and services required to achieve the stream’s business
-objectives. And delivery squads use BFR to determine the stories required to
-deliver a feature.</p>
+<p>XSCALE applies BFR at an enterprise level to determine what value streams are
+required to realize a business model. At a stream level we use it to determine
+the features of products and services required to achieve the stream’s
+business objectives. And delivery squads can also use BFR to determine the
+stories required to deliver a feature.</p>
 
-<p>Therefore every BFR can be regarded as an expansion of a single, large
-objective. It’s important to begin by calling out this objective in
-story-normal form in order to scope the roadmapping work to an unambiguously
+<p>Therefore every BFR can be regarded as an expansion of a single, larger
+scoping story.  It’s important to begin by describing this story in
+<a href="">story-normal form</a> in order to scope roadmapping conversations to a single
 shared intent.</p>
 
 <p><img src="/images/roadmap0.png"></p>
 
 <ul>
-  <li>At every level, BFR takes the form of a roadmap of objectives and themes,
-where themes are defined as categories of acceptance criteria. These
-criteria each represent a cross-cutting technical, business or user
-experience concern.</li>
-  <li>Each objective is decomposed to a set of features in story-normal form.
-These features are checked to assure their in-principle INVEST compliance,
-where the S in INVEST is generalized to mean “scale similar” rather than
-just “small”.</li>
-  <li>The intersection of a feature and a theme is simply referred to as a box.
-And a box can only contain a blank or a checkmark. A checkmark means there
-are acceptance criteria for this feature in this theme. A blank means there
-are no such acceptance criteria.</li>
+  <li>At every level, BFR takes the form of a roadmap of objectives and themes
+where themes define categories of acceptance criteria. In other words each
+theme represents a cross-cutting technical, business or user experience
+concern.</li>
+  <li>Each objective is expanded to a set of sub-features in story-normal form.
+These features are checked to assure their INVEST compliance. The S in
+INVEST is generalized to mean “scale similar” rather than just “small”.</li>
+  <li>The intersection of a feature and a theme is simply a checkbox; each a box
+can only contain a blank or a checkmark. A checkmark means there are
+acceptance criteria for this feature in this theme. A blank means there
+aren’t.</li>
 </ul>
 
 <p><img src="/images/roadmap1.png"></p>
 
 <ul>
-  <li>Each feature is evaluated against all themes. If a theme requires a precise
-definition, a gherkin template may be generated for it, though this is
-usually unnecessary.</li>
-  <li>As each feature is evaluated, the team considers whether it has acceptance
-criteria in a category that isn’t yet part of the roadmap. If so, a column
-is added for that theme and all features are re-evaluated to determine
-whether they also have acceptance criteria in it.</li>
-  <li>It’s fine to modify or refactor features as you go, so long as all the
-roadmap’s boxes are updated accordingly.</li>
+  <li>Each feature is evaluated against all themes. </li>
+  <li>As each feature is evaluated, also consider whether there are acceptance
+criteria in a category that isn’t yet part of the roadmap. If so, add a
+column for that theme and re-evaluate all features to determine whether they
+also have some acceptance criteria in it.</li>
+  <li>It’s fine to modify or refactor features as you go so long as all the
+roadmap’s boxes are updated consistently.</li>
 </ul>
 
 <p><img src="/images/roadmap2.png"></p>
 
 <ul>
-  <li>Each theme is evaluated to determine whether it is sufficiently covered by
-features to achieve the roadmap objective.</li>
+  <li>Evaluate each theme to determine whether it is sufficiently covered by
+features to achieve the original scoping story.</li>
   <li>If not, the roadmap will be extended with extra features to assure the theme
 is sufficiently covered, with these features subsequently evaluated in all
 themes.</li>
   <li>If it appears that all features have the same pattern of checkboxes for two
-themes, the team considers whether the two may be refactored into one.</li>
+themes, consider whether the two may be refactored into one.</li>
 </ul>
 
 <p><img src="/images/roadmap3.png"></p>
@@ -414,54 +411,54 @@ support the commonalities.</li>
   <li>If a theme has no checkboxes ticked, it may simply be deleted. If it has
 only a very small number ticked, it may be better to convert the sparse
 theme into a feature.</li>
-  <li>This process continues until the team agrees that the roadmap is complete.</li>
+  <li>In general this  process continues until the team agrees that the roadmap is
+complete or there is no more time available.</li>
 </ul>
 
-<p>The roadmapping process may become onerous if features or themes are too
-detailed for the scale of the roadmap. It’s good to bear in mind that each of
-the features will be expanded into a roadmap at the next level down, until the
-features are small enough to constitute delivery stories, with details
-hammered out by Product Teams. It’s counterproductive to over-specify.</p>
+<p>To make this work it’s important to keep “breadth-first” in mind. The
+roadmapping process may become long and onerous if features or themes are too
+detailed for the scale of the roadmap. As each of its features will be
+expanded into a roadmap at the next level down, until features are small
+enough to constitute delivery stories, it’s counterproductive to over-specify.</p>
 
 <h4 id="backlog-bingo">Backlog Bingo</h4>
 
-<p>XP’s original Planning Game, now more popularly known as “Planning Poker”, is
-a proven way for delivery teams to make collaborative estimates about the
-relative effort required to collaboratively deliver stories. XSCALE
-generalizes this game as a method of determining the funding necessary to
-delivery products and services. It does so by changing the unit of estimation
-from story points to feature points.</p>
+<p>The original XP Planning Game, now popularly known as “Planning Poker”, is a
+proven way for delivery teams to collaborate on estimating the relative effort
+required to collaboratively deliver a set of stories. XSCALE generalizes
+Planning Poker to make a method of determining the funding required to deliver
+a set of products and services. </p>
 
-<p>Where story points represent only the relative effort required to deliver a
-story, feature points estimate increments of funding necesssary to deploy
-a feature. Because the number of story points that will fit into a funding
-increment depends on team velocity at the time of delivery, there is no linear
-mapping between feature points and story points.</p>
+<p>It does this by changing the unit of estimation from story points to feature
+points. Where story points represent only the relative effort required to
+deliver a story, feature points estimate increments of funding necesssary to
+deploy a whole feature. Because the number of story points that will fit into
+a funding increment depends on team velocity at the time of delivery, there’s
+generally no linear mapping between feature points and story points.</p>
 
 <p>Nevertheless, as Backlog Bingo gives feature points an empirical basis in
-previously delivered features, they have proved very effective in establishing
-a reasonable level of funding to assure delivery. Moreover, as Agile delivery
-teams and streams are continuously becoming more productive over time, feature
-points generally forecast a reasonable level of funding.</p>
-
-<p>Backlog Bingo is played like this:</p>
+previously delivered features, feature points have proved very effective in
+establishing a reasonable level of funding per feature. The game is played
+like this:</p>
 
 <ul>
   <li>
     <p>Write <a href="">Fibonacci numbers</a> from 1 to 89 on cards and lay them out in a row
-across a large table.</p>
+across a large table. There’s nothing magical about Fibonacci numbers - we
+use them because they consistently lead people to think in terms of
+trade-offs - is feature A really as big as feature B + feature C, and so on.</p>
   </li>
   <li>
     <p>Select three previously delivered and deployed features with well documented
 costs, one small, one medium and one large. Call these probes. Describe each
-probe in a story normal form commensurable with the roadmap features you
-want to estimate.</p>
+probe in story-normal form commensurable with the roadmap features you want
+to estimate.</p>
   </li>
   <li>
     <p>Figure out a funding increment that constitutes the greatest common divisor
-of their respective costs and call this a feature point. Place the three
-probes under the Fibonacci numbers that match their respective magnitudes in
-feature points.</p>
+of the probes’ respective costs and call this a feature point. Place the
+three probes under the Fibonacci numbers that match their respective
+magnitudes in feature points. At 3, 13 and 55, for example.</p>
   </li>
   <li>
     <p>Pick a feature from your roadmap. Compare it with the probes starting with
@@ -470,16 +467,57 @@ feature points.</p>
   </li>
   <li>
     <p>Continue to add features this way until there are none left to estimate. If
-the estimators cannot agree on the estimate for a feature, don’t force them
-but set it aside for later clarification.</p>
+the estimators cannot agree on the estimate for a feature, encourage them
+to split it into pieces that they can estimate separately.</p>
   </li>
 </ul>
 
-<p>If in the course of BPP the quality to be estimated is business value or
-uncertainty, you can simply pick 3 different probes that provide a reasonable
-basis for that.</p>
+<p>Backlog Bingo can also be used withot the dollar basis to estimate relative
+business value or uncertainty.  You simply pick 3 different probes that
+provide a reasonable basis for whatever it is. And this is a good thing
+because that’s exactly what we do in BPP.</p>
 
 <h4 id="behavioural-product-planning">Behavioural Product Planning</h4>
+
+<p>Behavioural Product Planning (BPP) is a simple consensus game to prioritise a
+set of features in terms of ROI + COD. This is both easier and leaner
+than the SAFe “Weighted Shortest Job First” (WSJF) equivalent. The game
+builds on Backlog Bingo to assign values to:</p>
+
+<ul>
+  <li>effort in feature points</li>
+  <li>business value / penalty</li>
+</ul>
+
+<p>Technical team members - developers, architects, designers and testers - play
+he first bingo game. Product owners and stakeholders should be present and
+should question any estimate they feel is too large or too small. They may
+also clarify any feature they feel is not adequately defined.  Nevertheless
+only technical team members can actually make effort estimates, and they must
+make them unanimously, clarifying differences by conversation as they would in
+planning poker.</p>
+
+<p>Uncertainty can lead the technical team members to refuse to estimate a
+feature. In this case they must clearly describe the ambiguities or
+inconsistencies they need resolved by product owners in order to produce an
+estimate. If part of the feature is not estimable but another part is, </p>
+
+<ul>
+  <li>the feature is split into two, </li>
+  <li>the estimable feature is estimated</li>
+  <li>the unestimable feature is deferred and a spike or set-based design feature
+is created to represent the work of resolving the uncertinty.</li>
+</ul>
+
+<p>Divide the business value number, which represents expected return, by effort,
+which represents the required investment. That yields relative return on
+investment, which we call ROI.</p>
+
+<p>Why? WSJF is defined by the formula (Business Value + Criticality + Risk-
+Reduction-or-Opportunity-Enablement) / Duration. The trouble with this 
+is</p>
+
+<p>Worse, WSJF ignores MVP.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 

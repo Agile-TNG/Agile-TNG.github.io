@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T14:16:28+10:00</updated>
+  <updated>2014-05-01T14:22:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -313,36 +313,33 @@ in Gherkin format by their respective councils.</p>
 
 <h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
 
-<p>XSCALE is “opinionated” in the same sense as <a href="">Ruby on Rails</a>.  This is to
-say you’ll want to follow these practices very closely to begin with - because
-this is how you “turn all the knobs to ten”.  </p>
+<p>XSCALE is “opinionated” in the same sense as <a href="">Ruby on Rails</a>.  This means
+you’ll want to follow its practices very closely to begin with - because this
+is how it “turns all the knobs to ten”.  </p>
 
-<p>Bear in mind that XSCALE isn’t a big-change-up-front framework. It starts with
-a single squad in a single stream and uses the <a href="">Seven Samurai</a> to grow the
-Agile capability. As it grows and you gain experience per the method of <a href="">Shu
-Ha Ri</a> your various councils will collaboratively vary these practices to
-adapt to circumstances. That’s a key part of XSCALE too. But the following
-provides your starting point.</p>
+<p>Because XSCALE isn’t a big-change-up-front framework, as it grows and you gain
+experience the various councils will collaboratively vary its practices to
+adapt them to the whole. Nevertheless, the following provides a well proven
+starting point.</p>
 
 <h3 id="enterprise-practices">Enterprise Practices</h3>
 
 <p>The Taylorist view of an enterprise holds that it is a function of wise,
 senior management to determine appropriate funding and resourcing for workers
-in the enterprise’s value streams, while the workers are just accountable for
-doing as they’re told. </p>
+in the enterprise’s value streams, with the workers accountable for following
+management directions.</p>
 
 <p>XSCALE adopts the <a href="">Beyond Budgeting</a> premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
-their investing their revenue to fund it. This is not to disempower wise,
-senior managers, but to assure that the entire enterprise pivots
-collaboratively to improve its ROI, with no special class of managers immune
-from doing that.</p>
+their investing some part of their revenue in it to fund it. This is not to
+disempower any wise, senior managers you may happen to have, but to assure
+that the entire enterprise pivots collaboratively to improve its ROI.</p>
 
 <p>Therefore, while we describe the following patterns as “Enterprise Practices”,
-this does not mean they only happen in the stratosphere. These same patterns
-are employed by squads, streams, and the enterprise council to distinguish
-their available courses of action breadth-first, prioritise these in terms
-of net ROI, and reconcile them with avaialble funding levels. </p>
+this doesn’t mean they’re only performed in the stratosphere. These same
+patterns are employed by squads, streams, and the enterprise council to
+distinguish their available courses of action breadth-first, prioritise these
+in terms of net ROI, and reconcile them with their avaialble funding levels. </p>
 
 <h4 id="breadth-first-roadmapping">Breadth-first Roadmapping</h4>
 

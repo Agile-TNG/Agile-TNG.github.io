@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-01T10:19:47+10:00</updated>
+  <updated>2014-05-01T13:41:47+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -37,7 +37,7 @@ has its strengths and weaknesses.</p>
 
 <ul>
   <li>
-    <p>SAFe targets conservative businesses with a low-discipline, top-down,
+    <p><a href="">SAFe</a> targets conservative businesses with a low-discipline, top-down,
 big-change-up-front, punctuated cadence model that combines Kanban, 
 quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to
 permit an organization to keep its component silos intact. So it includes
@@ -45,7 +45,7 @@ some XP practices but ignores test-first TDD, continuous delivery,
 collective ownership, merciless refactoring and feature teams.</p>
   </li>
   <li>
-    <p>LeSS is more progressive in some ways, offering a high-collaboration,
+    <p><a href="">LeSS</a> is more progressive in some ways, offering a high-collaboration,
 continuous cadence model that relies on <a href="">Scrum of Scrums</a> to deal with
 integration and cross-cutting concerns. It is still big-change-up-front,
 however, requiring an organization to refactor its component silos into
@@ -53,45 +53,48 @@ feature teams before commencing sprints, It leaves specifics of product
 planning, test automation and so on for teams to determine ad hoc.</p>
   </li>
   <li>
-    <p>The Spotify model dispenses with Scrum in favour of a pattern of <a href="">Tribes and
-Guilds</a>, strongly emphasizing bottom-up collaboration and team autonomy.
-It gives no further guidance on method as it expects a structure of
-top-flight autonomous teams is capable of deciding for themselves how to
-choose, tailor and coordinate the rollout of Agile practices. </p>
+    <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of <a href="">Tribes
+and Guilds</a>, strongly emphasizing bottom-up collaboration and team
+autonomy.  It gives no further guidance on practices as it expects a
+structure of top-flight autonomous teams is capable of deciding for
+themselves how to choose, tailor and coordinate the rollout of Agile
+practices. </p>
   </li>
 </ul>
 
-<p>XSCALE is based on the premise that proper XP actually makes scaling easier to
-do, not harder, by assuring that technical debts are paid before they earn
-interest. And that a large enterprise can easily adopt proper XP practices by
-starting with a small uncompromised XP team using the <a href="">Goose in the Bottle</a>
-and growing it with the <a href="">Seven Samurai</a> patterns. </p>
+<p>XSCALE is an Agile enterprise architecture based on the following premises:
+* The Spotify model provides a proven, scalable structural basis for an Agile
+  enterprise.
+* XP doesn’t scale but its engineering practices make scaling easier to do by
+  assuring that technical debts are paid before they earn interest. 
+* Big-change-up-front transformations of portfolios, programs and component
+  teams is too stressful and risky for most executives to conscience.
+* An enterprise can much more easily adopt Agile including of Spotify and XP
+  practices by starting with a small uncompromised capability and growing it
+  iteratively with the <a href="">Seven Samurai</a> pattern language. 
+* Enterprises require more guidance than just Spotify and XP, or any of the
+  specific small-team frameworks. A scale-symmetric refactoring of proven
+  patterns from all these frameworks is needed.</p>
 
-<p>This means XSCALE never needs to effect big-change-up-front for portfolios,
-programs or component teams, but it still yields thorough, bumpless Agile
-refactoring of enterprise value streams.</p>
+<p>XSCALE provides that refactoring. It combines fully continuous and
+collaborativemethods of planning, delivery and transformation with consensus
+decision-making via Spotify and <a href="">Iroquois Councils</a>.  It embeds XP
+engineering practices in an ecosystem of interlocking Agile practice patterns
+from Lean Startup, BDD, Lean UX, Kanban, DevOps, CD and OAPL to transform
+value stream functions to the absolute Agile state of the art. </p>
 
-<p>As a result, XSCALE creates more Agility than SAFe in that its methods of
-planning, delivery and transformation are fully continuous and collaborative.
-It offers a more coherent organization than LeSS by combining Spotify <a href="">Tribes
-and Guilds</a> with consensus decision-making via <a href="">Iroquois Councils</a>. And
-it’s more accessible than Spotify alone because it provides an iterative,
-standardized, stress-free way to transform enterprise value streams over time.</p>
-
-<p>XSCALE further differs from other enterprise agile frameworks by embedding XP
-in an ecosystem of interlocking Agile practice patterns from Lean Startup,
-BDD, Lean UX, Kanban, DevOps, CD and A:TNG’s OAPL to leapfrog the enterprise
-directly to the current Agile state of the art. Not because that waves a
-banner but because with an iterative transformation this strategy actually
-achieves the greatest benefit with the lowest risk. The enterprise transforms
-at its own pace, and no team is ever asked to do <a href="">half a cow, half a fish</a>.</p>
+<p>Nevertheless it does so in an iterative, stress-free standardized way.  With
+iterative transformation the XSCALE strategy achieves the greatest benefit
+with the lowest risk. No teams are ever asked to change - the enterprise
+transforms at its own pace, but the result is continuous progress into a
+complete and uncompromised Agile enterprise.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 
 <p>XSCALE conforms with the <a href="">A:TNG values</a>, which form a strict superset of
-those in the Agile Manifesto. As a practice pattern language XSCALE also
-assumes six principles that should likewise be regarded as a strict superset
-of those in the Manifesto.</p>
+those in the Agile Manifesto. As a practice pattern language XSCALE assumes
+six principles that should likewise be regarded as a strict superset of those
+in the Manifesto.</p>
 
 <dl>
   <dt>eXcellent</dt>
@@ -269,32 +272,42 @@ and to its market.</p>
 <h3 id="ecosystem">Ecosystem</h3>
 
 <p>We have become used to combining the noun ecosystem with the adjective
-fragile. But this is an artefact of our <a href="">anthropocene era</a> where most
-biological ecosystems are undergoing catastrophic change. The prime
-characteristic of an ecosystem is not fragility, but agility - that it
-embraces change to maintain stable behaviours over time. This is how a living
-ecosystem differs from a jumble of creatures in a zoo - it has evolved to
-continuously adapt to cycles of change in the behaviour of its constituent
-organisms.</p>
+fragile. This is an artefact of the <a href="">anthropocene era</a> where many biological
+ecosystems are undergoing catastrophic change. The prime characteristic of an
+ecosystem, however, is not fragility, but agility - that it embraces cycles of
+change to maintain stable behaviours over time. This is how an ecosystem
+differs from a jumble of creatures in a zoo - it has evolved to continuously
+adapt to cycles of change in the behaviour of its constituent organisms.</p>
 
-<p>As the principles of a evolution we have sex and death. Sex continously
-generates experimental variations on behaviour and death removes variations
-that don’t contribute to efficient adaptation of the whole.</p>
+<p>The principles of evolution are sex and death. Sex continously generates
+experimental variations on behaviour and death removes variations that don’t
+efficiently adapt to the whole. Over time equilibrium states inevitably
+evolve.</p>
 
-<p>As humans our great advantage over other creatures is our ability to
-anticipate cycles of change so that we can adapt to them more rapidly than sex
-and death. In XSCALE we think of Lean pivoting and set-based design in the
-place of sex and Agile refactoring in the place of death, but the principle of
-an ecosystem remains the same:</p>
+<p>As humans our advantage over other creatures is our ability to anticipate
+cycles of change so that we can adapt more rapidly than evolution. In XSCALE
+we think of Lean pivoting and set-based design serving the function of sex and
+Agile refactoring serving that of death, but the principle of an ecosystem
+remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
-<p>This isn’t just about products, but the structure and practices of teams,
-streams and the whole enterprise. In order to pivot and refactor the whole
-XSCALE relies on a hierarchy of Iroquois councils: chapters as groupings of
-people with common capabilities, stream councils composed of chapter
+<p>This isn’t just about products and their features, but the structure and
+practices of teams in streams and streams in the enterprise. Naturally the
+ecosystem principle turns the Taylorist conceit of all-wise managers and
+serf-like workers on its head, leveraging the Agile function of management as
+<a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
+
+<p>In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
+hierarchy of Iroquois councils: chapters as groupings of people with common
+capabilities across the squads, stream councils composed of chapter
 representatives, and an enterrpise council composed of stream council
-representatives.  We’ll explain how these composite below.</p>
+representatives. </p>
+
+<p>At each level there are also specific accountabilities defined by the teams.
+Each squad in a stream has distinct roles for agile coach and product owner.
+Each stream has a lead product owner and a lead coach. The accountabilities of
+these roles are defined in Gherkin format by the respective councils.</p>
 
 <h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
 

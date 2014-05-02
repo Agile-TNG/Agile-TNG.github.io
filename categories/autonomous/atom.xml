@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-02T12:12:01+10:00</updated>
+  <updated>2014-05-02T13:23:49+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -95,7 +95,7 @@ six principles that are also a superset of those in the Manifesto.</p>
 
 <dl>
   <dt>eXcellent</dt>
-  <dd>Pay technical debt before it incurs interest.</dd>
+  <dd>Turn all the knobs to ten.</dd>
   <dt>Scale-symmetric</dt>
   <dd>Iterate distinctions to control combinations.</dd>
   <dt>Continuous</dt>
@@ -115,29 +115,27 @@ patterns that embody them.</p>
 
 <p>The word “extreme” in the original XP caused a bad reaction that prompted the
 effort to define the word “Agile” in a Manifesto. Even now, however, most
-Agile software development teams use at least some XP practices. The best ones
-use them all. So there’s proven value in XP. Ignoring the scary word, what is
-that value?</p>
+Agile software development teams use at least some XP practices, and the best
+ones use them all. So there’s proven value in XP. Ignoring the scary word,
+what’s the value?</p>
 
-<p>XP mostly differs from the more accessible Scrum method in its engineering
-practices - pair working, test-first automated testing, collective ownership,
-continuous integration and merciless refactoring - which interlock to
-continuously pay off technical debt. At scale such debts compound
-exponentially, a ticking time-bomb that eventually sabotages throughput,
-transparency and sustainability. So we define the “eXtreme principle” as:</p>
+<p>XP’s originator Kent Beck said it’s taking “commonsense principles and
+practices to extreme levels”. So reviewing became pairing, testing became TDD,
+design became refactoring, integration became CI, planning became poker, etc.
+The point wasn’t to become extremely reckless, but to become extremely
+“stable, predictable and flexible”. Beck summed it up as,</p>
 
-<p><strong>Pay technical debt before it incurs interest.</strong></p>
+<p><strong>Turn all the knobs to ten</strong>.</p>
 
 <p>XSCALE takes this principle and the XP engineering practices as a foundation
-because that enormously reduces the risks of making combinations of Agile
-teams work together. The Scrum practices of sprint reviews and retrospectives
-are similarly eXtreme in that they define and action early pay-back of
-analysis and process debt.</p>
+because stability, predictability and flexibility greatly reduce the risks of
+making combinations of Agile teams work together. The Scrum practices of
+sprint reviews and retrospectives are also “eXtreme” this way in that they
+define and action early pay-back of analysis and process debt.</p>
 
-<p>But let’s not call this principle “eXtreme” again. the Manifesto authors gave
-us a principle that reads, “Continuous attention to technical excellence and
-good design enhances agility”. XSCALE takes technical debt pay-back as the
-meaning of “eXcellence”. So our X stands for that.</p>
+<p>But let’s not call it “eXtreme” again. Beck and the other Manifesto authors
+gave us the principle that reads, “Continuous attention to technical
+excellence and good design enhances agility”. So let’s call it “eXcellent”.</p>
 
 <h3 id="scale-symmetric">Scale-symmetric</h3>
 

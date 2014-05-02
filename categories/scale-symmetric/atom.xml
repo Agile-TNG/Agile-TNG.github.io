@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-02T11:56:33+10:00</updated>
+  <updated>2014-05-02T12:10:34+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -38,52 +38,54 @@ has its strengths and weaknesses.</p>
 
 <ul>
   <li>
-    <p><a href="">SAFe</a> targets conservative businesses with a low-discipline, top-down,
+    <p><a href="">SAFe</a> targets existing enterprises with a low-discipline, top-down,
 big-change-up-front, punctuated cadence model that combines Kanban,
 quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to enable an
 organization to keep its component silos intact. It includes XP practices
-but ignores feature teams and continuous delivery.</p>
+but shys away from feature teams and continuous delivery.</p>
   </li>
   <li>
-    <p><a href="">LeSS</a> offers a high-collaboration, continuous cadence model that relies
-on <a href="">Scrum of Scrums</a> to deal with integration and cross-cutting concerns.
-It is still big-change-up-front, however, requiring an organization to
-refactor its component silos into feature teams before commencing sprints,
-It leaves specifics of product planning, test automation and so on for teams
-to determine ad hoc.</p>
+    <p><a href="">LeSS</a> is less comprehensive and more closely based on traditional Scrum.
+It offers a high-collaboration, continuous cadence model that relies on
+<a href="">Scrum of Scrums</a> to deal with integration and cross-cutting concerns. It
+leaves out XP practices but includes feature teams. It’s also
+big-change-up-front, requiring component silos to wholely refactor into
+feature teams before commencing sprints. It is also less prescriptive,
+leaving specifics of product planning, test automation and so on for teams
+to determine ad hoc. </p>
   </li>
   <li>
     <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of <a href="">Tribes
 and Guilds</a>, strongly emphasizing bottom-up collaboration and team
-autonomy.  It gives no further guidance on practices as it expects a
+autonomy.  It gives no prescription at all on team practices as it expects a
 structure of top-flight autonomous teams is capable of deciding for
 themselves how to choose, tailor and coordinate the rollout of Agile
 practices. </p>
   </li>
 </ul>
 
-<p>XSCALE is an Agile enterprise architecture based on the following premises:
-* The Spotify model provides a proven, scalable structural basis for an Agile
-  enterprise.
-* XP doesn’t scale by itself but its engineering practices make scaling easier
-  to do by assuring technical debts are paid before they earn interest. 
+<p>XSCALE is an Agile enterprise framework based on the following premises:
+* The Spotify model provides the best proven, scalable structural basis for an
+  real Agile enterprise.
+* XP practices, CD and Feature Teams are all essential to maximize Agile
+  benefits at scale. They work together to assure technical debts are paid
+  before they earn interest. 
 * Big-change-up-front transformations of portfolios, programs and component
-  teams are needlessly stressful and risky. It’s better and easier to start
-  with a small uncompromised Agile capability and grow it iteratively using
-  the <a href="">Seven Samurai</a> pattern language. </p>
+  teams hurt ROI and raise risks. It’s much better and easier to start with a
+  small uncompromised Agile capability and grow it iteratively using something
+  like the <a href="">Seven Samurai</a> pattern language. </p>
 
-<p>XSCALE provides that refactoring. It combines fully continuous and
-collaborativemethods of planning, delivery and transformation with consensus
-decision-making via Spotify and <a href="">Iroquois Councils</a>.  It embeds XP
-engineering practices in an ecosystem of interlocking Agile practice patterns
-from Lean Startup, BDD, Lean UX, Kanban, DevOps, CD and OAPL to transform
-value stream functions to the absolute Agile state of the art. </p>
+<p>XSCALE combines fully continuous and collaborative methods of planning,
+delivery and transformation with consensus decision-making via Spotify and
+<a href="">Iroquois Councils</a>.  It embeds XP engineering practices in an ecosystem of
+Agile practice patterns from Lean Startup, BDD, Lean UX, Kanban, DevOps, CD
+and OAPL to transform value streams to the Agile state of the art. </p>
 
-<p>Nevertheless it does so in an iterative, stress-free standardized way.  With
-iterative transformation the XSCALE strategy achieves the greatest benefit
-with the lowest risk. No teams are ever asked to change - the enterprise
-transforms at its own pace, but the result is continuous progress into a
-complete and uncompromised Agile enterprise.</p>
+<p>Nevertheless XSCALE does so in an iterative, stress-free way. Iterative
+transformation to uncompromised Agile obtains the greatest benefit with the
+lowest risk. No teams, programs or portfolios are ever expected to change but
+the enterprise still transforms at its own pace, and the result is continuous
+progress into a complete and uncompromised Agile enterprise.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 

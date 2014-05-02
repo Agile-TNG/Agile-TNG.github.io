@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-02T01:17:46+10:00</updated>
+  <updated>2014-05-02T11:20:03+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -38,18 +38,18 @@ has its strengths and weaknesses.</p>
 <ul>
   <li>
     <p><a href="">SAFe</a> targets conservative businesses with a low-discipline, top-down,
-big-change-up-front, punctuated cadence model that combines Kanban, 
-quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to
-permit an organization to keep its component silos intact. So it includes
-XP practices but ignores continuous delivery and feature teams.</p>
+big-change-up-front, punctuated cadence model that combines Kanban,
+quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to enable an
+organization to keep its component silos intact. It includes XP practices
+but ignores feature teams and continuous delivery.</p>
   </li>
   <li>
-    <p><a href="">LeSS</a> is more progressive in some ways, offering a high-collaboration,
-continuous cadence model that relies on <a href="">Scrum of Scrums</a> to deal with
-integration and cross-cutting concerns. It is still big-change-up-front,
-however, requiring an organization to refactor its component silos into
-feature teams before commencing sprints, It leaves specifics of product
-planning, test automation and so on for teams to determine ad hoc.</p>
+    <p><a href="">LeSS</a> offers a high-collaboration, continuous cadence model that relies
+on <a href="">Scrum of Scrums</a> to deal with integration and cross-cutting concerns.
+It is still big-change-up-front, however, requiring an organization to
+refactor its component silos into feature teams before commencing sprints,
+It leaves specifics of product planning, test automation and so on for teams
+to determine ad hoc.</p>
   </li>
   <li>
     <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of <a href="">Tribes
@@ -64,16 +64,12 @@ practices. </p>
 <p>XSCALE is an Agile enterprise architecture based on the following premises:
 * The Spotify model provides a proven, scalable structural basis for an Agile
   enterprise.
-* XP doesn’t scale but its engineering practices make scaling easier to do by
-  assuring that technical debts are paid before they earn interest. 
+* XP doesn’t scale by itself but its engineering practices make scaling easier
+  to do by assuring technical debts are paid before they earn interest. 
 * Big-change-up-front transformations of portfolios, programs and component
-  teams is too stressful and risky for most executives to conscience.
-* An enterprise can much more easily adopt Agile including of Spotify and XP
-  practices by starting with a small uncompromised capability and growing it
-  iteratively with the <a href="">Seven Samurai</a> pattern language. 
-* Enterprises require more guidance than just Spotify and XP, or any of the
-  specific small-team frameworks. A scale-symmetric refactoring of proven
-  patterns from all these frameworks is needed.</p>
+  teams are needlessly stressful and risky. It’s better and easier to start
+  with a small uncompromised Agile capability and grow it iteratively using
+  the <a href="">Seven Samurai</a> pattern language. </p>
 
 <p>XSCALE provides that refactoring. It combines fully continuous and
 collaborativemethods of planning, delivery and transformation with consensus

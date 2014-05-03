@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eXcellent | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/excellent/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-02T16:36:14+10:00</updated>
+  <updated>2014-05-03T20:12:32+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
 
 <p>Reflecting our work over recent years, XSCALE is a continuously delivering,
-continuously self-organizing, continuously adaptive Agile enterprise ecosystem
-that turns all the knobs to ten.</p>
+continuously self-organizing, continuously adaptive Agile enterprise
+ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
@@ -33,16 +33,18 @@ anyone else who happens by ….]</strong></p>
 <h2 id="why-xscale">Why XSCALE?</h2>
 
 <p>There have been several efforts to provide enterprises with a way to scale
-Agile. The best known are SAFe, LeSS, and the Spotify Tribal model. Each
+Agile. The most popular are SAFe, LeSS, and the Spotify Tribal model. Each
 has its strengths and weaknesses.</p>
 
 <ul>
   <li>
     <p><a href="">SAFe</a> targets existing enterprises with a low-discipline, top-down,
 big-change-up-front, punctuated cadence model that combines Kanban,
-quarterly <a href="">release trains</a>, and Scrum. SAFe is designed to enable an
+quarterly <a href="">release trains</a>, XP and Scrum. SAFe is a good starting
+point for more conservative designed to enable an
 organization to keep its component silos intact. It includes XP practices
-but shys away from feature teams and continuous delivery.</p>
+but shys away from feature teams and continuous delivery, targets scale it
+ignores the key enabler of scale symmetry.</p>
   </li>
   <li>
     <p><a href="">LeSS</a> is less comprehensive and more closely based on traditional Scrum.
@@ -55,49 +57,38 @@ leaving specifics of product planning, test automation and so on for teams
 to determine ad hoc. </p>
   </li>
   <li>
-    <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of <a href="">Tribes
-and Guilds</a>, strongly emphasizing bottom-up collaboration and team
-autonomy.  It gives no prescription at all on team practices as it expects a
-structure of top-flight autonomous teams is capable of deciding for
-themselves how to choose, tailor and coordinate the rollout of Agile
+    <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of
+<a href="">Tribes and Guilds</a>, strongly emphasizing bottom-up collaboration and
+team autonomy.  It gives no prescription at all on team practices as it
+expects a structure of top-flight autonomous teams is capable of deciding
+for themselves how to choose, tailor and coordinate the rollout of Agile
 practices. </p>
   </li>
 </ul>
 
-<p>XSCALE is an Agile enterprise framework based on the following premises:
-* The Spotify model provides the best proven, scalable structural basis for an
-  real Agile enterprise.
-* XP practices, CD and Feature Teams are all essential to maximize Agile
-  benefits at scale. They work together to assure technical debts are paid
-  before they earn interest. 
-* Big-change-up-front transformations of portfolios, programs and component
-  teams hurt ROI and raise risks. It’s much better and easier to start with a
-  small uncompromised Agile capability and grow it iteratively using something
-  like the <a href="">Seven Samurai</a> pattern language. </p>
+<p>XSCALE is the first enterprise agile framework based on full XP, CD and
+feature teams. It can do this because instead of big-change-up-front, it
+starts with a small but uncompromised Agile capability and then grows it
+iteratively using the <a href="">Seven Samurai</a> change patterns. </p>
 
-<p>XSCALE combines fully continuous and collaborative methods of planning,
-delivery and transformation with consensus decision-making via Spotify and
-<a href="">Iroquois Councils</a>.  It embeds XP engineering practices in an ecosystem of
-Agile practice patterns from Lean Startup, BDD, Lean UX, Kanban, DevOps, CD
-and OAPL to transform value streams to the Agile state of the art. </p>
-
-<p>Nevertheless XSCALE does so in an iterative, stress-free way. Iterative
-transformation to uncompromised Agile obtains the greatest benefit with the
-lowest risk. No teams, programs or portfolios are ever expected to change but
-the enterprise still transforms at its own pace, and the result is continuous
-progress into a complete and uncompromised Agile enterprise.</p>
+<p>This iterative transformation to uncompromised Agile simply obtains the
+greatest benefit with the lowest risk. No teams, programs or portfolios are
+ever expected to change yet the enterprise transforms completely and at its
+own pace. The result is a fully integrated and uncompromised Agile
+capability at every step of the journey, and zero disruption to existing
+value streams.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 
 <p>XSCALE conforms with the <a href="">A:TNG values</a>, which form a strict superset of
-those in the Agile Manifesto. As a practice pattern language XSCALE assumes
-six principles that are also a superset of those in the Manifesto.</p>
+those in the Agile Manifesto. XSCALE further assumes six principles that
+also form a superset of those in the Manifesto.</p>
 
 <dl>
   <dt>eXcellent</dt>
   <dd>Turn all the knobs to ten.</dd>
   <dt>Scale-symmetric</dt>
-  <dd>Make distinctions to control combinations.</dd>
+  <dd>Iterate distinctions to control combinations.</dd>
   <dt>Continuous</dt>
   <dd>Use the smallest practical cycle time and batch size.</dd>
   <dt>Autonomous</dt>
@@ -113,124 +104,110 @@ patterns that embody them.</p>
 
 <h3 id="excellent">eXcellent</h3>
 
-<p>The word “extreme” in the original XP caused a bad reaction that prompted the
-effort to define the word “Agile” in a Manifesto. Even now, however, most
-Agile software development teams use at least some XP practices, and the best
-ones use them all. So there’s proven value in XP. Ignoring the scary word,
-what’s the value?</p>
-
-<p>XP’s originator Kent Beck said it’s taking “commonsense principles and
-practices to extreme levels”. So reviewing became pairing, testing became TDD,
-design became refactoring, integration became CI, planning became poker, etc.
-The point wasn’t to become extremely reckless, but to become extremely
-“stable, predictable and flexible”. Beck summed it up as,</p>
+<p>The word “extreme” in the original XP was controversial, and instrumental in
+prompting the effort to focus the Manifesto on another word entirely.  The
+Nevertheless the manifesto authors recognized its importance in a principle
+that reads, “Continuous attention to technical excellence and good design
+enhances agility”. XSCALE calls such continuous attention “eXcellent” and
+sums it up using Kent Beck’s famous XP maxim:</p>
 
 <p><strong>Turn all the knobs to ten</strong>.</p>
 
-<p>XSCALE takes this principle and the XP engineering practices as a foundation
-because stability, predictability and flexibility greatly reduce the risks of
-making combinations of Agile teams work together. The Scrum practices of
-sprint reviews and retrospectives are also “eXtreme” this way in that they
-define and action early pay-back of analysis and process debt.</p>
-
-<p>But let’s not call it “eXtreme” again. Beck and the other Manifesto authors
-gave us the principle that reads, “Continuous attention to technical
-excellence and good design enhances agility”. So let’s call it “eXcellent”.</p>
+<p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
+the fundamentals of technical excellence. These patterns interlock to assure
+technical debts are paid before they earn interest, thereby keeping the
+delivery process stable, predictable and flexible. </p>
 
 <h3 id="scale-symmetric">Scale-symmetric</h3>
 
-<p>Scale is about combinations of requirements, of dependencies, of defects, and
-of people. The number of combinations of a set grows very rapidly; a set of
-just 10 things has over 3.6 million distinct combinations. </p>
+<p>Scale is about combinations of requirements, of dependencies, of defects,
+and of people. The number of combinations of a set grows very rapidly; a set
+of just 10 things has over 3.6 million distinct combinations. </p>
 
-<p>Yet golfers, for example, remain untroubled by combinations of grass blades.
-They need only a few distinctions to control for the combined blade behaviours
-“the green”, “the fairway”, “the rough”, and sub-distinctions based on
-contiguous regions of slope and blade length. Golfers never need look at
-combinations of individual blades.</p>
+<p>Yet golfers are untroubled by vast fields of grass blades.  They use just a
+few distinctions to control for the combined blade behaviours: “the green”,
+“the fairway”, “the rough”, and so on Golfers never even think about
+combinations of individual grass blades. </p>
 
-<p>So the XSCALE principle of scalability is to:</p>
+<p>Agile already uses this when it 
+* maps requirements to distinct features and stories
+* refactors code into distinct (<a href="">DRY</a>) classes
+* automates integration to distinguish good behaviours from bad
+* combines people into distinct feature teams to limit interdependencies.  </p>
 
-<p><strong>Make distinctions to control combinations</strong></p>
+<p>The Spotify / Iroquois patterns also do it by limiting the scope of
+conversations to small teams with specific concerns.  And XSCALE takes the
+same approach. The principle is:</p>
 
-<p>Agile does this when it maps requirements to distinct features and stories,
-refactors code into distinct (<a href="">DRY</a>) classes, automates testing and
-integration distinguish good system behaviour combinations from bad, and
-combines people into feature teams to minimize combinations of dependencies.
-The Spotify / Iroquois patterns do it by limiting the scope of conversations
-to small teams with specific concerns. </p>
+<p><strong>Iterate distinctions to control combinations</strong></p>
 
-<p>The most commonplace scaling challenge is the problem of determining which
-combinations of business alternatives have the most value. Because Agile works
-as a hill-climbing algorithm, continously integrating little bits of
-functionality into an existing whole, it’s actually happy to climb a molehill
-of value when there’s an Everest of it right next door. </p>
+<p>A commonplace scaling challenge is the problem of determining which
+combinations of business alternatives have most value. All a small project
+needs to do so is a good product owner. When you’ve got portfolios of
+programs of projects, however, it gets hard.  Agile works as a hill-climbing
+algorithm, continously integrating little stories into a whole, and it’s
+actually quite happy to climb a molehill of value when there’s an Everest of
+it right next door.  </p>
 
-<p>Behavioural Product Planning and Roadmap Refactoring are consensus games for
-making breadth-first distinctions about business alternatives. The trick is
-simply to iterate the distinctions to leverage natural symmetries between
-processes at the different scales.  </p>
-
-<p>XSCALE uses this to map work from the enterprise to its streams to its teams,
-forming a single piece flow of integrated releasable value that maximizes ROI
-while respecting funding limits and MVP and CoD constraints at every scale. </p>
+<p>To control this XSCALE uses the Behavioral Product Planning consensus game,
+which sorts breadth-first distinctions about business alternatives into
+easily optimized piles. The trick is simply to iterate the game to
+make decisions about alternatives at finer and finer scales. </p>
 
 <h3 id="continuous">Continuous</h3>
 
-<p>This principle is a key difference between XSCALE and SAFe. SAFe promotes
-Punctuated Cadence over Continuous Delivery, employing a quarterly <a href="">release
-train</a> integration pattern. This may appeal to conservative organizations
-that don’t want to refactor their component silos, but several penalties come
-with it:</p>
+<p>SAFe promotes Punctuated Cadence over Continuous Delivery, employing a
+quarterly <a href="">release train</a> integration pattern. This enables conservative
+organizations to keep their component silos, but at no small price:</p>
 
 <ul>
-  <li>Increased cost of quality due to deferring regression and acceptance testing
-to “hardening sprints”.</li>
-  <li>Wasted time in meetings to figure out how to satisfy combinatoric inter-team
-dependency cycles.</li>
+  <li>Increased cost of quality due to deferring regression and acceptance
+testing to “hardening sprints”.</li>
+  <li>Wasted time in meetings to figure out how to satisfy combinatoric
+inter-team dependency cycles.</li>
   <li>Lost ROI from keeping finished features on ice for a quarter rather than
-releasing them as quickly as possible.</li>
-  <li>Surprises and integration overhead due to the large batch sizes involved in
-quarterly releasing.</li>
+releasing them as soon as they pass all tests..</li>
+  <li>Surprises and integration overhead due to the large batch sizes involved
+in quarterly releasing.</li>
 </ul>
 
 <p>Because it employs continuous rather than big-bang transformation, XSCALE is
 able to avoid these penalties by enabling feature teams to use the GitFlow
-pattern and environment mapping for continuous delivery. This benefits ROI,
-adaptability, transparency and risk reduction. The principal is simply:</p>
+pattern language for continuous delivery. The principal is simply:</p>
 
 <p><strong>Always use the smallest practical cycle time and batch size</strong></p>
 
-<p>XSCALE applies this to continuous product planning using lean canvases and
-breadth-first roadmaps, continuous stream coordination using chapters and
-councils, and continuous coordination across streams using guilds and
-treaties, </p>
+<p>XSCALE further applies this in its continuous product planning, continuous
+stream coordination, and continuous transformation patterns.</p>
 
 <h3 id="autonomous">Autonomous</h3>
 
-<p>People have long dreamt of an anarchic utopia where the only law is the
-<a href="">Golden Rule</a>. As the scale of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
-Number</a>, however, the <a href="">Tragedy
-of the Commons</a> inevitably leads to conflicts of interest that must be
-controlled through more restrictive forms of society. </p>
+<p>Philosophers dream of an anarchic utopia where the only law is the <a href="">Golden
+Rule</a>. As the scale of a group increases past the <a href="http://en.wikipedia.org/wiki/Dunbar's_number">Dunbar
+Number</a>, however, social
+obligations combinatorially degrade so the <a href="">Tragedy of the Commons</a> leads
+to conflicts of interest that must be controlled through more restrictive
+forms of society. </p>
 
 <p>Many of the benefits of Agile derive from peer collaboration and team
-consensus games like planning poker and retrospectives. It doesn’t seem
+consensus games like planning poker and retrospectives, and it wouldn’t be
 reasonable to call a process Agile at any scale if it doesn’t empower
-consensus. So the XSCALE principle is:</p>
+consensus through games. So the XSCALE principle is:</p>
 
-<p><strong>Use consensus to reach decisions and to delimit accountabilities.</strong></p>
+<p><strong>Use consensus games to reach decisions and to delimit accountabilities.</strong></p>
 
-<p>Rationally, individual accountability should be applied when the business cost
-of delaying a decision is greater than the social cost of failing to maintain
-consensus. The historical Iroquois Confederacy used unanimous consent at a
-sub-Dunbar scale to govern a hierarchy of treaty-making councils. </p>
+<p>In theory, individual accountability should be applied when the business
+cost of delaying a decision is greater than the social cost of failing to
+maintain consensus. In practice it’s hard to figure these costs out.
+Historically the happiest medium seems to have been the Iroquois
+Confederacy, which used unanimous consent at sub-Dunbar scales to control a
+hierarchy of peer councils. </p>
 
-<p>Where consensus protocol was violated or timing called for an immediate
-decision, per-tribe “war chiefs” were made accountable. This proved stable at
-a multi-national scale over a period of centuries. XSCALE combines it with the
-Spotify tribal model to scale consensus decisions while clearly maintaining
-team and stream autonomy.</p>
+<p>Where consensus protocol was violated or timing called for a rapid decision,
+per-tribe “war chiefs” were made accountable. This combination of councils
+and accountables proved stable at a multi-national scale over a period of
+centuries. XSCALE combines it with the Spotify tribal model to scale
+consensus decisions while clearly maintaining team and stream autonomy.</p>
 
 <h3 id="lean">Lean</h3>
 
@@ -527,27 +504,40 @@ position higher than the highest prioity feature that depends upon it.</li>
 
 <p>Once these adjustments have been made, record the relative priorities of the
 features to prepare them for Roadmap Refactoring, which determines how to best
-fit them given funding and MVP constraints.</p>
+fit them given funding constraints and MVP per objective. See details below.</p>
 
 <h4 id="uncertainty">Uncertainty</h4>
 
-<p>Uncertainty can lead the technical team members to refuse to estimate a
-feature. In this case they must clearly describe the ambiguities or
-inconsistencies they need resolved by product owners in order to produce an
-estimate. If part of the feature is not estimable but another part is, </p>
+<p>Uncertainty can lead technical team members to refuse to estimate a feature.
+In this case they must clearly describe the ambiguities or inconsistencies
+they need resolved by the product owner in order to produce an estimate. If
+the product owner can’t resolve the entire problem, and part of the feature is
+estimable but another part is not:</p>
 
 <ul>
   <li>the feature is split into two, </li>
-  <li>the estimable feature is estimated</li>
-  <li>the unestimable feature is deferred and a spike or set-based design feature
-is created to represent the work of resolving the uncertinty.</li>
+  <li>the estimable part is estimated</li>
+  <li>a new technical feature is created to represent the work of resolving the
+uncertainty via <a href="">spikes</a> or a <a href="">set-based design</a> process.</li>
+  <li>estimating the inestimable feature is deferred until the technical feature
+it depends upon is completed.</li>
 </ul>
+
+<p>If a large number of features are inestimable it’s usually a good idea to
+defer this backlog bingo session until the team has had time to work with
+architects and designers to nail dependencies down a bit better, or analysts
+have sufficient time to resolve unsolved business questions.</p>
 
 <h4 id="bpp-vs-wsjf">BPP vs WSJF</h4>
 
-<p>Why not WSJF? WSJF is defined by the formula (Business Value + Criticality +
-Risk- Reduction-or-Opportunity-Enablement) / Duration. The trouble with this
-is</p>
+<p>Why not WSJF? WSJF is defined by the formula (Business/User Value +
+Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
+there’s no clear distinction between business value, risk reduction and
+opportunity enablement, nor between criticality and Cost of Delay, this 
+simplifies to ROI + (Criticality / Duration).</p>
+
+<p>There are a few problems with this
+0. Why divide </p>
 
 <p>Worse, WSJF ignores MVP.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-03T20:12:32+10:00</updated>
+  <updated>2014-05-03T21:14:18+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -530,18 +530,41 @@ have sufficient time to resolve unsolved business questions.</p>
 
 <h4 id="bpp-vs-wsjf">BPP vs WSJF</h4>
 
-<p>Why not WSJF? WSJF is defined by the formula (Business/User Value +
+<p>Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
 Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
 there’s no clear distinction between business value, risk reduction and
-opportunity enablement, nor between criticality and Cost of Delay, this 
-simplifies to ROI + (Criticality / Duration).</p>
+opportunity enablement, nor between criticality and Cost of Delay, this
+simplifies to (Business Value / Dureation) + (Criticality / Duration).</p>
 
-<p>There are a few problems with this
-0. Why divide </p>
+<p>There are several problems with WSJF:
+0. It doesn’t makes sense to divide criticality by duration. 
+-  Without clear relative distinctions, which aren’t provided by SAFe
+   there’s no way to assure that these things are independent, thereby
+   distorting relative Business Value in an unpredictable way.
+-  By favoring these things out and giving them equal weighting you actively
+   prevent conversations that would reveal the differing assumptions they’re
+   based on.
+-  WSJF provides no opportunity to account for how combinaitons of features
+   may make render individual feature more or less valuable.
+-  WSJF doesn’t account for technical CoD. It’s completely blind to the
+   fact that some features may have high CoD because of architectural
+   concerns or business uncertainty. It just leaves that out.</p>
 
-<p>Worse, WSJF ignores MVP.</p>
+<p>All of these problems are eliminated simply by BPP. Once you’ve factored out
+ROI, it’s trivial for team members to determine the remaining CoD.  And
+rather than adding in CoD as if it were linear, which it’s not, it’s trivial
+for team members to adjust an ROI prioritization by discrete CoD, including
+technical CoD. It’s quick, easy and completely unambiguous.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
+
+<p>Roadmap Refactoring is a consensus game that leverages BPP to enable product
+owners to make rational trade-offs between different feature-sets. It can be
+used to quickly assemble release plan to hit a particular date, if need be,
+or to  ZZ</p>
+
+<p>takes the prioritized feature
+list, grouped by epic, costs </p>
 
 <h4 id="enterprise-council">Enterprise Council</h4>
 

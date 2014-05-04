@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T10:26:24+10:00</updated>
+  <updated>2014-05-04T10:32:45+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -47,14 +47,13 @@ from feature teams and continuous delivery, and while it targets scale it
 ignores the key enabler of scale-symmetry.</p>
   </li>
   <li>
-    <p><a href="">LeSS</a> is less comprehensive and more closely based on traditional Scrum.
-It offers a high-collaboration, continuous cadence model that relies on
-<a href="">Scrum of Scrums</a> to deal with integration and cross-cutting concerns. It
-leaves out XP practices but includes feature teams. It’s also
-big-change-up-front, requiring component silos to wholely refactor into
-feature teams before commencing sprints. It is also less prescriptive,
-leaving specifics of product planning, test automation and so on for teams
-to determine ad hoc. </p>
+    <p><a href="">LeSS</a>/Agile Path/Enterprise Scrum, etc., are alternatives more closely
+based on traditional Scrum. They offer high-collaboration, continuous
+cadence models that rely on <a href="">Scrum of Scrums</a> to deal with integration
+and cross-cutting concerns. XP practices are optional but feature teams
+are mandatory. LeSS is big-change-up-front but Agile Path is an iterative
+alternative. All leave specific practices for product planning, test
+automation and so on for teams to determine ad hoc. </p>
   </li>
   <li>
     <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of

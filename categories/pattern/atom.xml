@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pattern | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T10:32:45+10:00</updated>
+  <updated>2014-05-04T10:37:15+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Agile-TNG.github.io/2014/04/13/product-funding/"/>
     <updated>2014-04-13T20:15:15+10:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/13/product-funding</id>
-    <content type="html"><![CDATA[<p><img src="/images/nails.png" width="400"></p>
+    <content type="html"><![CDATA[<p>{% img /images/nails.png 400 %}</p>
 
 <p>When all you have is a hammer, every problem looks like a nail.  When all you
 have is a project management methodology, everything looks like a project. </p>
@@ -71,7 +71,7 @@ hey, that’s their problem. 2.0 will be a great success.</p>
 
 <p>Treat Product development as a continuous activity. </p>
 
-<p><img src="/images/zipper.png"></p>
+<p>{% img /images/zipper.png %}</p>
 
 <p>One release of a product shouldn’t mess up the organisation’s ability to
 deliver the next release. What we need is a Product focus rather than a
@@ -106,7 +106,7 @@ councils and treaties. Iroquois Councils enable communities and enterprises to
 make decisions together without deferring to hierarchies of accountable
 individuals.</p>
 
-<p><img src="/images/parliament.png"></p>
+<p>{% img /images/parliament.png %}</p>
 
 <!-- more -->
 
@@ -395,7 +395,7 @@ occasions and agreements. The three metrics seem to apply equally well to
 the state of health of Agile teams in a modern enterprises so we’ll dig in
 here in some depth.</p>
 
-<p><img src="/images/iroquois.png"></p>
+<p>{% img /images/iroquois.png %}</p>
 
 <p><strong>The Fire</strong> indicates the quality of internal self-organisation of a tribe or
 guild.  Iroquois chiefs were charged with keeping the fire lit and the

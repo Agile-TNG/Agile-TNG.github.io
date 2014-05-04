@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mission | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/mission/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T10:32:45+10:00</updated>
+  <updated>2014-05-04T10:37:15+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -25,7 +25,7 @@ became <em>Agile</em>. We don’t agree on who said it first. It just happened.
 Nothing was sacred and no one’s ring needed kissing. We were conspirators and
 this was a revolution.  </p>
 
-<p><img src="/images/Agile-Alliance-XP2K.png"></p>
+<p>{% img /images/Agile-Alliance-XP2K.png %}</p>
 
 <!-- more -->
 
@@ -213,7 +213,7 @@ brands and into the open where we can really sort out what works with what.</p>
     <link href="http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/"/>
     <updated>2014-03-09T18:02:45+11:00</updated>
     <id>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language</id>
-    <content type="html"><![CDATA[<p><img src="/images/oapl300.png"></p>
+    <content type="html"><![CDATA[<p>{% img /images/oapl300.png %}</p>
 
 <p>A key activity within A:TNG is organizing an open pattern language to relate
 learnings from Agile frameworks to the experiences of our practitioners.

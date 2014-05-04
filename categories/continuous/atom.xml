@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T10:45:51+10:00</updated>
+  <updated>2014-05-04T11:09:05+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
     <updated>2014-04-21T20:46:55+10:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
-    <content type="html"><![CDATA[<p>{% img /images/xscale.png %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
 
 <p>Reflecting our work over recent years, XSCALE is a continuously delivering,
 continuously self-organizing, continuously adaptive Agile enterprise
@@ -32,9 +32,9 @@ anyone else who happens by ….]</strong></p>
 
 <h2 id="why-xscale">Why XSCALE?</h2>
 
-<p>There have been several efforts to provide enterprises with a way to scale
-Agile. The most popular are SAFe, LeSS, and the Spotify Tribal model. Each
-has its strengths and weaknesses.</p>
+<p>Over the last decade there have been several efforts to provide enterprises
+with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
+Tribal model. Each has its strengths and weaknesses.</p>
 
 <ul>
   <li>
@@ -66,17 +66,18 @@ containing a chapter of Ops people dedicated to enabling squads to CD.</p>
   </li>
 </ul>
 
-<p>XSCALE is the first enterprise agile framework to cover all this ground at
-once. It’s an iterative transformation to full Scrum-XP, CD feature
-teams using the <a href="">Seven Samurai</a> change patterns. It entails continuous
-product planning using Lean Startup, Lean UX and <a href="">BPP/BDD</a> patterns and
-self-organizes at scale using Spotify tribes and <a href="">Iroquois councils</a>. </p>
+<p>XSCALE naturally bears comparison to these alternatives.  Like SAFe, XSCALE
+standardizes team practices using Scrum-XP. Like Agile Path, XSCALE
+transforms the enterprise iteratively. Like LeSS, XSCALE refactors component
+silos into feature teams. And like Spotify XSCALE uses Dunbar-number limits,
+chapters, guilds, CD and DevOps.</p>
 
-<p>XSCALE focuses on the greatest benefit with the lowest risk. No teams,
-programs or portfolios are ever expected to change yet the enterprise
-transforms completely and at its own pace. The result is fully integrated
-and uncompromised Agile capability at every step of the journey with zero
-disruption to the existing value streams.</p>
+<p>XSCALE is more than a synthesis of the best aspects of these forbears. It
+enables continuous adaptation using the <a href="">Seven Samurai</a> patterns,
+continuous product planning using Lean Startup, Lean UX and <a href="">BPP/BDD</a>
+patterns, and continuous enterprise self-organization using <a href="">Iroquois
+councils</a>. Its intent is the greatest Agile benefit with the lowest risk
+of disruption to existing value streams.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 
@@ -318,7 +319,7 @@ in terms of net ROI, and reconcile them with their avaialble funding levels. </p
 
 <h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
 
-<p>{% img /images/lean-startup.png %}</p>
+<p><img src="/images/lean-startup.png"></p>
 
 <p>Breadth-First Roadmap (BFR) is a generalization of the Lean Startup <a href="">Business
 Model Canvas</a> composed of simple, commonplace Agile practices - story normal
@@ -337,7 +338,7 @@ stories required to deliver a feature.</p>
 <a href="">story-normal form</a> in order to scope roadmapping conversations to a single
 shared intent.</p>
 
-<p>{% img /images/roadmap0.png %}</p>
+<p><img src="/images/roadmap0.png"></p>
 
 <ul>
   <li>At every level, BFR takes the form of a matrix of objectives and themes
@@ -352,7 +353,7 @@ only contain a blank or a checkmark. A checkmark means there are acceptance
 criteria for this feature in this theme and a blank means there aren’t.</li>
 </ul>
 
-<p>{% img /images/roadmap1.png %}</p>
+<p><img src="/images/roadmap1.png"></p>
 
 <ul>
   <li>Each feature is evaluated against all themes. </li>
@@ -364,7 +365,7 @@ also have some acceptance criteria in it.</li>
 roadmap’s boxes are consistently updated.</li>
 </ul>
 
-<p>{% img /images/roadmap2.png %}</p>
+<p><img src="/images/roadmap2.png"></p>
 
 <ul>
   <li>Evaluate each theme to determine whether it is sufficiently covered by
@@ -376,7 +377,7 @@ all themes.</li>
 themes, consider whether those two may be refactored into one.</li>
 </ul>
 
-<p>{% img /images/roadmap3.png %}</p>
+<p><img src="/images/roadmap3.png"></p>
 
 <ul>
   <li>If a theme has checkboxes for all or almost all features, break out further
@@ -576,7 +577,7 @@ up of rotating Chapter representatives, </p>
 
 <h4 id="stream-kanban">Stream Kanban</h4>
 
-<p>{% img images/stream-cf.png %}</p>
+<p><img src="images/stream-cf.png"></p>
 
 <p>Every Stream is intended to generate a return. If the Stream is purely
 internal then its return is regarded as equal to its funding. An external
@@ -591,7 +592,7 @@ certain amount of cash.</p>
 
 <h4 id="adaptation-kanban">Adaptation Kanban</h4>
 
-<p>{% img images/stream-kanban.png %}</p>
+<p><img src="images/stream-kanban.png"></p>
 
 <h4 id="stream-council">Stream Council</h4>
 

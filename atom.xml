@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T10:37:15+10:00</updated>
+  <updated>2014-05-04T11:09:05+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -32,9 +32,9 @@ anyone else who happens by ….]</strong></p>
 
 <h2 id="why-xscale">Why XSCALE?</h2>
 
-<p>There have been several efforts to provide enterprises with a way to scale
-Agile. The most popular are SAFe, LeSS, and the Spotify Tribal model. Each
-has its strengths and weaknesses.</p>
+<p>Over the last decade there have been several efforts to provide enterprises
+with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
+Tribal model. Each has its strengths and weaknesses.</p>
 
 <ul>
   <li>
@@ -66,17 +66,18 @@ containing a chapter of Ops people dedicated to enabling squads to CD.</p>
   </li>
 </ul>
 
-<p>XSCALE is the first enterprise agile framework based on full XP, CD and
-feature teams. It can do this because instead of big-change-up-front, it
-starts with a small but uncompromised Agile capability and then grows it
-iteratively using the <a href="">Seven Samurai</a> change patterns. </p>
+<p>XSCALE naturally bears comparison to these alternatives.  Like SAFe, XSCALE
+standardizes team practices using Scrum-XP. Like Agile Path, XSCALE
+transforms the enterprise iteratively. Like LeSS, XSCALE refactors component
+silos into feature teams. And like Spotify XSCALE uses Dunbar-number limits,
+chapters, guilds, CD and DevOps.</p>
 
-<p>This iterative transformation to uncompromised Agile simply obtains the
-greatest benefit with the lowest risk. No teams, programs or portfolios are
-ever expected to change yet the enterprise transforms completely and at its
-own pace. The result is a fully integrated and uncompromised Agile
-capability at every step of the journey, and zero disruption to existing
-value streams.</p>
+<p>XSCALE is more than a synthesis of the best aspects of these forbears. It
+enables continuous adaptation using the <a href="">Seven Samurai</a> patterns,
+continuous product planning using Lean Startup, Lean UX and <a href="">BPP/BDD</a>
+patterns, and continuous enterprise self-organization using <a href="">Iroquois
+councils</a>. Its intent is the greatest Agile benefit with the lowest risk
+of disruption to existing value streams.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 

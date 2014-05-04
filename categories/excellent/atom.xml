@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eXcellent | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/excellent/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T10:37:15+10:00</updated>
+  <updated>2014-05-04T10:45:51+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -66,17 +66,17 @@ containing a chapter of Ops people dedicated to enabling squads to CD.</p>
   </li>
 </ul>
 
-<p>XSCALE is the first enterprise agile framework based on full XP, CD and
-feature teams. It can do this because instead of big-change-up-front, it
-starts with a small but uncompromised Agile capability and then grows it
-iteratively using the <a href="">Seven Samurai</a> change patterns. </p>
+<p>XSCALE is the first enterprise agile framework to cover all this ground at
+once. It’s an iterative transformation to full Scrum-XP, CD feature
+teams using the <a href="">Seven Samurai</a> change patterns. It entails continuous
+product planning using Lean Startup, Lean UX and <a href="">BPP/BDD</a> patterns and
+self-organizes at scale using Spotify tribes and <a href="">Iroquois councils</a>. </p>
 
-<p>This iterative transformation to uncompromised Agile simply obtains the
-greatest benefit with the lowest risk. No teams, programs or portfolios are
-ever expected to change yet the enterprise transforms completely and at its
-own pace. The result is a fully integrated and uncompromised Agile
-capability at every step of the journey, and zero disruption to existing
-value streams.</p>
+<p>XSCALE focuses on the greatest benefit with the lowest risk. No teams,
+programs or portfolios are ever expected to change yet the enterprise
+transforms completely and at its own pace. The result is fully integrated
+and uncompromised Agile capability at every step of the journey with zero
+disruption to the existing value streams.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 

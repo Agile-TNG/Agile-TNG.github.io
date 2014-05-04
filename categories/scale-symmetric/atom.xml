@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T11:23:45+10:00</updated>
+  <updated>2014-05-04T11:40:35+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -411,7 +411,7 @@ no need to dream up a linear mapping between feature points and story points.</p
 previously delivered features, feature points are very effective in
 establishing a reasonable level of funding per feature. </p>
 
-<p>Backlog Bingo is very quick and easy to play:</p>
+<p>Backlog Bingo is very easy to play:</p>
 
 <ul>
   <li>
@@ -445,70 +445,64 @@ split it into pieces they can estimate separately.</p>
   </li>
 </ul>
 
-<p>Backlog Bingo can also be used without a dollar basis to estimate relative
-business value. You simply pick a different set of 3 probes - one for an
-existing deployed feature that the PO says has low business value, and then
-one that’s crticially important to business function, and then one roughly in
+<p>Bingo can also be used without a dollar basis to estimate relative business
+value. You simply pick a different set of 3 probes - one for an existing
+deployed feature that the PO says has low business value, and then one
+that’s crticially important to business function, and then one roughly in
 between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
 game runs as above.</p>
 
 <h4 id="behavioral-product-planning">Behavioral Product Planning</h4>
 
-<p>Behavioral Product Planning (BPP) is a simple consensus game that uses Backlog
-Bingo to prioritise the BFR in terms of ROI + COD. This is both easier and
-leaner than the SAFe “Weighted Shortest Job First” (WSJF) equivalent. The game
-uses Backlog Bingo to assign values to the BFR features in terms of:</p>
+<p>Behavioral Product Planning (BPP) is a simple consensus game to prioritise
+the BFR in terms of ROI + COD. This is both easier and leaner than the SAFe
+“Weighted Shortest Job First” (WSJF) equivalent for reasons described below.</p>
+
+<p>BPP uses Bingo to assign values to the BFR features in terms of:</p>
 
 <ul>
   <li>effort in feature points</li>
   <li>relative business value</li>
 </ul>
 
-<p>Technical team members - developers, architects, designers and testers - play
-the first bingo game. Product owners and stakeholders are present to answer
-questions and also to question any estimate they feel is too large or too
-small. Usually this is a sign of a missing conversation, in which case the
-matter can be resolved immediately. Sometimes it’s an indicator of
-uncertainty, about which see below.</p>
+<p>Technical team members - developers, architects, designers and testers -
+play the first bingo game. Product owners and stakeholders are present to
+answer questions and also to question any estimate they feel is too large or
+too small. </p>
 
 <p>The second bingo game reverses the rules. Now it’s business stakeholders,
-business SMEs and ultimately the product owner who work together to estimate
-business value while technical team members ask and answer questions. Note
-that business value includes things that don’t provide revenue but simply
-reduce risk.</p>
+SMEs and the product owner who work together to estimate business value
+while technical team members answer questions. </p>
 
-<p>In any case, only technical team members can make effort estimates, and only
-business team members can make business value estimates. They each attempt to
-make these unanimously by clarifying differences together as they would in
-planning poker. </p>
-
-<p>Once each feature has both numbers, prioritisation involves three steps:</p>
+<p>Only technical team members make effort estimates, and only business team
+members make business value estimates. Once each feature obtains both
+numbers, BPP prioritisation involves three steps:</p>
 
 <ul>
   <li>Divide the business value number, which represents expected return, by
-effort, which represents the required investment to obtain the return. This
-yields relative return on investment, which we call ROI.</li>
-  <li>List features vertically in order of decreasing ROI. Let the PO increase the
-priority of any business feature they feel has a Cost of Delay that warrants
-this.</li>
+effort, which represents the required investment to obtain the return.
+This yields relative return on investment, which we call ROI.</li>
+  <li>List features vertically in order of decreasing ROI. Let the Product Owner
+increase the priority of any business feature they feel has a Cost of
+Delay that warrants this.</li>
   <li>Once the PO is content with the prioritisation of business features, let
 technical team members increase the priority of any technical feature they
-feel has a CoD that warrants this. In order to minimize the overall cost of
-maintenance, a technical feature should have a priority no more than one
-position higher than the highest prioity feature that depends upon it.</li>
+feel has a CoD that warrants this. In order to minimize the overall cost
+of maintenance, a technical feature should have a priority no more than
+one rank higher than the highest prioity feature that depends upon it.</li>
 </ul>
 
 <p>Once these adjustments have been made, record the relative priorities of the
-features to prepare them for Roadmap Refactoring, which determines how to best
-fit them given funding constraints and MVP per objective. See details below.</p>
+features to prepare them for Roadmap Refactoring, which determines how to
+best fit them given funding constraints and MVP per objective. </p>
 
-<h4 id="uncertainty">Uncertainty</h4>
+<h4 id="bpp-uncertainty">BPP Uncertainty</h4>
 
 <p>Uncertainty can lead technical team members to refuse to estimate a feature.
 In this case they must clearly describe the ambiguities or inconsistencies
-they need resolved by the product owner in order to produce an estimate. If
-the product owner can’t resolve the entire problem, and part of the feature is
-estimable but another part is not:</p>
+they would need resolved by the Product Owner in order to produce an
+estimate. If the product owner can’t resolve the entire problem, and part of
+the feature is estimable but another part is not:</p>
 
 <ul>
   <li>the feature is split into two, </li>
@@ -519,45 +513,49 @@ uncertainty via <a href="">spikes</a> or a <a href="">set-based design</a> proce
 it depends upon is completed.</li>
 </ul>
 
-<p>If a large number of features are inestimable it’s usually a good idea to
-defer this backlog bingo session until the team has had time to work with
-architects and designers to nail dependencies down a bit better, or analysts
-have sufficient time to resolve unsolved business questions.</p>
+<p>If a large number of features are inestimable it’s usually best to defer this
+bingo session until the team has had time to work with architects and
+designers to nail dependencies down a bit better, or analysts have sufficient
+time to resolve unsolved business questions.</p>
 
 <h4 id="bpp-vs-wsjf">BPP vs WSJF</h4>
 
 <p>Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
 Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
 there’s no clear distinction between business value, risk reduction and
-opportunity enablement, nor between criticality and Cost of Delay, this
-simplifies to (Business Value / Dureation) + (Criticality / Duration).</p>
+opportunity enablement, nor between criticality and Cost of Delay, WSJF
+simplifies to (Business Value / Duration) + (Criticality / Duration).</p>
 
-<p>There are several problems with WSJF:
-0. It doesn’t makes sense to divide criticality by duration. 
--  Without clear relative distinctions, which aren’t provided by SAFe
-   there’s no way to assure that these things are independent, thereby
-   distorting relative Business Value in an unpredictable way.
--  By favoring these things out and giving them equal weighting you actively
-   prevent conversations that would reveal the differing assumptions they’re
-   based on.
--  WSJF provides no opportunity to account for how combinaitons of features
-   may make render individual feature more or less valuable.
--  WSJF doesn’t account for technical CoD. It’s completely blind to the
-   fact that some features may have high CoD because of architectural
-   concerns or business uncertainty. It just leaves that out.</p>
+<p>There are several problems with this:
+0. It doesn’t makes sense to divide criticality by duration. Work doesn’t
+   become less critical just because it takes longer. This trade-off must be
+   made intelligently, not numerically.
+-  Without clear relative distinctions, which aren’t provided by SAFe there’s
+   no way to assure that variables are independent. This distorts relative
+   Business Value in an unpredictable way.
+-  By factoring CoD variables and giving them equal weighting WSJF actively
+   prevents trade-off conversations that would reconcile differing
+   assumptions about the features.
+-  WSJF provides no opportunity to account for how combinations of features
+   render the individual feature more or less valuable. This is a moving
+   target that requires explicit conversation.
+-  WSJF doesn’t account for technical CoD.  Some features may have high CoD
+   because of architectural concerns or business uncertainty. WSJF just
+   leaves that out.</p>
 
-<p>All of these problems are eliminated simply by BPP. Once you’ve factored out
-ROI, it’s trivial for team members to determine the remaining CoD.  And
-rather than adding in CoD as if it were linear, which it’s not, it’s trivial
-for team members to adjust an ROI prioritization by discrete CoD, including
-technical CoD. It’s quick, easy and completely unambiguous.</p>
+<p>All of these problems are eliminated by BPP. Once you’ve factored out ROI, it
+becomes easy for team members to determine the remaining CoD.  And rather
+than adding in CoD as if it were linear, which it’s not, it’s easy for team
+members to adjust an ROI prioritization by discrete CoD. BPP also accounts
+for technical CoD of technical features. The result is quick, easy and
+completely unambiguous.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 
 <p>Roadmap Refactoring is a consensus game that leverages BPP to enable product
 owners to make rational trade-offs between different feature-sets. It can be
 used to quickly assemble release plan to hit a particular date, if need be,
-or to  ZZ</p>
+or to </p>
 
 <p>takes the prioritized feature
 list, grouped by epic, costs </p>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T22:34:13+10:00</updated>
+  <updated>2014-05-04T22:43:38+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -564,35 +564,32 @@ very straightforward rules:</p>
 
 <ol>
   <li>Using the BPP prioritization, lay out all available features in columns
-grouped by business objective.
-    <ul>
-      <li>Pick the first column. Pick the feature at the top of the column. Let the
+grouped by business objective.</li>
+  <li>Pick the first column. Pick the feature at the top of the column. Let the
 PO as advised by their product team determine whether the objective can be
 met without including that feature. </li>
-      <li>Continue feature by feature until the PO sees one that, while still
+  <li>Continue feature by feature until the PO sees one that, while still
 valuable, could be left out without preventing satisfaction of the column
 objective.</li>
-      <li>All of the features above that one constitute the minimum viable
+  <li>All of the features above that one constitute the minimum viable
 featureset for that objective. Call them “bronze”. </li>
-      <li>Continue to pick features in that column now asking the PO whether the
+  <li>Continue to pick features in that column now asking the PO whether the
 feature has a concrete quantified business value, or just seems “nice to
 have”. Call the former “silver” and the latter “gold”.</li>
-      <li>Total how many feature points are in each of the bronze, silver and gold
+  <li>Total how many feature points are in each of the bronze, silver and gold
 levels for that column.</li>
-      <li>Do this for all columns.</li>
-      <li>If fitting to a continuous delivery funding model, POs simply prioritize
+  <li>Do this for all columns.</li>
+  <li>If fitting to a continuous delivery funding model, POs simply prioritize
 the bronze, silver and gold tranches of features across all columns.  Pick
 the most important one, then the next most important one, and so on.  Use
 the feature points to project release dates for marketing and other
 business development purposes.</li>
-      <li>If you’re only playing to create a release plan for a particular
+  <li>If you’re only playing to create a release plan for a particular
 date/budget, determine how many feature points correspond to that release.
 Now let the PO determine which combination of bronze/silver/gold levels
 will maximize deployed value for that release.</li>
-      <li>Record all of these decisions as an easy  starting point for the next RR
+  <li>Record all of these decisions as an easy  starting point for the next RR
 session.</li>
-    </ul>
-  </li>
 </ol>
 
 <p>Roadmap Refactoring should be played whenever new features are added to the

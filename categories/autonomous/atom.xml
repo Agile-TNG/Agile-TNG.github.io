@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T11:15:58+10:00</updated>
+  <updated>2014-05-04T11:23:45+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
     <updated>2014-04-21T20:46:55+10:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
-    <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
+    <content type="html"><![CDATA[<p>{% img /images/xscale.png %}</p>
 
 <p>Reflecting our work over recent years, XSCALE is a continuously delivering,
 continuously self-organizing, continuously adaptive Agile enterprise
@@ -247,29 +247,28 @@ market for the stream’s output.</p>
 <h3 id="ecosystem">Ecosystem</h3>
 
 <p>We have become used to combining the noun ecosystem with the adjective
-fragile. This is probably an artefact of the <a href="">anthropocene era</a> where most
-living ecosystems are undergoing catastrophic change. The prime characteristic
-of an ecosystem, however, is not fragility, but agility - that it embraces
-cycles of change to maintain stable behaviours over time. </p>
+fragile. This is an artefact of the <a href="">anthropocene era</a> where biological
+ecosystems are undergoing catastrophic change. </p>
 
-<p>A living ecosystem differs from a jumble of creatures in a zoo in that it has
-evolved to continuously adapt to cycles of change in the behaviour of its
-constituent organisms.  Its principles are sex and death. Sex continously
-generating experimental variations on behaviour, and death removing variations
-that don’t efficiently adapt to the whole. </p>
+<p>The prime characteristic of an ecosystem, however, is not fragility, but
+agility - that it embraces cycles of change to maintain stable behaviours
+over time.  A living ecosystem differs from a zoo in that it has evolved to
+continuously adapt to cycles of change in the behaviour of its constituent
+organisms.  </p>
 
-<p>As humans our advantage over other creatures is our ability to anticipate
-cycles of change so that we can adapt more rapidly than we evolve. In XSCALE
-we can think of Lean pivoting and set-based design serving the function of
-sex, and Agile refactoring serving that of death, but the principle of an
-ecosystem remains the same:</p>
+<p>The biological principles are sex and death.  Sex continously generating
+experimental variations on behaviour, and death removing variations that
+don’t efficiently adapt to the whole. In XSCALE we can think of Lean
+pivoting and set-based design serving the function of sex, and Agile
+refactoring serving that of death, but the principle of the ecosystem
+remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
 <p>This isn’t just about products and their features, but the structure and
-practices of teams in streams and streams in the enterprise. Naturally the
-ecosystem principle turns the Taylorist conceit of all-wise managers and
-serf-like workers on its head, leveraging the Agile function of management as
+practices of teams in streams and streams in the enterprise. The ecosystem
+principle turns the Taylorist conceit of all-wise managers and serf-like
+workers on its head, leveraging the Agile function of management as
 <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
 
 <p>In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
@@ -281,11 +280,11 @@ hierarchy of Iroquois councils: </p>
   <li>an enterrpise council composed of stream council representatives. </li>
 </ul>
 
-<p>At each level there are specific accountabilities defined by the teams.  Each
-squad in a stream has distinct roles for agile coach and product owner.  Each
-stream has a lead product owner and a lead coach. And the enterprise has its
-executive officers. In XSCALE the accountabilities of these roles are defined
-in Gherkin format by their respective councils.</p>
+<p>At each level there are specific accountabilities defined by the teams.
+Each squad in a stream has distinct roles for agile coach and product owner.
+Each stream has a lead product owner and a lead coach. And the enterprise
+has its executive officers. In XSCALE the accountabilities of these roles
+are defined by treaty in their respective councils.</p>
 
 <h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
 
@@ -300,26 +299,22 @@ starting point.</p>
 
 <h3 id="enterprise-practices">Enterprise Practices</h3>
 
-<p>The Taylorist view of an enterprise holds that it is a function of wise,
-senior management to determine appropriate funding and resourcing for workers
-in the enterprise’s value streams, with the workers accountable for following
-management directions.</p>
-
 <p>XSCALE adopts the <a href="">Beyond Budgeting</a> premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
-their investing some part of their revenue in it to fund it. This is not to
-disempower any wise, senior managers you may happen to have, but to assure
-that the entire enterprise pivots collaboratively to improve its ROI.</p>
+their investing some part of their revenue to fund it. This is not to
+disempower executives, but to assure that the entire enterprise pivots
+collaboratively to improve ROI.</p>
 
-<p>Therefore, while we describe the following patterns as “Enterprise Practices”,
-this doesn’t mean they’re only performed in the stratosphere. These same
-patterns are employed by squads, streams, and the enterprise council to
-distinguish their available courses of action breadth-first, prioritise these
-in terms of net ROI, and reconcile them with their avaialble funding levels. </p>
+<p>Therefore, while we describe the following patterns as “Enterprise
+Practices”, this doesn’t mean they’re only performed in the stratosphere.
+The same patterns are employed by squads, streams, and the enterprise
+council to distinguish their available courses of action breadth-first,
+prioritise these in terms of net ROI, and reconcile them with their
+avaialble funding levels. </p>
 
 <h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
 
-<p><img src="/images/lean-startup.png"></p>
+<p>{% img /images/lean-startup.png %}</p>
 
 <p>Breadth-First Roadmap (BFR) is a generalization of the Lean Startup <a href="">Business
 Model Canvas</a> composed of simple, commonplace Agile practices - story normal
@@ -338,7 +333,7 @@ stories required to deliver a feature.</p>
 <a href="">story-normal form</a> in order to scope roadmapping conversations to a single
 shared intent.</p>
 
-<p><img src="/images/roadmap0.png"></p>
+<p>{% img /images/roadmap0.png %}</p>
 
 <ul>
   <li>At every level, BFR takes the form of a matrix of objectives and themes
@@ -353,7 +348,7 @@ only contain a blank or a checkmark. A checkmark means there are acceptance
 criteria for this feature in this theme and a blank means there aren’t.</li>
 </ul>
 
-<p><img src="/images/roadmap1.png"></p>
+<p>{% img /images/roadmap1.png %}</p>
 
 <ul>
   <li>Each feature is evaluated against all themes. </li>
@@ -365,7 +360,7 @@ also have some acceptance criteria in it.</li>
 roadmap’s boxes are consistently updated.</li>
 </ul>
 
-<p><img src="/images/roadmap2.png"></p>
+<p>{% img /images/roadmap2.png %}</p>
 
 <ul>
   <li>Evaluate each theme to determine whether it is sufficiently covered by
@@ -377,7 +372,7 @@ all themes.</li>
 themes, consider whether those two may be refactored into one.</li>
 </ul>
 
-<p><img src="/images/roadmap3.png"></p>
+<p>{% img /images/roadmap3.png %}</p>
 
 <ul>
   <li>If a theme has checkboxes for all or almost all features, break out further
@@ -577,7 +572,7 @@ up of rotating Chapter representatives, </p>
 
 <h4 id="stream-kanban">Stream Kanban</h4>
 
-<p><img src="images/stream-cf.png"></p>
+<p>{% img images/stream-cf.png %}</p>
 
 <p>Every Stream is intended to generate a return. If the Stream is purely
 internal then its return is regarded as equal to its funding. An external
@@ -592,7 +587,7 @@ certain amount of cash.</p>
 
 <h4 id="adaptation-kanban">Adaptation Kanban</h4>
 
-<p><img src="images/stream-kanban.png"></p>
+<p>{% img images/stream-kanban.png %}</p>
 
 <h4 id="stream-council">Stream Council</h4>
 

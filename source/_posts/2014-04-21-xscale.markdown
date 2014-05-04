@@ -16,74 +16,66 @@ categories:
 {% img /images/xscale.png %}
 
 Reflecting our work over recent years, XSCALE is a continuously delivering,
-continuously self-organizing, continuously adaptive Agile ecosystem that turns
-all the knobs to ten.
+continuously self-organizing, continuously adaptive Agile enterprise
+ecosystem that turns all the knobs to ten.
 
 <!-- more -->
 
-**\[This post is currently in draft. I hope to finish it today but welcome
-feedback both from my TNG compadres and anyone else who happens by ....\]**
+**\[This post is currently in first draft - don't take it seriously yet. I
+hope to finish it today but welcome feedback both from my TNG compadres and
+anyone else who happens by ....\]**
 
 ## Why XSCALE?
 
-There have been several efforts to provide enterprises with a way to scale
-Agile. The best known are SAFe, LeSS, and the Spotify Tribal model. Each
-has its strengths and weaknesses.
+Over the last decade there have been several efforts to provide enterprises
+with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
+Tribal model. Each has its strengths and weaknesses.
 
-* SAFe targets conservative businesses with a low-discipline, top-down,
-  big-change-up-front, punctuated cadence model that combines Kanban, 
-  quarterly [release trains](), and Scrum. SAFe is designed to
-  permit an organization to keep its component silos intact. So it includes
-  some XP practices but ignores test-first TDD, continuous delivery,
-  collective ownership, merciless refactoring and feature teams.
+* [SAFe]() targets existing enterprises with a low-discipline, top-down,
+  big-change-up-front, punctuated cadence model that combines Kanban,
+  quarterly [release trains](), XP and Scrum. SAFe is a good starting point
+  for more conservative organizations because it's designed to enable
+  agility while keeping component silos intact. Nevertheless it shys away
+  from feature teams and continuous delivery, and while it targets scale it
+  ignores the key enabler of scale-symmetry.
 
-* LeSS is more progressive in some ways, offering a high-collaboration,
-  continuous cadence model that relies on [Scrum of Scrums]() to deal with
-  integration and cross-cutting concerns. It is still big-change-up-front,
-  however, requiring an organization to refactor its component silos into
-  feature teams before commencing sprints, It leaves specifics of product
-  planning, test automation and so on for teams to determine ad hoc.
+* [LeSS]()/Agile Path/Enterprise Scrum, etc., are alternatives more closely
+  based on traditional Scrum. They offer high-collaboration, continuous
+  cadence models that rely on [Scrum of Scrums]() to deal with integration
+  and cross-cutting concerns. XP practices are optional but feature teams
+  are mandatory. LeSS is big-change-up-front but Agile Path is an iterative
+  alternative. All leave specific practices for product planning, test
+  automation and so on for teams to determine ad hoc. 
 
-* The Spotify model dispenses with Scrum in favour of a pattern of [Tribes and
-  Guilds](), strongly emphasizing bottom-up collaboration and team autonomy.
-  It gives no further guidance on method as it expects a structure of
-  top-flight autonomous teams is capable of deciding for themselves how to
-  choose, tailor and coordinate the rollout of Agile practices. 
+* [The Spotify model]() dispenses with Scrum in favour of a pattern of
+  [Tribes and Guilds](), strongly emphasizing bottom-up collaboration and
+  team autonomy.  It gives even less prescription on team practices as it
+  expects a structure of top-flight autonomous teams is capable of deciding
+  for themselves how to evolve the rollout of Agile practices, but it's
+  clearly committed to Continuous Delivery and DevOps with every tribe
+  containing a chapter of Ops people dedicated to enabling squads to CD.
   
-XSCALE is based on the premise that proper XP actually makes scaling easier to
-do, not harder, by assuring that technical debts are paid before they earn
-interest. And that a large enterprise can easily adopt proper XP practices by
-starting with a small uncompromised XP team using the [Goose in the Bottle]()
-and growing it with the [Seven Samurai]() patterns. 
+XSCALE naturally bears comparison to these alternatives.  Like SAFe, XSCALE
+standardizes team practices using Scrum-XP. Like Agile Path, XSCALE
+transforms the enterprise iteratively. Like LeSS, XSCALE refactors component
+silos into feature teams. And like Spotify XSCALE uses Dunbar-number limits,
+chapters, guilds, CD and DevOps.
 
-This means XSCALE never needs to effect big-change-up-front of portfolios,
-programs or component teams, but it still yields thorough, bumpless Agile
-refactoring of enterprise value streams.
-
-As a result, XSCALE creates more Agility than SAFe as its methods of planning,
-delivery and transformation are fully continuous and collaborative.  It offers
-a more coherent organization than LeSS by combining Spotify [Tribes and
-Guilds]() with consensus decision-making via [Iroquois Councils](). And it's
-more accessible than Spotify alone because it provides an iterative,
-standardized, stress-free way to transform enterprise value streams over time.
-
-XSCALE further differs from other enterprise agile frameworks by embedding XP
-in an ecosystem of interlocking Agile practice patterns from Lean Startup,
-BDD, Lean UX, Kanban, DevOps, CD and A:TNG's OAPL to jump straight to the
-ultimate Agile state of the art. Not because that waves a banner but because
-with its iterative transformation this strategy actually achieves the greatest
-benefit with the lowest risk. The enterprise transforms at its own pace, but
-not team every does [half a cow, half a fish]().
+XSCALE is more than a synthesis of the best aspects of these forbears. It
+enables continuous adaptation using the [Seven Samurai]() patterns,
+continuous product planning using Lean Startup, Lean UX and [BPP/BDD]()
+patterns, and continuous enterprise self-organization using [Iroquois
+councils](). Its intent is the greatest Agile benefit with the lowest risk
+of disruption to existing value streams.
 
 ## XSCALE Principles
 
 XSCALE conforms with the [A:TNG values](), which form a strict superset of
-those in the Agile Manifesto. As a practice pattern language XSCALE also
-assumes six principles that should likewise be regarded as a strict superset
-of those in the Manifesto.
+those in the Agile Manifesto. XSCALE further assumes six principles that
+also form a superset of those in the Manifesto.
 
 eXcellent
-: Pay technical debt before it incurs interest.
+: Turn all the knobs to ten.
 
 Scale-symmetric
 : Iterate distinctions to control combinations.
@@ -92,150 +84,138 @@ Continuous
 : Use the smallest practical cycle time and batch size.
 
 Autonomous
-: Use consensus to reach decisions and to delimit accountabilities.
+: Use consensus to make decisions and to delimit accountabilities.
 
 Lean
-: Contnuously pivot and refactor to maximize net ROI.
+: Maximize net ROI.
 
 Ecosystem
-: Self-organize to adapt to cycles of change.
+: Continuous adaptation of the whole to its parts.
 
-Detailed reasoning for each of these follows, and then 
+Detailed reasoning for each of these follows, and then the XSCALE practice
+patterns that embody them.
 
 ### eXcellent
 
-The word "extreme" in the original XP caused a bad reaction that prompted the
-effort to define the word "Agile" in a Manifesto. Even now, however, most
-Agile software development teams use at least some XP practices. The best ones
-use them all. So there's proven value in XP. Ignoring the scary word, what is
-that value?
+The word "extreme" in the original XP was controversial, and instrumental in
+prompting the effort to focus the Manifesto on another word entirely.  The
+Nevertheless the manifesto authors recognized its importance in a principle
+that reads, "Continuous attention to technical excellence and good design
+enhances agility". XSCALE calls such continuous attention "eXcellent" and
+sums it up using Kent Beck's famous XP maxim:
 
-XP mostly differs from Scrum in its engineering practices - pair working,
-test-first automated testing, collective ownership, continuous integration and
-merciless refactoring - which interlock to continuously pay off technical
-debt. At scale such debts compound exponentially, a ticking time-bomb that
-sabotages throughput, transparency and sustainability. So we would define the
-"eXtreme principle" as:
+**Turn all the knobs to ten**.
 
-**Pay technical debt before it incurs interest.**
+XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
+the fundamentals of technical excellence. These patterns interlock to assure
+technical debts are paid before they earn interest, thereby keeping the
+delivery process stable, predictable and flexible. 
 
-XSCALE takes this principle and the XP engineering practices as a foundation
-because doing so enormously simplifies the challenge and reduces the risk of
-making combinations of Agile teams work together. The Scrum practices of
-sprint reviews and sprint retrospectives are likewise eXtreme in the sense
-that they define and action early pay-back of analysis and process debt.
+### Scale-symmetric
 
-But let's not call it "eXtreme" again. the Manifesto authors figured gave us a
-principle that reads, "Continuous attention to technical excellence and good
-design enhances agility". XSCALE simply takes early technical debt pay-back as
-the distinction for "eXcellent". So our X stands for that.
+Scale is about combinations of requirements, of dependencies, of defects,
+and of people. The number of combinations of a set grows very rapidly; a set
+of just 10 things has over 3.6 million distinct combinations. 
 
-### Scalable
+Yet golfers are untroubled by vast fields of grass blades.  They use just a
+few distinctions to control for the combined blade behaviours: "the green",
+"the fairway", "the rough", and so on Golfers never even think about
+combinations of individual grass blades. 
 
-Scale is about combinations of requirements, of dependencies, of defects, and
-of people. The number of combinations of a set grows very rapidly; a set of
-just 10 things has over 3.6 million distinct combinations.  So the principle
-of scalability is to:
+Agile already uses this when it 
+* maps requirements to distinct features and stories
+* refactors code into distinct ([DRY]()) classes
+* automates integration to distinguish good behaviours from bad
+* combines people into distinct feature teams to limit interdependencies.  
 
-**Make distinctions to control combinations**
+The Spotify / Iroquois patterns also do it by limiting the scope of
+conversations to small teams with specific concerns.  And XSCALE takes the
+same approach. The principle is:
 
-Agile already does this. It maps requirements to distinct features and
-stories, mercilessly refactors design artefacts into distinct ([DRY]())
-modules, automates testing and integration to iteratively distinguish good
-system behaviours from bad, and refactors capabilities into distinct feature
-teams to minimize inter-team dependencies. All in compliance with this
-principle.
+**Iterate distinctions to control combinations**
 
-A potential violation of this kind of scalability is found in the all-hands
-release planning meetings and "town halls" in SAFe and LeSS. These fail to
-distinguish small combinations of people and concerns, which means there's a
-risk of them spinning out of control. The Spotify / Iroquois team patterns
-actively channel and reduce the scope of conversations to limit their
-combinatorial space.
+A commonplace scaling challenge is the problem of determining which
+combinations of business alternatives have most value. All a small project
+needs to do so is a good product owner. When you've got portfolios of
+programs of projects, however, it gets hard.  Agile works as a hill-climbing
+algorithm, continously integrating little stories into a whole, and it's
+actually quite happy to climb a molehill of value when there's an Everest of
+it right next door.  
 
-Another scaling challenge comes from the problem of determining which
-combinations of business alternatives have the most value. Because Agile works
-as a hill-climbing algorithm, continously integrating little bits of
-functionality into an existing whole, it's actually happy to climb a molehill
-of value even when there's an Everest of it right next door. 
-
-Business Model Canvas, Breadth-First Product Roadmap and Roadmap Refactoring
-are patterns XSCALE uses to collect and distinguish alternatives through
-sorting by relative value. This also serves to combine the work of multiple
-into a single piece flow of whole features that maximize relative ROI while
-respecting stream funding limits and MVP and CoD constraints. 
+To control this XSCALE uses the Behavioral Product Planning consensus game,
+which sorts breadth-first distinctions about business alternatives into
+easily optimized piles. The trick is simply to iterate the game to
+make decisions about alternatives at finer and finer scales. 
 
 ### Continuous
 
-SAFe employs a quarterly [release train]() integration pattern. That's useful
-for conservative organizations because it means they don't have to alter their
-component silos. But several penalties come with it:
+SAFe promotes Punctuated Cadence over Continuous Delivery, employing a
+quarterly [release train]() integration pattern. This enables conservative
+organizations to keep their component silos, but at no small price:
 
-* Increased cost of quality due to delayed regression and acceptance testing
-  in "hardening sprints".
-* Wasted time in meetings to figure out how to satisfy combinatoric inter-team
-  dependency cycles.
+* Increased cost of quality due to deferring regression and acceptance
+  testing to "hardening sprints".
+* Wasted time in meetings to figure out how to satisfy combinatoric
+  inter-team dependency cycles.
 * Lost ROI from keeping finished features on ice for a quarter rather than
-  releasing them as quickly as possible.
-* Surprises and integration overhead due to the large batch sizes involved in
-  quarterly releasing.
+  releasing them as soon as they pass all tests..
+* Surprises and integration overhead due to the large batch sizes involved
+  in quarterly releasing.
 
-XSCALE avoids those penalties by enabling independent feature teams to deploy
-continuously using the GitFlow pattern and environment mapping for continuous
-delivery. This enables delivery teams to
+Because it employs continuous rather than big-bang transformation, XSCALE is
+able to avoid these penalties by enabling feature teams to use the GitFlow
+pattern language for continuous delivery. The principal is simply:
 
-**Use the smallest practical cycle time and batch size**
+**Always use the smallest practical cycle time and batch size**
 
-XSCALE applies the same principle to continuous product planning using lean
-canvases and breadth-first roadmaps, continuous stream coordination
-using chapters and councils, continuous coordination across streams using
-guilds and treaties, continous refactoring, continuous integration and
-continuous improvement via retrospectives and treaties. 
+XSCALE further applies this in its continuous product planning, continuous
+stream coordination, and continuous transformation patterns.
 
 ### Autonomous
 
-SAFe has been [criticized]() for its assumption of hierarchical, top-down
-decision-making, but LeSS tacitly assumes the same thing. Many of the benefits
-of Agile derive from peer collaboration and team consensus games like planning
-poker and retrospectives, and it doesn't seem reasonable to call a process
-Agile at any scale if it doesn't empower consensus.
+Philosophers dream of an anarchic utopia where the only law is the [Golden
+Rule](). As the scale of a group increases past the [Dunbar
+Number](http://en.wikipedia.org/wiki/Dunbar's_number), however, social
+obligations combinatorially degrade so the [Tragedy of the Commons]() leads
+to conflicts of interest that must be controlled through more restrictive
+forms of society. 
 
-People have long dreamt of an anarchic utopia where the only law is the
-[Golden Rule](). As the scale of a group increases past the [Dunbar
-Number](http://en.wikipedia.org/wiki/Dunbar's_number), however, the [Tragedy
-of the Commons]() inevitably leads to conflicts of interest that must be
-controlled through more restrictive forms of society. Therefore,
+Many of the benefits of Agile derive from peer collaboration and team
+consensus games like planning poker and retrospectives, and it wouldn't be
+reasonable to call a process Agile at any scale if it doesn't empower
+consensus through games. So the XSCALE principle is:
 
-**Use consensus to reach decisions and to delimit accountabilities.**
+**Use consensus games to reach decisions and to delimit accountabilities.**
 
-Rationally, individual accountability should be applied when the business cost
-of delaying a decision is greater than the social cost of failing to maintain
-consensus. This trade-off seems to have been best managed, historically, by
-the Iroquois Confederacy of North America. 
+In theory, individual accountability should be applied when the business
+cost of delaying a decision is greater than the social cost of failing to
+maintain consensus. In practice it's hard to figure these costs out.
+Historically the happiest medium seems to have been the Iroquois
+Confederacy, which used unanimous consent at sub-Dunbar scales to control a
+hierarchy of peer councils. 
 
-The Iroquois used unanimous consent at a sub-Dunbar scale to govern a
-hierarchy of treaty-making councils. Where consensus protocol was violated or
-timing called for an immediate decision, per-tribe "war chiefs" were made
-accountable. This proved stable at a multi-national scale over a period of
-centuries. XSCALE combines it with the Spotify Tribal model to scale consensus
-decisions while maintaining proper team and stream autonomy.
+Where consensus protocol was violated or timing called for a rapid decision,
+per-tribe "war chiefs" were made accountable. This combination of councils
+and accountables proved stable at a multi-national scale over a period of
+centuries. XSCALE combines it with the Spotify tribal model to scale
+consensus decisions while clearly maintaining team and stream autonomy.
 
 ### Lean
 
 Lean is often defined as "Minimizing Waste". Unfortunately that definition
 admits an ambiguity. [Lean Startup](), [Lean UX]() and [LSD]() use Lean almost
-as synonymous with Agile. But command and control frameworks like Lean Six
+as synonymous with Agile, but command and control frameworks like Lean Six
 Sigma and Lean Accounting interpret Lean to mean cost reduction over ROI and
-hierarchical standardization over adaptive collaboration. This makes them
-unsuited to our purpose in XSCALE. 
+hierarchical standardization over adaptive collaboration. 
 
-So let's eliminate the ambiguity and give the following as our Lean principle:
+This makes the latter unsuited to our purpose in XSCALE.  To prevent confusion
+XSCALE eliminates the ambiguity to define the principle simply as:
 
-**Continuously pivot and refactor to maximize net ROI**
+**Maximize net ROI**
 
-We say net ROI to account for Cost of Delay and other factors in projecting
-ROI over time. With this in mind we adopt the following Lean practice
-patterns:
+We say net ROI in order to account for Cost of Delay and other factors in
+projecting ROI over time. With this in mind XSCALE adapts several specific
+Lean practice patterns:
 
 * As a special case of Breadth-first Roadmapping, Lean Startup's [business
   model canvas]() to pivot and refactor the enterprise's value streams
@@ -244,201 +224,312 @@ patterns:
   funding, stream return, and the stream roadmap
 * [Product Teams]() working cross-functionally per Lean UX to coordinate
   [set-based-design]() with lo-fi prototyping, BDD and Feature roadmaps
-* [Lean Transformation Canvas]() also forms a roadmap to focus the [Seven
-  Samurai]() patterns.
+* [Lean Transformation Canvas]() as a roadmap for the [Seven Samurai]().
 
-These Lean practice patterns all work to maximise net ROI. XSCALE interlocks
-them using scale-symmetric roadmapping to render a stream funding cycle
-without need for project budgets and baselines while remaining continuously
-responsive to metrics and learnings relative both to the teams in the stream
-and to its market.
+These Lean practices all work to maximise net ROI. XSCALE interlocks them
+using scale-symmetric roadmapping to render a stream funding cycle without
+resorting to project budgets and baselines yet remaining continuously
+responsive to metrics and learnings for the teams in the stream and for the
+market for the stream's output.
 
 ### Ecosystem
 
 We have become used to combining the noun ecosystem with the adjective
-fragile. But this is an artefact of our [anthropocene era]() where most
-biological ecosystems are undergoing catastrophic change. The prime
-characteristic of an ecosystem is not fragility, but agility - that it
-embraces change to maintain stable behaviours over time. This is how a living
-ecosystem differs from a jumble of creatures in a zoo - it self-organizes to
-adapt to cycles of change without some external intelligence planning for it.
+fragile. This is probably an artefact of the [anthropocene era]() where most
+living ecosystems are undergoing catastrophic change. The prime characteristic
+of an ecosystem, however, is not fragility, but agility - that it embraces
+cycles of change to maintain stable behaviours over time. 
 
-As the principles of a biological ecosystem we have sex and death. Sex
-continously generates experimental variations on behaviour and death removes
-variations that don't efficiently adapt to circumstances. 
+A living ecosystem differs from a jumble of creatures in a zoo in that it has
+evolved to continuously adapt to cycles of change in the behaviour of its
+constituent organisms.  Its principles are sex and death. Sex continously
+generating experimental variations on behaviour, and death removing variations
+that don't efficiently adapt to the whole. 
 
-As humans our great advantage over other creatures is our ability to
-anticipate cycles of change so that we can adapt to them more rapidly than sex
-and death. In XSCALE we think of Lean pivoting and set-based design in the
-place of sex and Agile refactoring in the place of death, so our principle is:
+As humans our advantage over other creatures is our ability to anticipate
+cycles of change so that we can adapt more rapidly than we evolve. In XSCALE
+we can think of Lean pivoting and set-based design serving the function of
+sex, and Agile refactoring serving that of death, but the principle of an
+ecosystem remains the same:
 
-**Self-organize to adapt to cycles of change**
+**Continuous adaptation of the whole to its parts**
 
-This isn't just about products, but the structure and practices of teams,
-streams and the whole enterprise. In order to pivot and refactor these things
-XSCALE relies on a hierarchy of Iroquois councils: chapters as groupings of
-people with common capabilities, stream councils composed of chapter
-representatives, and an enterrpise council composed of stream council
-representatives.  We'll explain how these composite below.
+This isn't just about products and their features, but the structure and
+practices of teams in streams and streams in the enterprise. Naturally the
+ecosystem principle turns the Taylorist conceit of all-wise managers and
+serf-like workers on its head, leveraging the Agile function of management as
+[servant-leaders]() to autonomous teams of peer workers.
+
+In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
+hierarchy of Iroquois councils: 
+
+* chapters as groupings of people with common capabilities across squads 
+* stream councils composed of chapter representatives
+* an enterrpise council composed of stream council representatives. 
+
+At each level there are specific accountabilities defined by the teams.  Each
+squad in a stream has distinct roles for agile coach and product owner.  Each
+stream has a lead product owner and a lead coach. And the enterprise has its
+executive officers. In XSCALE the accountabilities of these roles are defined
+in Gherkin format by their respective councils.
 
 ## XSCALE Practice Patterns
 
-XSCALE is "opinionated" in the same sense as [Ruby on Rails]().  This is to
-say you'll want to follow these practices very closely to begin with - because
-this is how you "turn all the knobs to ten".  
+XSCALE is "opinionated" in the same sense as [Ruby on Rails]().  This means
+you'll want to follow its practices very closely to begin with - because this
+is how it "turns all the knobs to ten".  
 
-Bear in mind that XSCALE isn't a big-change-up-front framework. It starts with
-a single squad in a single stream and uses the [Seven Samurai]() to grow the
-Agile capability. As it grows and you gain experience per the method of [Shu
-Ha Ri]() your various councils will collaboratively vary these practices to
-adapt to circumstances. That's a key part of XSCALE too. But the following
-provides your starting point.
+Because XSCALE isn't a big-change-up-front framework, as it grows and you gain
+experience the various councils will collaboratively vary its practices to
+adapt them to the whole. Nevertheless, the following provides a well proven
+starting point.
 
 ### Enterprise Practices
 
 The Taylorist view of an enterprise holds that it is a function of wise,
 senior management to determine appropriate funding and resourcing for workers
-in the enterprise's value streams, while the workers are just accountable for
-doing as they're told. 
+in the enterprise's value streams, with the workers accountable for following
+management directions.
 
 XSCALE adopts the [Beyond Budgeting]() premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
-their investing their revenue to fund it. This is not to disempower wise,
-senior managers, but to assure that the entire enterprise pivots
-collaboratively to improve its ROI, with no special class of managers immune
-from doing that.
+their investing some part of their revenue in it to fund it. This is not to
+disempower any wise, senior managers you may happen to have, but to assure
+that the entire enterprise pivots collaboratively to improve its ROI.
 
 Therefore, while we describe the following patterns as "Enterprise Practices",
-this does not mean they only happen in the stratosphere. These same patterns
-are employed by squads, streams, and the enterprise council to distinguish
-their available courses of action breadth-first, prioritise these in terms
-of net ROI, and reconcile them with avaialble funding levels. 
+this doesn't mean they're only performed in the stratosphere. These same
+patterns are employed by squads, streams, and the enterprise council to
+distinguish their available courses of action breadth-first, prioritise these
+in terms of net ROI, and reconcile them with their avaialble funding levels. 
 
-#### Breadth-first Roadmapping
+#### Breadth-First Roadmap
 
 {% img /images/lean-startup.png %}
 
-Breadth-First Roadmapping (BFR) is a generalization of the Lean Startup
-[Business Model Canvas]() that assures complete assessment of a group's
-delivery targets or courses of action to a limited resolution. It's composed
-of simple, commonplace Agile practices - story normal form, INVEST properties
-and categories of Gherkin acceptance criteria. 
+Breadth-First Roadmap (BFR) is a generalization of the Lean Startup [Business
+Model Canvas]() composed of simple, commonplace Agile practices - story normal
+form, INVEST properties and categories of BDD acceptance criteria. Its
+function is to concrete shared understanding of a group's delivery targets or
+courses of action, and assure complete analysis of same to a limited depth.
 
-We apply BFR at an enterprise level to determine the value streams required to
-realize a business model. At a stream level we use it to determine the
-features of products and services required to achieve the stream's business
-objectives. And delivery squads use BFR to determine the stories required to
-deliver a feature.
+XSCALE applies BFR at an enterprise level to determine what value streams are
+required to realize a business model. At a stream level we use it to determine
+the features of products and services required to achieve the stream's
+business objectives. And delivery squads can also use BFR to determine the
+stories required to deliver a feature.
 
-Therefore every BFR can be regarded as an expansion of a single, large
-objective. It's important to begin by calling out this objective in
-story-normal form in order to scope the roadmapping work to an unambiguously
+Therefore every BFR can be regarded as an expansion of a single, larger
+**scoping story**.  It's important to begin by describing this story in
+[story-normal form]() in order to scope roadmapping conversations to a single
 shared intent.
 
 {% img /images/roadmap0.png %}
 
-* At every level, BFR takes the form of a roadmap of objectives and themes,
-  where themes are defined as categories of acceptance criteria. These
-  criteria each represent a cross-cutting technical, business or user
-  experience concern.
-* Each objective is decomposed to a set of features in story-normal form.
-  These features are checked to assure their in-principle INVEST compliance,
-  where the S in INVEST is generalized to mean "scale similar" rather than
-  just "small".
-* The intersection of a feature and a theme is simply referred to as a box.
-  And a box can only contain a blank or a checkmark. A checkmark means there
-  are acceptance criteria for this feature in this theme. A blank means there
-  are no such acceptance criteria.
+* At every level, BFR takes the form of a matrix of objectives and themes
+  where a theme defines a category of acceptance criteria for a cross-cutting
+  technical, business or user experience concern and the objectives combine to
+  satisfy the scoping story respecting these themes.
+* Each objective expands to a set of sub-features in story-normal form.  These
+  features are checked to assure their INVEST compliance. Here the S in INVEST
+  is generalized to mean "scale similar" rather than just "small".
+* The intersection of a feature and a theme is simply a checkbox; each box can
+  only contain a blank or a checkmark. A checkmark means there are acceptance
+  criteria for this feature in this theme and a blank means there aren't.
 
 {% img /images/roadmap1.png %}
 
-* Each feature is evaluated against all themes. If a theme requires a precise
-  definition, a gherkin template may be generated for it, though this is
-  usually unnecessary.
-* As each feature is evaluated, the team considers whether it has acceptance
-  criteria in a category that isn't yet part of the roadmap. If so, a column
-  is added for that theme and all features are re-evaluated to determine
-  whether they also have acceptance criteria in it.
-* It's fine to modify or refactor features as you go, so long as all the
-  roadmap's boxes are updated accordingly.
+* Each feature is evaluated against all themes. 
+* As each feature is evaluated, also consider whether there are acceptance
+  criteria in a theme that isn't yet part of the roadmap. If so, add a column
+  for that theme and re-evaluate all the features to determine whether they
+  also have some acceptance criteria in it.
+* It's fine to modify or refactor features as you go so long as all the
+  roadmap's boxes are consistently updated.
 
 {% img /images/roadmap2.png %}
 
-* Each theme is evaluated to determine whether it is sufficiently covered by
-  features to achieve the roadmap objective.
-* If not, the roadmap will be extended with extra features to assure the theme
-  is sufficiently covered, with these features subsequently evaluated in all
-  themes.
+* Evaluate each theme to determine whether it is sufficiently covered by
+  features to achieve the scoping story.
+* If not, the roadmap should be extended with extra features to assure the
+  theme is sufficiently covered, with these features subsequently evaluated in
+  all themes.
 * If it appears that all features have the same pattern of checkboxes for two
-  themes, the team considers whether the two may be refactored into one.
+  themes, consider whether those two may be refactored into one.
 
 {% img /images/roadmap3.png %}
 
 * If a theme has checkboxes for all or almost all features, break out further
   features to encapsulate shared technical infrastructure to economically
-  support the commonalities.
+  support the commonalities. We call these **technical features**.
 * If a theme has no checkboxes ticked, it may simply be deleted. If it has
   only a very small number ticked, it may be better to convert the sparse
   theme into a feature.
-* This process continues until the team agrees that the roadmap is complete.
+* In general this  process continues until the team agrees that the roadmap is
+  complete or there is no more time available.
 
-The roadmapping process may become onerous if features or themes are too
-detailed for the scale of the roadmap. It's good to bear in mind that each of
-the features will be expanded into a roadmap at the next level down, until the
-features are small enough to constitute delivery stories, with details
-hammered out by Product Teams. It's counterproductive to over-specify.
+To use BFR properly it's important to keep "breadth-first" in mind. The
+roadmapping process may become long and onerous if features and themes are too
+numerous or detailed for the scale of the roadmap. Each feature will be
+expanded into a further roadmap at the next level down until they're small
+enough to constitute delivery stories. So it's counterproductive to
+over-specify them.
 
 #### Backlog Bingo
 
-XP's original Planning Game, now more popularly known as "Planning Poker", is
-a proven way for delivery teams to make collaborative estimates about the
-relative effort required to collaboratively deliver stories. XSCALE
-generalizes this game as a method of determining the funding necessary to
-delivery products and services. It does so by changing the unit of estimation
-from story points to feature points.
+The original XP Planning Game, now known as "Planning Poker", is a proven way
+for delivery teams to collaborate on estimating the relative effort required
+to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
+to make a method of determining the funding required to deliver a set of
+products and services. 
 
-Where story points represent only the relative effort required to deliver a
-story, feature points estimate increments of funding necesssary to deploy
-a feature. Because the number of story points that will fit into a funding
-increment depends on team velocity at the time of delivery, there is no linear
-mapping between feature points and story points.
+It does this by changing the unit of estimation from story points to **feature
+points**. Where story points represent only the relative effort required to
+deliver a story, feature points estimate increments of funding necesssary to
+deploy a whole feature. Because the number of story points that will fit into
+a funding increment depends on team velocity at the time of delivery, there's
+no need to dream up a linear mapping between feature points and story points.
 
 Nevertheless, as Backlog Bingo gives feature points an empirical basis in
-previously delivered features, they have proved very effective in establishing
-a reasonable level of funding to assure delivery. Moreover, as Agile delivery
-teams and streams are continuously becoming more productive over time, feature
-points generally forecast a reasonable level of funding.
+previously delivered features, feature points are very effective in
+establishing a reasonable level of funding per feature. 
 
-Backlog Bingo is played like this:
+Backlog Bingo is very quick and easy to play:
 
 * Write [Fibonacci numbers]() from 1 to 89 on cards and lay them out in a row
-  across a large table.
+  across a large table. There's nothing magical about Fibonacci numbers - we
+  use them because they consistently lead people to think in terms of
+  trade-offs - is feature A really as big as feature B + feature C, and so on.
 
 * Select three previously delivered and deployed features with well documented
-  costs, one small, one medium and one large. Call these probes. Describe each
-  probe in a story normal form commensurable with the roadmap features you
+  costs, one small, one medium and one large. Call these **probes**. Describe
+  each probe in story-normal form commensurable with the roadmap features you
   want to estimate.
 
 * Figure out a funding increment that constitutes the greatest common divisor
-  of their respective costs and call this a feature point. Place the three
-  probes under the Fibonacci numbers that match their respective magnitudes in
+  of the probes' respective costs and call this a feature point. Place the
+  three probes under the Fibonacci numbers that match their respective
+  magnitudes in feature points. 
+
+* Pick a feature from your roadmap. Compare it with the probes, starting with
+  the middle one, to evaluate its relative size in Fibonacci multiples of
   feature points.
 
-* Pick a feature from your roadmap. Compare it with the probes starting with
-  the middle one to evaluate its relative size in Fibonacci multiples of
-  feature points.
+* As you add features, sort them into the appropriate Fibonacci column.
+  Continue to compare features this way until there are none left to compare.
+  If the estimators cannot agree on the Fibonacci number for a feature,
+  split it into pieces they can estimate separately.
 
-* Continue to add features this way until there are none left to estimate. If
-  the estimators cannot agree on the estimate for a feature, don't force them
-  but set it aside for later clarification.
+Backlog Bingo can also be used without a dollar basis to estimate relative
+business value. You simply pick a different set of 3 probes - one for an
+existing deployed feature that the PO says has low business value, and then
+one that's crticially important to business function, and then one roughly in
+between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
+game runs as above.
 
-If in the course of BPP the quality to be estimated is business value or
-uncertainty, you can simply pick 3 different probes that provide a reasonable
-basis for that.
+#### Behavioral Product Planning
 
-#### Behavioural Product Planning
+Behavioral Product Planning (BPP) is a simple consensus game that uses Backlog
+Bingo to prioritise the BFR in terms of ROI + COD. This is both easier and
+leaner than the SAFe "Weighted Shortest Job First" (WSJF) equivalent. The game
+uses Backlog Bingo to assign values to the BFR features in terms of:
+
+* effort in feature points
+* relative business value
+
+Technical team members - developers, architects, designers and testers - play
+the first bingo game. Product owners and stakeholders are present to answer
+questions and also to question any estimate they feel is too large or too
+small. Usually this is a sign of a missing conversation, in which case the
+matter can be resolved immediately. Sometimes it's an indicator of
+uncertainty, about which see below.
+
+The second bingo game reverses the rules. Now it's business stakeholders,
+business SMEs and ultimately the product owner who work together to estimate
+business value while technical team members ask and answer questions. Note
+that business value includes things that don't provide revenue but simply
+reduce risk.
+
+In any case, only technical team members can make effort estimates, and only
+business team members can make business value estimates. They each attempt to
+make these unanimously by clarifying differences together as they would in
+planning poker. 
+
+Once each feature has both numbers, prioritisation involves three steps:
+
+* Divide the business value number, which represents expected return, by
+  effort, which represents the required investment to obtain the return. This
+  yields relative return on investment, which we call ROI.
+* List features vertically in order of decreasing ROI. Let the PO increase the
+  priority of any business feature they feel has a Cost of Delay that warrants
+  this.
+* Once the PO is content with the prioritisation of business features, let
+  technical team members increase the priority of any technical feature they
+  feel has a CoD that warrants this. In order to minimize the overall cost of
+  maintenance, a technical feature should have a priority no more than one
+  position higher than the highest prioity feature that depends upon it.
+
+Once these adjustments have been made, record the relative priorities of the
+features to prepare them for Roadmap Refactoring, which determines how to best
+fit them given funding constraints and MVP per objective. See details below.
+
+#### Uncertainty
+
+Uncertainty can lead technical team members to refuse to estimate a feature.
+In this case they must clearly describe the ambiguities or inconsistencies
+they need resolved by the product owner in order to produce an estimate. If
+the product owner can't resolve the entire problem, and part of the feature is
+estimable but another part is not:
+
+* the feature is split into two, 
+* the estimable part is estimated
+* a new technical feature is created to represent the work of resolving the
+  uncertainty via [spikes]() or a [set-based design]() process.
+* estimating the inestimable feature is deferred until the technical feature
+  it depends upon is completed.
+
+If a large number of features are inestimable it's usually a good idea to
+defer this backlog bingo session until the team has had time to work with
+architects and designers to nail dependencies down a bit better, or analysts
+have sufficient time to resolve unsolved business questions.
+
+#### BPP vs WSJF
+
+Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
+Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
+there's no clear distinction between business value, risk reduction and
+opportunity enablement, nor between criticality and Cost of Delay, this
+simplifies to (Business Value / Dureation) + (Criticality / Duration).
+
+There are several problems with WSJF:
+0. It doesn't makes sense to divide criticality by duration. 
+-  Without clear relative distinctions, which aren't provided by SAFe
+   there's no way to assure that these things are independent, thereby
+   distorting relative Business Value in an unpredictable way.
+-  By favoring these things out and giving them equal weighting you actively
+   prevent conversations that would reveal the differing assumptions they're
+   based on.
+-  WSJF provides no opportunity to account for how combinaitons of features
+   may make render individual feature more or less valuable.
+-  WSJF doesn't account for technical CoD. It's completely blind to the
+   fact that some features may have high CoD because of architectural
+   concerns or business uncertainty. It just leaves that out.
+
+All of these problems are eliminated simply by BPP. Once you've factored out
+ROI, it's trivial for team members to determine the remaining CoD.  And
+rather than adding in CoD as if it were linear, which it's not, it's trivial
+for team members to adjust an ROI prioritization by discrete CoD, including
+technical CoD. It's quick, easy and completely unambiguous.
 
 #### Roadmap Refactoring
+
+Roadmap Refactoring is a consensus game that leverages BPP to enable product
+owners to make rational trade-offs between different feature-sets. It can be
+used to quickly assemble release plan to hit a particular date, if need be,
+or to  ZZ
+
+takes the prioritized feature
+list, grouped by epic, costs 
 
 #### Enterprise Council
 

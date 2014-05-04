@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Alignment | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/alignment/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T11:40:35+10:00</updated>
+  <updated>2014-05-04T22:34:13+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Agile-TNG.github.io/2014/04/13/product-funding/"/>
     <updated>2014-04-13T20:15:15+10:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/13/product-funding</id>
-    <content type="html"><![CDATA[<p>{% img /images/nails.png 400 %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/nails.png" width="400"></p>
 
 <p>When all you have is a hammer, every problem looks like a nail.  When all you
 have is a project management methodology, everything looks like a project. </p>
@@ -71,7 +71,7 @@ hey, that’s their problem. 2.0 will be a great success.</p>
 
 <p>Treat Product development as a continuous activity. </p>
 
-<p>{% img /images/zipper.png %}</p>
+<p><img src="/images/zipper.png"></p>
 
 <p>One release of a product shouldn’t mess up the organisation’s ability to
 deliver the next release. What we need is a Product focus rather than a

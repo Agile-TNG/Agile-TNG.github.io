@@ -640,36 +640,78 @@ opportunity enablement, nor between criticality and Cost of Delay, WSJF
 simplifies to (Business Value / Duration) + (Criticality / Duration).</p>
 
 <p>There are several problems with this:
-0. It doesn’t makes sense to divide criticality by duration. Work
-   doesn’t become less critical just because it takes longer. This trade-off
-   must be made intelligently, not numerically.
--  Without clear relative distinctions, which aren’t provided by SAFe
-   there’s no way to assure that these things are independent, thereby
-   distorting relative Business Value in an unpredictable way.
--  By favoring these things out and giving them equal weighting you actively
-   prevent conversations that would reveal the differing assumptions they’re
-   based on.
--  WSJF provides no opportunity to account for how combinaitons of features
-   may make render individual feature more or less valuable.
--  WSJF doesn’t account for technical CoD. It’s completely blind to the
-   fact that some features may have high CoD because of architectural
-   concerns or business uncertainty. It just leaves that out.</p>
+0. It doesn’t makes sense to divide criticality by duration. Work doesn’t
+   become less critical just because it takes longer. This trade-off must be
+   made intelligently, not numerically.
+-  Without clear relative distinctions, which aren’t provided by SAFe there’s
+   no way to assure that variables are independent. This distorts relative
+   Business Value in an unpredictable way.
+-  By factoring CoD variables and giving them equal weighting WSJF actively
+   prevents trade-off conversations that would reconcile differing
+   assumptions about the features.
+-  WSJF provides no opportunity to account for how combinations of features
+   render the individual feature more or less valuable. This is a moving
+   target that requires explicit conversation.
+-  WSJF doesn’t account for technical CoD.  Some features may have high CoD
+   because of architectural concerns or business uncertainty. WSJF just
+   leaves that out.</p>
 
-<p>All of these problems are eliminated simply by BPP. Once you’ve factored out
-ROI, it’s trivial for team members to determine the remaining CoD.  And
-rather than adding in CoD as if it were linear, which it’s not, it’s trivial
-for team members to adjust an ROI prioritization by discrete CoD, including
-technical CoD. It’s quick, easy and completely unambiguous.</p>
+<p>All of these problems are eliminated by BPP. Once you’ve factored out ROI, it
+becomes easy for team members to determine the remaining CoD.  And rather
+than adding in CoD as if it were linear, which it’s not, it’s easy for team
+members to adjust an ROI prioritization by discrete CoD. BPP also accounts
+for technical CoD of technical features. The result is quick, easy and
+completely unambiguous.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 
-<p>Roadmap Refactoring is a consensus game that leverages BPP to enable product
-owners to make rational trade-offs between different feature-sets. It can be
-used to quickly assemble release plan to hit a particular date, if need be,
-or to  ZZ</p>
+<p>Roadmap Refactoring (RR) is a consensus game that leverages BPP to enable
+product owners to make rational trade-offs between different feature-sets. It
+can be used to quickly assemble a release plan to hit a particular date, if
+need be, or to determine an ordering of feaure sets to maximize
+product-market fit within the funding profile of a continuous delivery
+stream.</p>
 
-<p>takes the prioritized feature
-list, grouped by epic, costs </p>
+<p>Like the other XSCALE enterprise practices, RR is a quick consensus game with
+very straightforward rules:</p>
+
+<ol>
+  <li>Using the BPP prioritization, lay out all available features in columns
+grouped by business objective.
+    <ul>
+      <li>Pick the first column. Pick the feature at the top of the column. Let the
+PO as advised by their product team determine whether the objective can be
+met without including that feature. </li>
+      <li>Continue feature by feature until the PO sees one that, while still
+valuable, could be left out without preventing satisfaction of the column
+objective.</li>
+      <li>All of the features above that one constitute the minimum viable
+featureset for that objective. Call them “bronze”. </li>
+      <li>Continue to pick features in that column now asking the PO whether the
+feature has a concrete quantified business value, or just seems “nice to
+have”. Call the former “silver” and the latter “gold”.</li>
+      <li>Total how many feature points are in each of the bronze, silver and gold
+levels for that column.</li>
+      <li>Do this for all columns.</li>
+      <li>If fitting to a continuous delivery funding model, POs simply prioritize
+the bronze, silver and gold tranches of features across all columns.  Pick
+the most important one, then the next most important one, and so on.  Use
+the feature points to project release dates for marketing and other
+business development purposes.</li>
+      <li>If you’re only playing to create a release plan for a particular
+date/budget, determine how many feature points correspond to that release.
+Now let the PO determine which combination of bronze/silver/gold levels
+will maximize deployed value for that release.</li>
+      <li>Record all of these decisions as an easy  starting point for the next RR
+session.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Roadmap Refactoring should be played whenever new features are added to the
+stream backlog or whenever the PO calls for it. Because it’s such a quick
+game it’s also possible to play in a “what-if” mode to evaluate alternative
+product plans to project responses to various changes in market conditions.</p>
 
 <h4 id="enterprise-council">Enterprise Council</h4>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T15:00:08+10:00</updated>
+  <updated>2014-05-05T18:54:35+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -275,14 +275,19 @@ hierarchy of Iroquois councils: </p>
 <ul>
   <li>chapters as groupings of people with common capabilities across squads </li>
   <li>stream councils composed of chapter representatives</li>
-  <li>an enterrpise council composed of stream council representatives. </li>
+  <li>an enterprise council composed of stream council representatives. </li>
 </ul>
 
 <p>At each level there are specific accountabilities defined by the teams.
 Each squad in a stream has distinct roles for agile coach and product owner.
 Each stream has a lead product owner and a lead coach. And the enterprise
-has its executive officers. In XSCALE the accountabilities of these roles
-are defined by treaty in their respective councils.</p>
+has its executive officers. </p>
+
+<p>The accountabilities of these roles are defined by treaty in their
+respective councils. The accountability of the enterprise as a whole, and
+each of its streams, and each of their chapters is dynamically defined by a
+treaty in story-normal form. This story is expanded using the
+<strong>Breadth-First Roadmap</strong> method described below.</p>
 
 <h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
 
@@ -766,7 +771,7 @@ councils and thereby become stream reps on the Enterprise Council. This
 assures smooth, consistent, iterative rollout of XSCALE across the whole
 organization.</p>
 
-<h4 id="chapter-squad-guild-and-council-meetings">Chapter, Squad, Guild and Council meetings</h4>
+<h4 id="chapter-squad-guild-and-council-meeting-schedule">Chapter, Squad, Guild and Council Meeting Schedule</h4>
 
 <p>As XSCALE rolls out it becomes advantageous to synchronize council meetings
 so that they don’t cause calendar-stress. XSCALE leverages the weekly cycle
@@ -795,20 +800,34 @@ temporary (1 week) adoption of a treaty while offline discussions resolve
 it at chapter level.</p>
   </li>
   <li>
-    <p>Chapters track treaties in an Adaptation Kanban with work states of
-Awareness, Architecture, Adoption, Acceleration and Done. This kanban
-rolls up to inform the Stream Council’s Adaptation Kanban. </p>
+    <p>Guild meetings are held asynchronously on a frequency determined by their
+respective Stream Councils.</p>
   </li>
   <li>
-    <p>The Stream Council’s Adaptation Kanban reflects work states of Assessment,
-Analysis, Awareness, Architecture and Done. Awareness and Architecture
-roll up from Chapter Kanbans.</p>
+    <p>Enterprise Council meetings are held on a frequency determined by the
+Enterprise Council, and asynchronously whenever a Stream Council calls for
+one.</p>
   </li>
-  <li>
-    <p>The Stream council’s Adaptation Kanban reflects work states of Assessment,
-Analysis, Awareness, Architecture and Done. Awareness and Architecture
-roll up from Chapter Kanbans.</p>
-  </li>
+</ul>
+
+<h4 id="chapter-and-council-roadmaps">Chapter and Council Roadmaps</h4>
+
+<p>As explained in the Ecosystem section above, Streams and Squads have their
+specific purposes distinguished by treaties in story-normal form.  Councils
+and Chapters adapt and expand the respective treaties by means of
+Breadth-First Roadmaps that detail how they will organize themselves to
+satisfy the terms of the treaty. Then the BPP patterns are applied to
+estimate and prioritize these roadmaps using themes drawn from the Seven 
+Samurai patterns to reflect the respective accountabilities and
+responsibilities at each level:</p>
+
+<ul>
+  <li>Chapters are accountable for Adoption and Acceleration, responsible for
+Awareness and Architecture.</li>
+  <li>Stream Councils are accountable for Awareness and Architecture,
+responsible for Assessment and Analysis,</li>
+  <li>The Enterprise Council is Accountable for Assessment and Analysis,
+responsible for Alignment and Appropriation</li>
 </ul>
 
 <h4 id="enterprise-council">Enterprise Council</h4>

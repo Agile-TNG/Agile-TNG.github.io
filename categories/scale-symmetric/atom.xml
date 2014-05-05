@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-04T22:43:38+10:00</updated>
+  <updated>2014-05-05T10:32:36+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -42,9 +42,9 @@ Tribal model. Each has its strengths and weaknesses.</p>
 big-change-up-front, punctuated cadence model that combines Kanban,
 quarterly <a href="">release trains</a>, XP and Scrum. SAFe is a good starting point
 for more conservative organizations because it’s designed to enable
-agility while keeping component silos intact. Nevertheless it shys away
+agility while keeping component silos intact. But this means it shys away
 from feature teams and continuous delivery, and while it targets scale it
-ignores the key enabler of scale-symmetry.</p>
+neglects the key enabler of scale-symmetry.</p>
   </li>
   <li>
     <p><a href="">LeSS</a>/Agile Path/Enterprise Scrum, etc., are alternatives more closely
@@ -125,35 +125,33 @@ delivery process stable, predictable and flexible. </p>
 and of people. The number of combinations of a set grows very rapidly; a set
 of just 10 things has over 3.6 million distinct combinations. </p>
 
-<p>Yet golfers are untroubled by vast fields of grass blades.  They use just a
-few distinctions to control for the combined blade behaviours: “the green”,
-“the fairway”, “the rough”, and so on Golfers never even think about
-combinations of individual grass blades. </p>
+<p>Yet golfers are untroubled by vast combinations of grass blades. They make
+simple distinctions to control for combined behaviours: “the green”, “the
+rough”, and so on. Golfers never think about combinations of the individual
+blades. </p>
 
-<p>Agile already uses this when it 
-* maps requirements to distinct features and stories
+<p>Agile uses this approach when it 
 * refactors code into distinct (<a href="">DRY</a>) classes
-* automates integration to distinguish good behaviours from bad
+* automates testing to minimize combinations of ambient defects
 * combines people into distinct feature teams to limit interdependencies.  </p>
 
-<p>The Spotify / Iroquois patterns also do it by limiting the scope of
-conversations to small teams with specific concerns.  And XSCALE takes the
-same approach. The principle is:</p>
+<p>The Spotify / Iroquois patterns also do it by factoring combinations of
+conversations to small meetings with specific concerns.  The principle is:</p>
 
 <p><strong>Iterate distinctions to control combinations</strong></p>
 
-<p>A commonplace scaling challenge is the problem of determining which
-combinations of business alternatives have most value. All a small project
-needs to do so is a good product owner. When you’ve got portfolios of
-programs of projects, however, it gets hard.  Agile works as a hill-climbing
-algorithm, continously integrating little stories into a whole, and it’s
-actually quite happy to climb a molehill of value when there’s an Everest of
-it right next door.  </p>
+<p>XSCALE applies this to the challenge of determining which combinations of
+business alternatives have most value. Small projects look to a good product
+owner for this, but when you’ve got portfolios of programs of projects, it
+gets hard. As agile works as a hill-climbing algorithm, continously
+integrating little stories into a whole, it’s actually quite happy to climb a
+molehill of value when there’s an Everest of it right next door.  </p>
 
-<p>To control this XSCALE uses the Behavioral Product Planning consensus game,
-which sorts breadth-first distinctions about business alternatives into
-easily optimized piles. The trick is simply to iterate the game to
-make decisions about alternatives at finer and finer scales. </p>
+<p>To control this combinatorial space XSCALE uses the Behavioral Product
+Planning games, which sort breadth-first distinctions about business
+alternatives into easily optimized piles. BPP iterates distinctions
+breadth-first to assure consistent decisions about alternatives at all
+scales. </p>
 
 <h3 id="continuous">Continuous</h3>
 
@@ -195,7 +193,7 @@ consensus games like planning poker and retrospectives, and it wouldn’t be
 reasonable to call a process Agile at any scale if it doesn’t empower
 consensus through games. So the XSCALE principle is:</p>
 
-<p><strong>Use consensus games to reach decisions and to delimit accountabilities.</strong></p>
+<p><strong>Use consensus to make decisions and to delimit accountabilities.</strong></p>
 
 <p>In theory, individual accountability should be applied when the business
 cost of delaying a decision is greater than the social cost of failing to
@@ -305,12 +303,12 @@ their investing some part of their revenue to fund it. This is not to
 disempower executives, but to assure that the entire enterprise pivots
 collaboratively to improve ROI.</p>
 
-<p>Therefore, while we describe the following patterns as “Enterprise
-Practices”, this doesn’t mean they’re only performed in the stratosphere.
-The same patterns are employed by squads, streams, and the enterprise
-council to distinguish their available courses of action breadth-first,
-prioritise these in terms of net ROI, and reconcile them with their
-avaialble funding levels. </p>
+<p>Therefore, while we describe these patterns as “Enterprise Practices”, this
+doesn’t mean they’re only performed in the stratosphere.  The same patterns
+are employed by squads, streams, and the enterprise council to optimize their
+courses of action, and reconcile them with available funding. As a pattern
+language based on and generating BDD we also refer to them collectively as
+“Behavioral Product Planning”.</p>
 
 <h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
 
@@ -452,73 +450,54 @@ that’s crticially important to business function, and then one roughly in
 between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
 game runs as above.</p>
 
-<h4 id="behavioral-product-planning">Behavioral Product Planning</h4>
+<h4 id="roicod">RoI+CoD</h4>
 
-<p>Behavioral Product Planning (BPP) is a simple consensus game to prioritise
-the BFR in terms of ROI + COD. This is both easier and leaner than the SAFe
+<p>RoI+CoD (which we pronounce “Royal Cod”) is a simple consensus game to
+prioritise the BFR. It is both easier and more accurate than the SAFe
 “Weighted Shortest Job First” (WSJF) equivalent for reasons described below.</p>
 
-<p>BPP uses Bingo to assign values to the BFR features in terms of:</p>
+<p>RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
+of:</p>
 
 <ul>
   <li>effort in feature points</li>
   <li>relative business value</li>
 </ul>
 
-<p>Technical team members - developers, architects, designers and testers -
-play the first bingo game. Product owners and stakeholders are present to
+<p>Technical team members - developers, architects, designers and testers - play
+the first bingo game with Product Owner and stakeholders in the room to
 answer questions and also to question any estimate they feel is too large or
 too small. </p>
 
-<p>The second bingo game reverses the rules. Now it’s business stakeholders,
-SMEs and the product owner who work together to estimate business value
-while technical team members answer questions. </p>
+<p>The second bingo game reverses the roles. Now it’s business stakeholders,
+SMEs and the PO who work together to estimate business value while technical
+team members answer questions. </p>
 
-<p>Only technical team members make effort estimates, and only business team
-members make business value estimates. Once each feature obtains both
-numbers, BPP prioritisation involves three steps:</p>
+<p>Only technical team members are qualified to make effort estimates, and only
+business team members to make business value estimates. Once each feature
+obtains both estimates, RoI+CoD prioritisation involves three steps:</p>
 
 <ul>
   <li>Divide the business value number, which represents expected return, by
 effort, which represents the required investment to obtain the return.
-This yields relative return on investment, which we call ROI.</li>
-  <li>List features vertically in order of decreasing ROI. Let the Product Owner
-increase the priority of any business feature they feel has a Cost of
-Delay that warrants this.</li>
+This yields relative return on investment - RoI.</li>
+  <li>List features vertically in order of decreasing RoI. Let the Product Owner
+increase the priority of any business feature if they feel has a Cost of
+Delay (CoD) that warrants this.</li>
   <li>Once the PO is content with the prioritisation of business features, let
 technical team members increase the priority of any technical feature they
-feel has a CoD that warrants this. In order to minimize the overall cost
-of maintenance, a technical feature should have a priority no more than
-one rank higher than the highest prioity feature that depends upon it.</li>
+feel has a CoD that warrants this. </li>
 </ul>
 
-<p>Once these adjustments have been made, record the relative priorities of the
-features to prepare them for Roadmap Refactoring, which determines how to
-best fit them given funding constraints and MVP per objective. </p>
+<p>In order to minimize the overall cost of maintenance, a technical feature
+should have a priority no more than one rank higher than the highest prioity
+feature that depends upon it.</p>
 
-<h4 id="bpp-uncertainty">BPP Uncertainty</h4>
+<p>Once the CoD adjustments have been made, record the relative priorities of
+the features to prepare them for Roadmap Refactoring, which will determine
+how to best fit them given funding constraints and MVP per business objective. </p>
 
-<p>Uncertainty can lead technical team members to refuse to estimate a feature.
-In this case they must clearly describe the ambiguities or inconsistencies
-they would need resolved by the Product Owner in order to produce an
-estimate. If the product owner can’t resolve the entire problem, and part of
-the feature is estimable but another part is not:</p>
-
-<ul>
-  <li>the feature is split into two, </li>
-  <li>the estimable part is estimated</li>
-  <li>a new technical feature is created to represent the work of resolving the
-uncertainty via <a href="">spikes</a> or a <a href="">set-based design</a> process.</li>
-  <li>estimating the inestimable feature is deferred until the technical feature
-it depends upon is completed.</li>
-</ul>
-
-<p>If a large number of features are inestimable it’s usually best to defer this
-bingo session until the team has had time to work with architects and
-designers to nail dependencies down a bit better, or analysts have sufficient
-time to resolve unsolved business questions.</p>
-
-<h4 id="bpp-vs-wsjf">BPP vs WSJF</h4>
+<h4 id="roicod-vs-wsjf">RoI+CoD vs WSJF</h4>
 
 <p>Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
 Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
@@ -549,6 +528,28 @@ than adding in CoD as if it were linear, which it’s not, it’s easy for team
 members to adjust an ROI prioritization by discrete CoD. BPP also accounts
 for technical CoD of technical features. The result is quick, easy and
 completely unambiguous.</p>
+
+<h4 id="bpp-uncertainty">BPP Uncertainty</h4>
+
+<p>Uncertainty can lead technical team members to refuse to estimate a feature.
+In this case they must clearly describe the ambiguities or inconsistencies
+they would need resolved by the Product Owner in order to produce an
+estimate. If the product owner can’t resolve the entire problem, and part of
+the feature is estimable but another part is not:</p>
+
+<ul>
+  <li>the feature is split into two, </li>
+  <li>the estimable part is estimated</li>
+  <li>a new technical feature is created to represent the work of resolving the
+uncertainty via <a href="">spikes</a> or a <a href="">set-based design</a> process.</li>
+  <li>estimating the inestimable feature is deferred until the technical feature
+it depends upon is completed.</li>
+</ul>
+
+<p>If a large number of features are inestimable it’s usually best to defer this
+bingo session until the team has had time to work with architects and
+designers to nail dependencies down a bit better, or analysts have sufficient
+time to resolve unsolved business questions.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 
@@ -597,8 +598,6 @@ stream backlog or whenever the PO calls for it. Because it’s such a quick
 game it’s also possible to play in a “what-if” mode to evaluate alternative
 product plans to project responses to various changes in market conditions.</p>
 
-<h4 id="enterprise-council">Enterprise Council</h4>
-
 <h3 id="stream-practices">Stream Practices</h3>
 
 <p>By a Stream we mean a Spotify-structured tribe that self-organizes around
@@ -623,10 +622,6 @@ certain amount of cash.</p>
 <h4 id="adaptation-kanban">Adaptation Kanban</h4>
 
 <p><img src="images/stream-kanban.png"></p>
-
-<h4 id="stream-council">Stream Council</h4>
-
-<h4 id="stream-funding-cycle">Stream Funding cycle</h4>
 
 <h3 id="team-practices">Team Practices</h3>
 
@@ -684,6 +679,8 @@ and deployed features.</p>
   </li>
 </ul>
 
+<h3 id="continuous-adaptation">Continuous Adaptation</h3>
+
 <h4 id="chapter-and-squad-meetings">Chapter and Squad meetings</h4>
 
 <ul>
@@ -712,6 +709,12 @@ Awareness, Architecture, Adoption, Acceleration and Acceptance. This kanban
 rolls up to inform the Stream Council’s Adaptation Kanban. </p>
   </li>
 </ul>
+
+<h4 id="stream-council">Stream Council</h4>
+
+<h4 id="enterprise-council">Enterprise Council</h4>
+
+<h4 id="stream-funding-cycle">Stream Funding cycle</h4>
 
 ]]></content>
   </entry>

@@ -4,10 +4,10 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T18:54:35+10:00</updated>
+  <updated>2014-05-05T19:06:49+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
-    <name><![CDATA[A:TNG]]></name>
+    <name><![CDATA[Peter Merel]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -26,7 +26,7 @@ ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-<p><strong>[This post is currently in first draft - don’t take it seriously yet. I
+<p><strong>[This post is currently in draft - don’t take it too seriously yet. I
 hope to finish it today but welcome feedback both from my TNG compadres and
 anyone else who happens by ….]</strong></p>
 
@@ -746,11 +746,10 @@ and deployed features.</p>
 
 <p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE starts by constructing
 a “Minimum Viable Agile Capability” - a “spike” squad within a single stream
-that forms a model for all those to come. So it’s important to staff this
-first squad with the best and most progressive folk possible. The spike
-squad will integrate and prove all of the tools, skills, relationships and
-business processes it needs to deliver and deploy whole tested, integrated,
-well-factored features. </p>
+that forms a model for all those to come.  The spike squad prototypes and
+proves its tools, relationships and processes integrate as and efficient end
+to end SDLC by delivering a stream of small concrete features with real
+business value.</p>
 
 <p>This is the familiar Agile <a href="">steel thread</a> pattern applied to organizing an
 Agile capability. To avoid pain at scale, Before iterating the growth of
@@ -830,10 +829,13 @@ responsible for Assessment and Analysis,</li>
 responsible for Alignment and Appropriation</li>
 </ul>
 
-<h4 id="enterprise-council">Enterprise Council</h4>
+<p>Each council uses a kanban to track the progress of features drawn the
+backlog resulting from applying BPP to its roadmap with cumulative flow
+diagrams used to represent progress of the transformation over time.</p>
 
 <h4 id="stream-funding-cycle">Stream Funding cycle</h4>
 
+<p>[text almost done …]</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T19:06:49+10:00</updated>
+  <updated>2014-05-05T19:08:59+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -742,7 +742,7 @@ and deployed features.</p>
   </li>
 </ul>
 
-<h3 id="continuous-adaptation">Continuous Adaptation</h3>
+<h3 id="enterprise-practices-1">Enterprise Practices</h3>
 
 <p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE starts by constructing
 a “Minimum Viable Agile Capability” - a “spike” squad within a single stream

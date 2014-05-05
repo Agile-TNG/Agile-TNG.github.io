@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T21:31:43+10:00</updated>
+  <updated>2014-05-05T22:27:30+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -815,23 +815,24 @@ one.</p>
 specific purposes distinguished by treaties in story-normal form.  Councils
 and Chapters adapt and expand the respective treaties by means of
 Breadth-First Roadmaps that detail how they will organize themselves to
-satisfy the terms of the treaty. Then the BPP patterns are applied to
-estimate and prioritize these roadmaps using themes drawn from the Seven 
-Samurai patterns to reflect the respective accountabilities and
+satisfy the terms of the treaty that defines them. Then the BPP patterns are
+applied to estimate and prioritize these roadmaps using themes drawn from
+the Seven Samurai patterns to reflect respective accountabilities and
 responsibilities at each level:</p>
 
 <ul>
-  <li>Chapters are accountable for Adoption and Acceleration, responsible for
-Awareness and Architecture.</li>
+  <li>Chapters are accountable for the Adoption and Acceleration of practice
+patterns, responsible for Awareness and Architecture for them.</li>
   <li>Stream Councils are accountable for Awareness and Architecture,
-responsible for Assessment and Analysis,</li>
-  <li>The Enterprise Council is Accountable for Assessment and Analysis,
-responsible for Alignment and Appropriation</li>
+responsible for Assessment of their current state and Analysis of change
+steps,</li>
+  <li>The Enterprise Council is accountable for Assessment and Analysis,
+responsible for cross-stream Alignment and Appropriation per stream.</li>
 </ul>
 
-<p>Each council uses a kanban to track the progress of features drawn the
-backlog resulting from applying BPP to its roadmap with cumulative flow
-diagrams used to represent progress of the transformation over time.</p>
+<p>Each council uses a kanban to track the progress of features drawn from a
+backlog it generates by applying BPP to its roadmap. Cumulative flow
+diagrams are used to represent progress as the whole adapts over time.</p>
 
 <h4 id="stream-funding-cycle">Stream Funding cycle</h4>
 

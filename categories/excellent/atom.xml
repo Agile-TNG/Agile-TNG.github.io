@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eXcellent | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/excellent/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T13:24:50+10:00</updated>
+  <updated>2014-05-05T13:44:25+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -681,10 +681,6 @@ cycle time, latency, WIP, etc. This provides unambiguous and immediately
 actionable identification of wastes, bottlenecks, irregularities and
 opportunities, as well as their relative magnitudes. </p>
 
-<h4 id="adaptation-kanban">Adaptation Kanban</h4>
-
-<p><img src="images/stream-kanban.png"></p>
-
 <h3 id="team-practices">Team Practices</h3>
 
 <h4 id="devops--cd--gitflow">DevOps + CD + GitFlow</h4>
@@ -742,6 +738,8 @@ and deployed features.</p>
 </ul>
 
 <h3 id="continuous-adaptation">Continuous Adaptation</h3>
+
+<p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE …</p>
 
 <h4 id="chapter-and-squad-meetings">Chapter and Squad meetings</h4>
 

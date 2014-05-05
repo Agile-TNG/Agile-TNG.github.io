@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T13:44:25+10:00</updated>
+  <updated>2014-05-05T15:00:08+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -739,38 +739,77 @@ and deployed features.</p>
 
 <h3 id="continuous-adaptation">Continuous Adaptation</h3>
 
-<p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE …</p>
+<p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE starts by constructing
+a “Minimum Viable Agile Capability” - a “spike” squad within a single stream
+that forms a model for all those to come. So it’s important to staff this
+first squad with the best and most progressive folk possible. The spike
+squad will integrate and prove all of the tools, skills, relationships and
+business processes it needs to deliver and deploy whole tested, integrated,
+well-factored features. </p>
 
-<h4 id="chapter-and-squad-meetings">Chapter and Squad meetings</h4>
+<p>This is the familiar Agile <a href="">steel thread</a> pattern applied to organizing an
+Agile capability. To avoid pain at scale, Before iterating the growth of
+further squads all the technical and organizational fundamentals must be
+reliably integrated.</p>
+
+<p>Technically, assembling this enterprise steel thread is the direct
+responsibility of the spike squad. To continuously integrate this squad with
+the pre-existing organization, <a href="">Seven Samurai</a> assembles a Stream Council
+from the lead doers - not deciders - from each of the organization’s
+pre-existing component silos.  As delivery squads multiply, these leads 
+also function as chapter representatives on the Stream Council.</p>
+
+<p>Meanwhile progressive senior managers form the initial Enterprise Council
+with support from coaches again per the Samurai patterns. As XSCALE is
+adopted by more streams, their managers will take part in their respective
+councils and thereby become stream reps on the Enterprise Council. This
+assures smooth, consistent, iterative rollout of XSCALE across the whole
+organization.</p>
+
+<h4 id="chapter-squad-guild-and-council-meetings">Chapter, Squad, Guild and Council meetings</h4>
+
+<p>As XSCALE rolls out it becomes advantageous to synchronize council meetings
+so that they don’t cause calendar-stress. XSCALE leverages the weekly cycle
+to achieve this:</p>
 
 <ul>
   <li>
     <p>All of a stream’s chapters meet simultaneously every Friday lunch so that
-squad activites are minimally interrupted. Chapters may also meet at other
-times with the permission of their Stream Council.</p>
+squad activities aren’t interrupted. Chapters may also meet at other
+times coordinating via their Stream Council.</p>
   </li>
   <li>
-    <p>At the Friday lunch meeting a Chapter selects its representative for the
+    <p>At the Friday lunch meeting a Chapter selects its representatives for the
 Stream Council, which is conducted immediately afterward while squads are
-conducting their weekly reviews.</p>
+conducting their weekly reviews. To avoid waste, time and location for
+reviews, retros and council meetings should be pre-determined and
+synchronized.</p>
   </li>
   <li>
     <p>Squad retrospectives are held immediately following the Stream Council
 meeting so that any treaties proposed by Council can be immediately and
 unanimously ratified. If ratification of a treaty is not achieved, a further
-Conuncil meeting may be held immediately after the squad retros to sort the
-matter out. If polarization occurs here then the Stream lead may force
-temporary (1 week) adoption of a treaty to enable discussions to continue.
-See more details on this below.</p>
+Council meeting may be held immediately after the squad retros to sort the
+matter out. If polarization occurs here then the Stream Lead may force
+temporary (1 week) adoption of a treaty while offline discussions resolve
+it at chapter level.</p>
   </li>
   <li>
     <p>Chapters track treaties in an Adaptation Kanban with work states of
-Awareness, Architecture, Adoption, Acceleration and Acceptance. This kanban
+Awareness, Architecture, Adoption, Acceleration and Done. This kanban
 rolls up to inform the Stream Council’s Adaptation Kanban. </p>
   </li>
+  <li>
+    <p>The Stream Council’s Adaptation Kanban reflects work states of Assessment,
+Analysis, Awareness, Architecture and Done. Awareness and Architecture
+roll up from Chapter Kanbans.</p>
+  </li>
+  <li>
+    <p>The Stream council’s Adaptation Kanban reflects work states of Assessment,
+Analysis, Awareness, Architecture and Done. Awareness and Architecture
+roll up from Chapter Kanbans.</p>
+  </li>
 </ul>
-
-<h4 id="stream-council">Stream Council</h4>
 
 <h4 id="enterprise-council">Enterprise Council</h4>
 

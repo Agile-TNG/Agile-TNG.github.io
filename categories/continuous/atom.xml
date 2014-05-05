@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-05T10:55:45+10:00</updated>
+  <updated>2014-05-05T12:30:55+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[A:TNG]]></name>
@@ -308,7 +308,34 @@ doesn’t mean they’re only performed in the stratosphere.  The same patterns
 are employed by squads, streams, and the enterprise council to optimize their
 courses of action, and reconcile them with available funding. As a pattern
 language based on and generating BDD we also refer to them collectively as
-“Behavioral Product Planning”.</p>
+Behavioral Product Planning or “BPP”.</p>
+
+<h4 id="feature-points-story-points-and-normalized-story-points">Feature Points, Story Points and Normalized Story Points</h4>
+
+<p>In BPP we change the unit of estimation from story points to feature points.
+Where story points represent only the relative effort required to deliver a
+story, feature points estimate increments of funding necesssary to deploy a
+whole feature. Because the number of story points that will fit into a
+funding increment depends on team velocity at the time of delivery, there’s
+no linear mapping between feature points and story points, and no need to
+attempt to normalize story points across teams.</p>
+
+<p>Instead the Backlog Bingo practice gives feature points an empirical basis in
+relation to previously delivered features. XSCALE uses these feature points
+both in establishing a reasonable level of funding per business objective,
+and as a direct input to the “RoI+CoD” prioritization method.  Where it is
+necessary to represent both feature points and story points on a stream flow
+diagram, we simply monetize story points using the formula:</p>
+
+<p>Monetized Story Points = Story Points / Feature Velocity</p>
+
+<p>Where Feature Velocity is the squad’s weekly throughput in story points per
+feature point. If, for example, a squad costs its stream 10 feature points
+per week, and delivers 25 story points in that week, its velocity is 2.5
+SP/FP. This is functionally equivalent to the traditional Agile measure of
+project velocity, but because it’s normalized to feature points it becomes
+trivial to do the arithmetic projecting the various velocities of multiple
+squads in a stream.</p>
 
 <h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
 
@@ -398,17 +425,6 @@ to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
 to make a method of determining the funding required to deliver a set of
 products and services. </p>
 
-<p>It does this by changing the unit of estimation from story points to <strong>feature
-points</strong>. Where story points represent only the relative effort required to
-deliver a story, feature points estimate increments of funding necesssary to
-deploy a whole feature. Because the number of story points that will fit into
-a funding increment depends on team velocity at the time of delivery, there’s
-no need to dream up a linear mapping between feature points and story points.</p>
-
-<p>Nevertheless, as Backlog Bingo gives feature points an empirical basis in
-previously delivered features, feature points are very effective in
-establishing a reasonable level of funding per feature. </p>
-
 <p>Backlog Bingo is very easy to play:</p>
 
 <ul>
@@ -450,10 +466,10 @@ that’s crticially important to business function, and then one roughly in
 between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
 game runs as above.</p>
 
-<h4 id="roicod">RoI+CoD</h4>
+<h4 id="royal-cod-prioritization">Royal Cod Prioritization</h4>
 
-<p>RoI+CoD (which we pronounce “Royal Cod”) is a simple consensus game to
-prioritise the BFR. It is both easier and more accurate than the SAFe
+<p>RoI+CoD (which we affectionately call “Royal Cod”) is a simple consensus game
+to prioritise the BFR. It is both easier and more accurate than the SAFe
 “Weighted Shortest Job First” (WSJF) equivalent for reasons described below.</p>
 
 <p>RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
@@ -497,7 +513,7 @@ feature that depends upon it.</p>
 the features to prepare them for Roadmap Refactoring, which will determine
 how to best fit them given funding constraints and MVP per business objective. </p>
 
-<h4 id="roicod-vs-wsjf">RoI+CoD vs WSJF</h4>
+<h4 id="royal-cod-vs-wsjf">Royal Cod vs WSJF</h4>
 
 <p>Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
 Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
@@ -602,22 +618,44 @@ plans to evaluate possible responses to changes in market conditions.</p>
 
 <p>By a Stream we mean a Spotify-structured tribe that self-organizes around
 standardized Delivery and Adaptation Kanbans and an <a href="">Iroquois Council</a> made
-up of rotating Chapter representatives, </p>
+up of rotating Chapter representatives, We call this a stream rather than a
+tribe to emphasize the responsibility and instrumentation of the tribe as
+a Lean value stream.</p>
 
-<h4 id="stream-kanban">Stream Kanban</h4>
+<h4 id="stream-flow-diagram">Stream Flow Diagram</h4>
 
 <p><img src="images/stream-cf.png"></p>
 
 <p>Every Stream is intended to generate a return. If the Stream is purely
-internal then its return is regarded as equal to its funding. An external
-facing Stream, however, may begin with an investment of funds by the
-enterprise intended to kickstart sufficient external revenue that it becomes
-self-funding and returns more than the funding it requires.</p>
+internal then its return may simply be defined as equal to its funding. An
+external facing Stream generally begins with an investment of funds by the
+enterprise intended to kickstart sufficient revenue that it is more than
+self-funding.</p>
 
-<p>The return and the funding for a Stream can be represented on the same
-cumulative flow diagram as its features because the features are sized, by
-means of Business Bingo, in Feature Points that are each a multiple of a
-certain amount of cash.</p>
+<p>XSCALE represents the return and the funding for a Stream in terms of Feature
+Points on a cumulative flow diagram. Because this diagram takes a specific
+form in XSCALE we call it a “Stream Flow Diagram”. Note that where we
+refer to story points here we actually mean Monetized Story Points derived
+from the formula given in the Feature Points section above. The layers of the
+Stream Flow diagram represent, from bottom to top:</p>
+
+<ul>
+  <li>deployed features</li>
+  <li>integrated but undeployed stories </li>
+  <li>implemented but unintegrated stories</li>
+  <li>estimated but unimplemented stories</li>
+  <li>features with stories covered by BDD scenarios</li>
+  <li>BPP best market fit of features to funding </li>
+  <li>squad/stream funding limit over time</li>
+  <li>stream revenue over time</li>
+</ul>
+
+<p>Representing all of these flows on the one diagram per squad, then rolling
+these up per stream, and then rolling the streams up to yield a stream flow
+diagram for the enterprise as a whole is extremely enlightening. It provides
+a clear unambiguous and actionable vision of exactly where improvement
+challenges and opportunities exist, and it is directly amenable to 
+traditional Lean analysis of cycle time, latency, WIP, etc.</p>
 
 <h4 id="adaptation-kanban">Adaptation Kanban</h4>
 

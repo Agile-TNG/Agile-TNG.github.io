@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-06T10:20:26+10:00</updated>
+  <updated>2014-05-06T11:16:25+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -135,8 +135,8 @@ blades. </p>
 * automates testing to minimize combinations of ambient defects
 * combines people into distinct feature teams to limit interdependencies.  </p>
 
-<p>The Spotify / Iroquois patterns also do it by factoring combinations of
-conversations to small meetings with specific concerns.  The principle is:</p>
+<p>The Spotify patterns also do it by factoring combinations of conversations
+to small meetings with specific concerns.  The principle is:</p>
 
 <p><strong>Iterate distinctions to control combinations</strong></p>
 
@@ -249,44 +249,45 @@ fragile. This is an artefact of the <a href="">anthropocene era</a> where biolog
 ecosystems are undergoing catastrophic change. </p>
 
 <p>The prime characteristic of an ecosystem, however, is not fragility, but
-agility - that it embraces cycles of change to maintain stable behaviours
+agility - that it embraces cycles of change to maintain its productivity
 over time.  A living ecosystem differs from a zoo in that it has evolved to
-continuously adapt to cycles of change in the behaviour of its constituent
-organisms.  </p>
+continuously adapt to changes in the populations and behaviours of its
+constituent organisms.  </p>
 
-<p>The biological principles are sex and death.  Sex continously generating
-experimental variations on behaviour, and death removing variations that
-don’t efficiently adapt to the whole. In XSCALE we can think of Lean
-pivoting and set-based design serving the function of sex, and Agile
+<p>The biological principles are generation and death. Generation continously
+produces experimental variations on behaviour, and death removing variations
+that don’t efficiently adapt to the whole. In XSCALE we think of Lean
+pivoting and set-based design serving the function of generation, and Agile
 refactoring serving that of death, but the principle of the ecosystem
 remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
-<p>This isn’t just about products and their features, but the structure and
-practices of teams in streams and streams in the enterprise. The ecosystem
-principle turns the Taylorist conceit of all-wise managers and serf-like
-workers on its head, leveraging the Agile function of management as
-<a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
+<p>This isn’t just about products and their features, but also the structure
+and practices of teams in streams and streams in the enterprise. This
+ecosystem principle turns the Taylorist conceit of all-wise managers and
+serf-like workers on its head, leveraging the Agile function of management
+as <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
 
 <p>In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
-hierarchy of Iroquois councils: </p>
+hierarchy of councils: </p>
 
 <ul>
   <li>chapters as groupings of people with common capabilities across squads </li>
-  <li>stream councils composed of chapter representatives</li>
-  <li>an enterprise council composed of stream council representatives. </li>
+  <li>stream councils steered by chapter representatives</li>
+  <li>an enterprise council steered by stream council representatives. </li>
 </ul>
 
-<p>At each level there are specific accountabilities defined by the teams.
-Each squad in a stream has distinct roles for agile coach and product owner.
-Each stream has a lead product owner and a lead coach. And the enterprise
-has its executive officers. </p>
+<p>At each level there are also some individual accountabilities defined by
+these teams.  Each squad in a stream has distinct roles for agile coach and
+product owner.  Each stream has a product manager and a stream manager. And
+the enterprise has its executive officers. </p>
 
-<p>The accountabilities of these roles are defined by treaty in their
-respective councils. The accountability of the enterprise as a whole, and
-each of its streams, and each of their chapters is dynamically defined by a
-treaty in story-normal form. This story is expanded using the
+<p>The accountabilities of these individual roles are defined by treaties
+within their respective councils. Likewise the accountabilities of the
+enterprise as a whole, and each of its streams, and each of their chapters,
+are all respectively defined by treaties in story-normal form. Councils each
+use this statement of their accountability to scope their planning using the
 <strong>Breadth-First Roadmap</strong> method described below.</p>
 
 <h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
@@ -295,25 +296,25 @@ treaty in story-normal form. This story is expanded using the
 you’ll want to follow its practices very closely to begin with - because this
 is how it “turns all the knobs to ten”.  </p>
 
-<p>Because XSCALE isn’t a big-change-up-front framework, as it grows and you gain
-experience the various councils will collaboratively vary its practices to
-adapt them to the whole. Nevertheless, the following provides a well proven
-starting point.</p>
+<p>Because XSCALE isn’t a big-change-up-front framework, as it grows and the
+enterprise gains experience with its practices the various councils will
+collaboratively vary and augment them. Nevertheless, the following provides
+a state of the art starting point.</p>
 
 <h3 id="enterprise-practices">Enterprise Practices</h3>
 
 <p>XSCALE adopts the <a href="">Beyond Budgeting</a> premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
 their investing some part of their revenue to fund it. This is not to
-disempower executives, but to assure that the entire enterprise pivots
-collaboratively to improve ROI.</p>
+disempower executives, but to assure that the enterprise pivots coherently
+and collaboratively to improve its overall ROI.</p>
 
-<p>Therefore, while we describe these patterns as “Enterprise Practices”, this
-doesn’t mean they’re only performed in the stratosphere.  The same patterns
-are employed by squads, streams, and the enterprise council to optimize their
-courses of action, and reconcile them with available funding. As a pattern
-language based on and generating BDD we also refer to them collectively as
-Behavioral Product Planning or “BPP”.</p>
+<p>Therefore, while we describe the patterns in this section as “Enterprise
+Practices”, this doesn’t mean they’re only performed in the stratosphere.
+Following the principle of Scale-Symmetry these same patterns used by
+streams and squads to optimize their ROI and reconcile same with available
+funding.  As a pattern language based on and generating BDD we also refer to
+these practices collectively as Behavioral Product Planning or “BPP”.</p>
 
 <h4 id="feature-points-story-points-and-normalized-story-points">Feature Points, Story Points and Normalized Story Points</h4>
 
@@ -322,25 +323,29 @@ Where story points represent only the relative effort required to deliver a
 story, feature points estimate increments of funding necesssary to deploy a
 whole feature. Because the number of story points that will fit into a
 funding increment depends on team velocity at the time of delivery, there’s
-no linear mapping between feature points and story points, and no need to
-attempt to normalize story points across teams.</p>
+no linear mapping between feature points and story points. </p>
 
-<p>Instead the Backlog Bingo practice gives feature points an empirical basis in
-relation to previously delivered features. XSCALE uses these feature points
-both in establishing a reasonable level of funding per business objective,
-and as a direct input to the “RoI+CoD” prioritization method.  Where it is
-necessary to represent both feature points and story points on a stream flow
-diagram, we simply monetize story points using the formula:</p>
+<p>This removes the need to attempt to normalize story points across teams.
+Instead the Backlog Bingo practice gives feature points an empirical basis
+in relation to previously delivered features. XSCALE uses these feature
+points both in establishing a reasonable level of funding per business
+objective, and as a direct input to the “Royal Cod” prioritization method.
+Where it is necessary to represent both feature points and story points on a
+stream flow diagram, we simply monetize story points using the formula:</p>
 
 <p>Monetized Story Points = Story Points / Feature Velocity</p>
 
-<p>Where Feature Velocity is the squad’s weekly throughput in story points per
+<p>Where Feature Velocity is the squad’s current throughput in story points per
 feature point. If, for example, a squad costs its stream 10 feature points
-per week, and delivers 25 story points in that week, its velocity is 2.5
-SP/FP. This is functionally equivalent to the traditional Agile measure of
-project velocity, but because it’s normalized to feature points it becomes
-trivial to do the arithmetic projecting the various velocities of multiple
-squads in a stream.</p>
+per week, and delivers 25 story points in the same week, its velocity is 2.5
+SP/FP. </p>
+
+<p>This is functionally equivalent to the traditional Agile measure of project
+velocity, but because it’s normalized to feature points it makes it easy to
+do the arithmetic projecting the various velocities of multiple squads in a
+stream, which in turn enables the stream to visualize its activities in a
+standardized cumulative flow diagram as described in he Stream Practices
+section below.</p>
 
 <h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
 
@@ -520,35 +525,34 @@ how to best fit them given funding constraints and MVP per business objective. <
 
 <h4 id="royal-cod-vs-wsjf">Royal Cod vs WSJF</h4>
 
-<p>Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
-Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
+<p>Why not WSJF? WSJF is defined in SAFe by the formula (Business-or-User Value
++ Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
 there’s no clear distinction between business value, risk reduction and
 opportunity enablement, nor between criticality and Cost of Delay, WSJF
 simplifies to (Business Value / Duration) + (Criticality / Duration).</p>
 
 <p>There are several problems with this:
 0. It doesn’t makes sense to divide criticality by duration. Work doesn’t
-   become less critical just because it takes longer. This trade-off must be
-   made intelligently, not numerically.
--  Without clear relative distinctions, which aren’t provided by SAFe there’s
-   no way to assure that variables are independent. This distorts relative
+   become less critical just because it takes longer. There is a trade-off
+   but it must be made intelligently, not numerically.
+-  Without clear distinctions, which aren’t provided by SAFe, there’s no way
+   to assure the WSJF variables are independent. This distorts relative
    Business Value in an unpredictable way.
--  By factoring CoD variables and giving them equal weighting WSJF actively
-   prevents trade-off conversations that would reconcile differing
-   assumptions about the features.
+-  By factoring CoD variables and giving them equal weighting, WSJF actively
+   prevents intelligent trade-off conversations that would reconcile
+   differing assumptions about their importance per feature.
 -  WSJF provides no opportunity to account for how combinations of features
    render the individual feature more or less valuable. This is a moving
-   target that requires explicit conversation.
+   target that also calls for intelligent conversation.
 -  WSJF doesn’t account for technical CoD.  Some features may have high CoD
-   because of architectural concerns or business uncertainty. WSJF just
-   leaves that out.</p>
+   because of architectural concerns or ambiguities. WSJF leaves that out.</p>
 
-<p>All of these problems are eliminated by BPP. Once you’ve factored out ROI, it
-becomes easy for team members to determine the remaining CoD.  And rather
-than adding in CoD as if it were linear, which it’s not, it’s easy for team
-members to adjust an ROI prioritization by discrete CoD. BPP also accounts
-for technical CoD of technical features. The result is quick, easy and
-completely unambiguous.</p>
+<p>All of these problems are eliminated by Royal Cod. Once you’ve factored out
+ROI, it becomes easy for team members to agree on the remaining CoD.  And
+rather than adding in CoD as if it were linear, which it’s not, it’s easy
+for team members to adjust an ROI prioritization by discrete CoD per feature
+including technical CoD of technical features. The result is quick, simple and
+unambiguous.</p>
 
 <h4 id="bpp-uncertainty">BPP Uncertainty</h4>
 
@@ -624,10 +628,9 @@ plans to evaluate possible responses to changes in market conditions.</p>
 <h4 id="stream-structure">Stream Structure</h4>
 
 <p>By a Stream we mean a Spotify-structured tribe that self-organizes around
-standardized Delivery and Adaptation Kanbans and an <a href="">Iroquois Council</a> made
-up of rotating Chapter representatives, We call this a stream rather than a
-tribe to emphasize the responsibility and instrumentation of the tribe as
-a Lean value stream.</p>
+standardized Delivery and Adaptation Kanbans and a Council made up of
+rotating Chapter representatives. We call this a stream rather than a tribe
+to emphasize its instrumentation as a Lean value stream.</p>
 
 <p>Because the <a href="http://blog.kevingoldsmith.com/2014/03/14/thoughts-on-emulating-spotifys-matrix-organization-in-other-companies/">Spotify
 model</a>

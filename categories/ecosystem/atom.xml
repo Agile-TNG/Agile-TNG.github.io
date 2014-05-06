@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-06T12:39:01+10:00</updated>
+  <updated>2014-05-06T15:01:03+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -748,34 +748,35 @@ sessions every Monday, and every day starts with a standup meeting.</p>
 <p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE starts by constructing
 a “Minimum Viable Agile Capability” - a “spike” squad within a single stream
 that forms a model for all those to come.  The spike squad prototypes and
-proves its tools, relationships and processes integrate as and efficient end
-to end SDLC by delivering a stream of small concrete features with real
-business value.</p>
+proves that its tools, relationships and processes integrate as an
+efficient end to end SDLC by delivering a stream of small concrete features
+with real business value.</p>
 
-<p>This is the familiar Agile <a href="">steel thread</a> pattern applied to organizing an
-Agile capability. To avoid pain at scale, Before iterating the growth of
-further squads all the technical and organizational fundamentals must be
-reliably integrated.</p>
+<p>In other words this is the familiar Agile <a href="">steel thread</a> pattern applied
+to organizing an Agile capability. It is fundamentally important to avoid
+pain at scale that the spike squad delivers whole end to end features, not
+merely components, so that all the technical and organizational fundamentals
+are reliably integrated.</p>
 
-<p>Technically, assembling this enterprise steel thread is the direct
-responsibility of the spike squad. To continuously integrate this squad with
-the pre-existing organization, <a href="">Seven Samurai</a> assembles a Stream Council
-from the lead doers - not deciders - from each of the organization’s
-pre-existing component silos.  As delivery squads multiply, these leads 
-also function as chapter representatives on the Stream Council.</p>
+<p>To continuously integrate the spike squad with the pre-existing
+organization, <a href="">Seven Samurai</a> assembles the first Stream Council from the
+lead doers - not deciders - from each of the organization’s pre-existing
+component silos.  As delivery squads multiply, these leads naturally
+function as chapter representatives on the Stream Council.</p>
 
-<p>Meanwhile progressive senior managers form the initial Enterprise Council
-with support from coaches again per the Samurai patterns. As XSCALE is
-adopted by more streams, their managers will take part in their respective
-councils and thereby become stream reps on the Enterprise Council. This
-assures smooth, consistent, iterative rollout of XSCALE across the whole
-organization.</p>
+<p>Meanwhile progressive senior managers are enroled into the initial
+Enterprise Council to provide a one-stop reporting and support shop for
+coaches.  As XSCALE is adopted by more streams, their managers will take
+part in their respective councils and thereby may become stream reps on the
+Enterprise Council. As described below this leverages the Scale-Symmetric
+principle to assure consistent, iterative rollout of XSCALE across the
+enterprise.</p>
 
 <h4 id="chapter-squad-guild-and-council-meeting-schedule">Chapter, Squad, Guild and Council Meeting Schedule</h4>
 
 <p>As XSCALE rolls out it becomes advantageous to synchronize council meetings
-so that they don’t cause calendar-stress. XSCALE leverages the weekly cycle
-to achieve this:</p>
+so that they don’t cause calendar-stress. XSCALE leverages the squads’weekly
+cycle to achieve this:</p>
 
 <ul>
   <li>
@@ -792,52 +793,60 @@ synchronized.</p>
   </li>
   <li>
     <p>Squad retrospectives are held immediately following the Stream Council
-meeting so that any treaties proposed by Council can be immediately and
-unanimously ratified. If ratification of a treaty is not achieved, a further
-Council meeting may be held immediately after the squad retros to sort the
-matter out. If polarization occurs here then the Stream Lead may force
-temporary (1 week) adoption of a treaty while offline discussions resolve
-it at chapter level.</p>
+meeting so that any treaties proposed by Council might be immediately and
+unanimously ratified. </p>
   </li>
   <li>
-    <p>Guild meetings are held asynchronously on a frequency determined by their
-respective Stream Councils.</p>
+    <p>Guild meetings are held asynchronously as convenient to the Guild members.</p>
   </li>
   <li>
-    <p>Enterprise Council meetings are held on a frequency determined by the
-Enterprise Council, and asynchronously whenever a Stream Council calls for
-one.</p>
+    <p>Once a month each Stream holds a half-day full Council meeting for all its
+members in accordance with the Iroquois pattern. If ratification of a
+treaty was not achieved unanimously in squad retrospectives, the treaty is
+shelved until concerns can be ironed out at this monthly meeting. The
+Stream Manager may still require squads to temporarily adopt a treaty
+until the monthly Council can sort it out.</p>
+  </li>
+  <li>
+    <p>The Enterprise Council, consisting of Stream and Product Managers from all
+Streams, along with all relevant senior executives, also meets once a
+month to review Stream Flow diagrams and update the enterprise’s business
+canvas and related financial plans. The Enterprise Council may also meet
+asynchronously whenever one of its members calls for this.</p>
   </li>
 </ul>
 
-<h4 id="chapter-and-council-roadmaps">Chapter and Council Roadmaps</h4>
+<h4 id="continuous-adaptation">Continuous Adaptation</h4>
 
 <p>As explained in the Ecosystem section above, Streams and Squads have their
-specific purposes distinguished by treaties in story-normal form.  Councils
-and Chapters adapt and expand the respective treaties by means of
-Breadth-First Roadmaps that detail how they will organize themselves to
-satisfy the terms of the treaty that defines them. Then the BPP patterns are
-applied to estimate and prioritize these roadmaps using themes drawn from
-the Seven Samurai patterns to reflect respective accountabilities and
+specific purposes distinguished by treaties framed in story-normal form.
+Councils and Chapters adapt and expand these respective treaties by means of
+Breadth-First Roadmaps that detail how their Streams and Squads  will
+organize to satisfy the terms of the treaties that define them. </p>
+
+<p>We refer to this process as Continous Adaptation because it’s not a simple
+matter of executing a pre-defined plan.  The BPP patterns are applied to
+estimate and prioritize the respective  roadmap using themes drawn from the
+Seven Samurai patterns to reflect respective accountabilities and
 responsibilities at each level:</p>
 
 <ul>
   <li>Chapters are accountable for the Adoption and Acceleration of practice
-patterns, responsible for Awareness and Architecture for them.</li>
-  <li>Stream Councils are accountable for Awareness and Architecture,
-responsible for Assessment of their current state and Analysis of change
-steps,</li>
-  <li>The Enterprise Council is accountable for Assessment and Analysis,
-responsible for cross-stream Alignment and Appropriation per stream.</li>
+patterns by their squads, and responsible for providing Awareness and
+Architecture sufficient to support them.</li>
+  <li>Stream Councils are accountable for overall Awareness and Architecture,
+and responsible for Stream Flow Assessment of their current state and BPP
+Analysis of their BFR.</li>
+  <li>The Enterprise Council is accountable for Assessment and Analysis across
+all streams, and responsible for cross-stream Alignment and, in
+conjunction with the CFO’s office, Appropriation of funding per stream.</li>
 </ul>
 
-<p>Each council uses a kanban to track the progress of features drawn from a
-backlog it generates by applying BPP to its roadmap. Cumulative flow
-diagrams are used to represent progress as the whole adapts over time.</p>
+<p>Each council keeps an Adaptation Kanban to track the progress of features
+drawn from a backlog it generates by using BPP on its BFR, and cumulative
+flow diagrams - not to be confused with the Stream Flow diagrams - represent
+progress as the whole adapts over time.</p>
 
-<h4 id="stream-funding-cycle">Stream Funding cycle</h4>
-
-<p>[text almost done …]</p>
 ]]></content>
   </entry>
   

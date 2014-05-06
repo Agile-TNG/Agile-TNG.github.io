@@ -169,13 +169,14 @@ alternative. All leave specific practices for product planning, test
 automation and so on for teams to determine ad hoc. </p>
   </li>
   <li>
-    <p><a href="">The Spotify model</a> dispenses with Scrum in favour of a pattern of
-<a href="">Tribes and Guilds</a>, strongly emphasizing bottom-up collaboration and
-team autonomy.  It gives even less prescription on team practices as it
-expects a structure of top-flight autonomous teams is capable of deciding
-for themselves how to evolve the rollout of Agile practices, but it’s
-clearly committed to Continuous Delivery and DevOps with every tribe
-containing a chapter of Ops people dedicated to enabling squads to CD.</p>
+    <p><a href="">The Spotify model</a> dispenses with Scrum of Scrums in favour of a
+pattern of <a href="">Tribes and Guilds</a>, strongly emphasizing bottom-up
+collaboration and team autonomy.  It gives even less prescription on team
+practices as it expects a structure of top-flight autonomous teams is
+capable of deciding for themselves how to evolve the rollout of Agile
+practices, but it’s clearly committed to Continuous Delivery and DevOps
+with every tribe containing a chapter of Ops people dedicated to enabling
+squads to CD.</p>
   </li>
 </ul>
 
@@ -189,8 +190,9 @@ guilds, CD and DevOps.</p>
 enables continuous adaptation using the <a href="">Seven Samurai</a> patterns,
 continuous product planning using Lean Startup, Lean UX and <a href="">BPP/BDD</a>, and
 continuous enterprise self-organization using <a href="">Iroquois councils</a>. Its
-intent is to afford enterprises absolute state of the art Agile benefits
-with the lowest risk of disruption to their existing value streams.</p>
+intent is to afford enterprises an absolute state of the art Agile
+capability with the lowest risk of disruption to their existing value
+streams.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 
@@ -667,13 +669,15 @@ for team members to adjust an ROI prioritization by discrete CoD per feature
 including technical CoD of technical features. The result is quick, simple and
 unambiguous.</p>
 
-<h4 id="bpp-uncertainty">BPP Uncertainty</h4>
+<h4 id="bingo-uncertainty">Bingo Uncertainty</h4>
 
-<p>Uncertainty can lead technical team members to refuse to estimate a feature.
-In this case they must clearly describe the ambiguities or inconsistencies
-they would need resolved by the Product Owner in order to produce an
-estimate. If the product owner can’t resolve the entire problem, and part of
-the feature is estimable but another part is not:</p>
+<p>Uncertainty can lead technical team members to refuse to estimate a feature
+in Backlog Bingo. That’s healthy - you don’t want a meaningless estimate.
+But then they must clearly describe the ambiguities or inconsistencies they
+would need resolved by the Product Owner or technical SME in order to
+produce an estimate. </p>
+
+<p>If and part of the feature is estimable but another part is not:</p>
 
 <ul>
   <li>the feature is split into two, </li>
@@ -684,10 +688,10 @@ uncertainty via <a href="">spikes</a> or a <a href="">set-based design</a> proce
 it depends upon is completed.</li>
 </ul>
 
-<p>If a large number of features are inestimable it’s usually best to defer this
+<p>If a large number of features are inestimable it’s usually best to defer the
 bingo session until the team has had time to work with architects and
-designers to nail dependencies down a bit better, or analysts have sufficient
-time to resolve unsolved business questions.</p>
+designers to nail dependencies down better, or the product owner has
+sufficient time to resolve business questions.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 
@@ -740,16 +744,16 @@ plans to evaluate possible responses to changes in market conditions.</p>
 
 <h4 id="stream-structure">Stream Structure</h4>
 
-<p>By a Stream we mean a Spotify-structured tribe that self-organizes around
-standardized Delivery and Adaptation Kanbans and a Council made up of
-rotating Chapter representatives. We call this a stream rather than a tribe
-to emphasize its instrumentation as a Lean value stream.</p>
+<p>By a Stream we mean a Spotifystructured tribe that self-organizes using a
+BFR and Feature backlog, a Stream Flow diagram, an Adaptation Kanban and a
+Council made up of Chapter representatives. We call this a stream rather
+than a tribe to emphasize its focus on optimizing a Lean value stream.</p>
 
 <p>Because the <a href="http://blog.kevingoldsmith.com/2014/03/14/thoughts-on-emulating-spotifys-matrix-organization-in-other-companies/">Spotify
 model</a>
 supports a
 <a href="http://www.bp.ntu.edu.tw/wp-content/uploads/2011/12/06-Alexander-A-city-is-not-a-tree.pdf">semi-lattice</a>
-rather than hierarchic enterprise structure, it is more natural, more
+rather than hierarchic enterprise structure, it is more open, more
 flexible and more responsive to change than traditional corporate structures.
 As Chris Alexander says, “As the relationships between functions change, so
 the systems which need to overlap in order to receive these relationships
@@ -762,26 +766,23 @@ its goals and has no reason to exist anymore, we can dissolve it without
 punishing a manager”.</p>
 
 <p>XSCALE augments the Spotify Model with a consensus decision-making pattern
-derived from the historical Iroquois Confederacy. The use of this pattern to
-focus and coordinate decision-making in squads, streams and the enterprise as
-as whole is described in the <strong>Continuous Adaptation</strong> section below.</p>
+derived from the historical Iroquois Confederacy. This pattern coordinates
+decision-making across squads, streams and the enterprise as as whole is
+described in the <strong>Continuous Adaptation</strong> section below.</p>
 
 <h4 id="stream-flow-diagram">Stream Flow Diagram</h4>
 
 <p><img src="images/stream-cf.png" /></p>
 
-<p>Every Stream is intended to generate a return. If the Stream is purely
-internal then its return may simply be defined as equal to its funding. An
-external facing Stream generally begins with an investment of funds by the
-enterprise intended to kickstart sufficient revenue that it is more than
-self-funding.</p>
+<p>Every Stream is intended to generate a return. If the Stream serves a purely
+internal function then its return may simply be defined as equal to its
+funding.  XSCALE represents the return and the funding for a Stream in terms
+of Feature Points on a Stream Flow diagram, a special kind of cumulative
+flow diagram.</p>
 
-<p>XSCALE represents the return and the funding for a Stream in terms of Feature
-Points on a cumulative flow diagram. Because this diagram takes a specific
-form in XSCALE we call it a “Stream Flow Diagram”. Note that where we
-refer to story points here we actually mean Monetized Story Points derived
-from the formula given in the Feature Points section above. The layers of the
-Stream Flow diagram represent, from bottom to top:</p>
+<p>Note that where we refer to story points here we mean Monetized Story Points
+derived by the formula given in the Feature Points section above. The layers
+of the Stream Flow diagram represent, from bottom to top:</p>
 
 <ul>
   <li>deployed features</li>
@@ -789,55 +790,54 @@ Stream Flow diagram represent, from bottom to top:</p>
   <li>implemented but unintegrated stories</li>
   <li>estimated but unimplemented stories</li>
   <li>features with stories covered by BDD scenarios</li>
-  <li>BPP best market fit of features to funding </li>
+  <li>BPP best fit of features to funding </li>
   <li>squad/stream funding limit over time</li>
   <li>stream revenue over time</li>
 </ul>
 
-<p>Stream Flow can represent all of these flows on one consistent diagram per
-squad. Because of normalization to feature points these are trivially rolled
-up per stream, and then to the enterprise as a whole. This is extremely
-enlightening because it is directly amenable to traditional Lean analysis of
-cycle time, latency, WIP, etc. This provides unambiguous and immediately
+<p>Stream Flow represents all of these on one consistent diagram per squad.
+Because of normalization to feature points these diagrams are trivially
+rolled up per stream, and then to the enterprise as a whole. This diagam is
+extremely enlightening because it is directly amenable to traditional Lean
+analysis of cycle time, latency, WIP, etc. This provides visual and
 actionable identification of wastes, bottlenecks, irregularities and
 opportunities, as well as their relative magnitudes. </p>
 
-<h3 id="team-practices">Team Practices</h3>
+<h3 id="squad-practices">Squad Practices</h3>
 
 <h4 id="devops--cd--gitflow">DevOps + CD + GitFlow</h4>
 
+<p>Squads are the most concrete embodiment of XSCALE principles:</p>
+
 <ul>
-  <li>
-    <p>Iterations are 1 week long. Features (defined as groups of stories that when
-deployed together will delivery some concrete business value) are assigned
-one per delivery squad. Delivery is automated and features are delivered
-asynchronously by squads as they’re completed.</p>
-  </li>
-  <li>
-    <p>Per the Spotify model, each squad has all the skills and capabilities it
-needs to delivery a feature. Per DevOps, Ops forms a chapter that does not
-gate deployment, but provides delivery squads with automated deployment
-tools and channels that enable them to test and integrate stories and deploy
-features independently.</p>
-  </li>
-  <li>
-    <p>Ops maintains virtualization via Mock Objects, Data Fixtures, BDD step
-implementations and <a href="">Service Virtualization Tools</a> to assure that tests
-cannot interfere with one another and that the behaviour of virtual and
-production-like SIT environments is equivalent under test.</p>
-  </li>
+  <li>Per the eXcellence principle, BDD per feature and per story is fully
+implemented and all CI and SIT tests pass before any feature is deployed.</li>
+  <li>Per the Scale-Symmetry principle, features (defined at this level as
+groups of stories that when deployed together will deliver some concrete
+business value) are each assigned to a distinct squad. </li>
+  <li>Per the Continous principle, sprints are 1 week long. This means all the
+sprint rituals have minimum practical batch size and cycle time.</li>
+  <li>Per the Autonomous principle, squads use the GitFlow pattern so they don’t
+need to wait for another squad in order to integrate, test and deploy.</li>
+  <li>Per the Lean principle a feature is deployed by its squad immediately as
+soon as it passes CI and SIT.</li>
+  <li>Per the Ecosystem principle, Ops forms a chapter that provides consistent
+virtualized test environments and production-like System Integration
+Testing (SIT) environments, and assures the behaviour of these CI and SIT
+environments are equivalent under test. This assures squads collectively
+own their code base andconsistently adapt to one another as it evolves.</li>
 </ul>
 
 <h4 id="lean-ux--bdd--xp">Lean UX + BDD + XP</h4>
 
 <ul>
   <li>
-    <p>Streams use the Lean UX <a href="">Product Team</a> pattern where designers, analysts,
-SMEs, architects and product owners work together to break features down
-into stories to supply a set of delivery squads. To comform with the Spotify
-structure the Product Team takes the form of a chapter. Whenever the Product
-chapter is not meeting its members spend time collaborating with the
-delivery squads.</p>
+    <p>Streams use the Lean UX <a href="">Product Team</a> pattern where designers,
+analysts, SMEs, architects and product owners work together to break
+features down into stories to supply a set of delivery squads. To comform
+with the Spotify structure the Product Team takes the form of a chapter.
+Whenever the Product chapter is not meeting its members spend time
+collaborating with the delivery squads.</p>
   </li>
   <li>
     <p>Stories are produced in <a href="">Gherkin</a> format factored to maintain <a href="">INVEST</a>
@@ -847,8 +847,8 @@ afternoon to estimate its latest batch of stories.</p>
   <li>
     <p>A story with INVEST defects is returned without an estiamte to the Product
 Team for clarification. Otherwise the throughput of the Product Team is
-graphed on the <a href="">Stream CF diagram</a> in terms of new estimated story points
-per week.</p>
+graphed on the <a href="">Stream CF diagram</a> in terms of new estimated story
+points per week.</p>
   </li>
   <li>
     <p>Squads hold reviews and retrospectives every Friday and task breakout

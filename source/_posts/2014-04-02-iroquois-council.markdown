@@ -12,7 +12,7 @@ categories:
 - Spotify
 ---
 
-A scalable consensus game based on the traditional Haudenosaunee protocol of
+A scalable consensus game based on the American indigenous protocol of
 councils and treaties. Iroquois Councils enable communities and enterprises to
 make decisions together without deferring to hierarchies of accountable
 individuals.

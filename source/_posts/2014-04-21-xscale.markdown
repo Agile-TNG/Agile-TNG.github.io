@@ -47,13 +47,14 @@ Tribal model. Each has its strengths and weaknesses.
   alternative. All leave specific practices for product planning, test
   automation and so on for teams to determine ad hoc. 
 
-* [The Spotify model]() dispenses with Scrum in favour of a pattern of
-  [Tribes and Guilds](), strongly emphasizing bottom-up collaboration and
-  team autonomy.  It gives even less prescription on team practices as it
-  expects a structure of top-flight autonomous teams is capable of deciding
-  for themselves how to evolve the rollout of Agile practices, but it's
-  clearly committed to Continuous Delivery and DevOps with every tribe
-  containing a chapter of Ops people dedicated to enabling squads to CD.
+* [The Spotify model]() dispenses with Scrum of Scrums in favour of a
+  pattern of [Tribes and Guilds](), strongly emphasizing bottom-up
+  collaboration and team autonomy.  It gives even less prescription on team
+  practices as it expects a structure of top-flight autonomous teams is
+  capable of deciding for themselves how to evolve the rollout of Agile
+  practices, but it's clearly committed to Continuous Delivery and DevOps
+  with every tribe containing a chapter of Ops people dedicated to enabling
+  squads to CD.
   
 XSCALE naturally bears comparison to these alternatives.  Like SAFe, XSCALE
 standardizes team practices using Scrum-XP. Like Agile Path, XSCALE
@@ -65,8 +66,9 @@ XSCALE is more than a synthesis of the best aspects of these, however. It
 enables continuous adaptation using the [Seven Samurai]() patterns,
 continuous product planning using Lean Startup, Lean UX and [BPP/BDD](), and
 continuous enterprise self-organization using [Iroquois councils](). Its
-intent is to afford enterprises absolute state of the art Agile benefits
-with the lowest risk of disruption to their existing value streams.
+intent is to afford enterprises an absolute state of the art Agile
+capability with the lowest risk of disruption to their existing value
+streams.
 
 ## XSCALE Principles
 
@@ -127,8 +129,8 @@ Agile uses this approach when it
 * automates testing to minimize combinations of ambient defects
 * combines people into distinct feature teams to limit interdependencies.  
 
-The Spotify / Iroquois patterns also do it by factoring combinations of
-conversations to small meetings with specific concerns.  The principle is:
+The Spotify patterns also do it by factoring combinations of conversations
+to small meetings with specific concerns.  The principle is:
 
 **Iterate distinctions to control combinations**
 
@@ -237,42 +239,43 @@ fragile. This is an artefact of the [anthropocene era]() where biological
 ecosystems are undergoing catastrophic change. 
 
 The prime characteristic of an ecosystem, however, is not fragility, but
-agility - that it embraces cycles of change to maintain stable behaviours
+agility - that it embraces cycles of change to maintain its productivity
 over time.  A living ecosystem differs from a zoo in that it has evolved to
-continuously adapt to cycles of change in the behaviour of its constituent
-organisms.  
+continuously adapt to changes in the populations and behaviours of its
+constituent organisms.  
 
-The biological principles are sex and death.  Sex continously generating
-experimental variations on behaviour, and death removing variations that
-don't efficiently adapt to the whole. In XSCALE we can think of Lean
-pivoting and set-based design serving the function of sex, and Agile
+The biological principles are generation and death. Generation continously
+produces experimental variations on behaviour, and death removing variations
+that don't efficiently adapt to the whole. In XSCALE we think of Lean
+pivoting and set-based design serving the function of generation, and Agile
 refactoring serving that of death, but the principle of the ecosystem
 remains the same:
 
 **Continuous adaptation of the whole to its parts**
 
-This isn't just about products and their features, but the structure and
-practices of teams in streams and streams in the enterprise. The ecosystem
-principle turns the Taylorist conceit of all-wise managers and serf-like
-workers on its head, leveraging the Agile function of management as
-[servant-leaders]() to autonomous teams of peer workers.
+This isn't just about products and their features, but also the structure
+and practices of teams in streams and streams in the enterprise. This
+ecosystem principle turns the Taylorist conceit of all-wise managers and
+serf-like workers on its head, leveraging the Agile function of management
+as [servant-leaders]() to autonomous teams of peer workers.
 
 In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
-hierarchy of Iroquois councils: 
+hierarchy of councils: 
 
 * chapters as groupings of people with common capabilities across squads 
-* stream councils composed of chapter representatives
-* an enterprise council composed of stream council representatives. 
+* stream councils steered by chapter representatives
+* an enterprise council steered by stream council representatives. 
 
-At each level there are specific accountabilities defined by the teams.
-Each squad in a stream has distinct roles for agile coach and product owner.
-Each stream has a lead product owner and a lead coach. And the enterprise
-has its executive officers. 
+At each level there are also some individual accountabilities defined by
+these teams.  Each squad in a stream has distinct roles for agile coach and
+product owner.  Each stream has a product manager and a stream manager. And
+the enterprise has its executive officers. 
 
-The accountabilities of these roles are defined by treaty in their
-respective councils. The accountability of the enterprise as a whole, and
-each of its streams, and each of their chapters is dynamically defined by a
-treaty in story-normal form. This story is expanded using the
+The accountabilities of these individual roles are defined by treaties
+within their respective councils. Likewise the accountabilities of the
+enterprise as a whole, and each of its streams, and each of their chapters,
+are all respectively defined by treaties in story-normal form. Councils each
+use this statement of their accountability to scope their planning using the
 **Breadth-First Roadmap** method described below.
 
 ## XSCALE Practice Patterns
@@ -281,25 +284,27 @@ XSCALE is "opinionated" in the same sense as [Ruby on Rails]().  This means
 you'll want to follow its practices very closely to begin with - because this
 is how it "turns all the knobs to ten".  
 
-Because XSCALE isn't a big-change-up-front framework, as it grows and you gain
-experience the various councils will collaboratively vary its practices to
-adapt them to the whole. Nevertheless, the following provides a well proven
-starting point.
+Because XSCALE isn't a big-change-up-front framework, as it grows and the
+enterprise gains experience with its practices the various councils will
+collaboratively vary and augment them. Nevertheless, the following provides
+a state of the art starting point.
 
 ### Enterprise Practices
 
 XSCALE adopts the [Beyond Budgeting]() premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
 their investing some part of their revenue to fund it. This is not to
-disempower executives, but to assure that the entire enterprise pivots
-collaboratively to improve ROI.
+disempower executives, but to assure that the enterprise pivots coherently
+and collaboratively to improve its overall ROI.
 
-Therefore, while we describe these patterns as "Enterprise Practices", this
-doesn't mean they're only performed in the stratosphere.  The same patterns
-are employed by squads, streams, and the enterprise council to optimize their
-courses of action, and reconcile them with available funding. As a pattern
-language based on and generating BDD we also refer to them collectively as
-Behavioral Product Planning or "BPP".
+Therefore, while we describe the patterns in this section as "Enterprise
+Practices", this doesn't mean they're only performed in the stratosphere.
+Following the principle of Scale-Symmetry these same patterns used by
+streams and squads to optimize their ROI and reconcile same with available
+funding.  As a pattern language based on and generating BDD we also refer to
+these practices collectively as Behavioral Product Planning or "BPP".
+
+{% img /images/bbingo.png %}
 
 #### Feature Points, Story Points and Normalized Story Points
 
@@ -308,29 +313,33 @@ Where story points represent only the relative effort required to deliver a
 story, feature points estimate increments of funding necesssary to deploy a
 whole feature. Because the number of story points that will fit into a
 funding increment depends on team velocity at the time of delivery, there's
-no linear mapping between feature points and story points, and no need to
-attempt to normalize story points across teams.
+no linear mapping between feature points and story points. 
 
-Instead the Backlog Bingo practice gives feature points an empirical basis in
-relation to previously delivered features. XSCALE uses these feature points
-both in establishing a reasonable level of funding per business objective,
-and as a direct input to the "RoI+CoD" prioritization method.  Where it is
-necessary to represent both feature points and story points on a stream flow
-diagram, we simply monetize story points using the formula:
+This removes the need to attempt to normalize story points across teams.
+Instead the Backlog Bingo practice gives feature points an empirical basis
+in relation to previously delivered features. XSCALE uses these feature
+points both in establishing a reasonable level of funding per business
+objective, and as a direct input to the "Royal Cod" prioritization method.
+Where it is necessary to represent both feature points and story points on a
+stream flow diagram, we simply monetize story points using the formula:
 
 Monetized Story Points = Story Points / Feature Velocity
 
-Where Feature Velocity is the squad's weekly throughput in story points per
+Where Feature Velocity is the squad's current throughput in story points per
 feature point. If, for example, a squad costs its stream 10 feature points
-per week, and delivers 25 story points in that week, its velocity is 2.5
-SP/FP. This is functionally equivalent to the traditional Agile measure of
-project velocity, but because it's normalized to feature points it becomes
-trivial to do the arithmetic projecting the various velocities of multiple
-squads in a stream.
+per week, and delivers 25 story points in the same week, its velocity is 2.5
+SP/FP. 
+
+This is functionally equivalent to the traditional Agile measure of project
+velocity, but because it's normalized to feature points it makes it easy to
+do the arithmetic projecting the various velocities of multiple squads in a
+stream, which in turn enables the stream to visualize its activities in a
+standardized cumulative flow diagram as described in he Stream Practices
+section below.
 
 #### Breadth-First Roadmap
 
-{% img /images/lean-startup.png %}
+{% img /images/bfr.png 400 %}
 
 Breadth-First Roadmap (BFR) is a generalization of the Lean Startup [Business
 Model Canvas]() composed of simple, commonplace Agile practices - story normal
@@ -349,7 +358,7 @@ Therefore every BFR can be regarded as an expansion of a single, larger
 [story-normal form]() in order to scope roadmapping conversations to a single
 shared intent.
 
-{% img /images/roadmap0.png %}
+{% img /images/roadmap0.png 400 %}
 
 * At every level, BFR takes the form of a matrix of objectives and themes
   where a theme defines a category of acceptance criteria for a cross-cutting
@@ -362,7 +371,7 @@ shared intent.
   only contain a blank or a checkmark. A checkmark means there are acceptance
   criteria for this feature in this theme and a blank means there aren't.
 
-{% img /images/roadmap1.png %}
+{% img /images/roadmap1.png 400 %}
 
 * Each feature is evaluated against all themes. 
 * As each feature is evaluated, also consider whether there are acceptance
@@ -372,7 +381,7 @@ shared intent.
 * It's fine to modify or refactor features as you go so long as all the
   roadmap's boxes are consistently updated.
 
-{% img /images/roadmap2.png %}
+{% img /images/roadmap2.png 400 %}
 
 * Evaluate each theme to determine whether it is sufficiently covered by
   features to achieve the scoping story.
@@ -382,7 +391,7 @@ shared intent.
 * If it appears that all features have the same pattern of checkboxes for two
   themes, consider whether those two may be refactored into one.
 
-{% img /images/roadmap3.png %}
+{% img /images/roadmap3.png 400 %}
 
 * If a theme has checkboxes for all or almost all features, break out further
   features to encapsulate shared technical infrastructure to economically
@@ -408,7 +417,7 @@ to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
 to make a method of determining the funding required to deliver a set of
 products and services. 
 
-Backlog Bingo is very easy to play:
+Backlog Bingo is easy to play:
 
 * Write [Fibonacci numbers]() from 1 to 89 on cards and lay them out in a row
   across a large table. There's nothing magical about Fibonacci numbers - we
@@ -446,6 +455,8 @@ game runs as above.
 RoI+CoD (which we affectionately call "Royal Cod") is a simple consensus game
 to prioritise the BFR. It is both easier and more accurate than the SAFe
 "Weighted Shortest Job First" (WSJF) equivalent for reasons described below.
+
+{% img /images/bpp.png 400 %}
 
 RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
 of:
@@ -486,43 +497,44 @@ how to best fit them given funding constraints and MVP per business objective.
 
 #### Royal Cod vs WSJF
 
-Why not WSJF? WSJF is defined in SAFe by the formula (Business/User Value +
-Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
+Why not WSJF? WSJF is defined in SAFe by the formula (Business-or-User Value
++ Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
 there's no clear distinction between business value, risk reduction and
 opportunity enablement, nor between criticality and Cost of Delay, WSJF
 simplifies to (Business Value / Duration) + (Criticality / Duration).
 
 There are several problems with this:
 0. It doesn't makes sense to divide criticality by duration. Work doesn't
-   become less critical just because it takes longer. This trade-off must be
-   made intelligently, not numerically.
--  Without clear relative distinctions, which aren't provided by SAFe there's
-   no way to assure that variables are independent. This distorts relative
+   become less critical just because it takes longer. There is a trade-off
+   but it must be made intelligently, not numerically.
+-  Without clear distinctions, which aren't provided by SAFe, there's no way
+   to assure the WSJF variables are independent. This distorts relative
    Business Value in an unpredictable way.
--  By factoring CoD variables and giving them equal weighting WSJF actively
-   prevents trade-off conversations that would reconcile differing
-   assumptions about the features.
+-  By factoring CoD variables and giving them equal weighting, WSJF actively
+   prevents intelligent trade-off conversations that would reconcile
+   differing assumptions about their importance per feature.
 -  WSJF provides no opportunity to account for how combinations of features
    render the individual feature more or less valuable. This is a moving
-   target that requires explicit conversation.
+   target that also calls for intelligent conversation.
 -  WSJF doesn't account for technical CoD.  Some features may have high CoD
-   because of architectural concerns or business uncertainty. WSJF just
-   leaves that out.
+   because of architectural concerns or ambiguities. WSJF leaves that out.
 
-All of these problems are eliminated by BPP. Once you've factored out ROI, it
-becomes easy for team members to determine the remaining CoD.  And rather
-than adding in CoD as if it were linear, which it's not, it's easy for team
-members to adjust an ROI prioritization by discrete CoD. BPP also accounts
-for technical CoD of technical features. The result is quick, easy and
-completely unambiguous.
+All of these problems are eliminated by Royal Cod. Once you've factored out
+ROI, it becomes easy for team members to agree on the remaining CoD.  And
+rather than adding in CoD as if it were linear, which it's not, it's easy
+for team members to adjust an ROI prioritization by discrete CoD per feature
+including technical CoD of technical features. The result is quick, simple and
+unambiguous.
 
-#### BPP Uncertainty
+#### Bingo Uncertainty
 
-Uncertainty can lead technical team members to refuse to estimate a feature.
-In this case they must clearly describe the ambiguities or inconsistencies
-they would need resolved by the Product Owner in order to produce an
-estimate. If the product owner can't resolve the entire problem, and part of
-the feature is estimable but another part is not:
+Uncertainty can lead technical team members to refuse to estimate a feature
+in Backlog Bingo. That's healthy - you don't want a meaningless estimate.
+But then they must clearly describe the ambiguities or inconsistencies they
+would need resolved by the Product Owner or technical SME in order to
+produce an estimate. 
+
+If and part of the feature is estimable but another part is not:
 
 * the feature is split into two, 
 * the estimable part is estimated
@@ -531,12 +543,14 @@ the feature is estimable but another part is not:
 * estimating the inestimable feature is deferred until the technical feature
   it depends upon is completed.
 
-If a large number of features are inestimable it's usually best to defer this
+If a large number of features are inestimable it's usually best to defer the
 bingo session until the team has had time to work with architects and
-designers to nail dependencies down a bit better, or analysts have sufficient
-time to resolve unsolved business questions.
+designers to nail dependencies down better, or the product owner has
+sufficient time to resolve business questions.
 
 #### Roadmap Refactoring
+
+{%img /images/roadmapr.png 400 %}
 
 Roadmap Refactoring (RR) is a consensus game that leverages BPP to enable
 product owners to make rational trade-offs between different feature-sets. It
@@ -585,17 +599,18 @@ plans to evaluate possible responses to changes in market conditions.
 
 #### Stream Structure
 
-By a Stream we mean a Spotify-structured tribe that self-organizes around
-standardized Delivery and Adaptation Kanbans and an [Iroquois Council]() made
-up of rotating Chapter representatives, We call this a stream rather than a
-tribe to emphasize the responsibility and instrumentation of the tribe as
-a Lean value stream.
+By a Stream we mean a Spotifystructured tribe that self-organizes using a
+BFR and Feature backlog, a Stream Flow diagram, an Adaptation Kanban and a
+Council made up of Chapter representatives. We call this a stream rather
+than a tribe to emphasize its focus on optimizing a Lean value stream.
+
+{% img /images/spotify.png 400 %}
 
 Because the [Spotify
 model](http://blog.kevingoldsmith.com/2014/03/14/thoughts-on-emulating-spotifys-matrix-organization-in-other-companies/)
 supports a
 [semi-lattice](http://www.bp.ntu.edu.tw/wp-content/uploads/2011/12/06-Alexander-A-city-is-not-a-tree.pdf)
-rather than hierarchic enterprise structure, it is more natural, more
+rather than hierarchic enterprise structure, it is more open, more
 flexible and more responsive to change than traditional corporate structures.
 As Chris Alexander says, "As the relationships between functions change, so
 the systems which need to overlap in order to receive these relationships
@@ -608,120 +623,125 @@ its goals and has no reason to exist anymore, we can dissolve it without
 punishing a manager".
 
 XSCALE augments the Spotify Model with a consensus decision-making pattern
-derived from the historical Iroquois Confederacy. The use of this pattern to
-focus and coordinate decision-making in squads, streams and the enterprise as
-as whole is described in the **Continuous Adaptation** section below.
+derived from the historical Iroquois Confederacy. This pattern coordinates
+decision-making across squads, streams and the enterprise as as whole is
+described in the **Continuous Adaptation** section below.
 
 #### Stream Flow Diagram
 
-{% img images/stream-cf.png %}
+{% img /images/flow.png 400 %}
 
-Every Stream is intended to generate a return. If the Stream is purely
-internal then its return may simply be defined as equal to its funding. An
-external facing Stream generally begins with an investment of funds by the
-enterprise intended to kickstart sufficient revenue that it is more than
-self-funding.
+Every Stream is intended to generate a return. If the Stream serves a purely
+internal function then its return may simply be defined as equal to its
+funding.  XSCALE represents the return and the funding for a Stream in terms
+of Feature Points on a Stream Flow diagram, a special kind of cumulative
+flow diagram.
 
-XSCALE represents the return and the funding for a Stream in terms of Feature
-Points on a cumulative flow diagram. Because this diagram takes a specific
-form in XSCALE we call it a "Stream Flow Diagram". Note that where we
-refer to story points here we actually mean Monetized Story Points derived
-from the formula given in the Feature Points section above. The layers of the
-Stream Flow diagram represent, from bottom to top:
+Note that where we refer to story points here we mean Monetized Story Points
+derived by the formula given in the Feature Points section above. The layers
+of the Stream Flow diagram represent, from bottom to top:
 
 * deployed features
 * integrated but undeployed stories 
 * implemented but unintegrated stories
 * estimated but unimplemented stories
 * features with stories covered by BDD scenarios
-* BPP best market fit of features to funding 
+* BPP best fit of features to funding 
 * squad/stream funding limit over time
 * stream revenue over time
 
-Stream Flow can represent all of these flows on one consistent diagram per
-squad. Because of normalization to feature points these are trivially rolled
-up per stream, and then to the enterprise as a whole. This is extremely
-enlightening because it is directly amenable to traditional Lean analysis of
-cycle time, latency, WIP, etc. This provides unambiguous and immediately
+Stream Flow represents all of these on one consistent diagram per squad.
+Because of normalization to feature points these diagrams are trivially
+rolled up per stream, and then to the enterprise as a whole. This diagam is
+extremely enlightening because it is directly amenable to traditional Lean
+analysis of cycle time, latency, WIP, etc. This provides visual and
 actionable identification of wastes, bottlenecks, irregularities and
 opportunities, as well as their relative magnitudes. 
 
-### Team Practices
+### Squad Practices
 
 #### DevOps + CD + GitFlow
 
-* Iterations are 1 week long. Features (defined as groups of stories that when
-  deployed together will delivery some concrete business value) are assigned
-  one per delivery squad. Delivery is automated and features are delivered
-  asynchronously by squads as they're completed.
+{% img /images/cd.png 400 %}
 
-* Per the Spotify model, each squad has all the skills and capabilities it
-  needs to delivery a feature. Per DevOps, Ops forms a chapter that does not
-  gate deployment, but provides delivery squads with automated deployment
-  tools and channels that enable them to test and integrate stories and deploy
-  features independently.
+Squads are the most concrete embodiment of XSCALE principles:
 
-* Ops maintains virtualization via Mock Objects, Data Fixtures, BDD step
-  implementations and [Service Virtualization Tools]() to assure that tests
-  cannot interfere with one another and that the behaviour of virtual and
-  production-like SIT environments is equivalent under test.
+* Per the eXcellence principle, BDD per feature and per story is fully
+  implemented and all CI and SIT tests pass before any feature is deployed.
+* Per the Scale-Symmetry principle, features (defined at this level as
+  groups of stories that when deployed together will deliver some concrete
+  business value) are each assigned to a distinct squad. 
+* Per the Continous principle, sprints are 1 week long. This means all the
+  sprint rituals have minimum practical batch size and cycle time.
+* Per the Autonomous principle, squads use the GitFlow pattern so they don't
+  need to wait for another squad in order to integrate, test and deploy.
+* Per the Lean principle a feature is deployed by its squad immediately as
+  soon as it passes CI and SIT.
+* Per the Ecosystem principle, Ops forms a chapter that provides consistent
+  virtualized test environments and production-like System Integration
+  Testing (SIT) environments, and assures the behaviour of these CI and SIT
+  environments are equivalent under test. This assures squads collectively
+  own their code base andconsistently adapt to one another as it evolves.
 
 #### Lean UX + BDD + XP
 
-* Streams use the Lean UX [Product Team]() pattern where designers, analysts,
-  SMEs, architects and product owners work together to break features down
-  into stories to supply a set of delivery squads. To comform with the Spotify
-  structure the Product Team takes the form of a chapter. Whenever the Product
-  chapter is not meeting its members spend time collaborating with the
-  delivery squads.
+{% img /images/xp.png 400 %}
+
+* Streams use the Lean UX [Product Team]() pattern where product owners from
+  multiple squads along with, designers, analysts, SMEs and architects work
+  together to break features down into groups of stories to supply the
+  delivery squads. To comform with the Spotify structure this Product Team
+  takes the form of a Chapter.  Whenever the Product Chapter is not meeting,
+  its members spend time collaborating with delivery squads.
 
 * Stories are produced in [Gherkin]() format factored to maintain [INVEST]()
-  properties. Squads get together with the Product Team every Wednesday
-  afternoon to estimate its latest batch of stories.
+  properties. Squads get together with members of the Product Team every
+  Wednesday afternoon to estimate its latest batches of stories.
   
 * A story with INVEST defects is returned without an estiamte to the Product
   Team for clarification. Otherwise the throughput of the Product Team is
-  graphed on the [Stream CF diagram]() in terms of new estimated story points
-  per week.
+  graphed on the [Stream Flow diagram]() according to the number of
+  estimated feature points per week.
 
 * Squads hold reviews and retrospectives every Friday and task breakout
-  sessions every Monday. Their CF diagrams roll up together to inform the
-  Stream CF diagram's metrics for implemented stories, integrated stories,
-  and deployed features.
+  sessions every Monday, and every day starts with a standup meeting.
 
-### Enterprise Practices
+### Continuous Adaptation
 
 As per the [Seven Samurai]() pattern language, XSCALE starts by constructing
 a "Minimum Viable Agile Capability" - a "spike" squad within a single stream
 that forms a model for all those to come.  The spike squad prototypes and
-proves its tools, relationships and processes integrate as and efficient end
-to end SDLC by delivering a stream of small concrete features with real
-business value.
+proves that its tools, relationships and processes integrate as an
+efficient end to end SDLC by delivering a stream of small concrete features
+with real business value.
 
-This is the familiar Agile [steel thread]() pattern applied to organizing an
-Agile capability. To avoid pain at scale, Before iterating the growth of
-further squads all the technical and organizational fundamentals must be
-reliably integrated.
+In other words this is the familiar Agile [steel thread]() pattern applied
+to organizing an Agile capability. It is fundamentally important to avoid
+pain at scale that the spike squad delivers whole end to end features, not
+merely components, so that all the technical and organizational fundamentals
+are reliably integrated.
 
-Technically, assembling this enterprise steel thread is the direct
-responsibility of the spike squad. To continuously integrate this squad with
-the pre-existing organization, [Seven Samurai]() assembles a Stream Council
-from the lead doers - not deciders - from each of the organization's
-pre-existing component silos.  As delivery squads multiply, these leads 
-also function as chapter representatives on the Stream Council.
+To continuously integrate the spike squad with the pre-existing
+organization, [Seven Samurai]() assembles the first Stream Council from the
+lead doers - not deciders - from each of the organization's pre-existing
+component silos.  As delivery squads multiply, these leads naturally
+function as chapter representatives on the Stream Council.
 
-Meanwhile progressive senior managers form the initial Enterprise Council
-with support from coaches again per the Samurai patterns. As XSCALE is
-adopted by more streams, their managers will take part in their respective
-councils and thereby become stream reps on the Enterprise Council. This
-assures smooth, consistent, iterative rollout of XSCALE across the whole
-organization.
+Meanwhile progressive senior managers are enroled into the initial
+Enterprise Council to provide a one-stop reporting and support shop for
+coaches.  As XSCALE is adopted by more streams, their managers will take
+part in their respective councils and thereby may become stream reps on the
+Enterprise Council. As described below this leverages the Scale-Symmetric
+principle to assure consistent, iterative rollout of XSCALE across the
+enterprise.
 
 #### Chapter, Squad, Guild and Council Meeting Schedule
 
+{% img /images/chapters.png 400 %}
+
 As XSCALE rolls out it becomes advantageous to synchronize council meetings
-so that they don't cause calendar-stress. XSCALE leverages the weekly cycle
-to achieve this:
+so that they don't cause calendar-stress. XSCALE leverages the squads'weekly
+cycle to achieve this:
 
 * All of a stream's chapters meet simultaneously every Friday lunch so that
   squad activities aren't interrupted. Chapters may also meet at other
@@ -734,42 +754,50 @@ to achieve this:
   synchronized.
 
 * Squad retrospectives are held immediately following the Stream Council
-  meeting so that any treaties proposed by Council can be immediately and
-  unanimously ratified. If ratification of a treaty is not achieved, a further
-  Council meeting may be held immediately after the squad retros to sort the
-  matter out. If polarization occurs here then the Stream Lead may force
-  temporary (1 week) adoption of a treaty while offline discussions resolve
-  it at chapter level.
+  meeting so that any treaties proposed by Council might be immediately and
+  unanimously ratified. 
+  
+* Guild meetings are held asynchronously as convenient to the Guild members.
 
-* Guild meetings are held asynchronously on a frequency determined by their
-  respective Stream Councils.
+* Once a month each Stream holds a half-day full Council meeting for all its
+  members in accordance with the Iroquois pattern. If ratification of a
+  treaty was not achieved unanimously in squad retrospectives, the treaty is
+  shelved until concerns can be ironed out at this monthly meeting. The
+  Stream Manager may still require squads to temporarily adopt a treaty
+  until the monthly Council can sort it out.
 
-* Enterprise Council meetings are held on a frequency determined by the
-  Enterprise Council, and asynchronously whenever a Stream Council calls for
-  one.
+* The Enterprise Council, consisting of Stream and Product Managers from all
+  Streams, along with all relevant senior executives, also meets once a
+  month to review Stream Flow diagrams and update the enterprise's business
+  canvas and related financial plans. The Enterprise Council may also meet
+  asynchronously whenever one of its members calls for this.
 
-#### Chapter and Council Roadmaps
+#### Adaptation Kanban
 
 As explained in the Ecosystem section above, Streams and Squads have their
-specific purposes distinguished by treaties in story-normal form.  Councils
-and Chapters adapt and expand the respective treaties by means of
-Breadth-First Roadmaps that detail how they will organize themselves to
-satisfy the terms of the treaty. Then the BPP patterns are applied to
-estimate and prioritize these roadmaps using themes drawn from the Seven 
-Samurai patterns to reflect the respective accountabilities and
+specific purposes distinguished by treaties framed in story-normal form.
+Councils and Chapters adapt and expand these respective treaties by means of
+Breadth-First Roadmaps that detail how their Streams and Squads  will
+organize to satisfy the terms of the treaties that define them. 
+
+We refer to this process as Continous Adaptation because it's not a simple
+matter of executing a pre-defined plan.  The BPP patterns are applied to
+estimate and prioritize the respective  roadmap using themes drawn from the
+Seven Samurai patterns to reflect respective accountabilities and
 responsibilities at each level:
 
-* Chapters are accountable for Adoption and Acceleration, responsible for
-  Awareness and Architecture.
-* Stream Councils are accountable for Awareness and Architecture,
-  responsible for Assessment and Analysis,
-* The Enterprise Council is Accountable for Assessment and Analysis,
-  responsible for Alignment and Appropriation
+* Chapters are accountable for the Adoption and Acceleration of practice
+  patterns by their squads, and responsible for providing Awareness and
+  Architecture sufficient to support them.
+* Stream Councils are accountable for overall Awareness and Architecture,
+  and responsible for Stream Flow Assessment of their current state and BPP
+  Analysis of their BFR.
+* The Enterprise Council is accountable for Assessment and Analysis across
+  all streams, and responsible for cross-stream Alignment and, in
+  conjunction with the CFO's office, Appropriation of funding per stream.
 
-Each council uses a kanban to track the progress of features drawn the
-backlog resulting from applying BPP to its roadmap with cumulative flow
-diagrams used to represent progress of the transformation over time.
+Each council keeps an Adaptation Kanban to track the progress of features
+drawn from a backlog it generates by using BPP on its BFR, and cumulative
+flow diagrams - not to be confused with the Stream Flow diagrams - represent
+progress as the whole adapts over time.
 
-#### Stream Funding cycle
-
-\[text almost done ...\]

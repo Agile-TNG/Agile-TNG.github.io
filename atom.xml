@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-06T15:01:03+10:00</updated>
+  <updated>2014-05-06T16:26:18+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -318,6 +318,8 @@ streams and squads to optimize their ROI and reconcile same with available
 funding.  As a pattern language based on and generating BDD we also refer to
 these practices collectively as Behavioral Product Planning or “BPP”.</p>
 
+<p><img src="http://Agile-TNG.github.io/images/bbingo.png" /></p>
+
 <h4 id="feature-points-story-points-and-normalized-story-points">Feature Points, Story Points and Normalized Story Points</h4>
 
 <p>In BPP we change the unit of estimation from story points to feature points.
@@ -351,7 +353,7 @@ section below.</p>
 
 <h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
 
-<p><img src="http://Agile-TNG.github.io/images/lean-startup.png" /></p>
+<p><img src="http://Agile-TNG.github.io/images/bfr.png" width="400" /></p>
 
 <p>Breadth-First Roadmap (BFR) is a generalization of the Lean Startup <a href="">Business
 Model Canvas</a> composed of simple, commonplace Agile practices - story normal
@@ -370,7 +372,7 @@ stories required to deliver a feature.</p>
 <a href="">story-normal form</a> in order to scope roadmapping conversations to a single
 shared intent.</p>
 
-<p><img src="http://Agile-TNG.github.io/images/roadmap0.png" /></p>
+<p><img src="http://Agile-TNG.github.io/images/roadmap0.png" width="400" /></p>
 
 <ul>
   <li>At every level, BFR takes the form of a matrix of objectives and themes
@@ -385,7 +387,7 @@ only contain a blank or a checkmark. A checkmark means there are acceptance
 criteria for this feature in this theme and a blank means there aren’t.</li>
 </ul>
 
-<p><img src="http://Agile-TNG.github.io/images/roadmap1.png" /></p>
+<p><img src="http://Agile-TNG.github.io/images/roadmap1.png" width="400" /></p>
 
 <ul>
   <li>Each feature is evaluated against all themes. </li>
@@ -397,7 +399,7 @@ also have some acceptance criteria in it.</li>
 roadmap’s boxes are consistently updated.</li>
 </ul>
 
-<p><img src="http://Agile-TNG.github.io/images/roadmap2.png" /></p>
+<p><img src="http://Agile-TNG.github.io/images/roadmap2.png" width="400" /></p>
 
 <ul>
   <li>Evaluate each theme to determine whether it is sufficiently covered by
@@ -409,7 +411,7 @@ all themes.</li>
 themes, consider whether those two may be refactored into one.</li>
 </ul>
 
-<p><img src="http://Agile-TNG.github.io/images/roadmap3.png" /></p>
+<p><img src="http://Agile-TNG.github.io/images/roadmap3.png" width="400" /></p>
 
 <ul>
   <li>If a theme has checkboxes for all or almost all features, break out further
@@ -437,7 +439,7 @@ to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
 to make a method of determining the funding required to deliver a set of
 products and services. </p>
 
-<p>Backlog Bingo is very easy to play:</p>
+<p>Backlog Bingo is easy to play:</p>
 
 <ul>
   <li>
@@ -483,6 +485,8 @@ game runs as above.</p>
 <p>RoI+CoD (which we affectionately call “Royal Cod”) is a simple consensus game
 to prioritise the BFR. It is both easier and more accurate than the SAFe
 “Weighted Shortest Job First” (WSJF) equivalent for reasons described below.</p>
+
+<p><img src="http://Agile-TNG.github.io/images/bpp.png" width="400" /></p>
 
 <p>RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
 of:</p>
@@ -582,6 +586,8 @@ sufficient time to resolve business questions.</p>
 
 <h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
 
+<p><img src="http://Agile-TNG.github.io/images/roadmapr.png" width="400" /></p>
+
 <p>Roadmap Refactoring (RR) is a consensus game that leverages BPP to enable
 product owners to make rational trade-offs between different feature-sets. It
 can be used to quickly assemble a release plan to hit a particular date, if
@@ -636,6 +642,8 @@ BFR and Feature backlog, a Stream Flow diagram, an Adaptation Kanban and a
 Council made up of Chapter representatives. We call this a stream rather
 than a tribe to emphasize its focus on optimizing a Lean value stream.</p>
 
+<p><img src="http://Agile-TNG.github.io/images/spotify.png" width="400" /></p>
+
 <p>Because the <a href="http://blog.kevingoldsmith.com/2014/03/14/thoughts-on-emulating-spotifys-matrix-organization-in-other-companies/">Spotify
 model</a>
 supports a
@@ -659,7 +667,7 @@ described in the <strong>Continuous Adaptation</strong> section below.</p>
 
 <h4 id="stream-flow-diagram">Stream Flow Diagram</h4>
 
-<p><img src="images/stream-cf.png" /></p>
+<p><img src="http://Agile-TNG.github.io/images/flow.png" width="400" /></p>
 
 <p>Every Stream is intended to generate a return. If the Stream serves a purely
 internal function then its return may simply be defined as equal to its
@@ -694,6 +702,8 @@ opportunities, as well as their relative magnitudes. </p>
 
 <h4 id="devops--cd--gitflow">DevOps + CD + GitFlow</h4>
 
+<p><img src="http://Agile-TNG.github.io/images/cd.png" width="400" /></p>
+
 <p>Squads are the most concrete embodiment of XSCALE principles:</p>
 
 <ul>
@@ -716,6 +726,8 @@ own their code base andconsistently adapt to one another as it evolves.</li>
 </ul>
 
 <h4 id="lean-ux--bdd--xp">Lean UX + BDD + XP</h4>
+
+<p><img src="http://Agile-TNG.github.io/images/xp.png" width="400" /></p>
 
 <ul>
   <li>
@@ -743,7 +755,7 @@ sessions every Monday, and every day starts with a standup meeting.</p>
   </li>
 </ul>
 
-<h3 id="enterprise-practices-1">Enterprise Practices</h3>
+<h3 id="continuous-adaptation">Continuous Adaptation</h3>
 
 <p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE starts by constructing
 a “Minimum Viable Agile Capability” - a “spike” squad within a single stream
@@ -773,6 +785,8 @@ principle to assure consistent, iterative rollout of XSCALE across the
 enterprise.</p>
 
 <h4 id="chapter-squad-guild-and-council-meeting-schedule">Chapter, Squad, Guild and Council Meeting Schedule</h4>
+
+<p><img src="http://Agile-TNG.github.io/images/chapters.png" width="400" /></p>
 
 <p>As XSCALE rolls out it becomes advantageous to synchronize council meetings
 so that they don’t cause calendar-stress. XSCALE leverages the squads’weekly
@@ -816,7 +830,7 @@ asynchronously whenever one of its members calls for this.</p>
   </li>
 </ul>
 
-<h4 id="continuous-adaptation">Continuous Adaptation</h4>
+<h4 id="adaptation-kanban">Adaptation Kanban</h4>
 
 <p>As explained in the Ecosystem section above, Streams and Squads have their
 specific purposes distinguished by treaties framed in story-normal form.

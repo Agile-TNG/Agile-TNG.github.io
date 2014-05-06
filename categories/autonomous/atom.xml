@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-06T12:33:03+10:00</updated>
+  <updated>2014-05-06T12:39:01+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -719,29 +719,27 @@ own their code base andconsistently adapt to one another as it evolves.</li>
 
 <ul>
   <li>
-    <p>Streams use the Lean UX <a href="">Product Team</a> pattern where designers,
-analysts, SMEs, architects and product owners work together to break
-features down into stories to supply a set of delivery squads. To comform
-with the Spotify structure the Product Team takes the form of a chapter.
-Whenever the Product chapter is not meeting its members spend time
-collaborating with the delivery squads.</p>
+    <p>Streams use the Lean UX <a href="">Product Team</a> pattern where product owners from
+multiple squads along with, designers, analysts, SMEs and architects work
+together to break features down into groups of stories to supply the
+delivery squads. To comform with the Spotify structure this Product Team
+takes the form of a Chapter.  Whenever the Product Chapter is not meeting,
+its members spend time collaborating with delivery squads.</p>
   </li>
   <li>
     <p>Stories are produced in <a href="">Gherkin</a> format factored to maintain <a href="">INVEST</a>
-properties. Squads get together with the Product Team every Wednesday
-afternoon to estimate its latest batch of stories.</p>
+properties. Squads get together with members of the Product Team every
+Wednesday afternoon to estimate its latest batches of stories.</p>
   </li>
   <li>
     <p>A story with INVEST defects is returned without an estiamte to the Product
 Team for clarification. Otherwise the throughput of the Product Team is
-graphed on the <a href="">Stream CF diagram</a> in terms of new estimated story
-points per week.</p>
+graphed on the <a href="">Stream Flow diagram</a> according to the number of
+estimated feature points per week.</p>
   </li>
   <li>
     <p>Squads hold reviews and retrospectives every Friday and task breakout
-sessions every Monday. Their CF diagrams roll up together to inform the
-Stream CF diagram’s metrics for implemented stories, integrated stories,
-and deployed features.</p>
+sessions every Monday, and every day starts with a standup meeting.</p>
   </li>
 </ul>
 

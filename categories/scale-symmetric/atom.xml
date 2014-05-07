@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T14:26:23+10:00</updated>
+  <updated>2014-05-07T15:12:10+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -284,6 +284,8 @@ refactoring serving that of death, but the principle of the ecosystem
 remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
+
+<p><img src="/images/eco.png"></p>
 
 <p>This isn’t just about products and their features, but also the structure
 and practices of teams in streams and streams in the enterprise. This

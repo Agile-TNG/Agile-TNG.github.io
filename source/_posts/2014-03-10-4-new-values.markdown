@@ -10,10 +10,10 @@ categories:
 
 By working Agile and helping others do so we have come to value:
 
-* **Consensus games over accountable hierarchies**  
-* **Extreme teams over corporate committees**  
+* **Autonomous teams over corporate committees**  
 * **Stream funding over project budgets**
-* **Adaptation patterns over prescriptive frameworks**  
+* **Consensus games over accountable hierarchies**  
+* **Adapting practice patterns over prescribing rules**  
 
 That is, while there is value in the items on the right, we value the items on
 the left more. And while we honor the original Manifesto values, we honor these
@@ -25,25 +25,23 @@ TNG values equally.
 The items on the right are familiar to us all. The items on the left have
 a pleasant ring, but let's make some concrete examples to make them clear.
 
-* **Consensus games** include [lean coffees](), [open spaces](),
-  [retrospectives](), [agile
-  parliament](http://agiletng.org/2014/04/02/iroquois-council/) and other ways
-  for people to align understandings and make decisions together. Lean coffees
-  and open spaces do the former; retros and parliaments do the latter. 
-
-* **Extreme teams** are autonomous cross-component cross-functional end-to-end
-  feature-based teams that self-organize via the [XP
-  rules](http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices) to optimize
-  quality, throughput, ROI and alignment of their value stream to its market.
-  They're extreme in that they consciously "turn all the dials to ten" to
-  capitalize on learnings and innovations.
+* **Autonomous teams** are cross-component cross-functional end-to-end
+  feature teams that self-organize to optimize quality, throughput, ROI and
+  the fit of their value stream to its market. Per XP they consciously "turn
+  all the dials to ten" to capitalize on opportunities and innovations.
 
 * **Stream funding** means funding to continuously deliver the maximum ROI
   features to improve a value stream, rather than chunking objectives,
   timeframes and budgets arbitrarily into projects. It includes patterns 
   from [Beyond Budeting](), [Beta Codex](), and [Open Book Management]().
 
-* **Adaptation patterns** describe proven solutions to commonplace problems in
+* **Consensus games** include [lean coffees](), [open spaces](),
+  [retrospectives](),
+  [councils](http://agiletng.org/2014/04/02/iroquois-council/) and other
+  ways for people to align understandings and make decisions together. Lean
+  coffees and open spaces do the former; retros and councils do the latter. 
+
+* **Practice patterns** describe proven solutions to commonplace problems in
   a collaborative context. Similar to design patterns for software, they were
   pioneered in the initial description of XP and revived by Jim Coplien and
   Ken Schwaber in their [ScrumPLOP]() conference.

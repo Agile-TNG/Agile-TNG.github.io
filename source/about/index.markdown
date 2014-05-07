@@ -17,7 +17,7 @@ github under an open content license to enable the community to curate and
 refactor these patterns to form an [Open Agile Pattern
 Language](http://agiletng.org/2014/03/09/oapl-the-open-agile-pattern-language/).
 
-## Conspiracy
+## A:TNG Fellows
 
 Robert Heinlein said that inside every revolution there's a conspiracy.  We
 aim to open the gates to all comers now so it won't matter who kicked this

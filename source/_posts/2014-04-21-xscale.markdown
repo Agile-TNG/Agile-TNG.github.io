@@ -21,9 +21,11 @@ ecosystem that turns all the knobs to ten.
 
 <!-- more -->
 
-**\[This post is currently in draft - don't take it too seriously yet. I
-hope to finish it today but welcome feedback both from my TNG compadres and
-anyone else who happens by ....\]**
+**\[This post is currently in draft. It covers most of the ground but the
+graphics and some of the text still need polish. I'm sharing it as-is to
+garner feedback. You can contact me directly or find a disqus box at the
+bottom of this page. Or raise issues on the A:TNG github project if you
+prefer. Refer to this draft as V0.5.\]**
 
 ## Why XSCALE?
 
@@ -36,45 +38,49 @@ Tribal model. Each has its strengths and weaknesses.
   quarterly [release trains](), XP and Scrum. SAFe is a good starting point
   for more conservative organizations because it's designed to enable
   agility while keeping component silos intact. But this means it shys away
-  from feature teams and continuous delivery, and while it targets scale it
-  neglects the key enabler of scale-symmetry.
+  from feature teams, continuous delivery and scale-symmetry.
 
-* [LeSS]()/Agile Path/Enterprise Scrum, etc., are alternatives more closely
-  based on traditional Scrum. They offer high-collaboration, continuous
-  cadence models that rely on [Scrum of Scrums]() to deal with integration
-  and cross-cutting concerns. XP practices are optional but feature teams
-  are mandatory. LeSS is big-change-up-front but Agile Path is an iterative
-  alternative. All leave specific practices for product planning, test
-  automation and so on for teams to determine ad hoc. 
+* [LeSS]()/Agile Path/Enterprise Scrum, etc., are scale-symmetric
+  alternatives closely based on traditional Scrum. They offer low-discipline
+  high-collaboration, continuous cadence models that employ [Scrum of
+  Scrums]() to deal with integration and cross-cutting concerns. XP
+  practices are optional but feature teams are mandatory. LeSS is
+  big-change-up-front but Agile Path is an iterative alternative.  Specific
+  practices for product planning, test automation and so on are left for
+  teams to determine ad hoc. 
 
 * [The Spotify model]() dispenses with Scrum of Scrums in favour of a
   pattern of [Tribes and Guilds](), strongly emphasizing bottom-up
   collaboration and team autonomy.  It gives even less prescription on team
-  practices as it expects a structure of top-flight autonomous teams is
-  capable of deciding for themselves how to evolve the rollout of Agile
-  practices, but it's clearly committed to Continuous Delivery and DevOps
-  with every tribe containing a chapter of Ops people dedicated to enabling
-  squads to CD.
+  practices as it rightly expects a structure of top-flight autonomous teams
+  is capable of deciding for themselves how to evolve the rollout of Agile
+  practices, but it's committed to Continuous Delivery and DevOps with every
+  tribe containing an Ops chapter dedicated to enabling squads to do CD.
   
-XSCALE naturally bears comparison to these alternatives.  Like SAFe, XSCALE
-standardizes team practices using Scrum-XP. Like Agile Path, XSCALE
-transforms the enterprise iteratively. Like LeSS, XSCALE refactors component
-silos into feature teams. And XSCALE uses Spotify-style tribes, chapters,
-guilds, CD and DevOps.
+XSCALE includes the best aspects of the older practices:
 
-XSCALE is more than a synthesis of the best aspects of these, however. It
-enables continuous adaptation using the [Seven Samurai]() patterns,
-continuous product planning using Lean Startup, Lean UX and [BPP/BDD](), and
-continuous enterprise self-organization using [Iroquois councils](). Its
-intent is to afford enterprises an absolute state of the art Agile
-capability with the lowest risk of disruption to their existing value
-streams.
+* Like SAFe, XSCALE standardizes team practices using Scrum-XP
+* Like Agile Path, it transforms the enterprise iteratively
+* Like LeSS, it refactors component silos into feature teams 
+* Like Spotify it uses tribes, chapters, guilds, CD and DevOps
+
+XSCALE offers more than just a refactoring of what came before, adding:
+
+* Continuous adaptation using the [Seven Samurai]() pattern language.
+* Continuous product planning using Lean Startup, Lean UX and [BPP]()
+* Continuous enterprise self-organization using [Iroquois councils]()
+
+But why these specific practices? XSCALE's intent is to afford enterprises
+on all scales an absolute state of the art Agile capability while minimizing
+risk of disruption to their existing value streams. So let's take a step back
+and understand this in principle before we get down to nuts and bolts.
 
 ## XSCALE Principles
 
-XSCALE conforms with the [A:TNG values](), which form a strict superset of
-those in the Agile Manifesto. XSCALE further assumes six principles that
-also form a superset of those in the Manifesto.
+XSCALE conforms with the [A:TNG
+values](http://agiletng.org/2014/03/10/4-new-values/), which form a strict
+superset of those in the Agile Manifesto. XSCALE further assumes six
+principles that also form a superset of the ones in the Manifesto.
 
 eXcellent
 : Turn all the knobs to ten.
@@ -94,17 +100,19 @@ Lean
 Ecosystem
 : Continuous adaptation of the whole to its parts.
 
-Detailed reasoning for each of these follows, and then the XSCALE practice
-patterns that embody them.
+Explanation for each of these follows, then the XSCALE practice patterns
+that embody them.
 
 ### eXcellent
 
-The word "extreme" in the original XP was controversial, and instrumental in
-prompting the effort to focus the Manifesto on another word entirely.  The
-Nevertheless the manifesto authors recognized its importance in a principle
-that reads, "Continuous attention to technical excellence and good design
-enhances agility". XSCALE calls such continuous attention "eXcellent" and
-sums it up using Kent Beck's famous XP maxim:
+{% img /images/knobs.jpg %}
+
+The term "extreme" in the original XP unfortunately evoked the idea of
+recklessness, which wasn't helpful in the fledgling days of Agile.
+Nevertheless the manifesto authors recognized its intent in a principle that
+reads, "Continuous attention to technical excellence and good design
+enhances agility". So XSCALE calls such continuous attention "eXcellent" and
+sums it up using Beck's famous XP maxim:
 
 **Turn all the knobs to ten**.
 

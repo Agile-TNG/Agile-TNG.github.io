@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T12:50:32+10:00</updated>
+  <updated>2014-05-07T12:54:21+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -209,6 +209,8 @@ reasonable to call a process Agile at any scale if it doesn’t empower
 consensus through games. So the XSCALE principle is:</p>
 
 <p><strong>Use consensus to make decisions and to delimit accountabilities.</strong></p>
+
+<p><img src="/images/council.png"></p>
 
 <p>In theory, individual accountability should be applied when the business
 cost of delaying a decision is greater than the social cost of failing to

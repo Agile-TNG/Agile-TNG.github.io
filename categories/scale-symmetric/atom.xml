@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T11:04:06+10:00</updated>
+  <updated>2014-05-07T12:50:32+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -179,20 +179,20 @@ organizations to keep their component silos, but at no small price:</p>
 testing to “hardening sprints”.</li>
   <li>Wasted time in meetings to figure out how to satisfy combinatoric
 inter-team dependency cycles.</li>
-  <li>Lost ROI from keeping finished features on ice for a quarter rather than
-releasing them as soon as they pass all tests..</li>
-  <li>Surprises and integration overhead due to the large batch sizes involved
-in quarterly releasing.</li>
+  <li>Lost ROI from keeping finished features on ice for a quarter</li>
 </ul>
 
 <p>Because it employs continuous rather than big-bang transformation, XSCALE is
-able to avoid these penalties by enabling feature teams to use the GitFlow
-pattern language for continuous delivery. The principal is simply:</p>
+able to iteratively break component silos into feature teams, and thereby
+avoids these penalties because feature teams can use the GitFlow pattern
+language for continuous delivery. The principle is simply:</p>
 
 <p><strong>Always use the smallest practical cycle time and batch size</strong></p>
 
-<p>XSCALE further applies this in its continuous product planning, continuous
-stream coordination, and continuous transformation patterns.</p>
+<p><img src="/images/sushi-train.png"></p>
+
+<p>XSCALE applies the same principle in its continuous product planning,
+continuous stream coordination, and continuous transformation patterns.</p>
 
 <h3 id="autonomous">Autonomous</h3>
 

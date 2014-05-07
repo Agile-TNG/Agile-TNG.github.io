@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T10:01:02+10:00</updated>
+  <updated>2014-05-07T10:07:18+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -68,19 +68,21 @@ tribe containing an Ops chapter dedicated to enabling squads to do CD.</p>
   </li>
 </ul>
 
-<p>XSCALE naturally bears comparison to these alternatives.  Like SAFe, XSCALE
-standardizes team practices using Scrum-XP. Like Agile Path, XSCALE
-transforms the enterprise iteratively. Like LeSS, XSCALE refactors component
-silos into feature teams. And XSCALE uses Spotify-style tribes, chapters,
-guilds, CD and DevOps.</p>
+<p>XSCALE naturally bears comparison to these alternatives. 
+* Like SAFe, XSCALE standardizes team practices using Scrum-XP
+* Like Agile Path, it transforms the enterprise iteratively
+* Like LeSS, it refactors component silos into feature teams 
+* Like Spotify it uses tribes, chapters, guilds, CD and DevOps</p>
 
-<p>XSCALE is more than a synthesis of the best aspects of these, however. It
-enables continuous adaptation using the <a href="">Seven Samurai</a> patterns,
-continuous product planning using Lean Startup, Lean UX and <a href="">BPP/BDD</a>, and
-continuous enterprise self-organization using <a href="">Iroquois councils</a>. Its
-intent is to afford enterprises an absolute state of the art Agile
-capability with the lowest risk of disruption to their existing value
-streams.</p>
+<p>But XSCALE is more than a synthesis of the best aspects of these frameworks.
+It adds:
+* Continuous adaptation using the <a href="">Seven Samurai</a> patterns
+* Continuous product planning using Lean Startup, Lean UX and <a href="">BPP</a>
+* Continuous enterprise self-organization using <a href="">Iroquois councils</a></p>
+
+<p>The idea is to afford enterprises on all scales the absolute state of the
+art in Agile capability with the lowest risk of disruption to their existing
+value streams.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 

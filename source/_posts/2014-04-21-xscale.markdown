@@ -141,7 +141,7 @@ to small meetings with specific concerns. In general the principle is:
 
 **Iterate distinctions to control combinations**
 
-{% img /images/ani_fern.gif %}
+{% img /images/koch-curve.gif %}
 
 XSCALE applies this to the challenge of determining which combinations of
 business alternatives have most value. Small projects look to a good product

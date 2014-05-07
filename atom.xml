@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T10:40:35+10:00</updated>
+  <updated>2014-05-07T10:42:04+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -117,14 +117,14 @@ that embody them.</p>
 
 <h3 id="excellent">eXcellent</h3>
 
-<p><img src="http://Agile-TNG.github.io/images/knobs.jpg" /></p>
-
 <p>The term “extreme” in the original XP unfortunately evoked the idea of
 recklessness, which wasn’t helpful in the fledgling days of Agile.
 Nevertheless the manifesto authors recognized its intent in a principle that
 reads, “Continuous attention to technical excellence and good design
 enhances agility”. So XSCALE calls such continuous attention “eXcellent” and
 sums it up using Beck’s famous XP maxim:</p>
+
+<p><img src="http://Agile-TNG.github.io/images/knobs.jpg" /></p>
 
 <p><strong>Turn all the knobs to ten</strong>.</p>
 

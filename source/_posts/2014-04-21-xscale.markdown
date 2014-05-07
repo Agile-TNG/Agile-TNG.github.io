@@ -146,13 +146,13 @@ to small meetings with specific concerns. In general the principle is:
 XSCALE applies this to the challenge of determining which combinations of
 business alternatives have most value. Small projects look to a good product
 owner for this, but when you've got portfolios of programs of projects, it
-gets hard. As agile works as a hill-climbing algorithm, continously
-integrating little stories into a whole, it's actually quite happy to climb a
-molehill of value when there's an Everest of it right next door.  
+gets combinatorially hard. As agile works as a hill-climbing algorithm,
+continously integrating little stories into a whole, it's quite happy to
+climb a molehill of value when there's an Everest right next door.  
 
 To control this combinatorial space XSCALE uses the Behavioral Product
-Planning games, which sort breadth-first distinctions about business
-alternatives into easily optimized piles. BPP iterates distinctions
+Planning games, which make breadth-first distinctions about business
+alternatives and then sort them into easily optimized piles. BPP iterates
 breadth-first to assure consistent decisions about alternatives at all
 scales. 
 
@@ -166,19 +166,19 @@ organizations to keep their component silos, but at no small price:
   testing to "hardening sprints".
 * Wasted time in meetings to figure out how to satisfy combinatoric
   inter-team dependency cycles.
-* Lost ROI from keeping finished features on ice for a quarter rather than
-  releasing them as soon as they pass all tests..
-* Surprises and integration overhead due to the large batch sizes involved
-  in quarterly releasing.
+* Lost ROI from keeping finished features on ice for a quarter
 
 Because it employs continuous rather than big-bang transformation, XSCALE is
-able to avoid these penalties by enabling feature teams to use the GitFlow
-pattern language for continuous delivery. The principal is simply:
+able to iteratively break component silos into feature teams, and thereby
+avoids these penalties because feature teams can use the GitFlow pattern
+language for continuous delivery. The principle is simply:
 
 **Always use the smallest practical cycle time and batch size**
 
-XSCALE further applies this in its continuous product planning, continuous
-stream coordination, and continuous transformation patterns.
+{% img /images/sushi-train.png %}
+
+XSCALE applies the same principle in its continuous product planning,
+continuous stream coordination, and continuous transformation patterns.
 
 ### Autonomous
 

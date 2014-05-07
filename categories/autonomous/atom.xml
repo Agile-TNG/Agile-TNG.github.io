@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T10:42:04+10:00</updated>
+  <updated>2014-05-07T10:42:52+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -124,9 +124,9 @@ reads, “Continuous attention to technical excellence and good design
 enhances agility”. So XSCALE calls such continuous attention “eXcellent” and
 sums it up using Beck’s famous XP maxim:</p>
 
-<p><img src="/images/knobs.jpg"></p>
-
 <p><strong>Turn all the knobs to ten</strong>.</p>
+
+<p><img src="/images/knobs.jpg"></p>
 
 <p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
 the fundamentals of technical excellence. These patterns interlock to assure

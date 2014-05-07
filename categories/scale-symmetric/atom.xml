@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetric | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetric/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T15:12:10+10:00</updated>
+  <updated>2014-05-07T15:52:16+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -27,7 +27,7 @@ ecosystem that turns all the knobs to ten.</p>
 <!-- more -->
 
 <p><strong>[This post is currently in draft. It covers most of the ground but the
-graphics and some of the text still need polish. I’m sharing it as-is to
+graphics and some of the text still needs polish. I’m sharing it as-is to
 garner feedback. You can contact me directly or find a disqus box at the
 bottom of this page. Or raise issues on the A:TNG github project if you
 prefer. Refer to this draft as V0.5.]</strong></p>
@@ -61,10 +61,12 @@ teams to determine ad hoc. </p>
     <p><a href="">The Spotify model</a> dispenses with Scrum of Scrums in favour of a
 pattern of <a href="">Tribes and Guilds</a>, strongly emphasizing bottom-up
 collaboration and team autonomy.  It gives even less prescription on team
-practices as it rightly expects a structure of top-flight autonomous teams
-is capable of deciding for themselves how to evolve the rollout of Agile
-practices, but it’s committed to Continuous Delivery and DevOps with every
-tribe containing an Ops chapter dedicated to enabling squads to do CD.</p>
+practices, calling its smallest teams squads rather than scrums to avoid
+dictating Scrum rules. It rightly expects a structure of top-flight
+autonomous teams is capable of deciding for itself how to evolve the
+rollout of Agile practices, but it is committed to Continuous Delivery and
+DevOps with every tribe containing an Ops chapter dedicated to enabling
+squads to do CD.</p>
   </li>
 </ul>
 
@@ -271,24 +273,25 @@ fragile. This is an artefact of the <a href="">anthropocene era</a> where biolog
 ecosystems are undergoing catastrophic change. </p>
 
 <p>The prime characteristic of an ecosystem, however, is not fragility, but
-agility - that it embraces cycles of change to maintain its productivity
-over time.  A living ecosystem differs from a zoo in that it has evolved to
-continuously adapt to changes in the populations and behaviours of its
-constituent organisms.  </p>
+agility. An ecosystem embraces cycles of change to maintain its productivity
+over time. So a biological ecosystem differs from a zoo in that it
+continuously adapts to changes in the populations and behaviours of its
+constituent organisms. In a scale-symmetric sense the same might be said of
+an individual organism and its constituent cells.</p>
 
-<p>The biological principles are generation and death. Generation continously
-produces experimental variations on behaviour, and death removing variations
+<p>The biological principles are generation and death. Generation continuously
+produces experimental variations in behaviour, and death removes variations
 that don’t efficiently adapt to the whole. In XSCALE we think of Lean
-pivoting and set-based design serving the function of generation, and Agile
-refactoring serving that of death, but the principle of the ecosystem
+pivoting and <a href="">set-based design</a> serving the function of generation, and
+Agile refactoring serving that of death, but the principle of the ecosystem
 remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
 <p><img src="/images/eco.png"></p>
 
-<p>This isn’t just about products and their features, but also the structure
-and practices of teams in streams and streams in the enterprise. This
+<p>This isn’t only about products in their marketplace, but also the structure
+and practices of squads in streams and streams in the enterprise. This
 ecosystem principle turns the Taylorist conceit of all-wise managers and
 serf-like workers on its head, leveraging the Agile function of management
 as <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>

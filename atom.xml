@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T10:42:52+10:00</updated>
+  <updated>2014-05-07T10:50:57+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -137,11 +137,10 @@ delivery process stable, predictable and flexible. </p>
 
 <p>Scale is about combinations of requirements, of dependencies, of defects,
 and of people. The number of combinations of a set grows very rapidly; a set
-of just 10 things has over 3.6 million distinct combinations. </p>
-
-<p>Yet golfers are untroubled by vast combinations of grass blades. They make
-simple distinctions to control for combined behaviours: “the green”, “the
-rough”, and so on. Golfers never think about combinations of the individual
+of just 10 things has over 3.6 million distinct combinations. Yet golfers
+are untroubled by combinations of grass blades. Golfers make simple
+distinctions to control the combined behaviours of grass: “the green”, “the
+rough”, and so on. They never think about combinations of the individual
 blades. </p>
 
 <p>Agile uses this approach when it 
@@ -150,9 +149,11 @@ blades. </p>
 * combines people into distinct feature teams to limit interdependencies.  </p>
 
 <p>The Spotify patterns also do it by factoring combinations of conversations
-to small meetings with specific concerns.  The principle is:</p>
+to small meetings with specific concerns. In general the principle is:</p>
 
 <p><strong>Iterate distinctions to control combinations</strong></p>
+
+<p><img src="http://Agile-TNG.github.io/images/ani_fern.gif" /></p>
 
 <p>XSCALE applies this to the challenge of determining which combinations of
 business alternatives have most value. Small projects look to a good product

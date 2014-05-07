@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T09:55:17+10:00</updated>
+  <updated>2014-05-07T10:01:02+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -45,27 +45,26 @@ big-change-up-front, punctuated cadence model that combines Kanban,
 quarterly <a href="">release trains</a>, XP and Scrum. SAFe is a good starting point
 for more conservative organizations because it’s designed to enable
 agility while keeping component silos intact. But this means it shys away
-from feature teams and continuous delivery, and while it targets scale it
-neglects the key enabler of scale-symmetry.</p>
+from feature teams, continuous delivery and scale-symmetry.</p>
   </li>
   <li>
-    <p><a href="">LeSS</a>/Agile Path/Enterprise Scrum, etc., are alternatives more closely
-based on traditional Scrum. They offer high-collaboration, continuous
-cadence models that rely on <a href="">Scrum of Scrums</a> to deal with integration
-and cross-cutting concerns. XP practices are optional but feature teams
-are mandatory. LeSS is big-change-up-front but Agile Path is an iterative
-alternative. All leave specific practices for product planning, test
-automation and so on for teams to determine ad hoc. </p>
+    <p><a href="">LeSS</a>/Agile Path/Enterprise Scrum, etc., are scale-symmetric
+alternatives closely based on traditional Scrum. They offer low-discipline
+high-collaboration, continuous cadence models that employ <a href="">Scrum of
+Scrums</a> to deal with integration and cross-cutting concerns. XP
+practices are optional but feature teams are mandatory. LeSS is
+big-change-up-front but Agile Path is an iterative alternative.  Specific
+practices for product planning, test automation and so on are left for
+teams to determine ad hoc. </p>
   </li>
   <li>
     <p><a href="">The Spotify model</a> dispenses with Scrum of Scrums in favour of a
 pattern of <a href="">Tribes and Guilds</a>, strongly emphasizing bottom-up
 collaboration and team autonomy.  It gives even less prescription on team
-practices as it expects a structure of top-flight autonomous teams is
-capable of deciding for themselves how to evolve the rollout of Agile
-practices, but it’s clearly committed to Continuous Delivery and DevOps
-with every tribe containing a chapter of Ops people dedicated to enabling
-squads to CD.</p>
+practices as it rightly expects a structure of top-flight autonomous teams
+is capable of deciding for themselves how to evolve the rollout of Agile
+practices, but it’s committed to Continuous Delivery and DevOps with every
+tribe containing an Ops chapter dedicated to enabling squads to do CD.</p>
   </li>
 </ul>
 

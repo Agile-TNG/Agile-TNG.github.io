@@ -105,8 +105,6 @@ that embody them.
 
 ### eXcellent
 
-{% img /images/knobs.jpg %}
-
 The term "extreme" in the original XP unfortunately evoked the idea of
 recklessness, which wasn't helpful in the fledgling days of Agile.
 Nevertheless the manifesto authors recognized its intent in a principle that
@@ -115,6 +113,8 @@ enhances agility". So XSCALE calls such continuous attention "eXcellent" and
 sums it up using Beck's famous XP maxim:
 
 **Turn all the knobs to ten**.
+
+{% img /images/knobs.jpg %}
 
 XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
 the fundamentals of technical excellence. These patterns interlock to assure
@@ -125,11 +125,10 @@ delivery process stable, predictable and flexible.
 
 Scale is about combinations of requirements, of dependencies, of defects,
 and of people. The number of combinations of a set grows very rapidly; a set
-of just 10 things has over 3.6 million distinct combinations. 
-
-Yet golfers are untroubled by vast combinations of grass blades. They make
-simple distinctions to control for combined behaviours: "the green", "the
-rough", and so on. Golfers never think about combinations of the individual
+of just 10 things has over 3.6 million distinct combinations. Yet golfers
+are untroubled by combinations of grass blades. Golfers make simple
+distinctions to control the combined behaviours of grass: "the green", "the
+rough", and so on. They never think about combinations of the individual
 blades. 
 
 Agile uses this approach when it 
@@ -138,9 +137,11 @@ Agile uses this approach when it
 * combines people into distinct feature teams to limit interdependencies.  
 
 The Spotify patterns also do it by factoring combinations of conversations
-to small meetings with specific concerns.  The principle is:
+to small meetings with specific concerns. In general the principle is:
 
 **Iterate distinctions to control combinations**
+
+{% img /images/ani_fern.gif %}
 
 XSCALE applies this to the challenge of determining which combinations of
 business alternatives have most value. Small projects look to a good product

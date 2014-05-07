@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T10:19:51+10:00</updated>
+  <updated>2014-05-07T10:29:53+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -2111,10 +2111,10 @@ will kick in real soon …</p>
     <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
 
 <ul>
-  <li><strong>Consensus games over accountable hierarchies</strong>  </li>
-  <li><strong>Extreme teams over corporate committees</strong>  </li>
+  <li><strong>Autonomous teams over corporate committees</strong>  </li>
   <li><strong>Stream funding over project budgets</strong></li>
-  <li><strong>Adaptation patterns over prescriptive frameworks</strong>  </li>
+  <li><strong>Consensus games over accountable hierarchies</strong>  </li>
+  <li><strong>Adapting practice patterns over prescribing rules</strong>  </li>
 </ul>
 
 <p>That is, while there is value in the items on the right, we value the items on
@@ -2129,19 +2129,10 @@ a pleasant ring, but let’s make some concrete examples to make them clear.</p>
 
 <ul>
   <li>
-    <p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
-<a href="">retrospectives</a>, <a href="http://agiletng.org/2014/04/02/iroquois-council/">agile
-parliament</a> and other ways
-for people to align understandings and make decisions together. Lean coffees
-and open spaces do the former; retros and parliaments do the latter. </p>
-  </li>
-  <li>
-    <p><strong>Extreme teams</strong> are autonomous cross-component cross-functional end-to-end
-feature-based teams that self-organize via the <a href="http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices">XP
-rules</a> to optimize
-quality, throughput, ROI and alignment of their value stream to its market.
-They’re extreme in that they consciously “turn all the dials to ten” to
-capitalize on learnings and innovations.</p>
+    <p><strong>Autonomous teams</strong> are cross-component cross-functional end-to-end
+feature teams that self-organize to optimize quality, throughput, ROI and
+the fit of their value stream to its market. Per XP they consciously “turn
+all the dials to ten” to capitalize on opportunities and innovations.</p>
   </li>
   <li>
     <p><strong>Stream funding</strong> means funding to continuously deliver the maximum ROI
@@ -2150,7 +2141,14 @@ timeframes and budgets arbitrarily into projects. It includes patterns
 from <a href="">Beyond Budeting</a>, <a href="">Beta Codex</a>, and <a href="">Open Book Management</a>.</p>
   </li>
   <li>
-    <p><strong>Adaptation patterns</strong> describe proven solutions to commonplace problems in
+    <p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
+<a href="">retrospectives</a>,
+<a href="http://agiletng.org/2014/04/02/iroquois-council/">councils</a> and other
+ways for people to align understandings and make decisions together. Lean
+coffees and open spaces do the former; retros and councils do the latter. </p>
+  </li>
+  <li>
+    <p><strong>Practice patterns</strong> describe proven solutions to commonplace problems in
 a collaborative context. Similar to design patterns for software, they were
 pioneered in the initial description of XP and revived by Jim Coplien and
 Ken Schwaber in their <a href="">ScrumPLOP</a> conference.</p>

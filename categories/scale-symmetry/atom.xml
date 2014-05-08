@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetry | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetry/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-08T10:05:50+10:00</updated>
+  <updated>2014-05-08T10:20:27+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -25,6 +25,12 @@ continuously self-organizing, continuously adaptive Agile enterprise
 ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
+
+<h2 class="no_toc" id="why-xscale">Why XSCALE?</h2>
+
+<p>Over the last decade there have been several efforts to provide enterprises
+with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
+Tribal model. Each has its strengths and weaknesses.</p>
 
 <ul id="markdown-toc">
   <li><a href="#xscale-principles">XSCALE Principles</a>    <ul>
@@ -64,12 +70,6 @@ ecosystem that turns all the knobs to ten.</p>
   </li>
 </ul>
 
-<h2 class="no_toc" id="why-xscale">Why XSCALE?</h2>
-
-<p>Over the last decade there have been several efforts to provide enterprises
-with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
-Tribal model. Each has its strengths and weaknesses.</p>
-
 <ul>
   <li>
     <p><a href="">SAFe</a> targets existing enterprises with a low-discipline, top-down,
@@ -105,18 +105,20 @@ squads to do CD.</p>
 <p>XSCALE includes the best aspects of the older practices:</p>
 
 <ul>
-  <li>Like SAFe, XSCALE standardizes team practices using Scrum-XP</li>
-  <li>Like Agile Path, it transforms the enterprise iteratively</li>
-  <li>Like LeSS, it refactors component silos into feature teams </li>
-  <li>Like Spotify it uses tribes, chapters, guilds, CD and DevOps</li>
+  <li>Standardizes team practices using Scrum-XP like SAFe</li>
+  <li>Transforms the enterprise iteratively like Agile Path</li>
+  <li>Refactors component silos into feature teams like LeSS</li>
+  <li>Uses tribal structures, CD and DevOps like Spotify</li>
 </ul>
 
-<p>XSCALE offers more than just a refactoring of what came before, adding:</p>
+<p>It offers more than just a refactoring of what came before, however, adding:</p>
 
 <ul>
-  <li>Continuous adaptation using the <a href="">Seven Samurai</a> pattern language.</li>
-  <li>Continuous product planning using Lean Startup, Lean UX and <a href="">BPP</a></li>
-  <li>Continuous enterprise self-organization using <a href="">Iroquois councils</a></li>
+  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven Samurai</a> pattern
+language.</li>
+  <li>Continuous product planning using Lean Startup, Lean UX and <a href="#feature-points">BPP</a></li>
+  <li>Continuous enterprise self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois
+councils</a></li>
 </ul>
 
 <p>But why these specific practices? XSCALE’s intent is to afford enterprises
@@ -163,7 +165,7 @@ sums it up using Beck’s famous XP maxim:</p>
 <p><img src="/images/knobs.jpg"></p>
 
 <p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
-the fundamentals of technical excellence. These patterns interlock to assure
+the fundamentals of Agile technical excellence. These patterns interlock to assure
 technical debts are paid before they earn interest, thereby keeping the
 delivery process stable, predictable and flexible. </p>
 

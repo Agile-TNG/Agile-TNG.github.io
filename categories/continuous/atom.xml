@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-08T10:20:27+10:00</updated>
+  <updated>2014-05-08T10:22:47+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -66,6 +66,7 @@ Tribal model. Each has its strengths and weaknesses.</p>
   <li><a href="#continuous-adaptation">Continuous Adaptation</a>    <ul>
       <li><a href="#meeting-schedules">Meeting Schedules</a></li>
       <li><a href="#adaptation-kanban">Adaptation Kanban</a></li>
+      <li><a href="#funding-cycle">Funding Cycle</a></li>
     </ul>
   </li>
 </ul>
@@ -920,6 +921,9 @@ drawn from a backlog it generates by using BPP on its BFR, and cumulative
 flow diagrams - not to be confused with the Stream Flow diagrams - represent
 progress as the whole adapts over time.</p>
 
+<h3 id="funding-cycle">Funding Cycle</h3>
+
+<p>[more to come]</p>
 ]]></content>
   </entry>
   

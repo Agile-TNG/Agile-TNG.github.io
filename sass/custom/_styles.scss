@@ -27,3 +27,22 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
+
+@mixin shadow-box($border: #fff  .5em solid, $shadow: rgba(#000, .15) 0 1px 10px, $border-radius: 1em) {
+  @include border-radius($border-radius);
+  @include box-shadow($shadow);
+  @include box-sizing(border-box);
+  border: $border;
+}
+
+#markdown-toc:before {
+  content: "Contents";
+  font-weight: bold;
+}
+ul#markdown-toc {
+  float: right;
+  font-size: 0.9em;
+  @include shadow-box;
+  @include no-bullets;
+  background-color: white;
+}

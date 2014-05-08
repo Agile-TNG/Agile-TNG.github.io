@@ -34,11 +34,11 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: categories
 markdown: kramdown
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+#rdiscount:
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
@@ -55,7 +55,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
 # blog_index_asides:
-# post_asides:
+# post_asides
 # page_asides:
 
 # ----------------------- #

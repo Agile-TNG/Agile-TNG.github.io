@@ -5,12 +5,13 @@ date: 2014-04-21 20:46:55 +1000
 author: Peter Merel
 comments: true
 categories: 
-- eXcellent
-- Scale-Symmetric
+- eXcellence
+- Scale-Symmetry
 - Continuous
 - Autonomous
 - Lean
 - Ecosystem
+- V0.6
 ---
 
 {% img /images/xscale.png %}
@@ -21,17 +22,15 @@ ecosystem that turns all the knobs to ten.
 
 <!-- more -->
 
-**\[This post is currently in draft. It covers most of the ground but the
-graphics and some of the text still need polish. I'm sharing it as-is to
-garner feedback. You can contact me directly or find a disqus box at the
-bottom of this page. Or raise issues on the A:TNG github project if you
-prefer. Refer to this draft as V0.5.\]**
-
 ## Why XSCALE?
+{:.no_toc}
 
 Over the last decade there have been several efforts to provide enterprises
 with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
 Tribal model. Each has its strengths and weaknesses.
+
+* toc
+{:toc}
 
 * [SAFe]() targets existing enterprises with a low-discipline, top-down,
   big-change-up-front, punctuated cadence model that combines Kanban,
@@ -52,23 +51,27 @@ Tribal model. Each has its strengths and weaknesses.
 * [The Spotify model]() dispenses with Scrum of Scrums in favour of a
   pattern of [Tribes and Guilds](), strongly emphasizing bottom-up
   collaboration and team autonomy.  It gives even less prescription on team
-  practices as it rightly expects a structure of top-flight autonomous teams
-  is capable of deciding for themselves how to evolve the rollout of Agile
-  practices, but it's committed to Continuous Delivery and DevOps with every
-  tribe containing an Ops chapter dedicated to enabling squads to do CD.
+  practices, calling its smallest teams squads rather than scrums to avoid
+  dictating Scrum rules. It rightly expects a structure of top-flight
+  autonomous teams is capable of deciding for itself how to evolve the
+  rollout of Agile practices, but it is committed to Continuous Delivery and
+  DevOps with every tribe containing an Ops chapter dedicated to enabling
+  squads to do CD.
   
 XSCALE includes the best aspects of the older practices:
 
-* Like SAFe, XSCALE standardizes team practices using Scrum-XP
-* Like Agile Path, it transforms the enterprise iteratively
-* Like LeSS, it refactors component silos into feature teams 
-* Like Spotify it uses tribes, chapters, guilds, CD and DevOps
+* Standardizes team practices using Scrum-XP like SAFe
+* Transforms the enterprise iteratively like Agile Path
+* Refactors component silos into feature teams like LeSS
+* Uses tribal structures, CD and DevOps like Spotify
 
-XSCALE offers more than just a refactoring of what came before, adding:
+It offers more than just a refactoring of what came before, however, adding:
 
-* Continuous adaptation using the [Seven Samurai]() pattern language.
-* Continuous product planning using Lean Startup, Lean UX and [BPP]()
-* Continuous enterprise self-organization using [Iroquois councils]()
+* Continuous adaptation using the [Seven Samurai](http://agiletng.org/2014/03/21/the-seven-samurai/) pattern
+  language.
+* Continuous product planning using Lean Startup, Lean UX and [BPP](#feature-points)
+* Continuous enterprise self-organization using [Iroquois
+  councils](http://agiletng.org/2014/04/02/iroquois-council/)
 
 But why these specific practices? XSCALE's intent is to afford enterprises
 on all scales an absolute state of the art Agile capability while minimizing
@@ -82,10 +85,10 @@ values](http://agiletng.org/2014/03/10/4-new-values/), which form a strict
 superset of those in the Agile Manifesto. XSCALE further assumes six
 principles that also form a superset of the ones in the Manifesto.
 
-eXcellent
+eXcellence
 : Turn all the knobs to ten.
 
-Scale-symmetric
+Scale-symmetry
 : Iterate distinctions to control combinations.
 
 Continuous
@@ -103,7 +106,7 @@ Ecosystem
 Explanation for each of these follows, then the XSCALE practice patterns
 that embody them.
 
-### eXcellent
+### eXcellence
 
 The term "extreme" in the original XP unfortunately evoked the idea of
 recklessness, which wasn't helpful in the fledgling days of Agile.
@@ -117,11 +120,11 @@ sums it up using Beck's famous XP maxim:
 {% img /images/knobs.jpg %}
 
 XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
-the fundamentals of technical excellence. These patterns interlock to assure
+the fundamentals of Agile technical excellence. These patterns interlock to assure
 technical debts are paid before they earn interest, thereby keeping the
 delivery process stable, predictable and flexible. 
 
-### Scale-symmetric
+### Scale-symmetry
 
 Scale is about combinations of requirements, of dependencies, of defects,
 and of people. The number of combinations of a set grows very rapidly; a set
@@ -196,6 +199,8 @@ consensus through games. So the XSCALE principle is:
 
 **Use consensus to make decisions and to delimit accountabilities.**
 
+{% img /images/council.png %}
+
 In theory, individual accountability should be applied when the business
 cost of delaying a decision is greater than the social cost of failing to
 maintain consensus. In practice it's hard to figure these costs out.
@@ -212,19 +217,24 @@ consensus decisions while clearly maintaining team and stream autonomy.
 ### Lean
 
 Lean is often defined as "Minimizing Waste". Unfortunately that definition
-admits an ambiguity. [Lean Startup](), [Lean UX]() and [LSD]() use Lean almost
-as synonymous with Agile, but command and control frameworks like Lean Six
-Sigma and Lean Accounting interpret Lean to mean cost reduction over ROI and
-hierarchical standardization over adaptive collaboration. 
+only refers to one of four Lean pathologies, muda. Lean also works to
+minimize overburden (muri) and irregularity (mura). 
 
-This makes the latter unsuited to our purpose in XSCALE.  To prevent confusion
-XSCALE eliminates the ambiguity to define the principle simply as:
+{% img /images/mmm.jpg %}
+
+The maxim also admits an ambiguity. [Lean Startup](), [Lean UX]() and
+[LSD]() use Lean to mean process efficiency, but Lean Six Sigma and Lean
+Accounting interpret it to mean cost minimization, right first time, and
+hierarchical standardization. These latter forms of Lean can appear to
+oppose Agile's focus on maximizing ROI, fail fast, and adaptive
+collaboration.  To prevent confusion XSCALE eliminates the ambiguity by
+defining the Lean principle simply as:
 
 **Maximize net ROI**
 
-We say net ROI in order to account for Cost of Delay and other factors in
-projecting ROI over time. With this in mind XSCALE adapts several specific
-Lean practice patterns:
+We say net ROI to account for Cost of Delay (COD), and we represent both
+explicitly when adapting the order and design of the work. With this in mind
+XSCALE adapts several specific Lean practice patterns:
 
 * As a special case of Breadth-first Roadmapping, Lean Startup's [business
   model canvas]() to pivot and refactor the enterprise's value streams
@@ -248,22 +258,25 @@ fragile. This is an artefact of the [anthropocene era]() where biological
 ecosystems are undergoing catastrophic change. 
 
 The prime characteristic of an ecosystem, however, is not fragility, but
-agility - that it embraces cycles of change to maintain its productivity
-over time.  A living ecosystem differs from a zoo in that it has evolved to
-continuously adapt to changes in the populations and behaviours of its
-constituent organisms.  
+agility. An ecosystem embraces cycles of change to maintain its productivity
+over time. So a biological ecosystem differs from a zoo in that it
+continuously adapts to changes in the populations and behaviours of its
+constituent organisms. In a scale-symmetric sense the same might be said of
+an individual organism and its constituent cells.
 
-The biological principles are generation and death. Generation continously
-produces experimental variations on behaviour, and death removing variations
+The biological principles are generation and death. Generation continuously
+produces experimental variations in behaviour, and death removes variations
 that don't efficiently adapt to the whole. In XSCALE we think of Lean
-pivoting and set-based design serving the function of generation, and Agile
-refactoring serving that of death, but the principle of the ecosystem
+pivoting and [set-based design]() serving the function of generation, and
+Agile refactoring serving that of death, but the principle of the ecosystem
 remains the same:
 
 **Continuous adaptation of the whole to its parts**
 
-This isn't just about products and their features, but also the structure
-and practices of teams in streams and streams in the enterprise. This
+{%img /images/eco.png %}
+
+This isn't only about products in their marketplace, but also the structure
+and practices of squads in streams and streams in the enterprise. This
 ecosystem principle turns the Taylorist conceit of all-wise managers and
 serf-like workers on its head, leveraging the Agile function of management
 as [servant-leaders]() to autonomous teams of peer workers.
@@ -287,7 +300,7 @@ are all respectively defined by treaties in story-normal form. Councils each
 use this statement of their accountability to scope their planning using the
 **Breadth-First Roadmap** method described below.
 
-## XSCALE Practice Patterns
+## XSCALE Patterns
 
 XSCALE is "opinionated" in the same sense as [Ruby on Rails]().  This means
 you'll want to follow its practices very closely to begin with - because this
@@ -298,7 +311,7 @@ enterprise gains experience with its practices the various councils will
 collaboratively vary and augment them. Nevertheless, the following provides
 a state of the art starting point.
 
-### Enterprise Practices
+## Enterprise Practices
 
 XSCALE adopts the [Beyond Budgeting]() premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
@@ -315,7 +328,7 @@ these practices collectively as Behavioral Product Planning or "BPP".
 
 {% img /images/bbingo.png %}
 
-#### Feature Points, Story Points and Normalized Story Points
+### Feature Points
 
 In BPP we change the unit of estimation from story points to feature points.
 Where story points represent only the relative effort required to deliver a
@@ -346,7 +359,7 @@ stream, which in turn enables the stream to visualize its activities in a
 standardized cumulative flow diagram as described in he Stream Practices
 section below.
 
-#### Breadth-First Roadmap
+### Breadth-First Roadmap
 
 {% img /images/bfr.png 400 %}
 
@@ -418,7 +431,7 @@ expanded into a further roadmap at the next level down until they're small
 enough to constitute delivery stories. So it's counterproductive to
 over-specify them.
 
-#### Backlog Bingo
+### Backlog Bingo
 
 The original XP Planning Game, now known as "Planning Poker", is a proven way
 for delivery teams to collaborate on estimating the relative effort required
@@ -459,7 +472,7 @@ that's crticially important to business function, and then one roughly in
 between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
 game runs as above.
 
-#### Royal Cod Prioritization
+### Royal Cod Prioritization
 
 RoI+CoD (which we affectionately call "Royal Cod") is a simple consensus game
 to prioritise the BFR. It is both easier and more accurate than the SAFe
@@ -504,7 +517,7 @@ Once the CoD adjustments have been made, record the relative priorities of
 the features to prepare them for Roadmap Refactoring, which will determine
 how to best fit them given funding constraints and MVP per business objective. 
 
-#### Royal Cod vs WSJF
+### Royal Cod vs WSJF
 
 Why not WSJF? WSJF is defined in SAFe by the formula (Business-or-User Value
 + Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
@@ -535,7 +548,7 @@ for team members to adjust an ROI prioritization by discrete CoD per feature
 including technical CoD of technical features. The result is quick, simple and
 unambiguous.
 
-#### Bingo Uncertainty
+### Bingo Uncertainty
 
 Uncertainty can lead technical team members to refuse to estimate a feature
 in Backlog Bingo. That's healthy - you don't want a meaningless estimate.
@@ -557,7 +570,7 @@ bingo session until the team has had time to work with architects and
 designers to nail dependencies down better, or the product owner has
 sufficient time to resolve business questions.
 
-#### Roadmap Refactoring
+### Roadmap Refactoring
 
 {%img /images/roadmapr.png 400 %}
 
@@ -604,9 +617,9 @@ backlog or whenever the PO calls for it. Because it's such a quick game it's
 also possible to play in a "what-if" mode to evaluate alternative product
 plans to evaluate possible responses to changes in market conditions.
 
-### Stream Practices
+## Stream Practices
 
-#### Stream Structure
+### Stream Structure
 
 By a Stream we mean a Spotifystructured tribe that self-organizes using a
 BFR and Feature backlog, a Stream Flow diagram, an Adaptation Kanban and a
@@ -636,7 +649,7 @@ derived from the historical Iroquois Confederacy. This pattern coordinates
 decision-making across squads, streams and the enterprise as as whole is
 described in the **Continuous Adaptation** section below.
 
-#### Stream Flow Diagram
+### Stream Flow Diagram
 
 {% img /images/flow.png 400 %}
 
@@ -667,9 +680,9 @@ analysis of cycle time, latency, WIP, etc. This provides visual and
 actionable identification of wastes, bottlenecks, irregularities and
 opportunities, as well as their relative magnitudes. 
 
-### Squad Practices
+## Squad Practices
 
-#### DevOps + CD + GitFlow
+### DevOps + CD + GitFlow
 
 {% img /images/cd.png 400 %}
 
@@ -692,7 +705,7 @@ Squads are the most concrete embodiment of XSCALE principles:
   environments are equivalent under test. This assures squads collectively
   own their code base andconsistently adapt to one another as it evolves.
 
-#### Lean UX + BDD + XP
+### Lean UX + BDD + XP
 
 {% img /images/xp.png 400 %}
 
@@ -715,7 +728,7 @@ Squads are the most concrete embodiment of XSCALE principles:
 * Squads hold reviews and retrospectives every Friday and task breakout
   sessions every Monday, and every day starts with a standup meeting.
 
-### Continuous Adaptation
+## Continuous Adaptation
 
 As per the [Seven Samurai]() pattern language, XSCALE starts by constructing
 a "Minimum Viable Agile Capability" - a "spike" squad within a single stream
@@ -744,7 +757,7 @@ Enterprise Council. As described below this leverages the Scale-Symmetric
 principle to assure consistent, iterative rollout of XSCALE across the
 enterprise.
 
-#### Chapter, Squad, Guild and Council Meeting Schedule
+### Meeting Schedules
 
 {% img /images/chapters.png 400 %}
 
@@ -781,7 +794,7 @@ cycle to achieve this:
   canvas and related financial plans. The Enterprise Council may also meet
   asynchronously whenever one of its members calls for this.
 
-#### Adaptation Kanban
+### Adaptation Kanban
 
 As explained in the Ecosystem section above, Streams and Squads have their
 specific purposes distinguished by treaties framed in story-normal form.
@@ -810,3 +823,6 @@ drawn from a backlog it generates by using BPP on its BFR, and cumulative
 flow diagrams - not to be confused with the Stream Flow diagrams - represent
 progress as the whole adapts over time.
 
+### Funding Cycle
+
+\[more to come\]

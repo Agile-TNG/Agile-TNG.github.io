@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-08T10:36:16+10:00</updated>
+  <updated>2014-05-08T10:38:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -378,8 +378,6 @@ streams and squads to optimize their ROI and reconcile same with available
 funding.  As a pattern language based on and generating BDD we also refer to
 these practices collectively as Behavioral Product Planning or “BPP”.</p>
 
-<p><img src="http://Agile-TNG.github.io/images/bbingo.png" /></p>
-
 <h3 id="feature-points">Feature Points</h3>
 
 <p>In BPP we change the unit of estimation from story points to feature points.
@@ -498,6 +496,8 @@ for delivery teams to collaborate on estimating the relative effort required
 to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
 to make a method of determining the funding required to deliver a set of
 products and services. </p>
+
+<p><img src="http://Agile-TNG.github.io/images/bbingo.png" /></p>
 
 <p>Backlog Bingo is easy to play:</p>
 

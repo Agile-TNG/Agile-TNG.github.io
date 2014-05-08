@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-07T15:52:16+10:00</updated>
+  <updated>2014-05-08T10:02:25+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -26,11 +26,44 @@ ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-<p><strong>[This post is currently in draft. It covers most of the ground but the
-graphics and some of the text still needs polish. I’m sharing it as-is to
-garner feedback. You can contact me directly or find a disqus box at the
-bottom of this page. Or raise issues on the A:TNG github project if you
-prefer. Refer to this draft as V0.5.]</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#why-xscale">Why XSCALE?</a></li>
+  <li><a href="#xscale-principles">XSCALE Principles</a>    <ul>
+      <li><a href="#excellence">eXcellence</a></li>
+      <li><a href="#scale-symmetry">Scale-symmetry</a></li>
+      <li><a href="#continuous">Continuous</a></li>
+      <li><a href="#autonomous">Autonomous</a></li>
+      <li><a href="#lean">Lean</a></li>
+      <li><a href="#ecosystem">Ecosystem</a></li>
+    </ul>
+  </li>
+  <li><a href="#xscale-patterns">XSCALE Patterns</a></li>
+  <li><a href="#enterprise-practices">Enterprise Practices</a>    <ul>
+      <li><a href="#feature-points">Feature Points</a></li>
+      <li><a href="#breadth-first-roadmap">Breadth-First Roadmap</a></li>
+      <li><a href="#backlog-bingo">Backlog Bingo</a></li>
+      <li><a href="#royal-cod-prioritization">Royal Cod Prioritization</a></li>
+      <li><a href="#royal-cod-vs-wsjf">Royal Cod vs WSJF</a></li>
+      <li><a href="#bingo-uncertainty">Bingo Uncertainty</a></li>
+      <li><a href="#roadmap-refactoring">Roadmap Refactoring</a></li>
+    </ul>
+  </li>
+  <li><a href="#stream-practices">Stream Practices</a>    <ul>
+      <li><a href="#stream-structure">Stream Structure</a></li>
+      <li><a href="#stream-flow-diagram">Stream Flow Diagram</a></li>
+    </ul>
+  </li>
+  <li><a href="#squad-practices">Squad Practices</a>    <ul>
+      <li><a href="#devops--cd--gitflow">DevOps + CD + GitFlow</a></li>
+      <li><a href="#lean-ux--bdd--xp">Lean UX + BDD + XP</a></li>
+    </ul>
+  </li>
+  <li><a href="#continuous-adaptation">Continuous Adaptation</a>    <ul>
+      <li><a href="#meeting-schedules">Meeting Schedules</a></li>
+      <li><a href="#adaptation-kanban">Adaptation Kanban</a></li>
+    </ul>
+  </li>
+</ul>
 
 <h2 id="why-xscale">Why XSCALE?</h2>
 
@@ -100,9 +133,9 @@ superset of those in the Agile Manifesto. XSCALE further assumes six
 principles that also form a superset of the ones in the Manifesto.</p>
 
 <dl>
-  <dt>eXcellent</dt>
+  <dt>eXcellence</dt>
   <dd>Turn all the knobs to ten.</dd>
-  <dt>Scale-symmetric</dt>
+  <dt>Scale-symmetry</dt>
   <dd>Iterate distinctions to control combinations.</dd>
   <dt>Continuous</dt>
   <dd>Use the smallest practical cycle time and batch size.</dd>
@@ -117,7 +150,7 @@ principles that also form a superset of the ones in the Manifesto.</p>
 <p>Explanation for each of these follows, then the XSCALE practice patterns
 that embody them.</p>
 
-<h3 id="excellent">eXcellent</h3>
+<h3 id="excellence">eXcellence</h3>
 
 <p>The term “extreme” in the original XP unfortunately evoked the idea of
 recklessness, which wasn’t helpful in the fledgling days of Agile.
@@ -135,7 +168,7 @@ the fundamentals of technical excellence. These patterns interlock to assure
 technical debts are paid before they earn interest, thereby keeping the
 delivery process stable, predictable and flexible. </p>
 
-<h3 id="scale-symmetric">Scale-symmetric</h3>
+<h3 id="scale-symmetry">Scale-symmetry</h3>
 
 <p>Scale is about combinations of requirements, of dependencies, of defects,
 and of people. The number of combinations of a set grows very rapidly; a set
@@ -317,7 +350,7 @@ are all respectively defined by treaties in story-normal form. Councils each
 use this statement of their accountability to scope their planning using the
 <strong>Breadth-First Roadmap</strong> method described below.</p>
 
-<h2 id="xscale-practice-patterns">XSCALE Practice Patterns</h2>
+<h2 id="xscale-patterns">XSCALE Patterns</h2>
 
 <p>XSCALE is “opinionated” in the same sense as <a href="">Ruby on Rails</a>.  This means
 you’ll want to follow its practices very closely to begin with - because this
@@ -328,7 +361,7 @@ enterprise gains experience with its practices the various councils will
 collaboratively vary and augment them. Nevertheless, the following provides
 a state of the art starting point.</p>
 
-<h3 id="enterprise-practices">Enterprise Practices</h3>
+<h2 id="enterprise-practices">Enterprise Practices</h2>
 
 <p>XSCALE adopts the <a href="">Beyond Budgeting</a> premise that each value stream must
 either earn its keep or convince other, self-funded streams that it is worth
@@ -345,7 +378,7 @@ these practices collectively as Behavioral Product Planning or “BPP”.</p>
 
 <p><img src="http://Agile-TNG.github.io/images/bbingo.png" /></p>
 
-<h4 id="feature-points-story-points-and-normalized-story-points">Feature Points, Story Points and Normalized Story Points</h4>
+<h3 id="feature-points">Feature Points</h3>
 
 <p>In BPP we change the unit of estimation from story points to feature points.
 Where story points represent only the relative effort required to deliver a
@@ -376,7 +409,7 @@ stream, which in turn enables the stream to visualize its activities in a
 standardized cumulative flow diagram as described in he Stream Practices
 section below.</p>
 
-<h4 id="breadth-first-roadmap">Breadth-First Roadmap</h4>
+<h3 id="breadth-first-roadmap">Breadth-First Roadmap</h3>
 
 <p><img src="http://Agile-TNG.github.io/images/bfr.png" width="400" /></p>
 
@@ -456,7 +489,7 @@ expanded into a further roadmap at the next level down until they’re small
 enough to constitute delivery stories. So it’s counterproductive to
 over-specify them.</p>
 
-<h4 id="backlog-bingo">Backlog Bingo</h4>
+<h3 id="backlog-bingo">Backlog Bingo</h3>
 
 <p>The original XP Planning Game, now known as “Planning Poker”, is a proven way
 for delivery teams to collaborate on estimating the relative effort required
@@ -505,7 +538,7 @@ that’s crticially important to business function, and then one roughly in
 between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
 game runs as above.</p>
 
-<h4 id="royal-cod-prioritization">Royal Cod Prioritization</h4>
+<h3 id="royal-cod-prioritization">Royal Cod Prioritization</h3>
 
 <p>RoI+CoD (which we affectionately call “Royal Cod”) is a simple consensus game
 to prioritise the BFR. It is both easier and more accurate than the SAFe
@@ -554,7 +587,7 @@ feature that depends upon it.</p>
 the features to prepare them for Roadmap Refactoring, which will determine
 how to best fit them given funding constraints and MVP per business objective. </p>
 
-<h4 id="royal-cod-vs-wsjf">Royal Cod vs WSJF</h4>
+<h3 id="royal-cod-vs-wsjf">Royal Cod vs WSJF</h3>
 
 <p>Why not WSJF? WSJF is defined in SAFe by the formula (Business-or-User Value
 + Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
@@ -585,7 +618,7 @@ for team members to adjust an ROI prioritization by discrete CoD per feature
 including technical CoD of technical features. The result is quick, simple and
 unambiguous.</p>
 
-<h4 id="bingo-uncertainty">Bingo Uncertainty</h4>
+<h3 id="bingo-uncertainty">Bingo Uncertainty</h3>
 
 <p>Uncertainty can lead technical team members to refuse to estimate a feature
 in Backlog Bingo. That’s healthy - you don’t want a meaningless estimate.
@@ -609,7 +642,7 @@ bingo session until the team has had time to work with architects and
 designers to nail dependencies down better, or the product owner has
 sufficient time to resolve business questions.</p>
 
-<h4 id="roadmap-refactoring">Roadmap Refactoring</h4>
+<h3 id="roadmap-refactoring">Roadmap Refactoring</h3>
 
 <p><img src="http://Agile-TNG.github.io/images/roadmapr.png" width="400" /></p>
 
@@ -658,9 +691,9 @@ backlog or whenever the PO calls for it. Because it’s such a quick game it’s
 also possible to play in a “what-if” mode to evaluate alternative product
 plans to evaluate possible responses to changes in market conditions.</p>
 
-<h3 id="stream-practices">Stream Practices</h3>
+<h2 id="stream-practices">Stream Practices</h2>
 
-<h4 id="stream-structure">Stream Structure</h4>
+<h3 id="stream-structure">Stream Structure</h3>
 
 <p>By a Stream we mean a Spotifystructured tribe that self-organizes using a
 BFR and Feature backlog, a Stream Flow diagram, an Adaptation Kanban and a
@@ -690,7 +723,7 @@ derived from the historical Iroquois Confederacy. This pattern coordinates
 decision-making across squads, streams and the enterprise as as whole is
 described in the <strong>Continuous Adaptation</strong> section below.</p>
 
-<h4 id="stream-flow-diagram">Stream Flow Diagram</h4>
+<h3 id="stream-flow-diagram">Stream Flow Diagram</h3>
 
 <p><img src="http://Agile-TNG.github.io/images/flow.png" width="400" /></p>
 
@@ -723,9 +756,9 @@ analysis of cycle time, latency, WIP, etc. This provides visual and
 actionable identification of wastes, bottlenecks, irregularities and
 opportunities, as well as their relative magnitudes. </p>
 
-<h3 id="squad-practices">Squad Practices</h3>
+<h2 id="squad-practices">Squad Practices</h2>
 
-<h4 id="devops--cd--gitflow">DevOps + CD + GitFlow</h4>
+<h3 id="devops--cd--gitflow">DevOps + CD + GitFlow</h3>
 
 <p><img src="http://Agile-TNG.github.io/images/cd.png" width="400" /></p>
 
@@ -750,7 +783,7 @@ environments are equivalent under test. This assures squads collectively
 own their code base andconsistently adapt to one another as it evolves.</li>
 </ul>
 
-<h4 id="lean-ux--bdd--xp">Lean UX + BDD + XP</h4>
+<h3 id="lean-ux--bdd--xp">Lean UX + BDD + XP</h3>
 
 <p><img src="http://Agile-TNG.github.io/images/xp.png" width="400" /></p>
 
@@ -780,7 +813,7 @@ sessions every Monday, and every day starts with a standup meeting.</p>
   </li>
 </ul>
 
-<h3 id="continuous-adaptation">Continuous Adaptation</h3>
+<h2 id="continuous-adaptation">Continuous Adaptation</h2>
 
 <p>As per the <a href="">Seven Samurai</a> pattern language, XSCALE starts by constructing
 a “Minimum Viable Agile Capability” - a “spike” squad within a single stream
@@ -809,7 +842,7 @@ Enterprise Council. As described below this leverages the Scale-Symmetric
 principle to assure consistent, iterative rollout of XSCALE across the
 enterprise.</p>
 
-<h4 id="chapter-squad-guild-and-council-meeting-schedule">Chapter, Squad, Guild and Council Meeting Schedule</h4>
+<h3 id="meeting-schedules">Meeting Schedules</h3>
 
 <p><img src="http://Agile-TNG.github.io/images/chapters.png" width="400" /></p>
 
@@ -855,7 +888,7 @@ asynchronously whenever one of its members calls for this.</p>
   </li>
 </ul>
 
-<h4 id="adaptation-kanban">Adaptation Kanban</h4>
+<h3 id="adaptation-kanban">Adaptation Kanban</h3>
 
 <p>As explained in the Ecosystem section above, Streams and Squads have their
 specific purposes distinguished by treaties framed in story-normal form.

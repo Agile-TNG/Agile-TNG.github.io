@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lean | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/lean/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-10T13:11:36+10:00</updated>
+  <updated>2014-05-10T13:15:22+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -199,17 +199,17 @@ segment undergoes a simple transformation into 4 smaller line segments. Then
 each of those is transformed the same way, and so on, breadth-first.</p>
 
 <p>XSCALE applies this principle to the challenge of determining which
-combinations of business alternatives have most value. Small projects look to
-a good product owner for this, but when you’ve got portfolios of programs of
-projects, it gets combinatorially hard. As agile works as a hill-climbing
-algorithm, continously integrating little stories into a whole, it’s quite
-happy to climb a molehill of value when there’s an Everest right next door.  </p>
+combinations of business alternatives have most value.  Agile works as a
+hill-climbing algorithm, continously integrating little stories into a whole,
+it’s quite happy to climb a molehill of value when there’s an Everest right
+next door. Small projects look to a good product owner to find their Everest,
+but when you’ve got portfolios of programs of projects, misalignment is easy
+and consistent valu3 is combinatorially hard. </p>
 
-<p>To control this combinatorial space XSCALE uses the Behavioral Product
-Planning games, which make breadth-first distinctions about business
-alternatives and then sort them into easily optimized piles. BPP iterates
-breadth-first to assure consistent decisions about alternatives at all
-scales. </p>
+<p>XSCALE uses the Behavioral Product Planning games to control this
+combinatorial space. BPP makes breadth-first distinctions about business
+alternatives, then sorts them into easily optimized piles and iterates. The
+BPP process assures consistent decisions about alternatives at all scales. </p>
 
 <h3 id="continuous">Continuous</h3>
 

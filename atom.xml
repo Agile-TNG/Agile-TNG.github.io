@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-10T12:48:56+10:00</updated>
+  <updated>2014-05-10T13:11:36+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -111,11 +111,11 @@ Delivery and DevOps.</p>
 <p>But XSCALE is more than just a sum of the parts, introducing:</p>
 
 <ul>
-  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven
-Samurai</a> pattern language.</li>
+  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven Samurai</a> pattern
+language.</li>
   <li>Continuous product planning based on Lean Startup, Lean UX and <a href="#feature-points">BPP</a></li>
-  <li>Continuous self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois
-councils</a>, a variety of Open Space.</li>
+  <li>Continuous self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois councils</a>, a
+variety of Open Space.</li>
 </ul>
 
 <p>XSCALE’s intent is to afford enterprises on all scales a complete and customisable
@@ -128,13 +128,13 @@ principles.</p>
 <p>XSCALE conforms with the <a href="http://agiletng.org/2014/03/10/4-new-values/">A:TNG
 values</a>, which form a strict
 superset of those in the Agile Manifesto. XSCALE also offers six
-principles that form a superset of those in the Manifesto.</p>
+principles that form a superset of the ones in the Manifesto.</p>
 
 <dl>
   <dt>eXcellence</dt>
   <dd>Turn all the knobs to ten.</dd>
   <dt>Scale-symmetry</dt>
-  <dd>Iterate distinctions to control combinations.</dd>
+  <dd>Use distinctions to control combinations.</dd>
   <dt>Continuous</dt>
   <dd>Use the smallest practical cycle time and batch size.</dd>
   <dt>Autonomous</dt>
@@ -145,16 +145,16 @@ principles that form a superset of those in the Manifesto.</p>
   <dd>Continuous adaptation of the whole to its parts.</dd>
 </dl>
 
-<p>Explanation for each of these follows, then the XSCALE practice patterns
+<p>Explanation for each of these follows, then a selection of practice patterns
 that embody them.</p>
 
 <h3 id="excellence">eXcellence</h3>
 
 <p>The term “extreme” in the original XP unfortunately evoked the idea of
-recklessness, which wasn’t helpful in the fledgling days of Agile.
-Nevertheless the manifesto authors recognized its intent in a principle that
+recklessness, which caused some trepidation in the fledgling days of Agile.
+Nevertheless the manifesto authors recognized XP’s true intent in a principle that
 reads, “Continuous attention to technical excellence and good design
-enhances agility”. So XSCALE calls such continuous attention “eXcellent” and
+enhances agility”. XSCALE calls such continuous attention “eXcellence” and
 sums it up using Beck’s famous XP maxim:</p>
 
 <p><strong>Turn all the knobs to ten</strong>.</p>
@@ -162,38 +162,48 @@ sums it up using Beck’s famous XP maxim:</p>
 <p><img src="http://Agile-TNG.github.io/images/knobs.jpg" /></p>
 
 <p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
-the fundamentals of Agile technical excellence. These patterns interlock to assure
-technical debts are paid before they earn interest, thereby keeping the
-delivery process stable, predictable and flexible. </p>
+the fundamentals of technical excellence. These patterns interlock to assure
+technical debt is paid before it earns interest by impatcting ROI, and thereby 
+keeping the delivery process stable, predictable and flexible. </p>
 
 <h3 id="scale-symmetry">Scale-symmetry</h3>
 
 <p>Scale is about combinations of requirements, of dependencies, of defects,
 and of people. The number of combinations of a set grows very rapidly; a set
-of just 10 things has over 3.6 million distinct combinations. Yet golfers
-are untroubled by combinations of grass blades. Golfers make simple
-distinctions to control the combined behaviours of grass: “the green”, “the
-rough”, and so on. They never think about combinations of the individual
-blades. </p>
+of just 10 things has over 3.6 million distinct combinations. </p>
+
+<p>Yet golfers are untroubled by combinations of billions of grass blades.  They
+use simple distinctions to control the combined behaviours of grass: “the
+green”, “the rough”, and so on. Once the ball is placed they make further
+sub-distinctions to do with common slopes and blade-lengths.  They only make
+distinctions about the commonalities, never about all the interactions between
+individual grass blades. </p>
 
 <p>Agile uses this approach when it 
-* refactors code into distinct (<a href="">DRY</a>) classes
-* automates testing to minimize combinations of ambient defects
-* combines people into distinct feature teams to limit interdependencies.  </p>
+* refactors code into distinct (<a href="">DRY</a>) classes by common behaviours
+* automates testing to keep ambient defect count low, minimizing the time
+  required to sort out combinations of defects
+* combines people into small teams with distinct backlogs to limit the need
+  for cross-team communications
+* The Spotify patterns do this too by factoring cross-cutting concerns to
+  distinct chapters and guilds. </p>
 
-<p>The Spotify patterns also do it by factoring combinations of conversations
-to small meetings with specific concerns. In general the principle is:</p>
+<p>In general the principle is:</p>
 
 <p><strong>Iterate distinctions to control combinations</strong></p>
 
 <p><img src="http://Agile-TNG.github.io/images/koch-curve.gif" /></p>
 
-<p>XSCALE applies this to the challenge of determining which combinations of
-business alternatives have most value. Small projects look to a good product
-owner for this, but when you’ve got portfolios of programs of projects, it
-gets combinatorially hard. As agile works as a hill-climbing algorithm,
-continously integrating little stories into a whole, it’s quite happy to
-climb a molehill of value when there’s an Everest right next door.  </p>
+<p>Fractal curves use the same idea. In this animation of a “Koch Curve” a line
+segment undergoes a simple transformation into 4 smaller line segments. Then
+each of those is transformed the same way, and so on, breadth-first.</p>
+
+<p>XSCALE applies this principle to the challenge of determining which
+combinations of business alternatives have most value. Small projects look to
+a good product owner for this, but when you’ve got portfolios of programs of
+projects, it gets combinatorially hard. As agile works as a hill-climbing
+algorithm, continously integrating little stories into a whole, it’s quite
+happy to climb a molehill of value when there’s an Everest right next door.  </p>
 
 <p>To control this combinatorial space XSCALE uses the Behavioral Product
 Planning games, which make breadth-first distinctions about business

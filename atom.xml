@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-08T12:10:14+10:00</updated>
+  <updated>2014-05-10T12:24:17+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[XSCALE: Beyond SAFe and LeSS]]></title>
+    <title type="html"><![CDATA[Xscale]]></title>
     <link href="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
-    <updated>2014-04-21T20:46:55+10:00</updated>
+    <updated>2014-04-21T00:00:00+10:00</updated>
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
     <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/xscale.png" /></p>
 
@@ -26,13 +26,14 @@ ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-<h2 class="no_toc" id="why-xscale">Why XSCALE?</h2>
+<h2 class="no-toc" id="why-xscale">Why XSCALE?</h2>
 
-<p>Over the last decade there have been several efforts to provide enterprises
-with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
-Tribal model. Each has its strengths and weaknesses.</p>
+<p>Over the past decade there have been several efforts to provide enterprises with a way
+to scale Agile. The best known are SAFe, LeSS, and the Spotify Tribal model. Each has
+its strengths and weaknesses.</p>
 
 <ul id="markdown-toc">
+  <li><a href="#why-xscale">Why XSCALE?</a></li>
   <li><a href="#xscale-principles">XSCALE Principles</a>    <ul>
       <li><a href="#excellence">eXcellence</a></li>
       <li><a href="#scale-symmetry">Scale-symmetry</a></li>
@@ -73,37 +74,33 @@ Tribal model. Each has its strengths and weaknesses.</p>
 
 <ul>
   <li>
-    <p><a href="">SAFe</a> targets existing enterprises with a low-discipline, top-down,
-big-change-up-front, punctuated cadence model that combines Kanban,
-quarterly <a href="">release trains</a>, XP and Scrum. SAFe is a good starting point
-for more conservative organizations because it’s designed to enable
-agility while keeping component silos intact. But this means it shys away
-from feature teams, continuous delivery and scale-symmetry.</p>
+    <p><a href="">SAFe</a> targets existing enterprises with a high-discipline, top-down,
+big-change-up-front, punctuated cadence Agile model that combines Kanban, quarterly
+<a href="">release trains</a>, XP and Scrum. SAFe is a good starting point for conservative
+organizations as it’s designed to enable agility while keeping component silos intact.
+But that means it <a href="http://xprogramming.com/articles/safe-good-but-not-good-enough/">shys away from feature teams, continuous delivery and
+scale-symmetry</a>.</p>
   </li>
   <li>
-    <p><a href="">LeSS</a>/Agile Path/Enterprise Scrum, etc., are scale-symmetric
-alternatives closely based on traditional Scrum. They offer low-discipline
-high-collaboration, continuous cadence models that employ <a href="">Scrum of
-Scrums</a> to deal with integration and cross-cutting concerns. XP
-practices are optional but feature teams are mandatory. LeSS is
-big-change-up-front but Agile Path is an iterative alternative.  Specific
-practices for product planning, test automation and so on are left for
-teams to determine ad hoc. </p>
+    <p><a href="">LeSS</a> and <a href="">Agile Path</a> are scale-symmetric alternatives based on traditional
+Scrum. They offer low-discipline high-collaboration, continuous cadence models that
+employ <a href="">Scrum of Scrums</a> to deal with integration and cross-cutting concerns. XP
+practices are optional but feature teams are mandatory. Like SAFe, LeSS uses
+big-change-up-front but Agile Path introduces a method of continuous transformation.
+Specific practices for product planning, test automation and so on are left for teams
+to determine ad hoc. </p>
   </li>
   <li>
-    <p><a href="">The Spotify model</a> dispenses with Scrum of Scrums in favour of a
-pattern of <a href="">Tribes and Guilds</a>, strongly emphasizing bottom-up
-collaboration and team autonomy.  It gives even less prescription on team
-practices, calling its smallest teams squads rather than scrums to avoid
-dictating Scrum rules. It rightly expects a structure of top-flight
-autonomous teams is capable of deciding for itself how to evolve the
-rollout of Agile practices, but it is committed to Continuous Delivery and
-DevOps with every tribe containing an Ops chapter dedicated to enabling
-squads to do CD.</p>
+    <p><a href="">The Spotify model</a> dispenses with Scrum of Scrums in favour of a pattern of <a href="">Tribes
+and Guilds</a>, strongly emphasizing team autonomy.  It gives little prescription on
+team practices, calling its smallest teams squads to avoid dictating even the Scrum
+rules. It rightly expects a structure of top-flight autonomous teams will be able to
+decide for itself how to evolve Agile practices. But it still commits to Continuous
+Delivery and DevOps.</p>
   </li>
 </ul>
 
-<p>XSCALE includes the best aspects of the older practices:</p>
+<p>XSCALE is a synthesis of these frameworks that:</p>
 
 <ul>
   <li>Standardizes team practices using Scrum-XP like SAFe</li>
@@ -112,20 +109,20 @@ squads to do CD.</p>
   <li>Uses tribal structures, CD and DevOps like Spotify</li>
 </ul>
 
-<p>It offers more than just a refactoring of what came before, however, adding:</p>
+<p>But XSCALE is more than just a sum of the parts, introducing:</p>
 
 <ul>
-  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven Samurai</a> pattern
-language.</li>
-  <li>Continuous product planning using Lean Startup, Lean UX and <a href="#feature-points">BPP</a></li>
-  <li>Continuous enterprise self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois
-councils</a></li>
+  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven
+Samurai</a> pattern language.</li>
+  <li>Continuous product planning based on Lean Startup, Lean UX and <a href="#feature-points">BPP</a></li>
+  <li>Continuous self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois
+councils</a>, a variety of Open Space.</li>
 </ul>
 
-<p>But why these specific practices? XSCALE’s intent is to afford enterprises
-on all scales an absolute state of the art Agile capability while minimizing
-risk of disruption to their existing value streams. So let’s take a step back
-and understand this in principle before we get down to nuts and bolts.</p>
+<p>XSCALE’s intent is to afford enterprises on all scales a complete and customisable
+pattern language for their Agile capability that minimizes risk of disruption to
+existing value streams. Like Agile itself, it does this by starting from first
+principles.</p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 

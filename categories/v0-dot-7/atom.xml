@@ -4,7 +4,7 @@
   <title><![CDATA[Category: V0.7 | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/v0-dot-7/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-10T14:42:42+10:00</updated>
+  <updated>2014-05-10T14:43:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -444,8 +444,8 @@ shared intent.</p>
 <p>For example, consider the following scoping story from <a href="">Despicable Me</a>:</p>
 
 <blockquote>
-  <p>As a super-villain
-I want a hand-held super-weapon
+  <p>As a super-villain<br />
+I want a hand-held super-weapon<br />
 So that I can overpower ordinary people</p>
 </blockquote>
 

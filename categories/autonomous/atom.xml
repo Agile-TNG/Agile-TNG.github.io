@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-10T13:21:50+10:00</updated>
+  <updated>2014-05-10T14:42:42+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -112,11 +112,13 @@ Delivery and DevOps.</p>
 <p>But XSCALE is more than just a sum of the parts, introducing:</p>
 
 <ul>
-  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven Samurai</a> pattern
-language.</li>
-  <li>Continuous product planning based on Lean Startup, Lean UX and <a href="#feature-points">BPP</a></li>
-  <li>Continuous self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois councils</a>, a
-variety of Open Space.</li>
+  <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven
+Samurai</a> pattern language.</li>
+  <li>Continuous product planning based on Lean Startup, Lean UX and
+<a href="#feature-points">BPP</a></li>
+  <li>Continuous self-organization using <a href="http://agiletng.org/2014/04/02/iroquois-council/">Iroquois
+councils</a>, a variety of Open
+Space.</li>
 </ul>
 
 <p>XSCALE’s intent is to afford enterprises on all scales a complete and customisable
@@ -272,12 +274,12 @@ consensus decisions while clearly maintaining team and stream autonomy.</p>
 <h3 id="lean">Lean</h3>
 
 <p>Lean is often defined as “Minimizing Waste”. Unfortunately that definition
-only refers to one of four Lean pathologies, muda. Lean also works to
+only refers to one of the three Lean pathologies, muda. Lean also works to
 minimize overburden (muri) and irregularity (mura). </p>
 
 <p><img src="/images/mmm.jpg"></p>
 
-<p>The maxim also admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and
+<p>The waste maxim also admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and
 <a href="">LSD</a> use Lean to mean process efficiency, but Lean Six Sigma and Lean
 Accounting interpret it to mean cost minimization, right first time, and
 hierarchical standardization. These latter forms of Lean can appear to
@@ -287,7 +289,7 @@ defining the Lean principle simply as:</p>
 
 <p><strong>Maximize net ROI</strong></p>
 
-<p>We say net ROI to account for Cost of Delay (COD), and we represent both
+<p>We say net ROI to account for Cost of Delay (COD), and we represent this
 explicitly when adapting the order and design of the work. With this in mind
 XSCALE adapts several specific Lean practice patterns:</p>
 
@@ -302,11 +304,11 @@ funding, stream return, and the stream roadmap</li>
   <li><a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>.</li>
 </ul>
 
-<p>These Lean practices all work to maximise net ROI. XSCALE interlocks them
-using scale-symmetric roadmapping to render a stream funding cycle without
-resorting to project budgets and baselines yet remaining continuously
-responsive to metrics and learnings for the teams in the stream and for the
-market for the stream’s output.</p>
+<p>These Lean practices all work to maximise net ROI. XSCALE interlocks them using
+scale-symmetric roadmapping to render a simple stream funding cycle without resorting
+to project budgets and baselines. This provides a way for teams in the stream and
+streams in the enterprise to continuously respond to changes in internal and external
+metrics, innovations and new learnings.</p>
 
 <h3 id="ecosystem">Ecosystem</h3>
 
@@ -439,6 +441,19 @@ shared intent.</p>
 
 <p><img src="/images/roadmap0.png" width="400"></p>
 
+<p>For example, consider the following scoping story from <a href="">Despicable Me</a>:</p>
+
+<blockquote>
+  <p>As a super-villain
+I want a hand-held super-weapon
+So that I can overpower ordinary people</p>
+</blockquote>
+
+<p>We may imagine three objectives on the resulting roadmap: a <a href="https://www.youtube.com/watch?v=bYfG2FwkVkM">Freeze
+Ray</a>, a <a href="https://www.youtube.com/watch?v=X1gCJrOISYo">Squid
+Launncher</a>, and <a href="https://www.youtube.com/watch?v=K0__FYRdiSY">Purple
+Minions</a>.</p>
+
 <ul>
   <li>At every level, BFR takes the form of a matrix of objectives and themes
 where a theme defines a category of acceptance criteria for a cross-cutting
@@ -464,6 +479,12 @@ also have some acceptance criteria in it.</li>
 roadmap’s boxes are consistently updated.</li>
 </ul>
 
+<p>So above we realize that purple minions aren’t a hand-held weapon, but <a href="https://www.youtube.com/watch?v=r5VQ6MowYm0&amp;t=20m45s">the gun that
+converts yellow minions to purple
+is</a>, so we modify the roadmap
+accordingly. We also note acceptance criteria here to do with scaling to large 
+populations and changing their allegiances, so add themes for those.</p>
+
 <p><img src="/images/roadmap2.png" width="400"></p>
 
 <ul>
@@ -475,6 +496,10 @@ all themes.</li>
   <li>If it appears that all features have the same pattern of checkboxes for two
 themes, consider whether those two may be refactored into one.</li>
 </ul>
+
+<p>Continuing the humorous example, we see that none of the three weapons so far is both
+accurate and scalable. So it seems there’s a missing feature: the <a href="https://www.youtube.com/watch?v=AnxRf4JnXPU">Shrink
+Ray</a>.</p>
 
 <p><img src="/images/roadmap3.png" width="400"></p>
 
@@ -489,12 +514,16 @@ theme into a feature.</li>
 complete or there is no more time available.</li>
 </ul>
 
-<p>To use BFR properly it’s important to keep “breadth-first” in mind. The
+<p>Completing the example roadmap above we note that it will save costs if all these
+portable weapons share a common chassis - a handle, a trigger and an aiming device. So
+we factor out a technical feature for that. And since none of these devices have
+acceptance criteria involving a Food Supply any more, we can simply delete that theme.</p>
+
+<p>To use BFR like this properly it’s important to keep “breadth-first” in mind. The
 roadmapping process may become long and onerous if features and themes are too
-numerous or detailed for the scale of the roadmap. Each feature will be
-expanded into a further roadmap at the next level down until they’re small
-enough to constitute delivery stories. So it’s counterproductive to
-over-specify them.</p>
+numerous or detailed for the scale of the roadmap. Each feature may be expanded into
+a further roadmap at the next level down until they’re small enough to constitute
+delivery stories. So it’s counterproductive to over-specify them.</p>
 
 <h3 id="backlog-bingo">Backlog Bingo</h3>
 

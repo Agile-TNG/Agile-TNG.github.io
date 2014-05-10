@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetry | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetry/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-10T13:15:22+10:00</updated>
+  <updated>2014-05-10T13:17:48+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -225,10 +225,10 @@ inter-team dependency cycles.</li>
   <li>Lost ROI from keeping finished features on ice for a quarter</li>
 </ul>
 
-<p>Because it employs continuous rather than big-bang transformation, XSCALE is
-able to iteratively break component silos into feature teams, and thereby
-avoids these penalties because feature teams can use the GitFlow pattern
-language for continuous delivery. The principle is simply:</p>
+<p>By employing continuous rather than big-bang transformation, XSCALE improves
+on SAFe to iteratively break component silos into feature teams. The benefit
+is to avoid the above penalties as feature teams can use the GitFlow pattern
+language for continuous delivery. In general the principle is simply:</p>
 
 <p><strong>Always use the smallest practical cycle time and batch size</strong></p>
 

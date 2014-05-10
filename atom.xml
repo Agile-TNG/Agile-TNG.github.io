@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-10T13:20:49+10:00</updated>
+  <updated>2014-05-10T13:21:50+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -20,9 +20,9 @@
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
     <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/xscale.png" /></p>
 
-<p>Based on SAFe, Spotify and BDD, XSCALE is a continuously delivering,
+<p>Grounded in SAFe, Spotify and BDD, XSCALE is a continuously delivering,
 continuously self-organizing, continuously adaptive Agile enterprise
-architecture that turns all the knobs to ten.</p>
+ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 

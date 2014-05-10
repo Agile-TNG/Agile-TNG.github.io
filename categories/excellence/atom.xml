@@ -1,137 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>XSCALE: SAFe + LeSS + Spotify - Agile: The Next Generation</title>
-  <meta name="author" content="Peter Merel">
-  <link rel="author" href="humans.txt">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  
+  <title><![CDATA[Category: eXcellence | Agile: The Next Generation]]></title>
+  <link href="http://Agile-TNG.github.io/categories/excellence/atom.xml" rel="self"/>
+  <link href="http://Agile-TNG.github.io/"/>
+  <updated>2014-05-10T12:27:38+10:00</updated>
+  <id>http://Agile-TNG.github.io/</id>
+  <author>
+    <name><![CDATA[Peter Merel]]></name>
     
-  
-  <meta name="description" content="Reflecting our work over recent years, XSCALE is a continuously delivering,
-continuously self-organizing, continuously adaptive Agile enterprise &hellip;">
-  
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://Agile-TNG.github.io/2014/04/21/xscale/">
-  <link href="/favicon.png" rel="icon">
-  <link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Agile: The Next Generation" type="application/atom+xml">
-  <meta name="og:type" content="website" />
-  <meta name="og:site_name" content="Agile: The Next Generation" />
-  <meta name="og:title" content="XSCALE: SAFe + LeSS + Spotify" />
-  <meta name="og:description" content="Reflecting our work over recent years, XSCALE is a continuously delivering,
-continuously self-organizing, continuously adaptive Agile enterprise &hellip;" />
-  <meta name="og:url" content="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
-  <meta name="url" content="http://Agile-TNG.github.io/2014/04/21/xscale/">
-  
-  <meta name="subject" content="AutonomousContinuousEcosystemLeanScale-SymmetryV0.7eXcellence"/>
-  <meta name="category" content="AutonomousContinuousEcosystemLeanScale-SymmetryV0.7eXcellence"/>
-  
-  <meta name="distribution" content="global">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='http://fonts.googleapis.com/css?family=Nova+Square:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Rationale:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Ubuntu:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-
-  
-
-
-  <!-- slider -->
-  <link href="/stylesheets/banner-style.css" rel="stylesheet" type="text/css"> 
-  <link rel="stylesheet" id="slideshow-css" href="/stylesheets/slider.css" type="text/css" media="all">
-  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-  <script src="/javascripts/slider.js"></script> 
-
-</head>
-
-<body   >
-  <nav role="navigation"><div class="navbar">
-  <div class="navbar-inner">
-    <a class="brand" href="/">Agile: The Next Generation</a>
-    <ul class="nav">
-      <li><a href="/categories/mission">Mission</a></li>
-      <li><a href="/about">About</a></li>
-      <li><a href="/archives">Archives</a></li>
-    </ul>
-    <ul class="nav" data-subscription="rss">
-      <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-      
-    </ul>
-      
-    <form class="navbar-form" action="http://google.com/search" method="get">
-      <fieldset role="search">
-        <input type="hidden" name="q" value="site:Agile-TNG.github.io" />
-        <input class="span2" type="text" name="q" results="0" placeholder="Search"/>
-      </fieldset>
-    </form>
-      
-    
-  </div>
-</div>
-</nav>
-  <div class="wrapper_single">
-    <div class="container">
-      <article class="span8 offset2" role="article">
-        <div class="article-format">
-
-  <header>
-    
-      <h1 class="entry-title">XSCALE: SAFe + LeSS + Spotify</h1>
-    
-    
-      <p class="meta">
-        
-  
-
-
-  
-    <span class="byline author vcard">by <span class="fn">Peter Merel</span></span>
-  
-
- - 
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-04-21T20:46:55+10:00" pubdate data-updated="true">Apr 21<span>st</span>, 2014</time> - 
-        
-
-posted in
-<span class="categories">
-  
-    <a class='category' href='/categories/autonomous/'>Autonomous</a>, <a class='category' href='/categories/continuous/'>Continuous</a>, <a class='category' href='/categories/ecosystem/'>Ecosystem</a>, <a class='category' href='/categories/lean/'>Lean</a>, <a class='category' href='/categories/scale-symmetry/'>Scale-Symmetry</a>, <a class='category' href='/categories/v0-dot-7/'>V0.7</a>, <a class='category' href='/categories/excellence/'>eXcellence</a>
-  
-</span>
-
-
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img src="/images/xscale.png" /></p>
+  <entry>
+    <title type="html"><![CDATA[XSCALE: SAFe + LeSS + Spotify]]></title>
+    <link href="http://Agile-TNG.github.io/2014/04/21/xscale/"/>
+    <updated>2014-04-21T20:46:55+10:00</updated>
+    <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
+    <content type="html"><![CDATA[<p><img src="/images/xscale.png"></p>
 
 <p>Reflecting our work over recent years, XSCALE is a continuously delivering,
 continuously self-organizing, continuously adaptive Agile enterprise
@@ -273,7 +160,7 @@ sums it up using Beck’s famous XP maxim:</p>
 
 <p><strong>Turn all the knobs to ten</strong>.</p>
 
-<p><img src="/images/knobs.jpg" /></p>
+<p><img src="/images/knobs.jpg"></p>
 
 <p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
 the fundamentals of Agile technical excellence. These patterns interlock to assure
@@ -300,7 +187,7 @@ to small meetings with specific concerns. In general the principle is:</p>
 
 <p><strong>Iterate distinctions to control combinations</strong></p>
 
-<p><img src="/images/koch-curve.gif" /></p>
+<p><img src="/images/koch-curve.gif"></p>
 
 <p>XSCALE applies this to the challenge of determining which combinations of
 business alternatives have most value. Small projects look to a good product
@@ -336,7 +223,7 @@ language for continuous delivery. The principle is simply:</p>
 
 <p><strong>Always use the smallest practical cycle time and batch size</strong></p>
 
-<p><img src="/images/sushi-train.png" /></p>
+<p><img src="/images/sushi-train.png"></p>
 
 <p>XSCALE applies the same principle in its continuous product planning,
 continuous stream coordination, and continuous transformation patterns.</p>
@@ -357,7 +244,7 @@ consensus through games. So the XSCALE principle is:</p>
 
 <p><strong>Use consensus to make decisions and to delimit accountabilities.</strong></p>
 
-<p><img src="/images/council.png" /></p>
+<p><img src="/images/council.png"></p>
 
 <p>In theory, individual accountability should be applied when the business
 cost of delaying a decision is greater than the social cost of failing to
@@ -378,7 +265,7 @@ consensus decisions while clearly maintaining team and stream autonomy.</p>
 only refers to one of four Lean pathologies, muda. Lean also works to
 minimize overburden (muri) and irregularity (mura). </p>
 
-<p><img src="/images/mmm.jpg" /></p>
+<p><img src="/images/mmm.jpg"></p>
 
 <p>The maxim also admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and
 <a href="">LSD</a> use Lean to mean process efficiency, but Lean Six Sigma and Lean
@@ -433,7 +320,7 @@ remains the same:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
-<p><img src="/images/eco.png" /></p>
+<p><img src="/images/eco.png"></p>
 
 <p>This isn’t only about products in their marketplace, but also the structure
 and practices of squads in streams and streams in the enterprise. This
@@ -521,7 +408,7 @@ section below.</p>
 
 <h3 id="breadth-first-roadmap">Breadth-First Roadmap</h3>
 
-<p><img src="/images/bfr.png" width="400" /></p>
+<p><img src="/images/bfr.png" width="400"></p>
 
 <p>Breadth-First Roadmap (BFR) is a generalization of the Lean Startup <a href="">Business
 Model Canvas</a> composed of simple, commonplace Agile practices - story normal
@@ -540,7 +427,7 @@ stories required to deliver a feature.</p>
 <a href="">story-normal form</a> in order to scope roadmapping conversations to a single
 shared intent.</p>
 
-<p><img src="/images/roadmap0.png" width="400" /></p>
+<p><img src="/images/roadmap0.png" width="400"></p>
 
 <ul>
   <li>At every level, BFR takes the form of a matrix of objectives and themes
@@ -555,7 +442,7 @@ only contain a blank or a checkmark. A checkmark means there are acceptance
 criteria for this feature in this theme and a blank means there aren’t.</li>
 </ul>
 
-<p><img src="/images/roadmap1.png" width="400" /></p>
+<p><img src="/images/roadmap1.png" width="400"></p>
 
 <ul>
   <li>Each feature is evaluated against all themes. </li>
@@ -567,7 +454,7 @@ also have some acceptance criteria in it.</li>
 roadmap’s boxes are consistently updated.</li>
 </ul>
 
-<p><img src="/images/roadmap2.png" width="400" /></p>
+<p><img src="/images/roadmap2.png" width="400"></p>
 
 <ul>
   <li>Evaluate each theme to determine whether it is sufficiently covered by
@@ -579,7 +466,7 @@ all themes.</li>
 themes, consider whether those two may be refactored into one.</li>
 </ul>
 
-<p><img src="/images/roadmap3.png" width="400" /></p>
+<p><img src="/images/roadmap3.png" width="400"></p>
 
 <ul>
   <li>If a theme has checkboxes for all or almost all features, break out further
@@ -607,7 +494,7 @@ to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
 to make a method of determining the funding required to deliver a set of
 products and services. </p>
 
-<p><img src="/images/bbingo.png" /></p>
+<p><img src="/images/bbingo.png"></p>
 
 <p>Backlog Bingo is easy to play:</p>
 
@@ -656,7 +543,7 @@ game runs as above.</p>
 to prioritise the BFR. It is both easier and more accurate than the SAFe
 “Weighted Shortest Job First” (WSJF) equivalent for reasons described below.</p>
 
-<p><img src="/images/bpp.png" width="400" /></p>
+<p><img src="/images/bpp.png" width="400"></p>
 
 <p>RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
 of:</p>
@@ -756,7 +643,7 @@ sufficient time to resolve business questions.</p>
 
 <h3 id="roadmap-refactoring">Roadmap Refactoring</h3>
 
-<p><img src="/images/roadmapr.png" width="400" /></p>
+<p><img src="/images/roadmapr.png" width="400"></p>
 
 <p>Roadmap Refactoring (RR) is a consensus game that leverages BPP to enable
 product owners to make rational trade-offs between different feature-sets. It
@@ -812,7 +699,7 @@ BFR and Feature backlog, a Stream Flow diagram, an Adaptation Kanban and a
 Council made up of Chapter representatives. We call this a stream rather
 than a tribe to emphasize its focus on optimizing a Lean value stream.</p>
 
-<p><img src="/images/spotify.png" width="400" /></p>
+<p><img src="/images/spotify.png" width="400"></p>
 
 <p>Because the <a href="http://blog.kevingoldsmith.com/2014/03/14/thoughts-on-emulating-spotifys-matrix-organization-in-other-companies/">Spotify
 model</a>
@@ -837,7 +724,7 @@ described in the <strong>Continuous Adaptation</strong> section below.</p>
 
 <h3 id="stream-flow-diagram">Stream Flow Diagram</h3>
 
-<p><img src="/images/flow.png" width="400" /></p>
+<p><img src="/images/flow.png" width="400"></p>
 
 <p>Every Stream is intended to generate a return. If the Stream serves a purely
 internal function then its return may simply be defined as equal to its
@@ -872,7 +759,7 @@ opportunities, as well as their relative magnitudes. </p>
 
 <h3 id="devops--cd--gitflow">DevOps + CD + GitFlow</h3>
 
-<p><img src="/images/cd.png" width="400" /></p>
+<p><img src="/images/cd.png" width="400"></p>
 
 <p>Squads are the most concrete embodiment of XSCALE principles:</p>
 
@@ -897,7 +784,7 @@ own their code base andconsistently adapt to one another as it evolves.</li>
 
 <h3 id="lean-ux--bdd--xp">Lean UX + BDD + XP</h3>
 
-<p><img src="/images/xp.png" width="400" /></p>
+<p><img src="/images/xp.png" width="400"></p>
 
 <ul>
   <li>
@@ -956,7 +843,7 @@ enterprise.</p>
 
 <h3 id="meeting-schedules">Meeting Schedules</h3>
 
-<p><img src="/images/chapters.png" width="400" /></p>
+<p><img src="/images/chapters.png" width="400"></p>
 
 <p>As XSCALE rolls out it becomes advantageous to synchronize council meetings
 so that they don’t cause calendar-stress. XSCALE leverages the squads’weekly
@@ -1034,225 +921,7 @@ progress as the whole adapts over time.</p>
 <h3 id="funding-cycle">Funding Cycle</h3>
 
 <p>[more to come]</p>
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
-
-
-  
-    <span class="byline author vcard">by <span class="fn">Peter Merel</span></span>
-  
-
- - 
-      
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-04-21T20:46:55+10:00" pubdate data-updated="true">Apr 21<span>st</span>, 2014</time> - 
-      
-
-posted in
-<span class="categories">
-  
-    <a class='category' href='/categories/autonomous/'>Autonomous</a>, <a class='category' href='/categories/continuous/'>Continuous</a>, <a class='category' href='/categories/ecosystem/'>Ecosystem</a>, <a class='category' href='/categories/lean/'>Lean</a>, <a class='category' href='/categories/scale-symmetry/'>Scale-Symmetry</a>, <a class='category' href='/categories/v0-dot-7/'>V0.7</a>, <a class='category' href='/categories/excellence/'>eXcellence</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://Agile-TNG.github.io/2014/04/21/xscale/" data-via="" data-counturl="http://Agile-TNG.github.io/2014/04/21/xscale/" >Tweet</a>
-  
-  
-  
-    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
-  
-</div>
-
-    
-    
-      <a class="pull-left" href="/2014/04/13/product-funding/" title="Previous Post: The Problem With Projects">&laquo; The Problem With Projects</a>
-    
-    
-  </footer>
-
-</div>
-
-        
-          <div class="article-format">
-            <h1>Comments</h1>
-            <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>
-          </div>
-        
-      </article>
-    </div>
-  </div>
-  <div id="footer-widgets">
-  <div class="container">
-    <div class="row">
-  <div class="span3">
-    <h2>QR-Code<abbr title="The word 'QR Code' is a registered trademark of DENSO WAVE INCORPORATED. It applies only for the word 'QR Code', not for image.">&trade;</abbr></h2>
-<a href="http://Agile-TNG.github.io/2014/04/21/xscale/"><img src="http://chart.apis.google.com/chart?chs=240x240&cht=qr&chld=|0&chco=165B94&chl=http://Agile-TNG.github.io/2014/04/21/xscale/" alt="post-qrcode" align="left"></a>
-
-  </div>
-  <div class="span3">
-    <h2>recent posts</h2>
-    <ul class="recent_posts">
-      
-        <li>
-          <a href="/2014/04/21/xscale/">XSCALE: SAFe + LeSS + Spotify</a>
-        </li>
-      
-        <li>
-          <a href="/2014/04/13/product-funding/">The Problem With Projects</a>
-        </li>
-      
-        <li>
-          <a href="/2014/04/02/iroquois-council/">Iroquois Council</a>
-        </li>
-      
-        <li>
-          <a href="/2014/03/27/the-goose-in-the-bottle/">The Goose In The Bottle</a>
-        </li>
-      
-        <li>
-          <a href="/2014/03/21/the-seven-samurai/">The Seven Samurai</a>
-        </li>
-      
-    </ul>
-    <h2><a href="/archives">archives</a></h2>
-  </div>
-  <div class="span4">
-    
-
-  </div>
-  <div class="span2">
-    <h2>found on</h2>
-
-<a href="https://github.com/Agile-TNG/" rel="tooltip" title="Github"><img class="social_icon" title="Github" alt="github icon" src="/images/glyphicons_381_github.png"></a>
-
-
-
-
-
-<a href="http://www.facebook.com/pages/Agile-The-Next-Generation/1437168026520416" rel="tooltip"
-  title="Facebook"><img class="social_icon" title="Facebook" alt="Facebook
-  icon" src="/images/fb.png"></a>
-
-
-
-<a href="http://www.linkedin.com/groups?home=&gid=6675422" rel="tooltip" title="Linkedin"><img class="social_icon" title="Linkedin" alt="Linkedin icon" src="/images/glyphicons_377_linked_in.png"></a>
-
-
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
-  </div>
-</div>
-<footer class="footer">
-  <div class="container">
-    <p class="pull-left">
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
-  alt="Creative Commons License" style="border-width:0"
-  src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Agile: The
-  Next Generation</span> by <a xmlns:cc="http://creativecommons.org/ns#"
-  href="http://agiletng.org" property="cc:attributionName"
-  rel="cc:attributionURL">Peter Merel and the respective authors</a> is
-licensed under a <br/><a rel="license"
-  href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
-  Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br
->Permissions beyond the scope of this license may be available at <a
-  xmlns:cc="http://creativecommons.org/ns#" href="http://agiletng.org/about/"
-  rel="cc:morePermissions">http://agiletng.org/about/</a>.
-
-<br/><a href="/">Agile: The Next Generation</a>
-  is Copyright &copy; 2014 Peter Merel. Respective
-  authors retain copyright over their original work.
-</p>
-<p class="pull-right">
-  <span>Powered by <a href="http://octopress.org/">Octopress</a>.</span>
-  
-</p>
-
-  </div>
-</footer>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-<script>window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.7.2.min.js" type="text/javascript"><\/script>')</script>
-<script src="/javascripts/libs/bootstrap.min.js" type="text/javascript"></script>
-<script src="/javascripts/jquery.tweet.js" type="text/javascript"></script>
-<script src="/javascripts/jquery.instagram.js" type="text/javascript"></script>
-<script src="/javascripts/libs/jquery.masonry.min.js" type="text/javascript"></script>
-<script src="/javascripts/custom.js" type="text/javascript"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'AgileTNG';
-      
-        
-        // var disqus_developer = 1;
-        var disqus_identifier = 'http://Agile-TNG.github.io/2014/04/21/xscale/';
-        var disqus_url = 'http://Agile-TNG.github.io/2014/04/21/xscale/';
-        var disqus_script = 'embed.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-</body>
-</html>
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-13T15:08:40+10:00</updated>
+  <updated>2014-05-13T15:11:36+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -1693,6 +1693,13 @@ pattern language addresses those questions.</p>
   <li><a href="#spoilers">Spoilers</a></li>
   <li><a href="#the-film">The Film</a>    <ul>
       <li><a href="#continuous-assessment">Continuous Assessment</a></li>
+      <li><a href="#continuous-alignment">Continuous Alignment</a></li>
+      <li><a href="#continuous-analysis">Continuous Analysis</a></li>
+      <li><a href="#continuous-awareness">Continuous Awareness</a></li>
+      <li><a href="#continuous-architecture">Continuous Architecture</a></li>
+      <li><a href="#continuous-adoption">Continuous Adoption</a></li>
+      <li><a href="#continuous-acceleration">Continuous Acceleration</a></li>
+      <li><a href="#continuous-adaptation">Continuous Adaptation</a></li>
     </ul>
   </li>
 </ul>
@@ -1787,7 +1794,8 @@ mission-critical teams using the <a href="http://comparativeagility.com">Cohn’
 metrics</a>, and compare with the MVAC.</p>
 
 <hr />
-<p>#### Continuous Alignment</p>
+
+<h4 id="continuous-alignment">Continuous Alignment</h4>
 
 <p>Enrol decision makers as Product Owners in an iterative “Strategic Scrum” that meets
 at least weekly.</p>
@@ -1856,7 +1864,8 @@ Coalition</a>,
 <a href="">Influence the Influencers</a></p>
 
 <hr />
-<p>####Continuous Analysis</p>
+
+<h4 id="continuous-analysis">Continuous Analysis</h4>
 
 <p>Form a Coordination Scrum from coaches and delivery and operational stream
 leads that meets at least weekly.</p>
@@ -1905,7 +1914,8 @@ Cumulative flow of this kanban is iteratively reviewed by the transformation pro
 owners of the Strategic Scrum.</p>
 
 <hr />
-<p>####Continuous Awareness</p>
+
+<h4 id="continuous-awareness">Continuous Awareness</h4>
 
 <p>Organise change recipients into a system of <a href="http://www.slideshare.net/vmysla/scrum-at-spotify">Guilds and
 Tribes</a>. Represent each tribe at
@@ -1947,7 +1957,8 @@ Scrum. At scale, the Coordination Scrum may evolve into an <a href="http://agile
 Council</a></p>
 
 <hr />
-<p>####Continuous Architecture</p>
+
+<h4 id="continuous-architecture">Continuous Architecture</h4>
 
 <p>Guilds meet weekly to institute technical enablers for feature based delivery.</p>
 
@@ -2000,7 +2011,8 @@ each chapter will be represented at its own stream council, and Guild meetings
 may become less frequent.</p>
 
 <hr />
-<p>####Continuous Adoption</p>
+
+<h4 id="continuous-adoption">Continuous Adoption</h4>
 
 <p>Coaches track transformation stories in a coaching kanban and report weekly to
 coordination and strategic scrums.</p>
@@ -2042,7 +2054,8 @@ team’s technical toolset is ready for continuous delivery. They also marshall
 metrics and team-member testaments into case studies to support Acceleration.</p>
 
 <hr />
-<p>####Continuous Acceleration</p>
+
+<h4 id="continuous-acceleration">Continuous Acceleration</h4>
 
 <p>Use consensus protocols to iteratively re-energise the tranformation.</p>
 
@@ -2076,7 +2089,8 @@ spaces</a>, <a href="">Iroquois Councils</a>, <a href="">lean coffees</a> and <a
 guilds and tribes.</p>
 
 <hr />
-<p>#### Continuous Adaptation</p>
+
+<h4 id="continuous-adaptation">Continuous Adaptation</h4>
 
 <p>Refactor the Transformation Roadmap to leverage new capabilities.</p>
 

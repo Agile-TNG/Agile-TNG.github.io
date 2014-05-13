@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-13T15:12:54+10:00</updated>
+  <updated>2014-05-13T15:14:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -26,14 +26,13 @@ ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-<h2 class="no-toc" id="why-xscale">Why XSCALE?</h2>
+<h2 class="no_toc" id="why-xscale">Why XSCALE?</h2>
 
 <p>Over the past decade there have been several efforts to provide enterprises
 with a way to scale Agile. The best known are SAFe, LeSS, Agile Path and the
 Spotify Tribal model.  Each has its strengths and weaknesses.</p>
 
 <ul id="markdown-toc">
-  <li><a href="#why-xscale">Why XSCALE?</a></li>
   <li><a href="#xscale-principles">XSCALE Principles</a>    <ul>
       <li><a href="#excellence">eXcellence</a></li>
       <li><a href="#scale-symmetry">Scale-symmetry</a></li>

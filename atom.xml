@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-13T15:12:54+10:00</updated>
+  <updated>2014-05-13T15:14:58+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -26,14 +26,13 @@ ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-<h2 class="no-toc" id="why-xscale">Why XSCALE?</h2>
+<h2 class="no_toc" id="why-xscale">Why XSCALE?</h2>
 
 <p>Over the past decade there have been several efforts to provide enterprises
 with a way to scale Agile. The best known are SAFe, LeSS, Agile Path and the
 Spotify Tribal model.  Each has its strengths and weaknesses.</p>
 
 <ul id="markdown-toc">
-  <li><a href="#why-xscale">Why XSCALE?</a></li>
   <li><a href="#xscale-principles">XSCALE Principles</a>    <ul>
       <li><a href="#excellence">eXcellence</a></li>
       <li><a href="#scale-symmetry">Scale-symmetry</a></li>
@@ -1690,8 +1689,6 @@ thing, but why would you want it, what is it, and how do you get it? This
 pattern language addresses those questions.</p>
 
 <ul id="markdown-toc">
-  <li><a href="#spoilers">Spoilers</a></li>
-  <li><a href="#the-film">The Film</a></li>
   <li><a href="#the-patterns">The Patterns</a>    <ul>
       <li><a href="#continuous-assessment">Continuous Assessment</a></li>
       <li><a href="#continuous-alignment">Continuous Alignment</a></li>
@@ -1714,7 +1711,7 @@ experiences, market forces and technological innovations. And continuous adaptat
 relating these two to maximise enterprise ROI. That’s what enterprise agility is
 supposed to be. The question we aim to answer here is is how to get it.</p>
 
-<h2 class="no-toc" id="spoilers">Spoilers</h2>
+<h2 class="no_toc" id="spoilers">Spoilers</h2>
 
 <p>Akira Kurosawa’s cinematic masterpiece provides a great <a href="http://www.extremeprogramming.org/rules/metaphor.html">system
 metaphor</a> for a continuously
@@ -1729,7 +1726,7 @@ through the usual torrent sites.</p>
 
 <p>From here on out we’ll leave the question of spoilage up to you, gentle reader. </p>
 
-<h2 id="the-film">The Film</h2>
+<h2 class="no_toc" id="the-film">The Film</h2>
 
 <p>The Seven Samurai concerns a defenceless village that hires a group of
 down-at-heel samurai as protection against a horde of bandits. The samurai

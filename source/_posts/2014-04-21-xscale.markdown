@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XSCALE: Beyond SAFe and LeSS"
+title: "XSCALE: an Agile Enterprise Ecosystem"
 date: 2014-04-21 20:46:55 +1000
 author: Peter Merel
 comments: true
@@ -11,85 +11,83 @@ categories:
 - Autonomous
 - Lean
 - Ecosystem
-- V0.6
+- V0.7
 ---
 
 {% img /images/xscale.png %}
 
-Reflecting our work over recent years, XSCALE is a continuously delivering,
+Grounded in SAFe, Spotify and BDD, XSCALE is a continuously delivering,
 continuously self-organizing, continuously adaptive Agile enterprise
 ecosystem that turns all the knobs to ten.
 
 <!-- more -->
 
 ## Why XSCALE?
-{:.no_toc}
+{:.no-toc}
 
-Over the last decade there have been several efforts to provide enterprises
-with a way to scale Agile. The best known are SAFe, LeSS, and the Spotify
-Tribal model. Each has its strengths and weaknesses.
+Over the past decade there have been several efforts to provide enterprises
+with a way to scale Agile. The best known are SAFe, LeSS, Agile Path and the
+Spotify Tribal model.  Each has its strengths and weaknesses.
 
 * toc
 {:toc}
 
-* [SAFe]() targets existing enterprises with a low-discipline, top-down,
-  big-change-up-front, punctuated cadence model that combines Kanban,
-  quarterly [release trains](), XP and Scrum. SAFe is a good starting point
-  for more conservative organizations because it's designed to enable
-  agility while keeping component silos intact. But this means it shys away
-  from feature teams, continuous delivery and scale-symmetry.
+* [SAFe]() targets existing enterprises with a high-discipline, top-down,
+  big-change-up-front, punctuated cadence Agile model that combines Kanban, quarterly
+  [release trains](), XP and Scrum. SAFe is a good starting point for conservative
+  organizations as it's designed to enable agility while keeping component silos intact.
+  But that means it [shys away from feature teams, continuous delivery and
+  scale-symmetry](http://xprogramming.com/articles/safe-good-but-not-good-enough/).
 
-* [LeSS]()/Agile Path/Enterprise Scrum, etc., are scale-symmetric
-  alternatives closely based on traditional Scrum. They offer low-discipline
-  high-collaboration, continuous cadence models that employ [Scrum of
-  Scrums]() to deal with integration and cross-cutting concerns. XP
-  practices are optional but feature teams are mandatory. LeSS is
-  big-change-up-front but Agile Path is an iterative alternative.  Specific
-  practices for product planning, test automation and so on are left for
-  teams to determine ad hoc. 
+* [LeSS]() and [Agile Path]() are scale-symmetric alternatives based on traditional
+  Scrum. They offer low-discipline high-collaboration, continuous cadence models that
+  employ [Scrum of Scrums]() to deal with integration and cross-cutting concerns. XP
+  practices are optional but feature teams are mandatory. Like SAFe, LeSS uses
+  big-change-up-front but Agile Path introduces a method of continuous transformation.
+  Specific practices for product planning, test automation and so on are left for teams
+  to determine ad hoc. 
 
-* [The Spotify model]() dispenses with Scrum of Scrums in favour of a
-  pattern of [Tribes and Guilds](), strongly emphasizing bottom-up
-  collaboration and team autonomy.  It gives even less prescription on team
-  practices, calling its smallest teams squads rather than scrums to avoid
-  dictating Scrum rules. It rightly expects a structure of top-flight
-  autonomous teams is capable of deciding for itself how to evolve the
-  rollout of Agile practices, but it is committed to Continuous Delivery and
-  DevOps with every tribe containing an Ops chapter dedicated to enabling
-  squads to do CD.
+* [The Spotify model]() dispenses with Scrum of Scrums in favour of a pattern of [Tribes
+  and Guilds](), strongly emphasizing team autonomy.  It gives little prescription on
+  team practices, calling its smallest teams squads to avoid dictating even the Scrum
+  rules. It rightly expects a structure of top-flight autonomous teams will be able to
+  decide for itself how to evolve Agile practices. But it still commits to Continuous
+  Delivery and DevOps.
   
-XSCALE includes the best aspects of the older practices:
+XSCALE is a synthesis of these frameworks that:
 
 * Standardizes team practices using Scrum-XP like SAFe
 * Transforms the enterprise iteratively like Agile Path
 * Refactors component silos into feature teams like LeSS
 * Uses tribal structures, CD and DevOps like Spotify
 
-It offers more than just a refactoring of what came before, however, adding:
+But XSCALE is more than just a sum of the parts, introducing:
 
-* Continuous adaptation using the [Seven Samurai](http://agiletng.org/2014/03/21/the-seven-samurai/) pattern
-  language.
-* Continuous product planning using Lean Startup, Lean UX and [BPP](#feature-points)
-* Continuous enterprise self-organization using [Iroquois
-  councils](http://agiletng.org/2014/04/02/iroquois-council/)
+* Continuous adaptation using the [Seven
+  Samurai](http://agiletng.org/2014/03/21/the-seven-samurai/) pattern language.
+* Continuous product planning based on Lean Startup, Lean UX and
+  [BPP](#feature-points)
+* Continuous self-organization using [Iroquois
+  councils](http://agiletng.org/2014/04/02/iroquois-council/), a variety of Open
+  Space.
 
-But why these specific practices? XSCALE's intent is to afford enterprises
-on all scales an absolute state of the art Agile capability while minimizing
-risk of disruption to their existing value streams. So let's take a step back
-and understand this in principle before we get down to nuts and bolts.
+XSCALE's intent is to afford enterprises on all scales a complete and customisable
+pattern language for their Agile capability that minimizes risk of disruption to
+existing value streams. Like Agile itself, it does this by starting from first
+principles.
 
 ## XSCALE Principles
 
 XSCALE conforms with the [A:TNG
 values](http://agiletng.org/2014/03/10/4-new-values/), which form a strict
-superset of those in the Agile Manifesto. XSCALE further assumes six
-principles that also form a superset of the ones in the Manifesto.
+superset of those in the Agile Manifesto. XSCALE also offers six
+principles that form a superset of the ones in the Manifesto.
 
 eXcellence
 : Turn all the knobs to ten.
 
 Scale-symmetry
-: Iterate distinctions to control combinations.
+: Use distinctions to control combinations.
 
 Continuous
 : Use the smallest practical cycle time and batch size.
@@ -103,16 +101,16 @@ Lean
 Ecosystem
 : Continuous adaptation of the whole to its parts.
 
-Explanation for each of these follows, then the XSCALE practice patterns
+Explanation for each of these follows, then a selection of practice patterns
 that embody them.
 
 ### eXcellence
 
 The term "extreme" in the original XP unfortunately evoked the idea of
-recklessness, which wasn't helpful in the fledgling days of Agile.
-Nevertheless the manifesto authors recognized its intent in a principle that
+recklessness, which caused some trepidation in the fledgling days of Agile.
+Nevertheless the manifesto authors recognized XP's true intent in a principle that
 reads, "Continuous attention to technical excellence and good design
-enhances agility". So XSCALE calls such continuous attention "eXcellent" and
+enhances agility". XSCALE calls such continuous attention "eXcellence" and
 sums it up using Beck's famous XP maxim:
 
 **Turn all the knobs to ten**.
@@ -120,44 +118,54 @@ sums it up using Beck's famous XP maxim:
 {% img /images/knobs.jpg %}
 
 XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
-the fundamentals of Agile technical excellence. These patterns interlock to assure
-technical debts are paid before they earn interest, thereby keeping the
-delivery process stable, predictable and flexible. 
+the fundamentals of technical excellence. These patterns interlock to assure
+technical debt is paid before it earns interest by impatcting ROI, and thereby 
+keeping the delivery process stable, predictable and flexible. 
 
 ### Scale-symmetry
 
 Scale is about combinations of requirements, of dependencies, of defects,
 and of people. The number of combinations of a set grows very rapidly; a set
-of just 10 things has over 3.6 million distinct combinations. Yet golfers
-are untroubled by combinations of grass blades. Golfers make simple
-distinctions to control the combined behaviours of grass: "the green", "the
-rough", and so on. They never think about combinations of the individual
-blades. 
+of just 10 things has over 3.6 million distinct combinations. 
+
+Yet golfers are untroubled by combinations of billions of grass blades.  They
+use simple distinctions to control the combined behaviours of grass: "the
+green", "the rough", and so on. Once the ball is placed they make further
+sub-distinctions to do with common slopes and blade-lengths.  They only make
+distinctions about the commonalities, never about all the interactions between
+individual grass blades. 
 
 Agile uses this approach when it 
-* refactors code into distinct ([DRY]()) classes
-* automates testing to minimize combinations of ambient defects
-* combines people into distinct feature teams to limit interdependencies.  
+* refactors code into distinct ([DRY]()) classes by common behaviours
+* automates testing to keep ambient defect count low, minimizing the time
+  required to sort out combinations of defects
+* combines people into small teams with distinct backlogs to limit the need
+  for cross-team communications
+* The Spotify patterns do this too by factoring cross-cutting concerns to
+  distinct chapters and guilds. 
 
-The Spotify patterns also do it by factoring combinations of conversations
-to small meetings with specific concerns. In general the principle is:
+In general the principle is:
 
 **Iterate distinctions to control combinations**
 
 {% img /images/koch-curve.gif %}
 
-XSCALE applies this to the challenge of determining which combinations of
-business alternatives have most value. Small projects look to a good product
-owner for this, but when you've got portfolios of programs of projects, it
-gets combinatorially hard. As agile works as a hill-climbing algorithm,
-continously integrating little stories into a whole, it's quite happy to
-climb a molehill of value when there's an Everest right next door.  
+Fractal curves use the same idea. In this animation of a "Koch Curve" a line
+segment undergoes a simple transformation into 4 smaller line segments. Then
+each of those is transformed the same way, and so on, breadth-first.
 
-To control this combinatorial space XSCALE uses the Behavioral Product
-Planning games, which make breadth-first distinctions about business
-alternatives and then sort them into easily optimized piles. BPP iterates
-breadth-first to assure consistent decisions about alternatives at all
-scales. 
+XSCALE applies this principle to the challenge of determining which
+combinations of business alternatives have most value.  Agile works as a
+hill-climbing algorithm, continously integrating little stories into a whole,
+it's quite happy to climb a molehill of value when there's an Everest right
+next door. Small projects look to a good product owner to find their Everest,
+but when you've got portfolios of programs of projects, misalignment is easy
+and consistent valu3 is combinatorially hard. 
+
+XSCALE uses the Behavioral Product Planning games to control this
+combinatorial space. BPP makes breadth-first distinctions about business
+alternatives, then sorts them into easily optimized piles and iterates. The
+BPP process assures consistent decisions about alternatives at all scales. 
 
 ### Continuous
 
@@ -171,10 +179,10 @@ organizations to keep their component silos, but at no small price:
   inter-team dependency cycles.
 * Lost ROI from keeping finished features on ice for a quarter
 
-Because it employs continuous rather than big-bang transformation, XSCALE is
-able to iteratively break component silos into feature teams, and thereby
-avoids these penalties because feature teams can use the GitFlow pattern
-language for continuous delivery. The principle is simply:
+By employing continuous rather than big-bang transformation, XSCALE improves
+on SAFe to iteratively break component silos into feature teams. The benefit
+is to avoid the above penalties as feature teams can use the GitFlow pattern
+language for continuous delivery. In general the principle is simply:
 
 **Always use the smallest practical cycle time and batch size**
 
@@ -217,12 +225,12 @@ consensus decisions while clearly maintaining team and stream autonomy.
 ### Lean
 
 Lean is often defined as "Minimizing Waste". Unfortunately that definition
-only refers to one of four Lean pathologies, muda. Lean also works to
+only refers to one of the three Lean pathologies, muda. Lean also works to
 minimize overburden (muri) and irregularity (mura). 
 
 {% img /images/mmm.jpg %}
 
-The maxim also admits an ambiguity. [Lean Startup](), [Lean UX]() and
+The waste maxim also admits an ambiguity. [Lean Startup](), [Lean UX]() and
 [LSD]() use Lean to mean process efficiency, but Lean Six Sigma and Lean
 Accounting interpret it to mean cost minimization, right first time, and
 hierarchical standardization. These latter forms of Lean can appear to
@@ -232,7 +240,7 @@ defining the Lean principle simply as:
 
 **Maximize net ROI**
 
-We say net ROI to account for Cost of Delay (COD), and we represent both
+We say net ROI to account for Cost of Delay (COD), and we represent this
 explicitly when adapting the order and design of the work. With this in mind
 XSCALE adapts several specific Lean practice patterns:
 
@@ -245,11 +253,11 @@ XSCALE adapts several specific Lean practice patterns:
   [set-based-design]() with lo-fi prototyping, BDD and Feature roadmaps
 * [Lean Transformation Canvas]() as a roadmap for the [Seven Samurai]().
 
-These Lean practices all work to maximise net ROI. XSCALE interlocks them
-using scale-symmetric roadmapping to render a stream funding cycle without
-resorting to project budgets and baselines yet remaining continuously
-responsive to metrics and learnings for the teams in the stream and for the
-market for the stream's output.
+These Lean practices all work to maximise net ROI. XSCALE interlocks them using
+scale-symmetric roadmapping to render a simple stream funding cycle without resorting
+to project budgets and baselines. This provides a way for teams in the stream and
+streams in the enterprise to continuously respond to changes in internal and external
+metrics, innovations and new learnings.
 
 ### Ecosystem
 
@@ -326,8 +334,6 @@ streams and squads to optimize their ROI and reconcile same with available
 funding.  As a pattern language based on and generating BDD we also refer to
 these practices collectively as Behavioral Product Planning or "BPP".
 
-{% img /images/bbingo.png %}
-
 ### Feature Points
 
 In BPP we change the unit of estimation from story points to feature points.
@@ -382,6 +388,18 @@ shared intent.
 
 {% img /images/roadmap0.png 400 %}
 
+For example, consider the following scoping story from [Despicable
+Me](https://www.youtube.com/watch?v=sUkZFetWYY0):
+
+> As a super-villain<br>
+> I want a hand-held super-weapon<br>
+> So that I can overpower ordinary people
+
+We may imagine three objectives on the resulting roadmap: a [Freeze
+Ray](https://www.youtube.com/watch?v=bYfG2FwkVkM), a [Squid
+Launcher](https://www.youtube.com/watch?v=X1gCJrOISYo), and [Purple
+Minions](https://www.youtube.com/watch?v=K0__FYRdiSY).
+
 * At every level, BFR takes the form of a matrix of objectives and themes
   where a theme defines a category of acceptance criteria for a cross-cutting
   technical, business or user experience concern and the objectives combine to
@@ -403,6 +421,12 @@ shared intent.
 * It's fine to modify or refactor features as you go so long as all the
   roadmap's boxes are consistently updated.
 
+So above we realize that purple minions aren't a hand-held weapon, but [the gun that
+converts yellow minions to purple
+is](https://www.youtube.com/watch?v=r5VQ6MowYm0&t=20m45s), so we modify the roadmap
+accordingly. We also note acceptance criteria here to do with scaling to large 
+populations and changing their allegiances, so add themes for those.
+
 {% img /images/roadmap2.png 400 %}
 
 * Evaluate each theme to determine whether it is sufficiently covered by
@@ -412,6 +436,10 @@ shared intent.
   all themes.
 * If it appears that all features have the same pattern of checkboxes for two
   themes, consider whether those two may be refactored into one.
+
+Continuing the humorous example, we see that none of the three weapons so far is both
+accurate and scalable. So it seems there's a missing feature: the [Shrink
+Ray](https://www.youtube.com/watch?v=AnxRf4JnXPU).
 
 {% img /images/roadmap3.png 400 %}
 
@@ -424,12 +452,16 @@ shared intent.
 * In general this  process continues until the team agrees that the roadmap is
   complete or there is no more time available.
 
-To use BFR properly it's important to keep "breadth-first" in mind. The
+Completing the example roadmap above we note that it will save costs if all these
+portable weapons share a common chassis - a handle, a trigger and an aiming device. So
+we factor out a technical feature for that. And since none of these devices have
+acceptance criteria involving a Food Supply any more, we can simply delete that theme.
+
+To use BFR like this properly it's important to keep "breadth-first" in mind. The
 roadmapping process may become long and onerous if features and themes are too
-numerous or detailed for the scale of the roadmap. Each feature will be
-expanded into a further roadmap at the next level down until they're small
-enough to constitute delivery stories. So it's counterproductive to
-over-specify them.
+numerous or detailed for the scale of the roadmap. Each feature may be expanded into
+a further roadmap at the next level down until they're small enough to constitute
+delivery stories. So it's counterproductive to over-specify them.
 
 ### Backlog Bingo
 
@@ -438,6 +470,8 @@ for delivery teams to collaborate on estimating the relative effort required
 to collaboratively deliver a set of stories. XSCALE generalizes Planning Poker
 to make a method of determining the funding required to deliver a set of
 products and services. 
+
+{% img /images/bbingo.png %}
 
 Backlog Bingo is easy to play:
 

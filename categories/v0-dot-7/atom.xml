@@ -4,7 +4,7 @@
   <title><![CDATA[Category: V0.7 | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/v0-dot-7/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-13T15:14:58+10:00</updated>
+  <updated>2014-05-14T10:20:06+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -136,7 +136,7 @@ principles that form a superset of the ones in the Manifesto.</p>
   <dt>eXcellence</dt>
   <dd>Turn all the knobs to ten.</dd>
   <dt>Scale-symmetry</dt>
-  <dd>Use distinctions to control combinations.</dd>
+  <dd>Make distinctions to control combinations.</dd>
   <dt>Continuous</dt>
   <dd>Use the smallest practical cycle time and batch size.</dd>
   <dt>Autonomous</dt>
@@ -192,7 +192,7 @@ individual grass blades. </p>
 
 <p>In general the principle is:</p>
 
-<p><strong>Iterate distinctions to control combinations</strong></p>
+<p><strong>Make distinctions to control combinations</strong></p>
 
 <p><img src="/images/koch-curve.gif"></p>
 

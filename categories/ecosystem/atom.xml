@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-14T10:20:06+10:00</updated>
+  <updated>2014-05-14T10:35:15+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -152,21 +152,20 @@ that embody them.</p>
 
 <h3 id="excellence">eXcellence</h3>
 
-<p>The term “extreme” in the original XP unfortunately evoked the idea of
-recklessness, which caused some trepidation in the fledgling days of Agile.
-Nevertheless the manifesto authors recognized XP’s true intent in a principle that
-reads, “Continuous attention to technical excellence and good design
-enhances agility”. XSCALE calls such continuous attention “eXcellence” and
-sums it up using Beck’s famous XP maxim:</p>
+<p>The term “extreme” in the original XP unfortunately evoked the idea of recklessness,
+which caused some trepidation in the fledgling days of Agile.  Nevertheless the
+manifesto authors recognized XP’s true intent in a principle that reads, “Continuous
+attention to technical excellence and good design enhances agility”. XSCALE calls such
+continuous attention “eXcellence” and sums it up using Beck’s famous XP maxim:</p>
 
 <p><strong>Turn all the knobs to ten</strong>.</p>
 
 <p><img src="/images/knobs.jpg"></p>
 
-<p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
-the fundamentals of technical excellence. These patterns interlock to assure
-technical debt is paid before it earns interest by impatcting ROI, and thereby 
-keeping the delivery process stable, predictable and flexible. </p>
+<p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as the
+fundamentals of technical excellence. These patterns interlock to assure technical
+debt is paid before it earns interest and impacts ROI, and thereby keeps the
+delivery process stable, predictable and flexible. </p>
 
 <h3 id="scale-symmetry">Scale-symmetry</h3>
 
@@ -197,21 +196,28 @@ individual grass blades. </p>
 <p><img src="/images/koch-curve.gif"></p>
 
 <p>Fractal curves use the same idea. In this animation of a “Koch Curve” a line
-segment undergoes a simple transformation into 4 smaller line segments. Then
-each of those is transformed the same way, and so on, breadth-first.</p>
+segment is mapped to 4 smaller line segments to look like a tent. Then
+each of those is transformed the same way, and so on, breadth-first, so that
+a complicated curve forms. </p>
 
 <p>XSCALE applies this principle to the challenge of determining which
 combinations of business alternatives have most value.  Agile works as a
-hill-climbing algorithm, continously integrating little stories into a whole,
+hill-climbing method, continously integrating little stories into a whole,
 it’s quite happy to climb a molehill of value when there’s an Everest right
-next door. Small projects look to a good product owner to find their Everest,
-but when you’ve got portfolios of programs of projects, misalignment is easy
-and consistent valu3 is combinatorially hard. </p>
+next door. </p>
 
-<p>XSCALE uses the Behavioral Product Planning games to control this
-combinatorial space. BPP makes breadth-first distinctions about business
-alternatives, then sorts them into easily optimized piles and iterates. The
-BPP process assures consistent decisions about alternatives at all scales. </p>
+<p>Small projects look to a good product owner to find their Everest, but when you’ve got
+portfolios of programs of projects, misalignment is easy and consistent value is
+combinatorially hard.  If a hill-climbing method is used on the Koch curve above, for
+example, it is vanishingly unlikely to reach the highest point. Mapping the curve
+breadth-first, however, will always find that point.</p>
+
+<p>XSCALE uses the Behavioral Product Planning games to achieve control over this
+combinatorial space. BPP makes breadth-first distinctions about business alternatives,
+then sorts these into easily optimized piles. Then it iterates on the features of
+maximum ROI. This assures consistent decisions about business alternatives at all
+scales, and it the analysis completes quickly and efficiently, ruling out large
+amounts of the “search space” without in depth exploration.</p>
 
 <h3 id="continuous">Continuous</h3>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pattern Language | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern-language/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T09:52:36+10:00</updated>
+  <updated>2014-05-16T09:54:12+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -25,7 +25,7 @@ and prioritise a product roadmap. It’s a way to answer some questions Agile ha
 traditionally avoided: </p>
 
 <ul>
-  <li>How much will this cost?</li>
+  <li>How much will these epics cost?</li>
   <li>How do we know this backlog adds up?</li>
   <li>How do we know it’s ready to ship?</li>
 </ul>

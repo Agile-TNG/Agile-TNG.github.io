@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecosystem | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/ecosystem/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-14T10:45:18+10:00</updated>
+  <updated>2014-05-15T16:18:57+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -26,14 +26,13 @@ ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
-<h2 class="no-toc" id="why-xscale">Why XSCALE?</h2>
+<h2 class="no_toc" id="why-xscale">Why XSCALE?</h2>
 
 <p>Over the past decade there have been several efforts to provide enterprises
 with a way to scale Agile. The best known are SAFe, LeSS, Agile Path and the
 Spotify Tribal model.  Each has its strengths and weaknesses.</p>
 
 <ul id="markdown-toc">
-  <li><a href="#why-xscale">Why XSCALE?</a></li>
   <li><a href="#xscale-principles">XSCALE Principles</a>    <ul>
       <li><a href="#excellence">eXcellence</a></li>
       <li><a href="#scale-symmetry">Scale-symmetry</a></li>
@@ -344,11 +343,14 @@ remains the same:</p>
 
 <p><img src="/images/eco.png"></p>
 
-<p>This isn’t only about products in their marketplace, but also the structure
-and practices of squads in streams and streams in the enterprise. This
-ecosystem principle turns the Taylorist conceit of all-wise managers and
-serf-like workers on its head, leveraging the Agile function of management
-as <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
+<p>XP embodies this principle in its practice of <a href="http://www.c2.com/cgi/wiki?RefactorMercilessly">Merciless
+Refactoring</a> and Lean Startup in its
+principal of <a href="http://blog.leanstartupcircle.com/get-paid-or-get-pivoting/">Get Paid or Get
+Pivoting</a>.  XSCALE
+extends it to the rollout of structure and practices to squads in streams and streams
+in the enterprise. The ecosystem principle turns the Taylorist conceit of all-wise
+managers and serf-like workers on its head, leveraging the Agile function of
+management as <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
 
 <p>In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
 hierarchy of councils: </p>

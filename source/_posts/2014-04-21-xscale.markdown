@@ -5,6 +5,7 @@ date: 2014-04-21 20:46:55 +1000
 author: Peter Merel
 comments: true
 categories: 
+- XSCALE
 - eXcellence
 - Scale-Symmetry
 - Continuous
@@ -23,7 +24,7 @@ ecosystem that turns all the knobs to ten.
 <!-- more -->
 
 ## Why XSCALE?
-{:.no-toc}
+{:.no_toc}
 
 Over the past decade there have been several efforts to provide enterprises
 with a way to scale Agile. The best known are SAFe, LeSS, Agile Path and the
@@ -32,26 +33,30 @@ Spotify Tribal model.  Each has its strengths and weaknesses.
 * toc
 {:toc}
 
-* [SAFe]() targets existing enterprises with a high-discipline, top-down,
-  big-change-up-front, punctuated cadence Agile model that combines Kanban, quarterly
-  [release trains](), XP and Scrum. SAFe is a good starting point for conservative
-  organizations as it's designed to enable agility while keeping component silos intact.
-  But that means it [shys away from feature teams, continuous delivery and
+* [SAFe](http://scaledagileframework.com) targets existing enterprises with a
+  high-discipline, top-down, big-change-up-front, punctuated cadence Agile model that
+  combines Kanban, quarterly [release trains](http://scaledagileframework.com/rte/),
+  XP and Scrum. SAFe is a good starting point for conservative organizations as it's
+  designed to enable agility while keeping component silos intact.  But that means it
+  [shys away from feature teams, continuous delivery and
   scale-symmetry](http://xprogramming.com/articles/safe-good-but-not-good-enough/).
 
-* [LeSS]() and [Agile Path]() are scale-symmetric alternatives based on traditional
-  Scrum. They offer low-discipline high-collaboration, continuous cadence models that
-  employ [Scrum of Scrums]() to deal with integration and cross-cutting concerns. XP
-  practices are optional but feature teams are mandatory. Like SAFe, LeSS uses
-  big-change-up-front but Agile Path introduces a method of continuous transformation.
-  Specific practices for product planning, test automation and so on are left for teams
-  to determine ad hoc. 
+* [LeSS](http://www.crosstalkonline.org/storage/issue-archives/2013/201305/201305-larman.pdf)
+  and [Agile Path](http://www.ebmgt.org/agility-guide) are scale-symmetric
+  alternatives based on traditional Scrum. They offer low-discipline
+  high-collaboration, continuous cadence models that employ [Scrum of
+  Scrums](http://www.scrumalliance.org/community/articles/2007/may/advice-on-conducting-the-scrum-of-scrums-meeting)
+  to deal with integration and cross-cutting concerns. XP practices are optional but
+  feature teams are mandatory. Like SAFe, LeSS uses big-change-up-front but Agile Path
+  introduces a method of continuous transformation.  Specific practices for product
+  planning, test automation and so on are left for teams to determine ad hoc. 
 
-* [The Spotify model]() dispenses with Scrum of Scrums in favour of a pattern of [Tribes
-  and Guilds](), strongly emphasizing team autonomy.  It gives little prescription on
-  team practices, calling its smallest teams squads to avoid dictating even the Scrum
-  rules. It rightly expects a structure of top-flight autonomous teams will be able to
-  decide for itself how to evolve Agile practices. But it still commits to Continuous
+* [The Spotify model](http://www.slideshare.net/vmysla/scrum-at-spotify) dispenses
+  with Scrum of Scrums in favour of a pattern of [Tribes and Guilds](), strongly
+  emphasizing bottom-up autonomy.  It gives little prescription on team practices,
+  calling its smallest teams squads to avoid dictating even the Scrum rules. It
+  rightly expects a structure of top-flight autonomous teams will be able to decide
+  for itself how to evolve Agile practices. But it still commits to Continuous
   Delivery and DevOps.
   
 XSCALE is a synthesis of these frameworks that:
@@ -87,7 +92,7 @@ eXcellence
 : Turn all the knobs to ten.
 
 Scale-symmetry
-: Use distinctions to control combinations.
+: Make distinctions to control combinations.
 
 Continuous
 : Use the smallest practical cycle time and batch size.
@@ -106,21 +111,20 @@ that embody them.
 
 ### eXcellence
 
-The term "extreme" in the original XP unfortunately evoked the idea of
-recklessness, which caused some trepidation in the fledgling days of Agile.
-Nevertheless the manifesto authors recognized XP's true intent in a principle that
-reads, "Continuous attention to technical excellence and good design
-enhances agility". XSCALE calls such continuous attention "eXcellence" and
-sums it up using Beck's famous XP maxim:
+The term "extreme" in the original XP unfortunately evoked the idea of recklessness,
+which caused some trepidation in the fledgling days of Agile.  Nevertheless the
+manifesto authors recognized XP's true intent in a principle that reads, "Continuous
+attention to technical excellence and good design enhances agility". XSCALE calls such
+continuous attention "eXcellence" and sums it up using Beck's famous XP maxim:
 
 **Turn all the knobs to ten**.
 
 {% img /images/knobs.jpg %}
 
-XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as
-the fundamentals of technical excellence. These patterns interlock to assure
-technical debt is paid before it earns interest by impatcting ROI, and thereby 
-keeping the delivery process stable, predictable and flexible. 
+XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as the
+fundamentals of technical excellence. These patterns interlock to assure technical
+debt is paid before it earns interest and impacts ROI, and thereby keeps the
+delivery process stable, predictable and flexible. 
 
 ### Scale-symmetry
 
@@ -146,26 +150,33 @@ Agile uses this approach when it
 
 In general the principle is:
 
-**Iterate distinctions to control combinations**
+**Make distinctions to control combinations**
 
 {% img /images/koch-curve.gif %}
 
 Fractal curves use the same idea. In this animation of a "Koch Curve" a line
-segment undergoes a simple transformation into 4 smaller line segments. Then
-each of those is transformed the same way, and so on, breadth-first.
+segment is mapped to 4 smaller line segments to look like a tent. Then
+each of those is transformed the same way, and so on, breadth-first, so that
+a complicated curve forms. 
 
 XSCALE applies this principle to the challenge of determining which
 combinations of business alternatives have most value.  Agile works as a
-hill-climbing algorithm, continously integrating little stories into a whole,
+hill-climbing method, continously integrating little stories into a whole,
 it's quite happy to climb a molehill of value when there's an Everest right
-next door. Small projects look to a good product owner to find their Everest,
-but when you've got portfolios of programs of projects, misalignment is easy
-and consistent valu3 is combinatorially hard. 
+next door. 
 
-XSCALE uses the Behavioral Product Planning games to control this
-combinatorial space. BPP makes breadth-first distinctions about business
-alternatives, then sorts them into easily optimized piles and iterates. The
-BPP process assures consistent decisions about alternatives at all scales. 
+Small projects look to a good product owner to find their Everest, but when you've got
+portfolios of programs of projects, misalignment is easy and consistent value is
+combinatorially hard.  If a hill-climbing method is used on the Koch curve above, for
+example, it is vanishingly unlikely to reach the highest point. Mapping the curve
+breadth-first, however, will always find that point.
+
+XSCALE uses the Behavioral Product Planning games to achieve control over this
+combinatorial space. BPP makes breadth-first distinctions about business alternatives,
+then sorts these into easily optimized piles. Then it iterates on the features of
+maximum ROI. This assures consistent decisions about business alternatives at all
+scales, and it the analysis completes quickly and efficiently, ruling out large
+amounts of the "search space" without in depth exploration.
 
 ### Continuous
 
@@ -283,11 +294,14 @@ remains the same:
 
 {%img /images/eco.png %}
 
-This isn't only about products in their marketplace, but also the structure
-and practices of squads in streams and streams in the enterprise. This
-ecosystem principle turns the Taylorist conceit of all-wise managers and
-serf-like workers on its head, leveraging the Agile function of management
-as [servant-leaders]() to autonomous teams of peer workers.
+XP embodies this principle in its practice of [Merciless
+Refactoring](http://www.c2.com/cgi/wiki?RefactorMercilessly) and Lean Startup in its
+principal of [Get Paid or Get
+Pivoting](http://blog.leanstartupcircle.com/get-paid-or-get-pivoting/).  XSCALE
+extends it to the rollout of structure and practices to squads in streams and streams
+in the enterprise. The ecosystem principle turns the Taylorist conceit of all-wise
+managers and serf-like workers on its head, leveraging the Agile function of
+management as [servant-leaders]() to autonomous teams of peer workers.
 
 In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
 hierarchy of councils: 

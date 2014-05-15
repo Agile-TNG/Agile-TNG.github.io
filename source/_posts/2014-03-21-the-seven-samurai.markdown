@@ -34,7 +34,7 @@ relating these two to maximise enterprise ROI. That's what enterprise agility is
 supposed to be. The question we aim to answer here is is how to get it.
 
 ## Spoilers
-{:.no-toc}
+{:.no_toc}
 
 Akira Kurosawa's cinematic masterpiece provides a great [system
 metaphor](http://www.extremeprogramming.org/rules/metaphor.html) for a continuously
@@ -50,6 +50,7 @@ through the usual torrent sites.
 From here on out we'll leave the question of spoilage up to you, gentle reader. 
 
 ## The Film
+{:.no_toc}
 
 The Seven Samurai concerns a defenceless village that hires a group of
 down-at-heel samurai as protection against a horde of bandits. The samurai
@@ -70,6 +71,7 @@ the enterprise to take ownership of its own transformation as coaching becomes
 irrelevant. Recall that in the film it's the village that wins, not the samurai.
 
 ---
+
 ## The Patterns
 
 #### Continuous Assessment
@@ -108,6 +110,7 @@ mission-critical teams using the [Cohn's Comparative Agility
 metrics](http://comparativeagility.com), and compare with the MVAC.
 
 ---
+
 #### Continuous Alignment
 
 Enrol decision makers as Product Owners in an iterative "Strategic Scrum" that meets
@@ -168,6 +171,7 @@ Coalition](http://www.kotterinternational.com/our-principles/changesteps/step-2)
 [Influence the Influencers]()
 
 --- 
+
 ####Continuous Analysis
 
 Form a Coordination Scrum from coaches and delivery and operational stream
@@ -210,6 +214,7 @@ Cumulative flow of this kanban is iteratively reviewed by the transformation pro
 owners of the Strategic Scrum.
 
 ---
+
 ####Continuous Awareness
 
 Organise change recipients into a system of [Guilds and
@@ -247,6 +252,7 @@ Scrum. At scale, the Coordination Scrum may evolve into an [Enterprise
 Council](http://agiletng.org/2014/04/21/xscale/#continuous-adaptation)
 
 ---
+
 ####Continuous Architecture
 
 Guilds meet weekly to institute technical enablers for feature based delivery.
@@ -291,6 +297,7 @@ each chapter will be represented at its own stream council, and Guild meetings
 may become less frequent.
 
 --- 
+
 ####Continuous Adoption
 
 Coaches track transformation stories in a coaching kanban and report weekly to
@@ -326,6 +333,7 @@ team's technical toolset is ready for continuous delivery. They also marshall
 metrics and team-member testaments into case studies to support Acceleration.
 
 ---
+
 ####Continuous Acceleration
 
 Use consensus protocols to iteratively re-energise the tranformation.
@@ -354,6 +362,7 @@ spaces](), [Iroquois Councils](), [lean coffees]() and [scrum retros]() within
 guilds and tribes.
 
 ---
+
 #### Continuous Adaptation
 
 Refactor the Transformation Roadmap to leverage new capabilities.

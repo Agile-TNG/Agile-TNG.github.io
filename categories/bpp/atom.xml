@@ -4,7 +4,7 @@
   <title><![CDATA[Category: BPP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/bpp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-15T16:18:57+10:00</updated>
+  <updated>2014-05-16T00:47:34+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -20,14 +20,21 @@
     <id>http://Agile-TNG.github.io/2014/05/14/behavioral-product-planning</id>
     <content type="html"><![CDATA[<p><img src="/images/koch-curve.gif"></p>
 
-<p>BPP is a way to quickly and consistently determine which combinations of business
-requirements have most value.  </p>
+<p>BPP is a set of easy numbers games to enable a team to quickly define, budget and
+prioritise a product roadmap in terms of ROI and COD. It’s a way to answer three
+questions Agile has traditionally dodged: </p>
+
+<ul>
+  <li>how much is this going to cost?</li>
+  <li></li>
+  <li>does this product plan maximize ROI?</li>
+</ul>
 
 <!-- more -->
 
-<p>Agile works as a hill-climbing method, continously integrating little stories into a
-whole, it’s quite happy to climb a molehill of value when there’s an Everest right
-next door. </p>
+<p>Agile works as a hill-climbing algorithm. It continously integrates little stories
+into a release, and it’s quite happy to climb a molehill of value when there’s an
+Everest right next door. </p>
 
 <p>Small projects look to a good product owner to find their Everest, but at scale when
 you’ve got portfolios of programs of projects, misalignment is easy and consistent

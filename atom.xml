@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T17:01:29+10:00</updated>
+  <updated>2014-05-16T17:14:22+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -20,7 +20,7 @@
     <id>http://Agile-TNG.github.io/2014/05/14/behavioral-product-planning</id>
     <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/koch-curve.gif" /></p>
 
-<p>BPP is a pattern language that enables a <a href="http://luxr.co/10_principles_of_lean_user_experience#who_is_involved">product
+<p>BPP is a pattern language based on BDD that enables a <a href="http://luxr.co/10_principles_of_lean_user_experience#who_is_involved">product
 team</a> to
 efficiently define, budget and prioritise a roadmap or backlog. It’s also a way to
 answer some questions Agile has traditionally avoided: </p>

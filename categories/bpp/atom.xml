@@ -4,7 +4,7 @@
   <title><![CDATA[Category: BPP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/bpp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T11:25:21+10:00</updated>
+  <updated>2014-05-16T11:38:22+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -121,75 +121,83 @@ Launcher</a>, and <a href="https://www.youtube.com/watch?v=K0__FYRdiSY">Purple
 Minions</a>.</p>
 
 <ul>
-  <li>At every level, BFR takes the form of a matrix of objectives and themes
-where a theme defines a category of acceptance criteria for a cross-cutting
-technical, business or user experience concern and the objectives combine to
-satisfy the scoping story respecting these themes.</li>
-  <li>Each objective expands to a set of sub-features in story-normal form.  These
-features are checked to assure their INVEST compliance. Here the S in INVEST
-is generalized to mean “scale similar” rather than just “small”.</li>
-  <li>The intersection of a feature and a theme is simply a checkbox; each box can
-only contain a blank or a checkmark. A checkmark means there are acceptance
-criteria for this feature in this theme and a blank means there aren’t.</li>
+  <li>At every level, BFR takes the form of a matrix of features and themes.  A <em>theme</em>
+defines some category of acceptance criteria for a cross-cutting technical, business
+or user experience concern. And the features are thought to combine to satisfy the
+BFR’s scoping story across these themes.
+    <ul>
+      <li>Each feature is in turn expanded in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
+form</a>.
+and checked to assure <a href="http://en.wikipedia.org/wiki/INVEST_(mnemonic)">INVEST</a>
+compliance. Here the N in INVEST is modified to mean “we have the right people in
+the room to Negotiate these stories” and the S is generalized to mean “scale
+similar” rather than just “small”.</li>
+    </ul>
+  </li>
+  <li>The intersection of a feature and a theme is a checkbox; each checkbox can only
+contain a blank or a checkmark. A checkmark means there are acceptance criteria for
+this feature in this theme and a blank means there aren’t.</li>
 </ul>
 
 <p><img src="/images/roadmap1.png" width="400"></p>
 
 <ul>
   <li>Each feature is evaluated against all themes. </li>
-  <li>As each feature is evaluated, also consider whether there are acceptance
-criteria in a theme that isn’t yet part of the roadmap. If so, add a column
-for that theme and re-evaluate all the features to determine whether they
-also have some acceptance criteria in it.</li>
-  <li>It’s fine to modify or refactor features as you go so long as all the
-roadmap’s boxes are consistently updated.</li>
+  <li>As each feature is evaluated, also consider whether there are acceptance criteria in
+a theme that isn’t yet part of the roadmap. If so, add a column for that theme and
+re-evaluate all the features to determine whether they also have some acceptance
+criteria in it.</li>
+  <li>It’s fine to modify or refactor features as you go so long as all the roadmap’s
+checkboxes are consistently updated.</li>
 </ul>
 
-<p>So above we realize that purple minions aren’t a hand-held weapon, but <a href="https://www.youtube.com/watch?v=r5VQ6MowYm0&amp;t=20m45s">the gun that
-converts yellow minions to purple
+<p>Above we realize that purple minions aren’t actually a hand-held weapon, but <a href="https://www.youtube.com/watch?v=r5VQ6MowYm0&amp;t=20m45s">the gun
+that converts yellow minions to purple minions
 is</a>, so we modify the roadmap
-accordingly. We also note acceptance criteria here to do with scaling to large 
-populations and changing their allegiances, so add themes for those.</p>
+accordingly. We also note there are acceptance criteria here to do with the purple
+minion gunscaling to large populations and also changing their allegiances, so we add
+theme columns for those.</p>
 
 <p><img src="/images/roadmap2.png" width="400"></p>
 
 <ul>
-  <li>Evaluate each theme to determine whether it is sufficiently covered by
-features to achieve the scoping story.</li>
-  <li>If not, the roadmap should be extended with extra features to assure the
-theme is sufficiently covered, with these features subsequently evaluated in
-all themes.</li>
-  <li>If it appears that all features have the same pattern of checkboxes for two
-themes, consider whether those two may be refactored into one.</li>
+  <li>Evaluate each theme to determine whether it is sufficiently covered by features to
+deliver the scoping story.</li>
+  <li>If not, the roadmap is extended with extra features to assure every theme is
+sufficiently covered, with each new features subsequently evaluated in all themes.</li>
+  <li>If it appears that all features have the same pattern of checkboxes for two themes,
+we consider whether those two themes may be refactored into one.</li>
 </ul>
 
-<p>Continuing the humorous example, we see that none of the three weapons so far is both
-accurate and scalable. So it seems there’s a missing feature: the <a href="https://www.youtube.com/watch?v=AnxRf4JnXPU">Shrink
+<p>Continuing our despicable example, we see that none of the three weapons so far is
+both accurate and scalable. Our product owner says that’s important for super-villain
+weaponry, so there’s a missing feature. This is how we come up with the <a href="https://www.youtube.com/watch?v=AnxRf4JnXPU">Shrink
 Ray</a>.</p>
 
 <p><img src="/images/roadmap3.png" width="400"></p>
 
 <ul>
-  <li>If a theme has checkboxes for all or almost all features, break out further
-features to encapsulate shared technical infrastructure to economically
-support the commonalities. We call these <strong>technical features</strong>.</li>
-  <li>If a theme has no checkboxes ticked, it may simply be deleted. If it has
-only a very small number ticked, it may be better to convert the sparse
-theme into a feature.</li>
+  <li>If a theme has checkboxes for all or almost all features, break out further features
+to encapsulate shared technical infrastructure to economically support their
+commonalities. We call these <strong>technical features</strong>.</li>
+  <li>If a theme has no checkboxes ticked, it may simply be deleted. If it has only a very
+small number ticked, it may be better to refactor those checkboxes into a standalone
+feature.</li>
   <li>In general this  process continues until the team agrees that the roadmap is
-complete or there is no more time available.</li>
+complete or that there is no more time available.</li>
 </ul>
 
-<p>Completing the example roadmap above we note that it will save costs if all these
-portable weapons share a common chassis - a handle, a trigger and an aiming device. So
-we factor out a technical feature for that. And since none of these devices have
-acceptance criteria involving a Food Supply any more, we can simply delete that theme.</p>
+<p>Completing the despicable roadmap above we note that it will save feature points if
+all these portable weapons share a common chassis - a standardized handle, trigger and
+aiming device. So we factor out a technical feature for a gun chasis. Then, since none
+of these weapons have acceptance criteria involving a Food Supply any more, we can
+simply delete that column.</p>
 
-<p>To use BFR like this properly it’s important to keep “breadth-first” in mind. The
-roadmapping process may become long and onerous if features and themes are too
-numerous or detailed for the scale of the roadmap. Each feature may be expanded into
-a further roadmap at the next level down until they’re small enough to constitute
-delivery stories. So it’s counterproductive to over-specify them.</p>
+<p>To use BFR properly it’s important to keep “breadth-first” in mind. The roadmapping
+process may become long and onerous if features and themes are too numerous or
+detailed for the scale of the roadmap. Each feature may be expanded into a further
+roadmap at the next level down until they’re small enough to constitute delivery
+stories. So it’s counterproductive to over-specify them.</p>
 
 <h3 id="backlog-bingo">Backlog Bingo</h3>
 

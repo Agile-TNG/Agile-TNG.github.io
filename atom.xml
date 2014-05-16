@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T10:30:06+10:00</updated>
+  <updated>2014-05-16T10:31:43+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -32,10 +32,6 @@ traditionally avoided: </p>
 
 <!-- more -->
 
-<p>Agile works as a hill-climbing algorithm. It continously integrates little stories
-into a release, and it’s perfectly happy to climb a molehill of value when there’s an
-Everest right next door. </p>
-
 <ul id="markdown-toc">
   <li><a href="#feature-points">Feature Points</a></li>
   <li><a href="#breadth-first-roadmap">Breadth-First Roadmap</a></li>
@@ -45,6 +41,10 @@ Everest right next door. </p>
   <li><a href="#bingo-uncertainty">Bingo Uncertainty</a></li>
   <li><a href="#roadmap-refactoring">Roadmap Refactoring</a></li>
 </ul>
+
+<p>Agile works as a hill-climbing algorithm. It continously integrates little stories
+into a release, and it’s perfectly happy to climb a molehill of value when there’s an
+Everest right next door. </p>
 
 <p>Small projects look to a good product owner to find their Everest, but at scale, with
 portfolios of programs of projects, misalignment is easy and ROI is combinatorially

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: BPP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/bpp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T11:21:44+10:00</updated>
+  <updated>2014-05-16T11:25:21+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -92,30 +92,30 @@ in a set period of time.</p>
 <p><img src="/images/bfr.png" width="400"></p>
 
 <p>Breadth-First Roadmap (BFR) is a generalization of the Lean Startup <a href="http://www.youtube.com/watch?v=QoAOzMTLP5s">Business Model
-Canvas</a> composed of simple, commonplace
-Agile practices - story normal form, INVEST properties and categories of BDD
-acceptance criteria. Its function is to concrete shared understanding of a group’s
-delivery targets or courses of action, and assure complete analysis of same to a
-limited depth.</p>
+Canvas</a>. It’s derived from of simple,
+proven Agile practices - story normal form, INVEST properties and categories of BDD
+acceptance criteria. But it functions to concrete agreement about a group’s delivery
+targets and courses of action, and to assure complete analysis of same - to a limited
+depth.</p>
 
-<p>So every BFR can be regarded as an expansion of a single, larger story that limits its
-scope. So let’s call that a <strong>“scoping story”</strong>. It’s important to begin by describing
-this story in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
+<p>Every BFR can be regarded as an expansion of a single, large story that delimits its
+scope. We call that the BFR’s <strong>“scoping story”</strong>. It’s important to begin by
+describing this story in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
 form</a>
-in order to scope roadmapping conversations to an intent shared by the whole team.</p>
+to assure roadmapping conversations converge on an intent shared by the whole team.</p>
 
 <p><img src="/images/roadmap0.png" width="400"></p>
 
-<p>For example, consider the following scoping story from <a href="https://www.youtube.com/watch?v=sUkZFetWYY0">Despicable
+<p>For example, consider the following humorous scoping story from <a href="https://www.youtube.com/watch?v=sUkZFetWYY0">Despicable
 Me</a>:</p>
 
 <blockquote>
   <p>As a super-villain<br />
 I want a hand-held super-weapon<br />
-So that I can overpower ordinary people</p>
+So that I can overpower people</p>
 </blockquote>
 
-<p>We may imagine three objectives on the resulting roadmap: a <a href="https://www.youtube.com/watch?v=bYfG2FwkVkM">Freeze
+<p>Let’s imagine three features on the resulting roadmap: a <a href="https://www.youtube.com/watch?v=bYfG2FwkVkM">Freeze
 Ray</a>, a <a href="https://www.youtube.com/watch?v=X1gCJrOISYo">Squid
 Launcher</a>, and <a href="https://www.youtube.com/watch?v=K0__FYRdiSY">Purple
 Minions</a>.</p>

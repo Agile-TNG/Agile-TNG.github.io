@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pattern Language | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern-language/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T10:31:43+10:00</updated>
+  <updated>2014-05-16T11:21:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -69,26 +69,23 @@ story points represent only the relative effort required to deliver a story, fea
 points estimate increments of funding necesssary to deploy a feature. </p>
 
 <p>Because the number of story points that will fit into a funding increment depends on
-team velocity, there’s no linear mapping between feature points and story points.  Yet
-there’s no need to attempt to normalize story points across teams because BPP’s
-Backlog Bingo practice gives feature points an empirical basis in relation to
-previously delivered features. </p>
+team velocity, there’s no linear mapping between feature points and story points.
+That’s all right because there’s no need to attempt to normalize story points across
+teams. Instead, BPP’s Backlog Bingo pattern gives feature points their empirical basis.</p>
 
-<p>BPP uses these feature points both in establishing a reasonable level of funding per
+<p>BPP uses feature points both in establishing a reasonable level of funding per
 business objective, and as a direct input to its “Royal Cod” prioritization method.
-Where it is necessary to represent both feature points and story points on the same
-diagram, we simply monetize story points using the formula:</p>
+If you need to represent both feature points and story points on the same diagram, we
+“monetize” story points using the formula:</p>
 
-<p>Monetized Story Points = Story Points / Feature Velocity</p>
+<p>Monetized Story Points = Team Story Points / Feature Velocity</p>
 
-<p>Here the “Feature Velocity” is the team’s current throughput in story points per
-feature point. This is functionally equivalent to the traditional Agile measure of
-project velocity, but because it’s normalized to feature points doing it this way
-enables us to combine the various velocities of multiple squads in a stream by simply
-adding them up.</p>
-
-<p>If, for example, a squad costs its stream 10 feature points per week, and delivers 25
-story points in the same week, its Feature Velocity is simply 2.5 SP/FP. </p>
+<p>Here the “Feature Velocity” is simply the team’s throughput in feature points per
+week.  If, for example, squad A delivers on average 10 feature points per week, its 25
+story points = 2.5 FP. If squad B delivers 12 feature points per week, its 48 story
+points = 4 FP. This makes it easy to graph cumulative flow diagrams per team, and to
+assure that the budget for a stream is sufficient to deliver a set number of features
+in a set period of time.</p>
 
 <h3 id="breadth-first-roadmap">Breadth-First Roadmap</h3>
 

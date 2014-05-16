@@ -4,7 +4,7 @@
   <title><![CDATA[Category: BPP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/bpp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T12:11:08+10:00</updated>
+  <updated>2014-05-16T16:53:54+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -265,101 +265,106 @@ Shortest Job First” (WSJF) equivalent for reasons described below.</p>
 
 <p><img src="/images/bpp.png" width="400"></p>
 
-<p>RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
-of:</p>
+<p>Royal Cod uses two Bingo sessions to assign values to the BFR features in terms of:</p>
 
 <ul>
   <li>effort in feature points</li>
   <li>relative business value</li>
 </ul>
 
-<p>Technical team members - developers, architects, designers and testers - play
-the first bingo game with Product Owner and stakeholders in the room to
-answer questions and also to question any estimate they feel is too large or
-too small. </p>
+<p>Technical team members - developers, architects, designers and testers - play the
+first bingo game while the Product Owner and stakeholders answer questions and in turn
+question any relative estimate they feel is too large or too small. </p>
 
-<p>The second bingo game reverses the roles. Now it’s business stakeholders,
-SMEs and the PO who work together to estimate business value while technical
-team members answer questions. </p>
+<p>The second bingo game reverses these roles. Now it’s business stakeholders, SMEs and
+the PO who work together to estimate business value while technical team members
+answer questions. </p>
 
-<p>Only technical team members are qualified to make effort estimates, and only
-business team members to make business value estimates. Once each feature
-obtains both estimates, RoI+CoD prioritisation involves three steps:</p>
+<p>Only technical team members are qualified to make effort estimates, and only business
+team members to make business value estimates. The rest simply ask questions. Once
+each feature obtains both estimates, Royal Cod prioritisation involves three steps:</p>
 
 <ul>
-  <li>Divide the business value number, which represents expected return, by
-effort, which represents the required investment to obtain the return.
-This yields relative return on investment - RoI.</li>
-  <li>List features vertically in order of decreasing RoI. Let the Product Owner
-increase the priority of any business feature if they feel has a Cost of
-Delay (CoD) that warrants this.</li>
-  <li>Once the PO is content with the prioritisation of business features, let
-technical team members increase the priority of any technical feature they
-feel has a CoD that warrants this. </li>
+  <li>Divide the business value number, which represents expected return, by effort, which
+represents the required investment to obtain the return.  This yields relative
+return on investment - ROI.</li>
+  <li>List features vertically in order of decreasing ROI. Let the Product Owner increase
+the priority of any business feature if they feel has a Cost of Delay (COD) that
+warrants this.</li>
+  <li>Once the PO is content with the prioritisation of business features, let technical
+team members increase the priority of any <em>technical feature</em> they feel has a COD
+that warrants this. </li>
 </ul>
 
-<p>In order to minimize the overall cost of maintenance, a technical feature
-should have a priority no more than one rank higher than the highest prioity
-feature that depends upon it.</p>
+<p>In order to minimize overall cost of maintenance, a technical feature should have a
+priority as close as possible to the highest prioity feature that depends upon it.</p>
 
-<p>Once the CoD adjustments have been made, record the relative priorities of
-the features to prepare them for Roadmap Refactoring, which will determine
-how to best fit them given funding constraints and MVP per business objective. </p>
+<p>Once the COD adjustments have been made, record the relative priorities of the
+features to prepare for Roadmap Refactoring, which determines how to best fit
+these to funding constraints and MVP per business objective. </p>
 
 <h3 id="royal-cod-vs-wsjf">Royal Cod vs WSJF</h3>
 
-<p>Why not WSJF? WSJF is defined in SAFe by the formula (Business-or-User Value
-+ Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
-there’s no clear distinction between business value, risk reduction and
-opportunity enablement, nor between criticality and Cost of Delay, WSJF
-simplifies to (Business Value / Duration) + (Criticality / Duration).</p>
+<p>In WSJF, COD is the whole game. It includes ROI - it’s not distinct from it. What’s
+the advantage of doing it this way? Why not the SAFe way?</p>
 
-<p>There are several problems with this:
-0. It doesn’t makes sense to divide criticality by duration. Work doesn’t
-   become less critical just because it takes longer. There is a trade-off
-   but it must be made intelligently, not numerically.
--  Without clear distinctions, which aren’t provided by SAFe, there’s no way
-   to assure the WSJF variables are independent. This distorts relative
-   Business Value in an unpredictable way.
--  By factoring CoD variables and giving them equal weighting, WSJF actively
-   prevents intelligent trade-off conversations that would reconcile
-   differing assumptions about their importance per feature.
--  WSJF provides no opportunity to account for how combinations of features
-   render the individual feature more or less valuable. This is a moving
-   target that also calls for intelligent conversation.
--  WSJF doesn’t account for technical CoD.  Some features may have high CoD
-   because of architectural concerns or ambiguities. WSJF leaves that out.</p>
+<p>WSJF is defined in SAFe by the formula (Business-or-User Value
++ Time Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
+there’s no clear distinction between business value, risk reduction and opportunity
+enablement, WSJF simplifies to (Business Value / Duration) + (Criticality /
+Duration).</p>
 
-<p>All of these problems are eliminated by Royal Cod. Once you’ve factored out
-ROI, it becomes easy for team members to agree on the remaining CoD.  And
-rather than adding in CoD as if it were linear, which it’s not, it’s easy
-for team members to adjust an ROI prioritization by discrete CoD per feature
-including technical CoD of technical features. The result is quick, simple and
-unambiguous.</p>
+<p>There are several problems that:</p>
+
+<ol>
+  <li>It doesn’t makes sense to divide criticality by duration. Work doesn’t become less
+critical just because it takes longer. There is a trade-off but it must be made
+intelligently, not numerically.
+    <ul>
+      <li>Without clear distinctions for each term, which aren’t provided by SAFe, there’s no
+way to assure those WSJF variables are independent. The overlap distorts relative
+Business Value in an unpredictable way.</li>
+      <li>By factoring COD variables out and giving them equal weighting, WSJF actively
+prevents intelligent trade-off conversations that would reconcile differing
+assumptions about their importance per feature.</li>
+      <li>WSJF provides no opportunity to account for how combinations of features render the
+individual feature more or less valuable. Again this is a moving target that also
+calls for intelligent conversation, not blind statistics.</li>
+      <li>WSJF doesn’t account for technical CoD.  Some features may have high CoD because of
+architectural concerns or ambiguities. WSJF leaves that out.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>All of these problems are simply eliminated in Royal Cod. Once you’ve factored out
+ROI, it becomes easy for team members to agree on the remaining COD.  And rather than
+adding in COD as if it were linear, which it’s not, it’s easy for team members to
+adjust an ROI prioritization by discrete COD per feature - including technical COD of
+technical features. The game is quick, simple and unambiguous.</p>
 
 <h3 id="bingo-uncertainty">Bingo Uncertainty</h3>
 
-<p>Uncertainty can lead technical team members to refuse to estimate a feature
-in Backlog Bingo. That’s healthy - you don’t want a meaningless estimate.
-But then they must clearly describe the ambiguities or inconsistencies they
-would need resolved by the Product Owner or technical SME in order to
-produce an estimate. </p>
+<p>Uncertainty can lead technical team members to refuse to estimate a feature in Backlog
+Bingo. That’s healthy - you don’t want a meaningless estimate.  But then technical
+team members must clearly describe the ambiguities or inconsistencies they need
+resolved by the Product Owner and technical SME before they can produce an estimate. </p>
 
-<p>If and part of the feature is estimable but another part is not:</p>
+<p>If a part of a feature is estimable but another part is not:</p>
 
 <ul>
   <li>the feature is split into two, </li>
   <li>the estimable part is estimated</li>
   <li>a new technical feature is created to represent the work of resolving the
-uncertainty via <a href="">spikes</a> or a <a href="">set-based design</a> process.</li>
-  <li>estimating the inestimable feature is deferred until the technical feature
-it depends upon is completed.</li>
+uncertainty via <a href="http://www.c2.com/cgi/wiki?SpikeDescribed">spikes</a> or a <a href="http://xp123.com/articles/set-based-concurrent-engineering/">set-based
+design</a> process.</li>
+  <li>estimating the inestimable feature is deferred until the spike/SBD story it
+depends upon is completed.</li>
 </ul>
 
-<p>If a large number of features are inestimable it’s usually best to defer the
-bingo session until the team has had time to work with architects and
-designers to nail dependencies down better, or the product owner has
-sufficient time to resolve business questions.</p>
+<p>If a large number of features are inestimable it’s usually best to defer your bingo
+session until the team has had time to work with architects and designers to nail
+dependencies down better, or the product owner has sufficient time to resolve business
+questions.</p>
 
 <h3 id="roadmap-refactoring">Roadmap Refactoring</h3>
 

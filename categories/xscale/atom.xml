@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XSCALE | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xscale/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T16:53:54+10:00</updated>
+  <updated>2014-05-16T16:59:23+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -307,6 +307,8 @@ these to funding constraints and MVP per business objective. </p>
 
 <p>In WSJF, COD is the whole game. It includes ROI - it’s not distinct from it. What’s
 the advantage of doing it this way? Why not the SAFe way?</p>
+
+<p><img src="/images/cod.png" width="400"></p>
 
 <p>WSJF is defined in SAFe by the formula (Business-or-User Value
 + Time Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since

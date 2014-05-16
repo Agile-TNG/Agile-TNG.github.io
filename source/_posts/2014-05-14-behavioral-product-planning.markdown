@@ -11,37 +11,39 @@ categories:
 
 {% img /images/koch-curve.gif %}
 
-BPP is a pattern language that enables a product team to efficiently define, budget
-and prioritise a product roadmap. It's a way to answer some questions Agile has
-traditionally avoided: 
+BPP is a pattern language that enables a [product
+team](http://luxr.co/10_principles_of_lean_user_experience#who_is_involved) to
+efficiently define, budget and prioritise a roadmap or backlog. It's also a way to
+answer some questions Agile has traditionally avoided: 
 
-* How much is this going to cost?
-* How will we know when we can ship?
-* How can we build a backlog to maximize ROI?
+* How do we know this backlog is an MVP?
+* How much do these alternatives cost?
+* How do we know we're ready to ship?
 
 <!-- more -->
 
+* toc
+{:toc}
+
 Agile works as a hill-climbing algorithm. It continously integrates little stories
-into a release, and it's quite happy to climb a molehill of value when there's an
+into a release, and it's perfectly happy to climb a molehill of value when there's an
 Everest right next door. 
 
-Small projects look to a good product owner to find their Everest, but at scale when
-you've got portfolios of programs of projects, misalignment is easy and consistent
-value is combinatorially hard.  
+Small projects look to a good product owner to find their Everest, but at scale, with
+portfolios of programs of projects, misalignment is easy and ROI is combinatorially
+hard.  
 
-In the animation of a "Koch Curve" above, a line segment is mapped to 4 smaller line
+In the above animation of a "Koch Curve", a line segment is mapped to 4 smaller line
 segments to look like a tent. Then each of those segments is transformed the same way,
-breadth-first, an so on until a complicated curve forms.  If a hill-climbing algorithm
-is used on the Koch curve, for example, it can't reach the highest point unless it
-happens to start right on top of it. Mapping the curve breadth-first, however, will
-always approach very closely to that point.
+breadth-first, and so on until it looks like broccoli. If a hill-climbing algorithm is
+used on this Koch curve, it will always get stuck in a local maximum.  Mapping the
+curve breadth-first, however, always gets to the global maximum.
 
-Behavioral Product Planning makes breadth-first distinctions about business
-alternatives, then sorts these into easily optimized piles, and then iterates to
-quickly locate the features with maximum ROI. It assures consistent decisions about
-business alternatives at all scales, and its analysis completes quickly and
-efficiently, ruling out large swathes of the "search space" without wasting analysis
-time onin depth exploration.
+Likewise BPP makes breadth-first distinctions about business alternatives, sorts these
+into easily optimized piles, and iterates to locate the parts with maximum ROI. This
+assures consistent decisions about business alternatives at all scales, and the
+analysis completes quickly and efficiently, ruling out large swathes of its "search
+space" without wasting analysis time on in-depth exploration.
 
 ### Feature Points
 
@@ -49,133 +51,137 @@ In BPP we change the unit of estimation from story points to feature points.  Wh
 story points represent only the relative effort required to deliver a story, feature
 points estimate increments of funding necesssary to deploy a feature. 
 
+{% img /images/flow.png 400 %}
+
 Because the number of story points that will fit into a funding increment depends on
-team velocity, there's no linear mapping between feature points and story points.  Yet
-there's no need to attempt to normalize story points across teams because BPP's
-Backlog Bingo practice gives feature points an empirical basis in relation to
-previously delivered features. 
+team velocity, there's no linear mapping between feature points and story points.
+That's all right because there's no need to attempt to normalize story points across
+teams. Instead, BPP's Backlog Bingo pattern gives feature points their empirical basis.
 
-BPP uses these feature points both in establishing a reasonable level of funding per
+BPP uses feature points both in establishing a reasonable level of funding per
 business objective, and as a direct input to its "Royal Cod" prioritization method.
-Where it is necessary to represent both feature points and story points on the same
-diagram, we simply monetize story points using the formula:
+If you need to represent both feature points and story points on the same diagram, we
+"monetize" story points using the formula:
 
-Monetized Story Points = Story Points / Feature Velocity
+Monetized Story Points = Team Story Points / Feature Velocity
 
-Here the "Feature Velocity" is the team's current throughput in story points per
-feature point. This is functionally equivalent to the traditional Agile measure of
-project velocity, but because it's normalized to feature points doing it this way
-enables us to combine the various velocities of multiple squads in a stream by simply
-adding them up.
-
-If, for example, a squad costs its stream 10 feature points per week, and delivers 25
-story points in the same week, its Feature Velocity is simply 2.5 SP/FP. 
+Here the "Feature Velocity" is simply the team's throughput in feature points per
+week.  If, for example, squad A delivers on average 10 feature points per week, its 25
+story points = 2.5 FP. If squad B delivers 12 feature points per week, its 48 story
+points = 4 FP. This makes it easy to graph cumulative flow diagrams per team, and to
+assure that the budget for a stream is sufficient to deliver a set number of features
+in a set period of time.
 
 ### Breadth-First Roadmap
 
 {% img /images/bfr.png 400 %}
 
 Breadth-First Roadmap (BFR) is a generalization of the Lean Startup [Business Model
-Canvas](http://www.youtube.com/watch?v=QoAOzMTLP5s) composed of simple, commonplace
-Agile practices - story normal form, INVEST properties and categories of BDD
-acceptance criteria. Its function is to concrete shared understanding of a group's
-delivery targets or courses of action, and assure complete analysis of same to a
-limited depth.
+Canvas](http://www.youtube.com/watch?v=QoAOzMTLP5s). It's derived from of simple,
+proven Agile practices - story normal form, INVEST properties and categories of BDD
+acceptance criteria. But it functions to concrete agreement about a group's delivery
+targets and courses of action, and to assure complete analysis of same - to a limited
+depth.
 
-So every BFR can be regarded as an expansion of a single, larger story that limits its
-scope. So let's call that a **"scoping story"**. It's important to begin by describing
-this story in [story-normal
+Every BFR can be regarded as an expansion of a single, large story that delimits its
+scope. We call that the BFR's **"scoping story"**. It's important to begin by
+describing this story in [story-normal
 form](http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
-in order to scope roadmapping conversations to an intent shared by the whole team.
+to assure roadmapping conversations converge on an intent shared by the whole team.
 
 {% img /images/roadmap0.png 400 %}
 
-For example, consider the following scoping story from [Despicable
+For example, consider the following humorous scoping story from [Despicable
 Me](https://www.youtube.com/watch?v=sUkZFetWYY0):
 
 > As a super-villain<br>
 > I want a hand-held super-weapon<br>
-> So that I can overpower ordinary people
+> So that I can overpower people
 
-We may imagine three objectives on the resulting roadmap: a [Freeze
+Let's imagine three features on the resulting roadmap: a [Freeze
 Ray](https://www.youtube.com/watch?v=bYfG2FwkVkM), a [Squid
 Launcher](https://www.youtube.com/watch?v=X1gCJrOISYo), and [Purple
 Minions](https://www.youtube.com/watch?v=K0__FYRdiSY).
 
-* At every level, BFR takes the form of a matrix of objectives and themes
-  where a theme defines a category of acceptance criteria for a cross-cutting
-  technical, business or user experience concern and the objectives combine to
-  satisfy the scoping story respecting these themes.
-* Each objective expands to a set of sub-features in story-normal form.  These
-  features are checked to assure their INVEST compliance. Here the S in INVEST
-  is generalized to mean "scale similar" rather than just "small".
-* The intersection of a feature and a theme is simply a checkbox; each box can
-  only contain a blank or a checkmark. A checkmark means there are acceptance
-  criteria for this feature in this theme and a blank means there aren't.
+* At every level, BFR takes the form of a matrix of features and themes.  A _theme_
+  defines some category of acceptance criteria for a cross-cutting technical, business
+  or user experience concern. And the features are thought to combine to satisfy the
+  BFR's scoping story across these themes.
+  * Each feature is in turn expanded in [story-normal
+  form](http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template).
+  and checked to assure [INVEST](http://en.wikipedia.org/wiki/INVEST_(mnemonic))
+  compliance. Here the N in INVEST is modified to mean "we have the right people in
+  the room to Negotiate these stories" and the S is generalized to mean "scale
+  similar" rather than just "small".
+* The intersection of a feature and a theme is a checkbox; each checkbox can only
+  contain a blank or a checkmark. A checkmark means there are acceptance criteria for
+  this feature in this theme and a blank means there aren't.
 
 {% img /images/roadmap1.png 400 %}
 
 * Each feature is evaluated against all themes. 
-* As each feature is evaluated, also consider whether there are acceptance
-  criteria in a theme that isn't yet part of the roadmap. If so, add a column
-  for that theme and re-evaluate all the features to determine whether they
-  also have some acceptance criteria in it.
-* It's fine to modify or refactor features as you go so long as all the
-  roadmap's boxes are consistently updated.
+* As each feature is evaluated, also consider whether there are acceptance criteria in
+  a theme that isn't yet part of the roadmap. If so, add a column for that theme and
+  re-evaluate all the features to determine whether they also have some acceptance
+  criteria in it.
+* It's fine to modify or refactor features as you go so long as all the roadmap's
+  checkboxes are consistently updated.
 
-So above we realize that purple minions aren't a hand-held weapon, but [the gun that
-converts yellow minions to purple
+Above we realize that purple minions aren't actually a hand-held weapon, but [the gun
+that converts yellow minions to purple minions
 is](https://www.youtube.com/watch?v=r5VQ6MowYm0&t=20m45s), so we modify the roadmap
-accordingly. We also note acceptance criteria here to do with scaling to large 
-populations and changing their allegiances, so add themes for those.
+accordingly. We also note there are acceptance criteria here to do with the purple
+minion gunscaling to large populations and also changing their allegiances, so we add
+theme columns for those.
 
 {% img /images/roadmap2.png 400 %}
 
-* Evaluate each theme to determine whether it is sufficiently covered by
-  features to achieve the scoping story.
-* If not, the roadmap should be extended with extra features to assure the
-  theme is sufficiently covered, with these features subsequently evaluated in
-  all themes.
-* If it appears that all features have the same pattern of checkboxes for two
-  themes, consider whether those two may be refactored into one.
+* Evaluate each theme to determine whether it is sufficiently covered by features to
+  deliver the scoping story.
+* If not, the roadmap is extended with extra features to assure every theme is
+  sufficiently covered, with each new features subsequently evaluated in all themes.
+* If it appears that all features have the same pattern of checkboxes for two themes,
+  we consider whether those two themes may be refactored into one.
 
-Continuing the humorous example, we see that none of the three weapons so far is both
-accurate and scalable. So it seems there's a missing feature: the [Shrink
+Continuing our despicable example, we see that none of the three weapons so far is
+both accurate and scalable. Our product owner says that's important for super-villain
+weaponry, so there's a missing feature. This is how we come up with the [Shrink
 Ray](https://www.youtube.com/watch?v=AnxRf4JnXPU).
 
 {% img /images/roadmap3.png 400 %}
 
-* If a theme has checkboxes for all or almost all features, break out further
-  features to encapsulate shared technical infrastructure to economically
-  support the commonalities. We call these **technical features**.
-* If a theme has no checkboxes ticked, it may simply be deleted. If it has
-  only a very small number ticked, it may be better to convert the sparse
-  theme into a feature.
+* If a theme has checkboxes for all or almost all features, break out further features
+  to encapsulate shared technical infrastructure to economically support their
+  commonalities. We call these **technical features**.
+* If a theme has no checkboxes ticked, it may simply be deleted. If it has only a very
+  small number ticked, it may be better to refactor those checkboxes into a standalone
+  feature.
 * In general this  process continues until the team agrees that the roadmap is
-  complete or there is no more time available.
+  complete or that there is no more time available.
 
-Completing the example roadmap above we note that it will save costs if all these
-portable weapons share a common chassis - a handle, a trigger and an aiming device. So
-we factor out a technical feature for that. And since none of these devices have
-acceptance criteria involving a Food Supply any more, we can simply delete that theme.
+Completing the despicable roadmap above we note that it will save feature points if
+all these portable weapons share a common chassis - a standardized handle, trigger and
+aiming device. So we factor out a technical feature for a gun chasis. Then, since none
+of these weapons have acceptance criteria involving a Food Supply any more, we can
+simply delete that column.
 
-To use BFR like this properly it's important to keep "breadth-first" in mind. The
-roadmapping process may become long and onerous if features and themes are too
-numerous or detailed for the scale of the roadmap. Each feature may be expanded into
-a further roadmap at the next level down until they're small enough to constitute
+To use BFR properly it's important to keep "breadth-first" in mind. The roadmapping
+process may become long and onerous if features and themes are too numerous or
+detailed for the scale of the roadmap. Each feature may be expanded into a further
+roadmap at the next level down until they're small enough to constitute estimable
 delivery stories. So it's counterproductive to over-specify them.
 
 ### Backlog Bingo
 
 The original XP Planning Game, now known as "Planning Poker", is a proven way for
-delivery teams to collaborate on estimating the relative effort required to
-collaboratively deliver a set of stories. XSCALE generalizes Planning Poker to use
-Feature Points to make a method of determining the funding required to deliver a set
-of products and services. 
+delivery teams to collaborate on estimating the relative effort required to deliver a
+set of stories. XSCALE generalizes Planning Poker to Feature Points to make a method
+of determining the dollar investment and the relative return in delivering a set of
+products and services. 
 
 {% img /images/bbingo.png %}
 
-Backlog Bingo is easy to play:
+Backlog Bingo is easy and fun to play:
 
 * Write [Fibonacci numbers](http://www.youtube.com/watch?v=SjSHVDfXHQ4) from 1 to 89
   on cards and lay them out in a row across a large table. There's nothing magical
@@ -202,110 +208,115 @@ Backlog Bingo is easy to play:
   If the estimators cannot agree on the Fibonacci number for a feature,
   split it into pieces they can estimate separately.
 
-Bingo can also be used without a dollar basis to estimate relative business
-value. You simply pick a different set of 3 probes - one for an existing
-deployed feature that the PO says has low business value, and then one
-that's crticially important to business function, and then one roughly in
-between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
-game runs as above.
+To estimate relative business value, you simply pick a different set of 3 probes - one
+for an existing deployed feature that the PO says has low business value, and then one
+that's crticially important to business function, and then one roughly in between.
+Place them at 3, 13 and 55, respectively, and the rest of the Bingo game runs as
+above. Obviously there's no dollar quantification of the return, but we've found
+business stakeholders quickly converge on which features are worth more than which.
+And the conversations they have in getting to agreement are extremely illuminating -
+the technical team members need to listen carefully and ask questions to make certain
+they share the businss context.
 
 ### Royal Cod Prioritization
 
-RoI+CoD (which we affectionately call "Royal Cod") is a simple consensus game
-to prioritise the BFR. It is both easier and more accurate than the SAFe
-"Weighted Shortest Job First" (WSJF) equivalent for reasons described below.
+ROI + COD (which we affectionately call "Royal Cod") is a simple consensus game to
+prioritise the BFR. It is both easier and more accurate than the SAFe "Weighted
+Shortest Job First" (WSJF) equivalent for reasons described below.
 
 {% img /images/bpp.png 400 %}
 
-RoI+CoD uses two Bingo sessions to assign values to the BFR features in terms
-of:
+Royal Cod uses two Bingo sessions to assign values to the BFR features in terms of:
 
 * effort in feature points
 * relative business value
 
-Technical team members - developers, architects, designers and testers - play
-the first bingo game with Product Owner and stakeholders in the room to
-answer questions and also to question any estimate they feel is too large or
-too small. 
+Technical team members - developers, architects, designers and testers - play the
+first bingo game while the Product Owner and stakeholders answer questions and in turn
+question any relative estimate they feel is too large or too small. 
 
-The second bingo game reverses the roles. Now it's business stakeholders,
-SMEs and the PO who work together to estimate business value while technical
-team members answer questions. 
+The second bingo game reverses these roles. Now it's business stakeholders, SMEs and
+the PO who work together to estimate business value while technical team members
+answer questions. 
 
-Only technical team members are qualified to make effort estimates, and only
-business team members to make business value estimates. Once each feature
-obtains both estimates, RoI+CoD prioritisation involves three steps:
+Only technical team members are qualified to make effort estimates, and only business
+team members to make business value estimates. The rest simply ask questions. Once
+each feature obtains both estimates, Royal Cod prioritisation involves three steps:
 
-* Divide the business value number, which represents expected return, by
-  effort, which represents the required investment to obtain the return.
-  This yields relative return on investment - RoI.
-* List features vertically in order of decreasing RoI. Let the Product Owner
-  increase the priority of any business feature if they feel has a Cost of
-  Delay (CoD) that warrants this.
-* Once the PO is content with the prioritisation of business features, let
-  technical team members increase the priority of any technical feature they
-  feel has a CoD that warrants this. 
+* Divide the business value number, which represents expected return, by effort, which
+  represents the required investment to obtain the return.  This yields relative
+  return on investment - ROI.
+* List features vertically in order of decreasing ROI. Let the Product Owner increase
+  the priority of any business feature if they feel has a Cost of Delay (COD) that
+  warrants this.
+* Once the PO is content with the prioritisation of business features, let technical
+  team members increase the priority of any _technical feature_ they feel has a COD
+  that warrants this. 
   
-In order to minimize the overall cost of maintenance, a technical feature
-should have a priority no more than one rank higher than the highest prioity
-feature that depends upon it.
+In order to minimize overall cost of maintenance, a technical feature should have a
+priority as close as possible to the highest prioity feature that depends upon it.
 
-Once the CoD adjustments have been made, record the relative priorities of
-the features to prepare them for Roadmap Refactoring, which will determine
-how to best fit them given funding constraints and MVP per business objective. 
+Once the COD adjustments have been made, record the relative priorities of the
+features to prepare for Roadmap Refactoring, which determines how to best fit
+these to funding constraints and MVP per business objective. 
 
 ### Royal Cod vs WSJF
 
-Why not WSJF? WSJF is defined in SAFe by the formula (Business-or-User Value
-+ Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
-there's no clear distinction between business value, risk reduction and
-opportunity enablement, nor between criticality and Cost of Delay, WSJF
-simplifies to (Business Value / Duration) + (Criticality / Duration).
+In WSJF, COD is the whole game. It includes ROI - it's not distinct from it. What's
+the advantage of doing it this way? Why not the SAFe way?
 
-There are several problems with this:
-0. It doesn't makes sense to divide criticality by duration. Work doesn't
-   become less critical just because it takes longer. There is a trade-off
-   but it must be made intelligently, not numerically.
--  Without clear distinctions, which aren't provided by SAFe, there's no way
-   to assure the WSJF variables are independent. This distorts relative
+{% img /images/cod.png 400 %}
+
+WSJF is defined in SAFe by the formula (Business-or-User Value
++ Time Criticality + Risk-Reduction-or-Opportunity-Enablement) / Duration. Since
+there's no clear distinction between business value, risk reduction and opportunity
+enablement, WSJF simplifies to (Business Value / Duration) + (Criticality /
+Duration).
+
+There are several problems that:
+
+0. It doesn't makes sense to divide criticality by duration. Work doesn't become less
+   critical just because it takes longer. There is a trade-off but it must be made
+   intelligently, not numerically.
+-  Without clear distinctions for each term, which aren't provided by SAFe, there's no
+   way to assure those WSJF variables are independent. The overlap distorts relative
    Business Value in an unpredictable way.
--  By factoring CoD variables and giving them equal weighting, WSJF actively
-   prevents intelligent trade-off conversations that would reconcile
-   differing assumptions about their importance per feature.
--  WSJF provides no opportunity to account for how combinations of features
-   render the individual feature more or less valuable. This is a moving
-   target that also calls for intelligent conversation.
--  WSJF doesn't account for technical CoD.  Some features may have high CoD
-   because of architectural concerns or ambiguities. WSJF leaves that out.
+-  By factoring COD variables out and giving them equal weighting, WSJF actively
+   prevents intelligent trade-off conversations that would reconcile differing
+   assumptions about their importance per feature.
+-  WSJF provides no opportunity to account for how combinations of features render the
+   individual feature more or less valuable. Again this is a moving target that also
+   calls for intelligent conversation, not blind statistics.
+-  WSJF doesn't account for technical CoD.  Some features may have high CoD because of
+   architectural concerns or ambiguities. WSJF leaves that out.
 
-All of these problems are eliminated by Royal Cod. Once you've factored out
-ROI, it becomes easy for team members to agree on the remaining CoD.  And
-rather than adding in CoD as if it were linear, which it's not, it's easy
-for team members to adjust an ROI prioritization by discrete CoD per feature
-including technical CoD of technical features. The result is quick, simple and
-unambiguous.
+All of these problems are simply eliminated in Royal Cod. Once you've factored out
+ROI, it becomes easy for team members to agree on the remaining COD.  And rather than
+adding in COD as if it were linear, which it's not, it's easy for team members to
+adjust an ROI prioritization by discrete COD per feature - including technical COD of
+technical features. The game is quick, simple and unambiguous.
 
 ### Bingo Uncertainty
 
-Uncertainty can lead technical team members to refuse to estimate a feature
-in Backlog Bingo. That's healthy - you don't want a meaningless estimate.
-But then they must clearly describe the ambiguities or inconsistencies they
-would need resolved by the Product Owner or technical SME in order to
-produce an estimate. 
+Uncertainty can lead technical team members to refuse to estimate a feature in Backlog
+Bingo. That's healthy - you don't want a meaningless estimate.  But then technical
+team members must clearly describe the ambiguities or inconsistencies they need
+resolved by the Product Owner and technical SME before they can produce an estimate. 
 
-If and part of the feature is estimable but another part is not:
+If a part of a feature is estimable but another part is not:
 
 * the feature is split into two, 
 * the estimable part is estimated
 * a new technical feature is created to represent the work of resolving the
-  uncertainty via [spikes]() or a [set-based design]() process.
-* estimating the inestimable feature is deferred until the technical feature
-  it depends upon is completed.
+  uncertainty via [spikes](http://www.c2.com/cgi/wiki?SpikeDescribed) or a [set-based
+  design](http://xp123.com/articles/set-based-concurrent-engineering/) process.
+* estimating the inestimable feature is deferred until the spike/SBD story it
+  depends upon is completed.
 
-If a large number of features are inestimable it's usually best to defer the
-bingo session until the team has had time to work with architects and
-designers to nail dependencies down better, or the product owner has
-sufficient time to resolve business questions.
+If a large number of features are inestimable it's usually best to defer your bingo
+session until the team has had time to work with architects and designers to nail
+dependencies down better, or the product owner has sufficient time to resolve business
+questions.
 
 ### Roadmap Refactoring
 

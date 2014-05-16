@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pattern Language | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern-language/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T11:38:22+10:00</updated>
+  <updated>2014-05-16T11:48:51+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -20,12 +20,13 @@
     <id>http://Agile-TNG.github.io/2014/05/14/behavioral-product-planning</id>
     <content type="html"><![CDATA[<p><img src="/images/koch-curve.gif"></p>
 
-<p>BPP is a pattern language that enables a product team to efficiently define, budget
-and prioritise a product roadmap. It’s a way to answer some questions Agile has
-traditionally avoided: </p>
+<p>BPP is a pattern language that enables a <a href="http://luxr.co/10_principles_of_lean_user_experience#who_is_involved">product
+team</a> to
+efficiently define, budget and prioritise a roadmap or backlog. It’s also a way to
+answer some questions Agile has traditionally avoided: </p>
 
 <ul>
-  <li>How do we know this backlog is MVP?</li>
+  <li>How do we know this backlog is an MVP?</li>
   <li>How much do these alternatives cost?</li>
   <li>How do we know we’re ready to ship?</li>
 </ul>
@@ -196,20 +197,20 @@ simply delete that column.</p>
 <p>To use BFR properly it’s important to keep “breadth-first” in mind. The roadmapping
 process may become long and onerous if features and themes are too numerous or
 detailed for the scale of the roadmap. Each feature may be expanded into a further
-roadmap at the next level down until they’re small enough to constitute delivery
-stories. So it’s counterproductive to over-specify them.</p>
+roadmap at the next level down until they’re small enough to constitute estimable
+delivery stories. So it’s counterproductive to over-specify them.</p>
 
 <h3 id="backlog-bingo">Backlog Bingo</h3>
 
 <p>The original XP Planning Game, now known as “Planning Poker”, is a proven way for
-delivery teams to collaborate on estimating the relative effort required to
-collaboratively deliver a set of stories. XSCALE generalizes Planning Poker to use
-Feature Points to make a method of determining the funding required to deliver a set
-of products and services. </p>
+delivery teams to collaborate on estimating the relative effort required to deliver a
+set of stories. XSCALE generalizes Planning Poker to Feature Points to make a method
+of determining the dollar investment and the relative return in delivering a set of
+products and services. </p>
 
 <p><img src="/images/bbingo.png"></p>
 
-<p>Backlog Bingo is easy to play:</p>
+<p>Backlog Bingo is easy and fun to play:</p>
 
 <ul>
   <li>
@@ -244,18 +245,21 @@ split it into pieces they can estimate separately.</p>
   </li>
 </ul>
 
-<p>Bingo can also be used without a dollar basis to estimate relative business
-value. You simply pick a different set of 3 probes - one for an existing
-deployed feature that the PO says has low business value, and then one
-that’s crticially important to business function, and then one roughly in
-between. Place them at 3, 13 and 55, respectively, and the rest of the Bingo
-game runs as above.</p>
+<p>To estimate relative business value, you simply pick a different set of 3 probes - one
+for an existing deployed feature that the PO says has low business value, and then one
+that’s crticially important to business function, and then one roughly in between.
+Place them at 3, 13 and 55, respectively, and the rest of the Bingo game runs as
+above. Obviously there’s no dollar quantification of the return, but we’ve found
+business stakeholders quickly converge on which features are worth more than which.
+And the conversations they have in getting to agreement are extremely illuminating -
+the technical team members need to listen carefully and ask questions to make certain
+they share the businss context.</p>
 
 <h3 id="royal-cod-prioritization">Royal Cod Prioritization</h3>
 
-<p>RoI+CoD (which we affectionately call “Royal Cod”) is a simple consensus game
-to prioritise the BFR. It is both easier and more accurate than the SAFe
-“Weighted Shortest Job First” (WSJF) equivalent for reasons described below.</p>
+<p>ROI + COD (which we affectionately call “Royal Cod”) is a simple consensus game to
+prioritise the BFR. It is both easier and more accurate than the SAFe “Weighted
+Shortest Job First” (WSJF) equivalent for reasons described below.</p>
 
 <p><img src="/images/bpp.png" width="400"></p>
 

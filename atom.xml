@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-16T12:10:13+10:00</updated>
+  <updated>2014-05-16T12:11:08+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -65,11 +65,11 @@ space” without wasting analysis time on in-depth exploration.</p>
 
 <h3 id="feature-points">Feature Points</h3>
 
-<p><img src="http://Agile-TNG.github.io/images/flow.png" width="400" /></p>
-
 <p>In BPP we change the unit of estimation from story points to feature points.  Where
 story points represent only the relative effort required to deliver a story, feature
 points estimate increments of funding necesssary to deploy a feature. </p>
+
+<p><img src="http://Agile-TNG.github.io/images/flow.png" width="400" /></p>
 
 <p>Because the number of story points that will fit into a funding increment depends on
 team velocity, there’s no linear mapping between feature points and story points.

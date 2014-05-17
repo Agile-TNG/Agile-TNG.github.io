@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "The Goose In The Bottle"
-date: 2014-03-27 11:31:11 +1100
+title: The Goose In The Bottle
+date: "2014-03-27 11:31:11 +1100"
 author: Peter Merel
 comments: true
-categories:
-- alignment
-- pattern
+categories: 
+  - alignment
+  - pattern
+published: true
 ---
 
 Take a newly hatched baby goose. Poke it down the neck of an empty saki bottle
@@ -60,6 +61,13 @@ and ROI of the new capability exceeds the performance of the old.
 
 Never ask anyone to join the new capability, but let the best people do so,
 backfilling the old organisation if necessary, letting it diminish otherwise.
+
+**However,**
+Depending on your organisation, you may be unable to create a truly cross-functional, end-to-end team. You may still end up with dependencies on other non-agile areas of the business. As an example, in most finacial organisations, at some point, everything will depend on their back end core banking systems and these will seldom be run in an agile way (and will seldom even consider allowing anything agile anywhere near them). To duplicate these would mean building an entire new bank.
+
+For some organisations these dependencies will be managable and will not seriouly impact your new agile capabilities' ability to deliver. In some though there will be som many of these dependencies that your new goose still can't stretch its wings - its just inside a slightly large bottle than the old one.
+
+In these cases, other adoption patterns may need to be used instead of or as well as the Goose in a bottle.
 
 ## Zen Riddles 
 
@@ -248,4 +256,3 @@ feed the goose outside more requirements and more budget and more people,
 soon there is no goose left in the bottle. Nor a bottle for it to be in. 
 
 **It's out!**
-

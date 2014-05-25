@@ -17,58 +17,54 @@ A pattern language for enterprise agile transformation.
 
 <!-- more -->
 
-Enterprise agile is a phrase that's bandied about a lot.  Sounds like a good
-thing, but why would you want it, what is it, and how do you get it? This
-pattern language addresses those questions.
+Enterprise agile is a phrase that's bandied about a lot.  Why would you want it, what
+is it, and how do you get it? The Seven Samurai is a pattern language that addresses
+these questions.
 
 * toc
 {:toc}
 
-In a nutshell, enterprise agility is about continuous adaptation. As nature amply
-demonstrates, organisations that don't continously adapt are swiftly outcompeted by
-those that can. That's why you want it.
+We define enterprise agility as continuous adaptation.  Adaptation of internal
+structure and process as delivery capabilities evolve.  Adaptation of external value
+streams to customer experiences, market forces and technological innovations.
+Adaptation of these two to each other to maximise product-market fit and ROI. 
 
-Adaptation internally as capabilities evolve. Adaptation externally to customer
-experiences, market forces and technological innovations. And continuous adaptation in
-relating these two to maximise enterprise ROI. That's what enterprise agility is
-supposed to be. The question we aim to answer here is is how to get it.
+In an ever-accelerating marketplace it has become common sense that businesses must
+continously adapt to avoid being outcompeted by others. On a small scale the process
+of adaptation can be dealt with by regular Scrum retrospectives and the Demming cycle.
+A significant program or business unit, however, cannot adapt piece-meal or it risks
+all the Lean sins of stress, irregularity and waste.
+
+This obviously applies during process transformation but for enterprise agility
+continous adaptation must continue even after new process elements are bedded down.
+The Seven Samurai pattern language provides a proven framework for doing just that.
 
 ## Spoilers
 {:.no_toc}
 
-Akira Kurosawa's cinematic masterpiece provides a great [system
-metaphor](http://www.extremeprogramming.org/rules/metaphor.html) for a continuously
-adaptive enterprise. And that's why we regard it as the fundamental pattern language
-of [XSCALE](http://agiletng.org/2014/04/21/xscale/).
-
-You don't need to see the film to understand this pattern language, but its
-patterns necessarily involve spoilers for the film. So you may want to see it
-first if you haven't already. The [restored 207-minute
-version](https://www.youtube.com/watch?v=zNqQXC8Tv8U) is freely available
-through the usual torrent sites.
-
-From here on out we'll leave the question of spoilage up to you, gentle reader. 
+You don't need to see the Kurosawa film to understand the pattern language, but its
+patterns necessarily involve spoilers so you may want to see the film first.  The
+[restored version](https://www.youtube.com/watch?v=zNqQXC8Tv8U) is available through
+the usual streaming sites so we'll leave the question of spoilage to you, gentle
+reader. 
 
 ## The Film
 {:.no_toc}
 
-The Seven Samurai concerns a defenceless village that hires a group of
-down-at-heel samurai as protection against a horde of bandits. The samurai
-transform the village into a self-organising force that destroys the bandits
-and takes ownership of its own destiny. 
+The Seven Samurai concerns a defenceless village that hires a group of down-at-heel
+samurai as protection against a horde of ruthless bandits. The samurai swiftly
+transform the village into a self-organising force to destroy the bandits and take
+ownership of its own destiny. 
 
-Our Western image of samurai as armored warriors is quite different to their depiction
-here. Kurosawa's samurai are master strategists, coaches of the first water. Their
-transformation involves eight distinct strategic patterns, each augmented in turn by
-specific tactical patterns. A:TNG has discussed its approach to construction of an
-Agile pattern language
-[here](http://agiletng.org/2014/03/09/oapl-the-open-agile-pattern-language/) and we
-use the [Portland Form](http://c2.com/ppr/about/portland.html) to represent these
-patterns.
+Our Western image of samurai as armored warriors is very different to their depiction
+here. Kurosawa's men are master strategists, coaches of the first water. Each samurai
+embodies a distinct strategic pattern, and each reinforces the others so that the
+whole is greater than the sum of its parts.
 
-Why eight patterns when there were only seven samurai? Simply, the last pattern is for
-the enterprise to take ownership of its own transformation as coaching becomes
-irrelevant. Recall that in the film it's the village that wins, not the samurai.
+Why eight patterns when there are only seven samurai? The last pattern is where the
+enterprise takes ownership of its own transformation and external coaching becomes
+irrelevant. Per the final line of the film, it's the village that wins, not the
+samurai.
 
 ---
 

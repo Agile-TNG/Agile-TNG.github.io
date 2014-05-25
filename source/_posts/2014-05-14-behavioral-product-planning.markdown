@@ -11,23 +11,23 @@ categories:
 
 {% img /images/koch-curve.gif %}
 
-BPP is a pattern language that enables a [product
+BPP is a pattern language based on BDD that enables a [product
 team](http://luxr.co/10_principles_of_lean_user_experience#who_is_involved) to
 efficiently define, budget and prioritise a roadmap or backlog. It's also a way to
 answer some questions Agile has traditionally avoided: 
 
-* How do we know this backlog is an MVP?
-* How much do these alternatives cost?
-* How do we know we're ready to ship?
+* How much will a set of features cost?
+* How do we trade off different feature sets?
+* How do we know a feature is ready to ship?
 
 <!-- more -->
-
-* toc
-{:toc}
 
 Agile works as a hill-climbing algorithm. It continously integrates little stories
 into a release, and it's perfectly happy to climb a molehill of value when there's an
 Everest right next door. 
+
+* toc
+{:toc}
 
 Small projects look to a good product owner to find their Everest, but at scale, with
 portfolios of programs of projects, misalignment is easy and ROI is combinatorially

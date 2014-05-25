@@ -23,6 +23,7 @@ till after.
 
 ## Pattern in Portland Form 
 
+
 * A team can only change as quickly as its most conservative member. A program
 of component teams or an organization of silos can only change as rapidly as
 its most conservative part.
@@ -38,7 +39,11 @@ method causes the infamous [Frozen Middle]() anti-pattern.
 benefit and creates risks of failure and reversion to tradition. Taking part
 of it part-way reduces the benefit and amplifies the risks.
 
-**Therefore,**
+## Therefore,
+{:.no_toc}
+
+* toc
+{:toc}
 
 Don't attempt to make an enterprise become Agile. Nor a program, nor a
 project, nor a team. 
@@ -61,13 +66,6 @@ and ROI of the new capability exceeds the performance of the old.
 
 Never ask anyone to join the new capability, but let the best people do so,
 backfilling the old organisation if necessary, letting it diminish otherwise.
-
-**However,**
-Depending on your organisation, you may be unable to create a truly cross-functional, end-to-end team. You may still end up with dependencies on other non-agile areas of the business. As an example, in most finacial organisations, at some point, everything will depend on their back end core banking systems and these will seldom be run in an agile way (and will seldom even consider allowing anything agile anywhere near them). To duplicate these would mean building an entire new bank.
-
-For some organisations these dependencies will be managable and will not seriouly impact your new agile capabilities' ability to deliver. In some though there will be som many of these dependencies that your new goose still can't stretch its wings - its just inside a slightly large bottle than the old one.
-
-In these cases, other adoption patterns may need to be used instead of or as well as the Goose in a bottle.
 
 ## Zen Riddles 
 
@@ -236,9 +234,9 @@ everyone saw it as a beautiful swan ...
 
 In a [conversation with Alistair
 Cockburn](http://alistair.cockburn.us/The+Goose+in+the+Bottle) I explained my
-experience with this Goose In the Bottle pattern. He worried that I had
-"\[broken\] the question’s presupposition by cheating and getting a new goose,
-hence not answering the question, but still ending up a free goose."
+experience with this Goose In the Bottle pattern. He worried that I had "\[broken\]
+the question’s presupposition by cheating and getting a new goose, hence not answering
+the question, but still ending up a free goose."
 
 I wanted to point Alistair at the [laws of form](http://www.markability.net)
 but I didn't get time. Of course it requires only a moment's thought to
@@ -250,9 +248,27 @@ On the zen of it, the moment you hear this koan some part of you becomes the
 goose, and the koan your bottle. Like all koans, to get out you have to change
 who you are. 
 
-The bottle doesn't break - the old organisation never changes. The goose
-doesn't have to be killed - neither in the bottle nor out of it. But as you
-feed the goose outside more requirements and more budget and more people,
-soon there is no goose left in the bottle. Nor a bottle for it to be in. 
+The bottle doesn't break - the old organisation never changes. The goose doesn't have
+to be killed - neither in the bottle nor out of it. But as you feed the goose outside
+more requirements and more budget and more people, soon there is no goose left in the
+bottle. Nor a bottle for it to be in. In other words, **it's out!**
 
-**It's out!**
+##But ...
+
+What if your organisation can't create a truly cross-functional, end-to-end team? What
+if you can't get executive support to resolve  dependencies on other non-agile areas
+of the business? Or what if resolving those dependencies takes longer than your
+stakeholders can wait for you to demonstrate a win?
+
+As an example, in many financial organisations, everything may depend on legacy
+systems which never ran in an agile or CD way. These may be controlled by stakeholders
+who won't consider allowing anything agile near them.  To duplicate those would mean
+building an entire new bank.
+
+In these cases, other adoption patterns may need to be needed instead of or as well as
+the Goose in a bottle. These include:
+
+* [Inversion of Ownership]()
+* [Lean before Agile]()
+* ... more to come?
+

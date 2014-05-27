@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XSCALE | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xscale/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T07:38:26+10:00</updated>
+  <updated>2014-05-28T07:48:43+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -60,8 +60,8 @@ curve breadth-first, however, always gets to the global maximum.</p>
 <p>Likewise BPP makes breadth-first distinctions about business alternatives, sorts these
 into easily optimized piles, and iterates to locate the parts with maximum ROI. This
 assures consistent decisions about business alternatives at all scales, and the
-analysis completes quickly and efficiently, ruling out large swathes of its “search
-space” without wasting analysis time on in-depth exploration.</p>
+analysis completes quickly and efficiently, ruling out large swathes of lower ROI
+“business space” without wasting analysis time on their in-depth exploration.</p>
 
 <h3 id="feature-points">Feature Points</h3>
 

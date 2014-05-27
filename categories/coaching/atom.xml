@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coaching | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/coaching/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T08:09:49+10:00</updated>
+  <updated>2014-05-28T08:20:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -40,7 +40,7 @@ all the Lean sins of stress, irregularity and waste.</p>
       <li><a href="#continuous-architecture">Continuous Architecture</a></li>
       <li><a href="#continuous-adoption">Continuous Adoption</a></li>
       <li><a href="#continuous-acceleration">Continuous Acceleration</a></li>
-      <li><a href="#continuous-adaptation">Continuous Adaptation</a></li>
+      <li><a href="#continuous-appropriation">Continuous Appropriation</a></li>
     </ul>
   </li>
 </ul>
@@ -422,7 +422,7 @@ guilds and tribes.</p>
 
 <hr />
 
-<h3 id="continuous-adaptation">Continuous Adaptation</h3>
+<h3 id="continuous-appropriation">Continuous Appropriation</h3>
 
 <p>Refactor the Transformation Roadmap to leverage new capabilities.</p>
 
@@ -437,17 +437,30 @@ guilds and tribes.</p>
 enable qualitative improvements in the way an enterprise organises, grows,
 positions, sells and delivers into its marketplace. </p>
   </li>
+  <li>
+    <p>Such new capabilities require new resource funding that is not borrowed piece-meal
+from other streams.</p>
+  </li>
 </ul>
 
 <p><strong>Therefore,</strong></p>
 
 <p>Capitalise on these improvements by focusing the Strategic Scrum on
 differences between the original <a href="">Agile Transformation Roadmap</a> and the
-emergent reality. Gauge these differences with Continuous Assessment metrics
-and refactor the transformation roadmap accordingly. Seek out new ways to
-integrate internal services, leverage new technologies, form new product lines
-and access new market segments. The more often the strategic scrum can review
-these things, the faster its enterprise can adapt.</p>
+emergent reality. </p>
+
+<p>Gauge these differences with Continuous Assessment metrics and refactor the
+transformation roadmap accordingly. Consider new ways to integrate internal services,
+leverage new technologies, form new product lines and access new market segments. </p>
+
+<p>Use <a href="">Roadmap Refactoring</a> to determine which of these initiatives offer the maximum
+benefit to existing value streams, and over what timeframes. Treating the existing
+value streams as customers for new capabilities, let representatives of each determine
+the proportion of their own revenues they’re willing to share with other streams,
+including any new streams that may be required to field the new capabilities.</p>
+
+<p>The more often the strategic scrum can review these things, the faster its enterprise
+can adapt.</p>
 
 ]]></content>
   </entry>

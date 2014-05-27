@@ -4,7 +4,7 @@
   <title><![CDATA[Category: BPP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/bpp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T08:01:21+10:00</updated>
+  <updated>2014-05-28T08:03:21+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -72,12 +72,12 @@ analysis completes quickly and efficiently, ruling out large swathes of lower RO
   <li><a href="#feature-points">Feature Points</a> are a way to reconcile budgets with story points</li>
   <li><a href="#breadth-first-roadmap">Breadth First Roadmap</a> is a way to map featuresets to
 acceptance criteria</li>
-  <li><a href="#backlog-bingo">Backlog Bingo</a> determines the dollar investment and the relative
-return in delivering a set of products and services. </li>
-  <li><a href="#royal-cod-prioritization">Royal Cod</a> applies Backlog Bingo to prioritize the
+  <li><a href="#backlog-bingo">Backlog Bingo</a> determines the dollar investment and relative return
+for a set of products and services. </li>
+  <li><a href="#royal-cod-prioritization">Royal Cod</a> applies Backlog Bingo to prioritize a
 Breadth-First Roadmap</li>
-  <li><a href="#roadmap-refactoring">Roadmap Refactoring</a> is a consensus game enabling product
-owners to make rational trade-offs between different feature-sets. </li>
+  <li><a href="#roadmap-refactoring">Roadmap Refactoring</a> is a enables product owners to make
+rational trade-offs between feature-sets. </li>
 </ul>
 
 <h3 id="feature-points">Feature Points</h3>

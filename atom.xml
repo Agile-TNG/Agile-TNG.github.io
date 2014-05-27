@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T08:03:21+10:00</updated>
+  <updated>2014-05-28T08:09:49+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -1814,7 +1814,7 @@ the Goose in a bottle. These include:</p>
     <link href="http://Agile-TNG.github.io/2014/03/21/the-seven-samurai/"/>
     <updated>2014-03-21T21:53:27+11:00</updated>
     <id>http://Agile-TNG.github.io/2014/03/21/the-seven-samurai</id>
-    <content type="html"><![CDATA[<p><em>Enterprise Agile</em> is a phrase that’s bandied about a lot.  What is it, why would you
+    <content type="html"><![CDATA[<p>Enterprise Agile is a phrase that’s bandied about a lot.  What is it, why would you
 want it, and how do you get it? The Seven Samurai neatly answers those questions.</p>
 
 <p><img src="http://Agile-TNG.github.io/images/Agreement.jpg" /></p>
@@ -1841,7 +1841,7 @@ all the Lean sins of stress, irregularity and waste.</p>
   </li>
 </ul>
 
-<p>We define enterprise agility as continuous adaptation. Adaptation of internal
+<p>Let’s define enterprise agility as continuous adaptation. Adaptation of internal
 structure and process as delivery capabilities evolve.  Adaptation of external value
 streams to customer experiences, market forces and technological innovations.
 Adaptation of these two to each other to maximise product-market fit and ROI. </p>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: BPP | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/bpp/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T07:48:43+10:00</updated>
+  <updated>2014-05-28T08:01:21+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -38,13 +38,16 @@ into a release, and it’s perfectly happy to climb a molehill of value when the
 Everest right next door. </p>
 
 <ul id="markdown-toc">
-  <li><a href="#feature-points">Feature Points</a></li>
-  <li><a href="#breadth-first-roadmap">Breadth-First Roadmap</a></li>
-  <li><a href="#backlog-bingo">Backlog Bingo</a></li>
-  <li><a href="#royal-cod-prioritization">Royal Cod Prioritization</a></li>
-  <li><a href="#royal-cod-vs-wsjf">Royal Cod vs WSJF</a></li>
-  <li><a href="#bingo-uncertainty">Bingo Uncertainty</a></li>
-  <li><a href="#roadmap-refactoring">Roadmap Refactoring</a></li>
+  <li><a href="#the-patterns">The Patterns</a>    <ul>
+      <li><a href="#feature-points">Feature Points</a></li>
+      <li><a href="#breadth-first-roadmap">Breadth-First Roadmap</a></li>
+      <li><a href="#backlog-bingo">Backlog Bingo</a></li>
+      <li><a href="#royal-cod-prioritization">Royal Cod Prioritization</a></li>
+      <li><a href="#royal-cod-vs-wsjf">Royal Cod vs WSJF</a></li>
+      <li><a href="#bingo-uncertainty">Bingo Uncertainty</a></li>
+      <li><a href="#roadmap-refactoring">Roadmap Refactoring</a></li>
+    </ul>
+  </li>
 </ul>
 
 <p>Small projects look to a good product owner to find their Everest, but at scale, with
@@ -62,6 +65,20 @@ into easily optimized piles, and iterates to locate the parts with maximum ROI. 
 assures consistent decisions about business alternatives at all scales, and the
 analysis completes quickly and efficiently, ruling out large swathes of lower ROI
 “business space” without wasting analysis time on their in-depth exploration.</p>
+
+<h2 id="the-patterns">The Patterns</h2>
+
+<ul>
+  <li><a href="#feature-points">Feature Points</a> are a way to reconcile budgets with story points</li>
+  <li><a href="#breadth-first-roadmap">Breadth First Roadmap</a> is a way to map featuresets to
+acceptance criteria</li>
+  <li><a href="#backlog-bingo">Backlog Bingo</a> determines the dollar investment and the relative
+return in delivering a set of products and services. </li>
+  <li><a href="#royal-cod-prioritization">Royal Cod</a> applies Backlog Bingo to prioritize the
+Breadth-First Roadmap</li>
+  <li><a href="#roadmap-refactoring">Roadmap Refactoring</a> is a consensus game enabling product
+owners to make rational trade-offs between different feature-sets. </li>
+</ul>
 
 <h3 id="feature-points">Feature Points</h3>
 
@@ -372,12 +389,11 @@ questions.</p>
 
 <p><img src="/images/roadmapr.png" width="400"></p>
 
-<p>Roadmap Refactoring (RR) is a consensus game that leverages BPP to enable
-product owners to make rational trade-offs between different feature-sets. It
-can be used to quickly assemble a release plan to hit a particular date, if
-need be, or to determine an ordering of feaure sets to maximize
-product-market fit within the funding profile of a continuous delivery
-stream.</p>
+<p>Roadmap Refactoring (RR) is a consensus game to enable product owners to make rational
+trade-offs between different feature-sets. It can be used to quickly assemble a
+release plan to hit a particular date, if need be, or to determine an ordering of
+feaure sets to maximize product-market fit within the funding profile of a continuous
+delivery stream.</p>
 
 <p>Like the other XSCALE enterprise practices, RR is a quick consensus game with
 very straightforward rules:</p>

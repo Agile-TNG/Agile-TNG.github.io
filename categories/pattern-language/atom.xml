@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pattern Language | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern-language/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T08:20:44+10:00</updated>
+  <updated>2014-05-28T11:15:36+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -76,7 +76,7 @@ acceptance criteria</li>
 for a set of products and services. </li>
   <li><a href="#royal-cod-prioritization">Royal Cod</a> applies Backlog Bingo to prioritize a
 Breadth-First Roadmap</li>
-  <li><a href="#roadmap-refactoring">Roadmap Refactoring</a> is a enables product owners to make
+  <li><a href="#roadmap-refactoring">Roadmap Refactoring</a> enables product owners to make
 rational trade-offs between feature-sets. </li>
 </ul>
 

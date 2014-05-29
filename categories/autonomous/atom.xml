@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Autonomous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/autonomous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-29T10:34:46+10:00</updated>
+  <updated>2014-05-29T10:47:10+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -91,59 +91,59 @@ disruption to existing value streams. </p>
 <h2 id="xscale-principles">XSCALE Principles</h2>
 
 <p>XSCALE conforms with the <a href="http://agiletng.org/2014/03/10/4-new-values/">A:TNG values</a>,
-which form a strict superset of those in the Agile Manifesto. Within these values
-XSCALE offers six principles that also form a superset of the ones in the Manifesto.</p>
+which are themselves a strict superset of those in the Agile Manifesto.  XSCALE also
+offers six principles that also form a superset of the ones in the Manifesto.</p>
 
 <dl>
   <dt>eXcellence</dt>
-  <dd>Turn all the knobs to ten.</dd>
+  <dd>Linking the manifest principle to <em>Beck’s Maxim</em>: Turn all the knobs to ten.</dd>
   <dt>Scale-symmetry</dt>
-  <dd>Draw distinctions to control combinations.</dd>
+  <dd>Roadmap distinctions to control combinations.</dd>
   <dt>Continuous</dt>
-  <dd>Work on the smallest practical cycle time and batch size.</dd>
+  <dd>Work with the smallest practical cycle time and batch size.</dd>
   <dt>Autonomous</dt>
-  <dd>Enable consensus to make decisions and delimit accountabilities.</dd>
+  <dd>Enable consensus to make decisions and to delimit accountabilities.</dd>
   <dt>Lean</dt>
   <dd>Maximize net ROI.</dd>
   <dt>Ecosystem</dt>
   <dd>Continuous adaptation of the whole to its parts.</dd>
 </dl>
 
-<p>Explanation for each principle follows, then a discussion of practice patterns that
-embody them.</p>
+<p>Descriptions of each principle follow, then a discussion of the XSCALE practice
+patterns that embody them.</p>
 
 <h3 id="excellence">eXcellence</h3>
 
 <p>The term “extreme” in the original XP unfortunately evoked the idea of recklessness,
-which caused some trepidation in the fledgling days of Agile.  Nevertheless the
-manifesto authors recognized XP’s true intent in their principle which reads,
-“Continuous attention to technical excellence and good design enhances agility”.
-XSCALE calls this continuous attention “eXcellence”, and takes Beck’s definition:</p>
+which caused an unfortunate confusion in the fledgling days of Agile.  The manifesto
+authors recognized XP’s intent with their principle that reads, “Continuous attention
+to technical excellence and good design enhances agility”.  XSCALE calls this
+continuous attention “eXcellence”, and takes Beck’s definition:</p>
 
 <blockquote>
   <ul>
     <li>If code reviews are good, we’ll review code all the time [Pair Working].</li>
-    <li>If testing is good, everyone will test all the time [TDD], even the customers
-[ATDD, now BDD]</li>
+    <li>If testing is good, everyone will test all the time, even the customers
+[BDD]</li>
     <li>If simplicity is good, we’ll always leave the system with the simplest design that
-supports its current functionality [Refactoring]</li>
+supports its current functionality [The DRY principle - Don’t Repeat Yourself]</li>
     <li>If integration testing is important, we’ll integrate and test several times a day
 [Continuous Integration]</li>
     <li>If short iterations are good, we’ll make the iterations really short [Stories]</li>
   </ul>
 </blockquote>
 
-<p>And so on - it wobbled around a bit from edition to edition but Beck summed it up with
-the maxim,</p>
+<p>And so on - it wobbled a bit from edition to edition but Beck summed up the intent
+with the maxim,</p>
 
 <p><strong>Turn all the knobs to ten.</strong></p>
 
 <p><img src="/images/knobs.jpg"></p>
 
-<p>XSCALE regards the XP engineering practices, BDD, CD and Feature Teams as the
+<p>XSCALE regards these XP engineering practices, CD and Feature Teams as the
 fundamentals of technical excellence. These patterns interlock to assure technical
-debt is paid before it earns interest and impacts ROI, and thereby keeps the
-delivery process stable, predictable and flexible. </p>
+debt is paid before it earns interest and impacts ROI, and thereby keeps the delivery
+process stable, predictable and flexible. </p>
 
 <h3 id="scale-symmetry">Scale-symmetry</h3>
 
@@ -169,7 +169,7 @@ individual grass blades. </p>
 
 <p>In general the principle is:</p>
 
-<p><strong>Draw distinctions to control combinations</strong></p>
+<p><strong>Roadmap distinctions to control combinations</strong></p>
 
 <p><img src="/images/koch-curve.gif"></p>
 

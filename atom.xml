@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-28T11:15:36+10:00</updated>
+  <updated>2014-05-29T10:34:46+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -443,9 +443,8 @@ plans to evaluate possible responses to changes in market conditions.</p>
     <id>http://Agile-TNG.github.io/2014/04/21/xscale</id>
     <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/xscale.png" /></p>
 
-<p>Related to SAFe, Spotify and BDD, XSCALE is a continuously delivering, continuously
-self-organizing, continuously adaptive Agile enterprise ecosystem that turns all the
-knobs to ten.</p>
+<p>XSCALE is a continuously delivering, continuously self-organizing, continuously
+adaptive Agile enterprise ecosystem that turns all the knobs to ten.</p>
 
 <!-- more -->
 
@@ -486,16 +485,16 @@ most popular are SAFe, LeSS, Agile Path and the Spotify Tribal model.  Each has 
   <li><a href="#related-frameworks">Related frameworks</a></li>
 </ul>
 
-<p>XSCALE is a synthesis that:</p>
+<p>XSCALE leverages the strengths of these models:</p>
 
 <ul>
-  <li>Standardizes team practices using Scrum-XP like SAFe</li>
-  <li>Transforms the enterprise iteratively like Agile Path</li>
-  <li>Refactors component silos into feature teams like LeSS</li>
-  <li>Uses tribal structures, CD and DevOps like Spotify</li>
+  <li>Standardizing team practices using Scrum-XP like SAFe</li>
+  <li>Transforming the enterprise iteratively like Agile Path</li>
+  <li>Refactoring component silos into feature teams like LeSS</li>
+  <li>Integrating tribal structures, CD and DevOps like Spotify</li>
 </ul>
 
-<p>But XSCALE does more than just cherry-pick, introducing:</p>
+<p>To bind these together, XSCALE combines several innovations:</p>
 
 <ul>
   <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven
@@ -507,10 +506,10 @@ councils</a>, a combination of Open
 Space, BDD and Kanban.</li>
 </ul>
 
-<p>Like any framework, XSCALE is really just a collection of patterns that have been
-proved to reinforce each others’ strengths. Its intent is to afford enterprises on all
-scales a way to iteratively create a state of the art Agile capability while
-minimizing risk of disruption to existing value streams. </p>
+<p>Like any framework, XSCALE is a collection of pattern languages that have been proved
+to reinforce each others’ strengths. It aims to afford enterprises on all scales an
+iterative path to state-of-the-art Agile capabilities that minimizes risk of
+disruption to existing value streams. </p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>
 

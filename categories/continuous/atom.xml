@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Continuous | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/continuous/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T10:56:56+10:00</updated>
+  <updated>2014-06-01T11:01:20+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -62,7 +62,7 @@ most popular are SAFe, LeSS, Agile Path and the Spotify Tribal model.  Each has 
   <li><a href="#related-frameworks">Related frameworks</a></li>
 </ul>
 
-<p>XSCALE leverages the strengths of these models:</p>
+<p>XSCALE leverages the strengths:</p>
 
 <ul>
   <li>Standardizing team practices using Scrum-XP like SAFe</li>
@@ -71,7 +71,7 @@ most popular are SAFe, LeSS, Agile Path and the Spotify Tribal model.  Each has 
   <li>Integrating tribal structures, CD and DevOps like Spotify</li>
 </ul>
 
-<p>To bind these together, XSCALE combines several innovations:</p>
+<p>XSCALE introduces some new patterns to bind these practices together,:</p>
 
 <ul>
   <li>Continuous adaptation using the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven
@@ -83,9 +83,9 @@ councils</a>, a combination of Open
 Space, BDD and Kanban.</li>
 </ul>
 
-<p>Like any framework, XSCALE is a collection of pattern languages that have been proved
+<p>Like any framework, XSCALE is a collection of pattern languages that have been shown
 to reinforce each others’ strengths. It aims to afford enterprises on all scales an
-iterative path to state-of-the-art Agile capabilities that minimizes risk of
+iterative path to state-of-the-art Agile capabilities while minimizing risk of
 disruption to existing value streams. </p>
 
 <h2 id="xscale-principles">XSCALE Principles</h2>

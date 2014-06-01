@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XSCALE | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xscale/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-05-29T10:47:10+10:00</updated>
+  <updated>2014-06-01T10:56:56+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -521,7 +521,7 @@ offers six principles that also form a superset of the ones in the Manifesto.</p
   <dt>eXcellence</dt>
   <dd>Linking the manifest principle to <em>Beck’s Maxim</em>: Turn all the knobs to ten.</dd>
   <dt>Scale-symmetry</dt>
-  <dd>Roadmap distinctions to control combinations.</dd>
+  <dd>Map distinctions to control combinations.</dd>
   <dt>Continuous</dt>
   <dd>Work with the smallest practical cycle time and batch size.</dd>
   <dt>Autonomous</dt>
@@ -570,29 +570,28 @@ process stable, predictable and flexible. </p>
 
 <h3 id="scale-symmetry">Scale-symmetry</h3>
 
-<p>Scale is about combinations of requirements, of dependencies, of defects,
-and of people. The number of combinations of a set grows very rapidly; a set
-of just 10 things has over 3.6 million distinct combinations. </p>
+<p>Scale is about combinations of requirements, of dependencies, of defects, and of
+people. The number of combinations of a set grows much more rapidly than the number of
+its members; a set of just 10 things has over 3.6 million distinct combinations. </p>
 
-<p>Yet golfers are untroubled by combinations of billions of grass blades.  They
-use simple distinctions to control the combined behaviours of grass: “the
-green”, “the rough”, and so on. Once the ball is placed they make further
-sub-distinctions to do with common slopes and blade-lengths.  They only make
-distinctions about the commonalities, never about all the interactions between
-individual grass blades. </p>
+<p>But then how do golfers do it? Golfers are untroubled by combinations of billions of
+grass blades.  They make simple distinctions about the grass: “the green”, “the
+rough”, and so on. Once the ball is placed they make more distinctions about
+distances, slopes and clubs - a map in their heads that says where the ball is
+relative to the hole.  They never think about combinations of individual grass blades.</p>
 
-<p>Agile uses this approach when it 
-* refactors code into distinct (<a href="">DRY</a>) classes by common behaviours
-* automates testing to keep ambient defect count low, minimizing the time
-  required to sort out combinations of defects
-* combines people into small teams with distinct backlogs to limit the need
-  for cross-team communications
-* The Spotify patterns do this too by factoring cross-cutting concerns to
-  distinct chapters and guilds. </p>
+<p>Agile uses this mapping approach when it 
+* (<a href="">DRY</a>)s code into distinct modules that group common behaviours
+* automates testing to keep ambient defect count low, minimizing the time required to
+  sort out combinations of defects
+* combines people into small teams with distinct backlogs to limit the need for
+  cross-team coordination
+* The Spotify patterns do it too by factoring cross-cutting concerns to distinct
+  chapters and guilds. </p>
 
 <p>In general the principle is:</p>
 
-<p><strong>Roadmap distinctions to control combinations</strong></p>
+<p><strong>Map distinctions to control combinations</strong></p>
 
 <p><img src="/images/koch-curve.gif"></p>
 
@@ -608,7 +607,7 @@ it’s quite happy to climb a molehill of value when there’s an Everest right
 next door. </p>
 
 <p>Small projects look to a good product owner to find their Everest, but when you’ve got
-portfolios of programs of projects, misalignment is easy and consistent value is
+portfolios of programs of projects, misalignment is easy and maximizing value is
 combinatorially hard.  If a hill-climbing method is used on the Koch curve above, for
 example, it is vanishingly unlikely to reach the highest point. Mapping the curve
 breadth-first, however, will always find that point.</p>

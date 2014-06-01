@@ -4,7 +4,7 @@
   <title><![CDATA[Category: V0.8 | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/v0-dot-8/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T11:01:20+10:00</updated>
+  <updated>2014-06-01T11:02:15+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -92,11 +92,11 @@ disruption to existing value streams. </p>
 
 <p>XSCALE conforms with the <a href="http://agiletng.org/2014/03/10/4-new-values/">A:TNG values</a>,
 which are themselves a strict superset of those in the Agile Manifesto.  XSCALE also
-offers six principles that also form a superset of the ones in the Manifesto.</p>
+offers six principles that form a superset of the ones in the Manifesto.</p>
 
 <dl>
   <dt>eXcellence</dt>
-  <dd>Linking the manifest principle to <em>Beck’s Maxim</em>: Turn all the knobs to ten.</dd>
+  <dd>Linking the manifesto to <em>Beck’s Maxim</em>: Turn all the knobs to ten.</dd>
   <dt>Scale-symmetry</dt>
   <dd>Map distinctions to control combinations.</dd>
   <dt>Continuous</dt>

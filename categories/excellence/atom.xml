@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eXcellence | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/excellence/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T20:06:02+10:00</updated>
+  <updated>2014-06-01T20:18:57+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -50,11 +50,14 @@ most popular are SAFe, LeSS, Agile Path and the Spotify Tribal model.  Each has 
       <li><a href="#meeting-schedules">Meeting Schedules</a></li>
       <li><a href="#continuous-adaptation-1">Continuous Adaptation</a></li>
       <li><a href="#funding-cycle">Funding Cycle</a></li>
+    </ul>
+  </li>
+  <li><a href="#stream-practices">Stream Practices</a>    <ul>
       <li><a href="#stream-structure">Stream Structure</a></li>
       <li><a href="#stream-flow-diagram">Stream Flow Diagram</a></li>
     </ul>
   </li>
-  <li><a href="#squad-practices">Squad Practices</a>    <ul>
+  <li><a href="#team-practices">Team Practices</a>    <ul>
       <li><a href="#devops--cd--gitflow">DevOps + CD + GitFlow</a></li>
       <li><a href="#lean-ux--bdd--xp">Lean UX + BDD + XP</a></li>
     </ul>
@@ -358,6 +361,8 @@ Council, but the intent in spreading responsibility for making appropriation dec
 to the stream leads is to assure that the enterprise pivots collaboratively to
 maximize net ROI for the whole.</p>
 
+<p><img src="/images/enterprise.png"></p>
+
 <h3 id="bpp">BPP</h3>
 
 <p>While we describe the patterns in this section as “Enterprise Practices”, this doesn’t
@@ -478,8 +483,11 @@ asynchronously whenever one of its members calls for this.</p>
 
 <h3 id="funding-cycle">Funding Cycle</h3>
 
-<p>[more to come]
-## Stream Practices</p>
+<p>[more to come]</p>
+
+<h2 id="stream-practices">Stream Practices</h2>
+
+<p><img src="/images/streams.png"></p>
 
 <h3 id="stream-structure">Stream Structure</h3>
 
@@ -544,13 +552,15 @@ analysis of cycle time, latency, WIP, etc. This provides visual and
 actionable identification of wastes, bottlenecks, irregularities and
 opportunities, as well as their relative magnitudes. </p>
 
-<h2 id="squad-practices">Squad Practices</h2>
+<h2 id="team-practices">Team Practices</h2>
+
+<p><img src="/images/teams.png"></p>
 
 <h3 id="devops--cd--gitflow">DevOps + CD + GitFlow</h3>
 
 <p><img src="/images/cd.png" width="400"></p>
 
-<p>Squads are the most concrete embodiment of XSCALE principles:</p>
+<p>Teams are the most concrete embodiment of XSCALE principles:</p>
 
 <ul>
   <li>Per the eXcellence principle, BDD per feature and per story is fully

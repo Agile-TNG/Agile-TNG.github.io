@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetry | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetry/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T12:58:55+10:00</updated>
+  <updated>2014-06-01T20:06:02+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -261,56 +261,45 @@ minimize overburden (muri) and irregularity (mura). </p>
 
 <p><img src="/images/mmm.jpg"></p>
 
-<p>The waste maxim also admits an ambiguity. <a href="">Lean Startup</a>, <a href="">Lean UX</a> and
-<a href="">LSD</a> use Lean to mean process efficiency, but Lean Six Sigma and Lean
-Accounting interpret it to mean cost minimization, right first time, and
-hierarchical standardization. These latter forms of Lean can appear to
-oppose Agile’s focus on maximizing ROI, fail fast, and adaptive
-collaboration.  To prevent confusion XSCALE eliminates the ambiguity by
-defining the Lean principle simply as:</p>
+<p>The waste maxim also admits an ambiguity. <a href="http://theleanstartup.com/principles">Lean
+Startup</a>, <a href="http://www.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/">Lean
+UX</a>
+and <a href="http://www.poppendieck.com">LSD</a> use Lean in its general meaning of process
+efficiency, but Lean Six Sigma and Lean Accounting interpret it to mean cost
+minimization, right first time, and hierarchical standardization. These forms of Lean
+philosophically oppose Agile’s focus on maximizing ROI, fail fast, and adaptive
+collaboration. To prevent confusion XSCALE defines the Lean principle simply as:</p>
 
 <p><strong>Maximize net ROI</strong></p>
 
-<p>We say net ROI to account for Cost of Delay (COD), and we represent this
-explicitly when adapting the order and design of the work. With this in mind
-XSCALE adapts several specific Lean practice patterns:</p>
+<p>We say net ROI to account for Cost of Delay (COD). The Lean principle is embodied in
+several specific practice patterns:</p>
 
 <ul>
-  <li>As a special case of Breadth-first Roadmapping, Lean Startup’s <a href="">business
-model canvas</a> to pivot and refactor the enterprise’s value streams</li>
-  <li>Per stream <a href="">Value Stream Maps</a> converted to a <a href="">Lean Kanban</a> and
-<a href="">cumulative flow diagrams</a> to represent the relationship between stream
-funding, stream return, and the stream roadmap</li>
+  <li>As a special case of Breadth-first Roadmapping, Lean Startup’s <a href="">business model
+canvas</a> to pivot and refactor the enterprise’s value streams as a whole.</li>
+  <li>Per stream <a href="">Value Stream Maps</a> specializing cumulative flow diagrams to represent
+the relationship between stream funding, stream return, and roadmap delivery.</li>
   <li><a href="">Product Teams</a> working cross-functionally per Lean UX to coordinate
 <a href="">set-based-design</a> with lo-fi prototyping, BDD and Feature roadmaps</li>
-  <li><a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="">Seven Samurai</a>.</li>
+  <li><a href="">Lean Transformation Canvas</a> as a roadmap for the <a href="http://agiletng.org/2014/03/21/the-seven-samurai/">Seven
+Samurai</a>.</li>
 </ul>
 
-<p>These Lean practices all work to maximise net ROI. XSCALE interlocks them using
-scale-symmetric roadmapping to render a simple stream funding cycle without resorting
-to project budgets and baselines. This provides a way for teams in the stream and
-streams in the enterprise to continuously respond to changes in internal and external
-metrics, innovations and new learnings.</p>
+<p>These Lean practices interlock to render a simple stream funding cycle without
+artificial project budgets and baselines. </p>
 
 <h3 id="ecosystem">Ecosystem</h3>
 
-<p>We have become used to combining the noun ecosystem with the adjective
-fragile. This is an artefact of the <a href="">anthropocene era</a> where biological
-ecosystems are undergoing catastrophic change. </p>
-
-<p>The prime characteristic of an ecosystem, however, is not fragility, but
-agility. An ecosystem embraces cycles of change to maintain its productivity
-over time. So a biological ecosystem differs from a zoo in that it
-continuously adapts to changes in the populations and behaviours of its
-constituent organisms. In a scale-symmetric sense the same might be said of
+<p>A biological ecosystem differs from a zoo in that it continuously adapts to changes in
+the populations and behaviours of its constituent organisms. The same might be said of
 an individual organism and its constituent cells.</p>
 
-<p>The biological principles are generation and death. Generation continuously
-produces experimental variations in behaviour, and death removes variations
-that don’t efficiently adapt to the whole. In XSCALE we think of Lean
-pivoting and <a href="">set-based design</a> serving the function of generation, and
-Agile refactoring serving that of death, but the principle of the ecosystem
-remains the same:</p>
+<p>The biological principles are generation and death. Generation continuously produces
+experimental variations in behaviour, and death removes variations that don’t
+efficiently adapt to the whole.  Similarly we think of Lean pivoting and <a href="http://doerry.org/norbert/papers/sbdfinal.pdf">set-based
+design</a> serving the function of
+generation, and Agile refactoring serving that of death, the principle for both is:</p>
 
 <p><strong>Continuous adaptation of the whole to its parts</strong></p>
 
@@ -318,12 +307,14 @@ remains the same:</p>
 
 <p>XP embodies this principle in its practice of <a href="http://www.c2.com/cgi/wiki?RefactorMercilessly">Merciless
 Refactoring</a> and Lean Startup in its
-principal of <a href="http://blog.leanstartupcircle.com/get-paid-or-get-pivoting/">Get Paid or Get
+<a href="http://blog.leanstartupcircle.com/get-paid-or-get-pivoting/">Get Paid or Get
 Pivoting</a>.  XSCALE
-extends it to the rollout of structure and practices to squads in streams and streams
-in the enterprise. The ecosystem principle turns the Taylorist conceit of all-wise
-managers and serf-like workers on its head, leveraging the Agile function of
-management as <a href="">servant-leaders</a> to autonomous teams of peer workers.</p>
+extends it to the rollout of structure and practices to squads in streams, and to
+streams in the enterprise. The ecosystem principle turns the Taylorist axiom of
+all-wise managers and serf-like workers on its head, leveraging the Agile function of
+management as
+<a href="http://www.butler.edu/volunteer/resources/principles-of-servant-leadership/">servant-leaders</a>
+to autonomous teams of peer workers.</p>
 
 <p>In order to pivot and refactor the enterprise as a whole, XSCALE relies on a
 hierarchy of councils: </p>
@@ -339,31 +330,33 @@ these teams.  Each squad in a stream has distinct roles for agile coach and
 product owner.  Each stream has a product manager and a stream manager. And
 the enterprise has its executive officers. </p>
 
-<p>The accountabilities of these individual roles are defined by treaties
-within their respective councils. Likewise the accountabilities of the
+<p>The accountabilities of the individual roles are defined by treaties
+with their respective councils. Likewise the accountabilities of the
 enterprise as a whole, and each of its streams, and each of their chapters,
-are all respectively defined by treaties in story-normal form. Councils each
+are respectively defined by treaties in story-normal form. Councils each
 use this statement of their accountability to scope their planning using the
 <strong>Breadth-First Roadmap</strong> method described below.</p>
 
 <h2 id="xscale-patterns">XSCALE Patterns</h2>
 
-<p>XSCALE is “opinionated” in the same sense as <a href="">Ruby on Rails</a>.  This means
-you’ll want to follow its practices very closely to begin with - because this
-is how it “turns all the knobs to ten”.  </p>
-
-<p>Because XSCALE isn’t a big-change-up-front framework, as it grows and the
-enterprise gains experience with its practices the various councils will
-collaboratively vary and augment them. Nevertheless, the following provides
-a state of the art starting point.</p>
+<p>XSCALE is “opinionated” in the same sense as <a href="https://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php">Ruby on
+Rails</a>, offering
+a set of concrete practices as a state-of-the-art starting point for your journey.  As
+your streams and teams gain experience with these practices, your chapters and
+councils will naturally vary and augment them.  Starting by building an uncompromised
+agile capability, you can grow and adapt it continuously without ever compromising it.</p>
 
 <h2 id="enterprise-practices">Enterprise Practices</h2>
 
-<p>XSCALE adopts the <a href="">Beyond Budgeting</a> premise that each value stream must
-either earn its keep or convince other, self-funded streams that it is worth
-their investing some part of their revenue to fund it. This is not to
-disempower executives, but to assure that the enterprise pivots coherently
-and collaboratively to improve its overall ROI.</p>
+<p>XSCALE adopts the <a href="">Beyond Budgeting</a> premise that each value stream must either earn
+its keep or convince other, self-funded streams that it is affords thems sufficient
+value for them to invest in it to their mutual benefit. </p>
+
+<p>Making such trade-offs has traditionally been the responsibility of senior executives.
+We expect execs will still guide and inform the choices made by the Enterprise
+Council, but the intent in spreading responsibility for making appropriation decisions
+to the stream leads is to assure that the enterprise pivots collaboratively to
+maximize net ROI for the whole.</p>
 
 <h3 id="bpp">BPP</h3>
 

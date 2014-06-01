@@ -4,7 +4,7 @@
   <title><![CDATA[Category: XSCALE | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/xscale/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T20:31:59+10:00</updated>
+  <updated>2014-06-01T20:37:11+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -223,7 +223,7 @@ delivery stories. So it’s counterproductive to over-specify them.</p>
 
 <p>The original XP Planning Game, now known as “Planning Poker”, is a proven way for
 delivery teams to collaborate on estimating the relative effort required to deliver a
-set of stories. XSCALE generalizes Planning Poker to Feature Points to make a method
+set of stories. BPP generalizes Planning Poker to Feature Points to make a method
 of determining the dollar investment and the relative return in delivering a set of
 products and services. </p>
 
@@ -395,8 +395,8 @@ release plan to hit a particular date, if need be, or to determine an ordering o
 feaure sets to maximize product-market fit within the funding profile of a continuous
 delivery stream.</p>
 
-<p>Like the other XSCALE enterprise practices, RR is a quick consensus game with
-very straightforward rules:</p>
+<p>Like the other BPP patterns, RR is a quick consensus game with quite straightforward
+rules:</p>
 
 <ol>
   <li>Using the BPP prioritization, lay out all available features in columns

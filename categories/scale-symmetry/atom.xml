@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scale-Symmetry | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetry/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T20:18:57+10:00</updated>
+  <updated>2014-06-01T20:31:20+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -48,11 +48,10 @@ most popular are SAFe, LeSS, Agile Path and the Spotify Tribal model.  Each has 
       <li><a href="#continuous-adaptation">Continuous Adaptation</a></li>
       <li><a href="#chapters-and-councils">Chapters and Councils</a></li>
       <li><a href="#meeting-schedules">Meeting Schedules</a></li>
-      <li><a href="#continuous-adaptation-1">Continuous Adaptation</a></li>
-      <li><a href="#funding-cycle">Funding Cycle</a></li>
     </ul>
   </li>
   <li><a href="#stream-practices">Stream Practices</a>    <ul>
+      <li><a href="#stream-funding">Stream Funding</a></li>
       <li><a href="#stream-structure">Stream Structure</a></li>
       <li><a href="#stream-flow-diagram">Stream Flow Diagram</a></li>
     </ul>
@@ -410,6 +409,8 @@ Councils and Chapters adapt and expand these respective treaties by means of
 Breadth-First Roadmaps that detail how their Streams and Squads  will
 organize to satisfy the terms of the treaties that define them. </p>
 
+<p><img src="/images/CA.png" width="400"></p>
+
 <p>We refer to this process as Continous Adaptation because it’s not a simple
 matter of executing a pre-defined plan.  The BPP patterns are applied to
 estimate and prioritize the respective  roadmap using themes drawn from the
@@ -434,8 +435,6 @@ flow diagrams - not to be confused with the Stream Flow diagrams - represent
 progress as the whole adapts over time.</p>
 
 <h3 id="meeting-schedules">Meeting Schedules</h3>
-
-<p><img src="/images/chapters.png" width="400"></p>
 
 <p>As XSCALE rolls out it becomes advantageous to synchronize the various council
 meetings so that they don’t cause calendar-stress. XSCALE leverages the squads’weekly
@@ -479,15 +478,13 @@ asynchronously whenever one of its members calls for this.</p>
   </li>
 </ul>
 
-<h3 id="continuous-adaptation-1">Continuous Adaptation</h3>
-
-<h3 id="funding-cycle">Funding Cycle</h3>
-
-<p>[more to come]</p>
-
 <h2 id="stream-practices">Stream Practices</h2>
 
+<h3 id="stream-funding">Stream Funding</h3>
+
 <p><img src="/images/streams.png"></p>
+
+<p>[more to come …]</p>
 
 <h3 id="stream-structure">Stream Structure</h3>
 

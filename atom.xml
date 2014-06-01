@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-06-01T20:31:20+10:00</updated>
+  <updated>2014-06-01T20:31:59+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -832,7 +832,7 @@ Councils and Chapters adapt and expand these respective treaties by means of
 Breadth-First Roadmaps that detail how their Streams and Squads  will
 organize to satisfy the terms of the treaties that define them. </p>
 
-<p><img src="http://Agile-TNG.github.io/images/CA.png" width="400" /></p>
+<p><img src="http://Agile-TNG.github.io/images/CA.png" /></p>
 
 <p>We refer to this process as Continous Adaptation because it’s not a simple
 matter of executing a pre-defined plan.  The BPP patterns are applied to

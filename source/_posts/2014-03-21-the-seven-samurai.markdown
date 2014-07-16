@@ -11,33 +11,31 @@ categories:
 published: true
 ---
 
-A pattern language for enterprise agile transformation.
+Enterprise Agile is a phrase that's bandied about a lot.  What is it, why would you
+want it, and how do you get it? The Seven Samurai answers those questions.
 
 {% img /images/Agreement.jpg %}
 
 <!-- more -->
 
-Enterprise agile is a phrase that's bandied about a lot.  Why would you want it, what
-is it, and how do you get it? The Seven Samurai is a pattern language that addresses
-these questions.
+In the ever-accelerating marketplace it's common sense that businesses must
+continously adapt to avoid being outcompeted by others. On a small scale the process
+of adaptation can be dealt with by regular Scrum retrospectives and the Demming cycle.
+A significant program or business unit, however, cannot adapt piece-meal or it risks
+the Lean sins of stress, irregularity and waste.
 
 * toc
 {:toc}
 
-We define enterprise agility as continuous adaptation.  Adaptation of internal
-structure and process as delivery capabilities evolve.  Adaptation of external value
-streams to customer experiences, market forces and technological innovations.
-Adaptation of these two to each other to maximise product-market fit and ROI. 
+Let's define enterprise agility in terms of continuous adaptation. Adaptation of
+internal structure and process as delivery capabilities evolve.  Adaptation of
+external value streams to customer experiences, market forces and technological
+innovations.  Adaptation of these two to each other to maximise product-market fit and
+ROI. 
 
-In an ever-accelerating marketplace it has become common sense that businesses must
-continously adapt to avoid being outcompeted by others. On a small scale the process
-of adaptation can be dealt with by regular Scrum retrospectives and the Demming cycle.
-A significant program or business unit, however, cannot adapt piece-meal or it risks
-all the Lean sins of stress, irregularity and waste.
-
-This obviously applies during process transformation but for enterprise agility
+Adaptation obviously applies during process transformation, but for enterprise agility
 continous adaptation must continue even after new process elements are bedded down.
-The Seven Samurai pattern language provides a proven framework for doing just that.
+The Seven Samurai pattern language provides a framework for doing that.
 
 ## Spoilers
 {:.no_toc}
@@ -52,25 +50,25 @@ reader.
 {:.no_toc}
 
 The Seven Samurai concerns a defenceless village that hires a group of down-at-heel
-samurai as protection against a horde of ruthless bandits. The samurai swiftly
+samurai as protection against a horde of ruthless bandits. The samurai efficiently
 transform the village into a self-organising force to destroy the bandits and take
 ownership of its own destiny. 
 
 Our Western image of samurai as armored warriors is very different to their depiction
-here. Kurosawa's men are master strategists, coaches of the first water. Each samurai
-embodies a distinct strategic pattern, and each reinforces the others so that the
-whole is greater than the sum of its parts.
+here. Kurosawa's samurai are really seven coaches, each embodying a distinct strategic
+pattern, each reinforcing the others so that the whole becomes greater than the sum of
+its parts.
 
-Why eight patterns when there are only seven samurai? The last pattern is where the
-enterprise takes ownership of its own transformation and external coaching becomes
-irrelevant. Per the final line of the film, it's the village that wins, not the
-samurai.
+Why eight patterns when there are only seven samurai? The last pattern represents the
+end of the film where the village takes ownership of its own transformation and
+external coaching becomes irrelevant. Per the final line of the film, it's the village
+that wins, not the samurai.
 
 ---
 
 ## The Patterns
 
-#### Continuous Assessment
+### Continuous Assessment
 
 Motivate Agile in terms of continuous evaluation of bottom line metrics.
 
@@ -107,7 +105,7 @@ metrics](http://comparativeagility.com), and compare with the MVAC.
 
 ---
 
-#### Continuous Alignment
+### Continuous Alignment
 
 Enrol decision makers as Product Owners in an iterative "Strategic Scrum" that meets
 at least weekly.
@@ -168,7 +166,7 @@ Coalition](http://www.kotterinternational.com/our-principles/changesteps/step-2)
 
 --- 
 
-####Continuous Analysis
+### Continuous Analysis
 
 Form a Coordination Scrum from coaches and delivery and operational stream
 leads that meets at least weekly.
@@ -211,7 +209,7 @@ owners of the Strategic Scrum.
 
 ---
 
-####Continuous Awareness
+### Continuous Awareness
 
 Organise change recipients into a system of [Guilds and
 Tribes](http://www.slideshare.net/vmysla/scrum-at-spotify). Represent each tribe at
@@ -249,7 +247,7 @@ Council](http://agiletng.org/2014/04/21/xscale/#continuous-adaptation)
 
 ---
 
-####Continuous Architecture
+### Continuous Architecture
 
 Guilds meet weekly to institute technical enablers for feature based delivery.
 
@@ -294,7 +292,7 @@ may become less frequent.
 
 --- 
 
-####Continuous Adoption
+### Continuous Adoption
 
 Coaches track transformation stories in a coaching kanban and report weekly to
 coordination and strategic scrums.
@@ -330,7 +328,7 @@ metrics and team-member testaments into case studies to support Acceleration.
 
 ---
 
-####Continuous Acceleration
+### Continuous Acceleration
 
 Use consensus protocols to iteratively re-energise the tranformation.
 
@@ -359,7 +357,7 @@ guilds and tribes.
 
 ---
 
-#### Continuous Adaptation
+### Continuous Autonomy
 
 Refactor the Transformation Roadmap to leverage new capabilities.
 
@@ -371,13 +369,27 @@ Refactor the Transformation Roadmap to leverage new capabilities.
 enable qualitative improvements in the way an enterprise organises, grows,
 positions, sells and delivers into its marketplace. 
 
+* Such new capabilities require new program support that is not borrowed piece-meal
+  from other value streams.
+
 **Therefore,**
 
 Capitalise on these improvements by focusing the Strategic Scrum on
 differences between the original [Agile Transformation Roadmap]() and the
-emergent reality. Gauge these differences with Continuous Assessment metrics
-and refactor the transformation roadmap accordingly. Seek out new ways to
-integrate internal services, leverage new technologies, form new product lines
-and access new market segments. The more often the strategic scrum can review
-these things, the faster its enterprise can adapt.
+emergent reality. 
+
+Gauge these differences with Continuous Assessment metrics and refactor the
+transformation roadmap accordingly. Consider new ways to integrate internal services,
+leverage new technologies, form new product lines and access new market segments. Each
+of these needs to be supported either by creating a new autonomous tribe, or by
+assigning the accountability to an existing autonomous tribe.
+
+Use [Release Refactoring]() to determine which of these initiatives offer the maximum
+benefit to existing value streams, and over what timeframes. Treating the existing
+value streams as customers for new capability, let representatives of each determine
+the proportion of their revenues they're willing to pay for the newly available service
+including any new tribes or squads that may be required to field the new capabilities.
+
+The more often the strategic scrum can review these things, the faster its enterprise
+can adapt.
 

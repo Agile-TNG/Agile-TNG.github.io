@@ -42,8 +42,20 @@ curve breadth-first, however, always gets to the global maximum.
 Likewise BPP makes breadth-first distinctions about business alternatives, sorts these
 into easily optimized piles, and iterates to locate the parts with maximum ROI. This
 assures consistent decisions about business alternatives at all scales, and the
-analysis completes quickly and efficiently, ruling out large swathes of its "search
-space" without wasting analysis time on in-depth exploration.
+analysis completes quickly and efficiently, ruling out large swathes of lower ROI
+"business space" without wasting analysis time on their in-depth exploration.
+
+## The Patterns
+
+* [Feature Points](#feature-points) are a way to reconcile budgets with story points
+* [Breadth First Roadmap](#breadth-first-roadmap) is a way to map featuresets to
+  acceptance criteria
+* [Backlog Bingo](#backlog-bingo) determines the dollar investment and relative return
+  for a set of products and services. 
+* [Royal Cod](#royal-cod-prioritization) applies Backlog Bingo to prioritize a
+  Breadth-First Roadmap
+* [Roadmap Refactoring](#roadmap-refactoring) enables product owners to make
+  rational trade-offs between feature-sets. 
 
 ### Feature Points
 
@@ -175,7 +187,7 @@ delivery stories. So it's counterproductive to over-specify them.
 
 The original XP Planning Game, now known as "Planning Poker", is a proven way for
 delivery teams to collaborate on estimating the relative effort required to deliver a
-set of stories. XSCALE generalizes Planning Poker to Feature Points to make a method
+set of stories. BPP generalizes Planning Poker to Feature Points to make a method
 of determining the dollar investment and the relative return in delivering a set of
 products and services. 
 
@@ -322,15 +334,14 @@ questions.
 
 {%img /images/roadmapr.png 400 %}
 
-Roadmap Refactoring (RR) is a consensus game that leverages BPP to enable
-product owners to make rational trade-offs between different feature-sets. It
-can be used to quickly assemble a release plan to hit a particular date, if
-need be, or to determine an ordering of feaure sets to maximize
-product-market fit within the funding profile of a continuous delivery
-stream.
+Roadmap Refactoring (RR) is a consensus game to enable product owners to make rational
+trade-offs between different feature-sets. It can be used to quickly assemble a
+release plan to hit a particular date, if need be, or to determine an ordering of
+feaure sets to maximize product-market fit within the funding profile of a continuous
+delivery stream.
 
-Like the other XSCALE enterprise practices, RR is a quick consensus game with
-very straightforward rules:
+Like the other BPP patterns, RR is a quick consensus game with quite straightforward
+rules:
 
 0. Using the BPP prioritization, lay out all available features in columns
    grouped by business objective.

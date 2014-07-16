@@ -8,7 +8,7 @@ categories:
 - Patterns
 ---
 
-{% img /images/oapl300.png %}
+{% img /images/oapl300.png 300 %}
 
 A key activity within A:TNG is organizing an open pattern language to relate
 learnings from Agile frameworks to the experiences of our practitioners.

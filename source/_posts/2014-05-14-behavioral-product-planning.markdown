@@ -54,7 +54,7 @@ analysis completes quickly and efficiently, ruling out large swathes of lower RO
   for a set of products and services. 
 * [Royal Cod](#royal-cod-prioritization) applies Backlog Bingo to prioritize a
   Breadth-First Roadmap
-* [Roadmap Refactoring](#roadmap-refactoring) enables product owners to make
+* [Release Refactoring](#release-refactoring) enables product owners to make
   rational trade-offs between feature-sets. 
 
 ### Feature Points
@@ -269,7 +269,7 @@ In order to minimize overall cost of maintenance, a technical feature should hav
 priority as close as possible to the highest prioity feature that depends upon it.
 
 Once the COD adjustments have been made, record the relative priorities of the
-features to prepare for Roadmap Refactoring, which determines how to best fit
+features to prepare for Release Refactoring, which determines how to best fit
 these to funding constraints and MVP per business objective. 
 
 ### Royal Cod vs WSJF
@@ -330,11 +330,11 @@ session until the team has had time to work with architects and designers to nai
 dependencies down better, or the product owner has sufficient time to resolve business
 questions.
 
-### Roadmap Refactoring
+### Release Refactoring
 
 {%img /images/roadmapr.png 400 %}
 
-Roadmap Refactoring (RR) is a consensus game to enable product owners to make rational
+Release Refactoring (RR) is a consensus game to enable product owners to make rational
 trade-offs between different feature-sets. It can be used to quickly assemble a
 release plan to hit a particular date, if need be, or to determine an ordering of
 feaure sets to maximize product-market fit within the funding profile of a continuous
@@ -371,7 +371,7 @@ rules:
 0. Record all of these decisions as an easy  starting point for the next RR
    session.
 
-Roadmap Refactoring is played whenever new features are added to the stream
+Release Refactoring is played whenever new features are added to the stream
 backlog or whenever the PO calls for it. Because it's such a quick game it's
 also possible to play in a "what-if" mode to evaluate alternative product
 plans to evaluate possible responses to changes in market conditions.

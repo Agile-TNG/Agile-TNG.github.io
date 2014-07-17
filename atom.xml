@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-07-17T20:50:40+10:00</updated>
+  <updated>2014-07-17T20:55:06+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -583,14 +583,17 @@ so on. Once the ball is placed they make more distinctions about distances, slop
 clubs - a map in their heads that says where the ball lies relative to the hole.  They
 never think about the combinations of individual grass blades.</p>
 
-<p>Agile actively minimizes combinations of concerns when it 
-* (<a href="">DRY</a>)s code into distinct modules to group common behaviours
-* automates testing to keep ambient defect count low, thereby minimizing the
-  multiplication of time required to sort out combinations of defects
-* combines people into small teams with distinct backlogs to limit the need for
-  cross-team coordination
-* The Spotify patterns which factor cross-cutting concerns to distinct chapters and
-  guilds to minimize paticipants in the conversations required to resolve them. </p>
+<p>Agile actively minimizes combinations of concerns when it </p>
+
+<ul>
+  <li>_DRY_s code into distinct modules to group common behaviours</li>
+  <li>automates testing to keep ambient defect count low, thereby minimizing the
+multiplication of time required to sort out combinations of defects</li>
+  <li>combines people into small teams with distinct backlogs to limit the need for
+cross-team coordination</li>
+  <li>The Spotify patterns which factor cross-cutting concerns to distinct chapters and
+guilds to minimize paticipants in the conversations required to resolve them. </li>
+</ul>
 
 <p>In general the principle is:</p>
 

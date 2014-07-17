@@ -1,55 +1,89 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/</loc>
-        <lastmod>2014-07-16T18:14:12+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/03/10/4-new-values/</loc>
-        <lastmod>2014-05-07T10:29:52+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/03/11/why-what-how/</loc>
-        <lastmod>2014-05-01T10:19:42+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/03/21/the-seven-samurai/</loc>
-        <lastmod>2014-07-16T17:29:05+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle/</loc>
-        <lastmod>2014-05-18T21:01:53+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/04/02/iroquois-council/</loc>
-        <lastmod>2014-05-06T10:20:26+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/04/13/product-funding/</loc>
-        <lastmod>2014-05-01T10:19:42+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/04/21/xscale/</loc>
-        <lastmod>2014-06-01T20:31:58+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/2014/05/14/behavioral-product-planning/</loc>
-        <lastmod>2014-06-01T20:37:10+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/about/</loc>
-        <lastmod>2014-05-06T16:35:27+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/archives/</loc>
-        <lastmod>2014-07-16T18:14:12+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/blog/archives/</loc>
-        <lastmod>2014-07-16T18:14:12+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Agile-TNG.github.io/</loc>
-        <lastmod>2014-07-16T18:14:12+10:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/05/14/behavioral-product-planning/</loc>
+    <lastmod>2014-05-14T19:08:25+10:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/04/21/xscale/</loc>
+    <lastmod>2014-04-21T20:46:55+10:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/04/13/product-funding/</loc>
+    <lastmod>2014-04-13T20:15:15+10:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/04/02/iroquois-council/</loc>
+    <lastmod>2014-04-02T15:04:37+11:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle/</loc>
+    <lastmod>2014-03-27T11:31:11+11:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/03/21/the-seven-samurai/</loc>
+    <lastmod>2014-03-21T21:53:27+11:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/03/11/why-what-how/</loc>
+    <lastmod>2014-03-11T22:59:46+11:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/03/10/4-new-values/</loc>
+    <lastmod>2014-03-10T09:43:28+11:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/</loc>
+    <lastmod>2014-03-09T18:02:45+11:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/blog/archives/</loc>
+    <lastmod>2014-07-17T20:35:51+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/</loc>
+    <lastmod>2014-07-17T20:35:51+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/archives/</loc>
+    <lastmod>2014-07-17T20:35:51+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://Agile-TNG.github.io/about/</loc>
+    <lastmod>2014-07-17T20:35:51+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
 </urlset>

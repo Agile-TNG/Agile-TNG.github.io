@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Enterprise | Agile: The Next Generation]]></title>
+  <title><![CDATA[Category: enterprise | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/enterprise/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-07-16T18:43:31+10:00</updated>
+  <updated>2014-07-17T20:35:51+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -381,6 +381,461 @@ untrusted, uninvited or even inimical one. </p>
 <p>In general github, as a do-ocracy, provides straightforward social methods for
 participants to cross from the status of fork to collaborator, but it remains
 to arrange a council protocol that uses this as a channel.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Seven Samurai]]></title>
+    <link href="http://Agile-TNG.github.io/2014/03/21/the-seven-samurai/"/>
+    <updated>2014-03-21T21:53:27+11:00</updated>
+    <id>http://Agile-TNG.github.io/2014/03/21/the-seven-samurai</id>
+    <content type="html"><![CDATA[<p>Enterprise Agile is a phrase that’s bandied about a lot.  What is it, why would you
+want it, and how do you get it? The Seven Samurai answers those questions.</p>
+
+<p><img src="/images/Agreement.jpg"></p>
+
+<!-- more -->
+
+<p>In the ever-accelerating marketplace it’s common sense that businesses must
+continously adapt to avoid being outcompeted by others. On a small scale the process
+of adaptation can be dealt with by regular Scrum retrospectives and the Demming cycle.
+A significant program or business unit, however, cannot adapt piece-meal or it risks
+the Lean sins of stress, irregularity and waste.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#the-patterns">The Patterns</a>    <ul>
+      <li><a href="#continuous-assessment">Continuous Assessment</a></li>
+      <li><a href="#continuous-alignment">Continuous Alignment</a></li>
+      <li><a href="#continuous-analysis">Continuous Analysis</a></li>
+      <li><a href="#continuous-awareness">Continuous Awareness</a></li>
+      <li><a href="#continuous-architecture">Continuous Architecture</a></li>
+      <li><a href="#continuous-adoption">Continuous Adoption</a></li>
+      <li><a href="#continuous-acceleration">Continuous Acceleration</a></li>
+      <li><a href="#continuous-autonomy">Continuous Autonomy</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Let’s define enterprise agility in terms of continuous adaptation. Adaptation of
+internal structure and process as delivery capabilities evolve.  Adaptation of
+external value streams to customer experiences, market forces and technological
+innovations.  Adaptation of these two to each other to maximise product-market fit and
+ROI. </p>
+
+<p>Adaptation obviously applies during process transformation, but for enterprise agility
+continous adaptation must continue even after new process elements are bedded down.
+The Seven Samurai pattern language provides a framework for doing that.</p>
+
+<h2 class="no_toc" id="spoilers">Spoilers</h2>
+
+<p>You don’t need to see the Kurosawa film to understand the pattern language, but its
+patterns necessarily involve spoilers so you may want to see the film first.  The
+<a href="https://www.youtube.com/watch?v=zNqQXC8Tv8U">restored version</a> is available through
+the usual streaming sites so we’ll leave the question of spoilage to you, gentle
+reader. </p>
+
+<h2 class="no_toc" id="the-film">The Film</h2>
+
+<p>The Seven Samurai concerns a defenceless village that hires a group of down-at-heel
+samurai as protection against a horde of ruthless bandits. The samurai efficiently
+transform the village into a self-organising force to destroy the bandits and take
+ownership of its own destiny. </p>
+
+<p>Our Western image of samurai as armored warriors is very different to their depiction
+here. Kurosawa’s samurai are really seven coaches, each embodying a distinct strategic
+pattern, each reinforcing the others so that the whole becomes greater than the sum of
+its parts.</p>
+
+<p>Why eight patterns when there are only seven samurai? The last pattern represents the
+end of the film where the village takes ownership of its own transformation and
+external coaching becomes irrelevant. Per the final line of the film, it’s the village
+that wins, not the samurai.</p>
+
+<hr />
+
+<h2 id="the-patterns">The Patterns</h2>
+
+<h3 id="continuous-assessment">Continuous Assessment</h3>
+
+<p>Motivate Agile in terms of continuous evaluation of bottom line metrics.</p>
+
+<p><img src="/images/Assessment.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Many organisations embark on Agile ad-hoc, at grass roots level, without clearly
+understanding real drivers, benefits and challenges.</p>
+  </li>
+  <li>
+    <p>Enterprise architecture and business constraints can prevent Agile transformation
+from succeeding. Many enterprises are not ready to commit to addressing these
+constraints.</p>
+  </li>
+  <li>
+    <p>Teams, programs and business units may begin a transformation without realising
+their organisation isn’t ready, and this in itself may lead them to fail.</p>
+  </li>
+  <li>
+    <p>Prominent failures may forestall further transformation, creating the perception
+that Agile “might work elsewhere but can’t work here”.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Interview stakeholders to construct preliminary value stream maps of delivery and
+business activities. Validate these by attending the represented activities and
+instrument cumulative flow metrics for them.</p>
+
+<p>Represent these metrics as diagrams to motivate urgent concern about waste, stress,
+irregularity and misalignment. Determine critical numbers that would represent
+achievable Agile improvements to throughput, quality and ROI.</p>
+
+<p>Construct a preliminary plan detailing targets for these critical numbers with a draft
+timeframe and budget necessary to generate the Minimum Viable Agile Capability
+(“MVAC”) that would meet those targets on a small scale.  Assess maturity of existing
+mission-critical teams using the <a href="http://comparativeagility.com">Cohn’s Comparative Agility
+metrics</a>, and compare with the MVAC.</p>
+
+<hr />
+
+<h3 id="continuous-alignment">Continuous Alignment</h3>
+
+<p>Enrol decision makers as Product Owners in an iterative “Strategic Scrum” that meets
+at least weekly.</p>
+
+<p><img src="/images/Alignment.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Component silos, matrix management, waterfall baselines and phase gates, project
+based cost accounting and middle management hierarchies can make it difficult for an
+organisation to host and maintain Agile feature teams. </p>
+  </li>
+  <li>
+    <p>There are further alignment issues inherent in a transformation program.
+Progressive/conservative antagonism, disagreements over change scope and ownership,
+confusion over metrics and trade-offs, as well as the simple
+<a href="http://www.cavcomp.demon.co.uk/halloween/fuddef.html">FUD</a> of a reaction to change
+… </p>
+  </li>
+  <li>
+    <p>Enterprise misalignments are commonly associated with the anti-patterns we call
+<a href="">enterprise smells</a>.</p>
+  </li>
+  <li>
+    <p>Ad hoc Agile teams can’t address such alignment issues because they don’t have
+adequate executive support to change the process of other teams or the way they
+interoperate.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Induce progressive senior executives to meet regularly in a collaborative “Strategic
+Scrum” whose mission is product ownership for the transformation.  </p>
+
+<p>Ideally, execs are motivated to participate by pre-existing C-level support.  Such
+support is seldom reliable at the start of a transformation, however, and it may be an
+urgent priority of the Strategic Scrum to leverage the output of the Assessment
+pattern to demonstrate sufficient drivers to establish funding and ownership of a
+transformation initiative.</p>
+
+<p>The Strategic Scrum provides a way for the executives to immediately experience agile
+for themselves and <a href="http://www.c2.com/cgi/wiki?EatYourOwnDogfood">“eat their own
+dogfood”</a>. Over the course of the
+transformation it will provide a one stop shop into which coaches and organisational
+change agents report progress, and change its membership and form as required to fit
+the evolving agile enterprise.</p>
+
+<p>An important first step for the Strategic Scrum is selecting one or more 
+alignment patterns to form the initial stage of the transformation:</p>
+
+<ul>
+  <li><a href="http://agiletng.org/2014/03/27/the-goose-in-the-bottle/">Goose in the
+Bottle</a></li>
+  <li><a href="">Inversion of Ownership</a></li>
+  <li><a href="http://www.slideshare.net/vmysla/scrum-at-spotify">Tribes and Guilds</a></li>
+  <li><a href="http://scaledagileframework.com/investment-themes/">Stream Funding</a></li>
+  <li><a href="">Lean before Agile</a></li>
+  <li>… </li>
+</ul>
+
+<p>See also <a href="http://agiletng.org/2014/04/21/xscale/#feature-points">Behavioural Product
+Planning</a>, <a href="">Feature Based
+Teams</a> <a href="http://www.kotterinternational.com/our-principles/changesteps/step-2">Guiding
+Coalition</a>,
+<a href="">Influence the Influencers</a></p>
+
+<hr />
+
+<h3 id="continuous-analysis">Continuous Analysis</h3>
+
+<p>Form a Coordination Scrum from coaches and delivery and operational stream
+leads that meets at least weekly.</p>
+
+<p><img src="/images/Analysis.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Once an enterprise has assessed its as-is state and aligned executives
+to support its transformation, there is an immediate desire for a detailed
+“to-be” vision and a plan to get there. This is often called an OCM
+(“Organisation Change Management”) plan. </p>
+  </li>
+  <li>
+    <p>Under time pressure, the people accountable for OCM may feel safest picking a
+one-size-fits-all framework and idealistic “to-be state” vision. This is
+a waterfall approach to transformation - what XP used to call “Big Design 
+Up Front” or “BDUF”. We call it “Big Change Up Front” or BCUF.</p>
+  </li>
+  <li>
+    <p>Sounds nasty but why is it actually bad? BCUF focus on vision and
+framework maximises WIP and results in dysfunctional transition states where
+delivery and business metrics consistently worsen. This obviously raises
+risks and can cause executive support for transformation to tail off.</p>
+  </li>
+  <li>
+    <p>OCM plans may also be applied in a non-collaborative “they change, we
+don’t” mindset. If change agents are not also change recipients they are
+insensitive to the wisdom of the doers causing widespread <a href="">FUD</a> and politics.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>To make an enterprise Agile, we emphasise that change planning must be Agile.  What’s
+needed isn’t a precise vision but an iterative collaboration cycle for a “Coordination
+Scrum” that begins with just the  existing stream leads. That’s to say lead doers, not
+middle-management deciders, along with experienced coaches to provide insight on
+tactical concerns over the course of the transformation.</p>
+
+<p>The primary accountability of the Coordination Scrum is enabling the new agile
+delivery stream to efficiently integrate with existing component streams. This work is
+represented on an <a href="">Agile Transformation Roadmap</a> from which coaches derive a
+<a href="">Coaching Kanban</a> to prioritise and track their coaching activities per team.
+Cumulative flow of this kanban is iteratively reviewed by the transformation product
+owners of the Strategic Scrum.</p>
+
+<hr />
+
+<h3 id="continuous-awareness">Continuous Awareness</h3>
+
+<p>Organise change recipients into a system of <a href="http://www.slideshare.net/vmysla/scrum-at-spotify">Guilds and
+Tribes</a>. Represent each tribe at
+the weekly Coordination Scrum.</p>
+
+<p><img src="/images/Awareness.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Change plans usually begin with training for the doers on new ways of
+working.  This includes role-specific skills and education on the tools
+necessary to new roles.</p>
+  </li>
+  <li>
+    <p>Awareness as a process isn’t merely a matter of training, but ongoing
+agreement about ways of working, For the transformation to become
+sustainable, doers must own and direct the change stories themselves.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Organise people of common capabilities into “Guilds” and people collaborating on
+common business and delivery streams into “Tribes” or “Streams”. Let coaches work with
+these teams to plan and effect change using a weekly cycle of Scrum
+<a href="http://fabiopereira.me/blog/2008/11/23/goal-driven-retrospective/">retrospectives</a>
+and, at scale, <a href="http://agiletng.org/2014/04/02/iroquois-council/">stream councils</a>. </p>
+
+<p>These consensus protocols spread awareness of drivers and methods for new ways of
+working, and feed decisions, agreements and concerns back into the Coordination Scrum. </p>
+
+<p>Coaches use role-playing games to raise Guild and Tribe awareness of Agile methods and
+their respective parts in the transformation.  The Coordination Scrum also works with
+the Strategic Scrum to obtain support to empower tribes and guilds to make their own
+decisions to enable rapid change.</p>
+
+<p>Once they’re up to speed, add Guild and Tribe representatives to the Coordination
+Scrum. At scale, the Coordination Scrum may evolve into an <a href="http://agiletng.org/2014/04/21/xscale/#continuous-adaptation">Enterprise
+Council</a></p>
+
+<hr />
+
+<h3 id="continuous-architecture">Continuous Architecture</h3>
+
+<p>Guilds meet weekly to institute technical enablers for feature based delivery.</p>
+
+<p><img src="/images/Architecture.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Technical enablers and structural transformations must be adopted by 
+change recipients to enable new ways of working. </p>
+  </li>
+  <li>
+    <p>Change patterns promoted by the Coordination Scrum have to be grounded and
+tailored into stories that fit the immediate necessities of the as-is
+enterprise. </p>
+  </li>
+  <li>
+    <p>Change stories that requires anyone to put down their tools and stand idle
+will be immediately opposed by the guild system and business stakeholders. </p>
+  </li>
+  <li>
+    <p>Collaborative coaching is necessary to assure change recipients are ready
+and motivated to work in the new way</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Prioritize technical enablers in the Coaching Kanban including but not limited
+to:</p>
+
+<ul>
+  <li>work-management and knowledge-management tools </li>
+  <li>test data fixtures and service mock objects</li>
+  <li>BDD tooling and integration of same into dev workflow</li>
+  <li>virtual environments sufficient for Continuous Delivery</li>
+  <li>version control systems suitable for distributed integration.</li>
+</ul>
+
+<p>At an enterprise level, Guilds stage the structural alignment patterns
+determined by the Strategic Scrum, assure existing component teams are primed
+to support if not adopt the new ways of working, and that scarce technical
+resources or SMEs are adequately available for new delivery capabilities to
+come on line.</p>
+
+<p>At first guilds adopt, specialise, adjust and refactor architectural patterns
+iteratively as they gain experience with the benefits and challenges.  As the Agile
+capability grows, however, guilds naturally split into chapters per tribe, each of
+which is empowered to make these autonomous decisions for its tribe. As this occurs
+each chapter will be represented at its own stream council, and Guild meetings
+may become less frequent.</p>
+
+<hr />
+
+<h3 id="continuous-adoption">Continuous Adoption</h3>
+
+<p>Coaches track transformation stories in a coaching kanban and report weekly to
+coordination and strategic scrums.</p>
+
+<p><img src="/images/Adoption.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Coaching shepherds product planning and delivery teams through the same
+Samurai patterns as it does for the enterprise, just on a smaller scale.</p>
+  </li>
+  <li>
+    <p>A well formed transformation plan involves a backlog of <a href="">Transformation
+Stories</a> motivated by drivers identified by <a href="">Operational Product Owners</a>
+from the Strategic Scrum.  These stories should have the <a href="">INVEST</a>
+properties and be expected to demonstrate value by improving
+<a href="#Assessment">Assessment</a> metrics. </p>
+  </li>
+  <li>
+    <p>ROI for Agile transformation is maximized when transformation stories are
+detailed and delivered iteratively, minimizing <a href="">Work In Progress</a>.</p>
+  </li>
+  <li>
+    <p>Value delivery begins as the <a href="">Product Planning Scrum</a> builds a
+breadth-first product roadmap and an initial product backlog along with a
+<a href="">Steel Thread</a> sufficient to commence <a href="">Continuous Delivery</a> of stories.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Adoption provides coaching essential to getting functional scrums up to speed.
+The goal of coaches is always to demonstrate and de-hub, transfrerring
+accountability to the actual doers as soon as they’re comfortable.</p>
+
+<p>Coaches co-chair meetings, clarify role-specifics, identify misunderstandings
+and impediments, configure workflows and knowledge structures, and assure the
+team’s technical toolset is ready for continuous delivery. They also marshall
+metrics and team-member testaments into case studies to support Acceleration.</p>
+
+<hr />
+
+<h3 id="continuous-acceleration">Continuous Acceleration</h3>
+
+<p>Use consensus protocols to iteratively re-energise the tranformation.</p>
+
+<p><img src="/images/Acceleration.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>As agile metrics make productivity and quality gains and challenges
+transparent, management focus shifts from “how to account for slippage” to
+“how to improve ROI”. </p>
+  </li>
+  <li>
+    <p>Broken collaboration cycles, structural problems, and <a href="">muda-mura-muri</a>
+often occur without the enterprise properly understanding or addressing them. </p>
+  </li>
+  <li>
+    <p>Decision makers may say that the transformation has “hit a
+plateau” or experiences pitfalls. They may feel <a href="">FUD</a> about the way ahead.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Re-energize the transformation by promoting consensus mechanisms to capitalize
+on wins, address root causes of problems, and refocus on improving the
+critical numbers.</p>
+
+<p>Coaches inspect and assure collaboration fundamentals, work with the
+Coordination Scrum to address structural issues, and facilitate <a href="">open
+spaces</a>, <a href="">Iroquois Councils</a>, <a href="">lean coffees</a> and <a href="">scrum retros</a> within
+guilds and tribes.</p>
+
+<hr />
+
+<h3 id="continuous-autonomy">Continuous Autonomy</h3>
+
+<p>Refactor the Transformation Roadmap to leverage new capabilities.</p>
+
+<p><img src="/images/Adaptation.png" width="400"></p>
+
+<ul>
+  <li>
+    <p>Agility doesn’t merely improve productivity and quality metrics. </p>
+  </li>
+  <li>
+    <p>New delivery capabilities and new methods of reflection and collaboration
+enable qualitative improvements in the way an enterprise organises, grows,
+positions, sells and delivers into its marketplace. </p>
+  </li>
+  <li>
+    <p>Such new capabilities require new program support that is not borrowed piece-meal
+from other value streams.</p>
+  </li>
+</ul>
+
+<p><strong>Therefore,</strong></p>
+
+<p>Capitalise on these improvements by focusing the Strategic Scrum on
+differences between the original <a href="">Agile Transformation Roadmap</a> and the
+emergent reality. </p>
+
+<p>Gauge these differences with Continuous Assessment metrics and refactor the
+transformation roadmap accordingly. Consider new ways to integrate internal services,
+leverage new technologies, form new product lines and access new market segments. Each
+of these needs to be supported either by creating a new autonomous tribe, or by
+assigning the accountability to an existing autonomous tribe.</p>
+
+<p>Use <a href="">Release Refactoring</a> to determine which of these initiatives offer the maximum
+benefit to existing value streams, and over what timeframes. Treating the existing
+value streams as customers for new capability, let representatives of each determine
+the proportion of their revenues they’re willing to pay for the newly available service
+including any new tribes or squads that may be required to field the new capabilities.</p>
+
+<p>The more often the strategic scrum can review these things, the faster its enterprise
+can adapt.</p>
 
 ]]></content>
   </entry>

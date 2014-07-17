@@ -124,7 +124,8 @@ clubs - a map in their heads that says where the ball lies relative to the hole.
 never think about the combinations of individual grass blades.
 
 Agile actively minimizes combinations of concerns when it 
-* ([DRY]())s code into distinct modules to group common behaviours
+
+* _DRY_s code into distinct modules to group common behaviours
 * automates testing to keep ambient defect count low, thereby minimizing the
   multiplication of time required to sort out combinations of defects
 * combines people into small teams with distinct backlogs to limit the need for

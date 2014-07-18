@@ -4,7 +4,7 @@
   <title><![CDATA[Category: scale-symmetry | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/scale-symmetry/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-07-17T20:55:06+10:00</updated>
+  <updated>2014-07-18T12:14:13+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -98,17 +98,17 @@ offers six principles that form a superset of the ones in the Manifesto.</p>
 
 <dl>
   <dt>eXcellence</dt>
-  <dd>Linking the manifesto to <em>Beck’s Maxim</em>: Turn all the knobs to ten.</dd>
+  <dd><em>Beck’s Maxim</em>: Turn all the knobs to ten.</dd>
   <dt>Scale-symmetry</dt>
-  <dd>Map distinctions breadth-first to control combinations.</dd>
+  <dd>Work breadth-first to control combinations.</dd>
   <dt>Continuous</dt>
-  <dd>Minimum practical cycle time and batch size.</dd>
+  <dd>Measure and minimize cycle time and batch size.</dd>
   <dt>Autonomous</dt>
-  <dd>Enable consensus to make decisions and to delimit accountabilities.</dd>
+  <dd>Let consensus determine decisions and accountabilities.</dd>
   <dt>Lean</dt>
   <dd>Maximize net ROI.</dd>
   <dt>Ecosystem</dt>
-  <dd>Continuous adaptation of the whole to its parts.</dd>
+  <dd>Adapt the whole to its parts.</dd>
 </dl>
 
 <p>Descriptions of the principles follow, then a selection of practice patterns that
@@ -174,7 +174,7 @@ guilds to minimize paticipants in the conversations required to resolve them. </
 
 <p>In general the principle is:</p>
 
-<p><strong>Map distinctions breadth-first to control combinations</strong></p>
+<p><strong>Work breadth-first to control combinations</strong></p>
 
 <p><img src="/images/koch-curve.gif"></p>
 
@@ -219,7 +219,7 @@ the abilty to iteratively break component silos into feature teams. The benefit 
 avoid the above penalties and enable feature teams to use the GitFlow pattern language
 for continuous delivery. In general the principle is simply:</p>
 
-<p><strong>Minimum practical cycle time and batch size</strong></p>
+<p><strong>Measure and minimise cycle time and batch size</strong></p>
 
 <p><img src="/images/sushi-train.png"></p>
 
@@ -241,7 +241,7 @@ consensus games like planning poker and retrospectives, and it wouldn’t be
 reasonable to call a process Agile at any scale if it doesn’t empower
 consensus through games. So the XSCALE principle is:</p>
 
-<p><strong>Enable consensus to make decisions and to delimit accountabilities.</strong></p>
+<p><strong>Let consensus determine decisions and accountabilities.</strong></p>
 
 <p><img src="/images/council.png"></p>
 
@@ -306,7 +306,7 @@ efficiently adapt to the whole.  Similarly we think of Lean pivoting and <a href
 design</a> serving the function of
 generation, and Agile refactoring serving that of death, the principle for both is:</p>
 
-<p><strong>Continuous adaptation of the whole to its parts</strong></p>
+<p><strong>Adapt the whole to its parts</strong></p>
 
 <p><img src="/images/eco.png"></p>
 

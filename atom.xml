@@ -4,7 +4,7 @@
   <title><![CDATA[Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-08-12T15:15:32+10:00</updated>
+  <updated>2015-07-27T18:47:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -144,16 +144,13 @@ Minions</a>.</p>
   <li>At every level, BFR takes the form of a matrix of features and themes.  A <em>theme</em>
 defines some category of acceptance criteria for a cross-cutting technical, business
 or user experience concern. And the features are thought to combine to satisfy the
-BFR’s scoping story across these themes.
-    <ul>
-      <li>Each feature is in turn expanded in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
+BFR’s scoping story across these themes.</li>
+  <li>Each feature is expanded in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
 form</a>.
 and checked to assure <a href="http://en.wikipedia.org/wiki/INVEST_(mnemonic)">INVEST</a>
 compliance. Here the N in INVEST is modified to mean “we have the right people in
 the room to Negotiate these stories” and the S is generalized to mean “scale
 similar” rather than just “small”.</li>
-    </ul>
-  </li>
   <li>The intersection of a feature and a theme is a checkbox; each checkbox can only
 contain a blank or a checkmark. A checkmark means there are acceptance criteria for
 this feature in this theme and a blank means there aren’t.</li>
@@ -1531,16 +1528,14 @@ to arrange a council protocol that uses this as a channel.</p>
     <link href="http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle/"/>
     <updated>2014-03-27T11:31:11+11:00</updated>
     <id>http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle</id>
-    <content type="html"><![CDATA[<p>Take a newly hatched baby goose. Poke it down the neck of an empty saki bottle
-and feed it till it’s grown. Without killing the goose or breaking the bottle,
-how do you get the goose out of the bottle?</p>
+    <content type="html"><![CDATA[<p>There’s an old Zen riddle. Take a gosling and poke it down the neck of an empty saki bottle.
+Feed it till it’s grown. Now without killing the goose or breaking the bottle, how do you get the goose out of the bottle?</p>
 
 <p><img src="http://Agile-TNG.github.io/images/gib.png" /></p>
 
 <!-- more -->
 
-<p>Let’s start with the problem and the solution in context and leave the riddle
-till after.</p>
+<p>This is an organizational change pattern so let’s start with the problem and the solution in context. We’ll leave the solution to the riddle till the end.</p>
 
 <h2 id="pattern-in-portland-form">Pattern in Portland Form</h2>
 
@@ -2371,105 +2366,15 @@ will kick in real soon …</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[A:TNG Values]]></title>
-    <link href="http://Agile-TNG.github.io/2014/03/10/4-new-values/"/>
-    <updated>2014-03-10T09:43:28+11:00</updated>
-    <id>http://Agile-TNG.github.io/2014/03/10/4-new-values</id>
-    <content type="html"><![CDATA[<p>By working Agile and helping others do so we have come to value:</p>
-
-<ul>
-  <li><strong>Autonomous teams over corporate committees</strong>  </li>
-  <li><strong>Stream funding over project budgets</strong></li>
-  <li><strong>Consensus games over accountable hierarchies</strong>  </li>
-  <li><strong>Adapting practice patterns over prescribing rules</strong>  </li>
-</ul>
-
-<p>That is, while there is value in the items on the right, we value the items on
-the left more. And while we honor the original Manifesto values, we honor these
-TNG values equally.
-<!-- more --></p>
-
-<h2 id="what-do-those-items-on-the-left-mean">What do those items on the left mean?</h2>
-
-<p>The items on the right are familiar to us all. The items on the left have
-a pleasant ring, but let’s make some concrete examples to make them clear.</p>
-
-<ul>
-  <li>
-    <p><strong>Autonomous teams</strong> are cross-component cross-functional end-to-end
-feature teams that self-organize to optimize quality, throughput, ROI and
-the fit of their value stream to its market. Per XP they consciously “turn
-all the dials to ten” to capitalize on opportunities and innovations.</p>
-  </li>
-  <li>
-    <p><strong>Stream funding</strong> means funding to continuously deliver the maximum ROI
-features to improve a value stream, rather than chunking objectives,
-timeframes and budgets arbitrarily into projects. It includes patterns 
-from <a href="">Beyond Budeting</a>, <a href="">Beta Codex</a>, and <a href="">Open Book Management</a>.</p>
-  </li>
-  <li>
-    <p><strong>Consensus games</strong> include <a href="">lean coffees</a>, <a href="">open spaces</a>,
-<a href="">retrospectives</a>,
-<a href="http://agiletng.org/2014/04/02/iroquois-council/">councils</a> and other
-ways for people to align understandings and make decisions together. Lean
-coffees and open spaces do the former; retros and councils do the latter. </p>
-  </li>
-  <li>
-    <p><strong>Practice patterns</strong> describe proven solutions to commonplace problems in
-a collaborative context. Similar to design patterns for software, they were
-pioneered in the initial description of XP and revived by Jim Coplien and
-Ken Schwaber in their <a href="">ScrumPLOP</a> conference.</p>
-  </li>
-</ul>
-
-<h2 id="where-do-these-values-come-from">Where do these values come from?</h2>
-
-<p>Agile started with XP on the <a href="http://www.c2.com/cgi/wiki/ExtremeProgrammingRoadmap">C2
-Wiki</a>, a high powered
-but open community of professionals sharing patterns and innovations for the
-common good. The Agile Alliance distilled this work into a Manifesto and added
-a signup page, but C2’s open community is the real reason for the global
-supremacy of Agile today.</p>
-
-<p>Nevertheless that all happened last century and the Manifesto is showing
-its age.  It’s still right on when it comes to teams, but lacks values and
-principles for large scale Agile adoption. This gap has led to
-<a href="http://agile.dzone.com/articles/method-wars-scrum-vs-safe">contention</a> as
-consultancies and certificate-mills compete to pry open corporate checkbooks
-for their respective brands. </p>
-
-<p>Which is crazy. There’s value in both Scrum and SAFe, and no reason to think
-you can’t combine elements of both along with other frameworks. The value of
-frameworks isn’t in their brands and certificates, nor in adopting them as
-prescriptions, but in adapting the practice patterns they contain. </p>
-
-<p>Schwaber is correct in worrying about the danger of making “half a cow and
-half a fish” when what we really want is dolphins. The question is, on what
-basis do you go about the process of adaptation? How do you do it organically,
-iteratively, and without tripping up at scale? To do that you need a clear set
-of values and principles. And that’s where A:TNG comes in.</p>
-
-<p>A:TNG is based on the idea that SAFe, Less, DAD, APF, ETF, OBM, Beyond
-Budgeting, Lean and on and on all provide useful adaptation patterns.  And
-that there’s a lot more to enterprise agility than all of them put together.
-We’ve augmented the Manifesto values not as a way to make yet another brand,
-but as a basis for the work of pulling these pattern languages out of all the
-brands and into the open where we can really sort out what works with what.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[OAPL: An Open Agile Pattern Language]]></title>
     <link href="http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language/"/>
     <updated>2014-03-09T18:02:45+11:00</updated>
     <id>http://Agile-TNG.github.io/2014/03/09/oapl-the-open-agile-pattern-language</id>
     <content type="html"><![CDATA[<p><img src="http://Agile-TNG.github.io/images/oapl300.png" width="300" /></p>
 
-<p>A key activity within A:TNG is organizing an open pattern language to relate
-learnings from Agile frameworks to the experiences of our practitioners.
-What advantage can this pattern language offer over the original
-frameworks? What benefit in a culture where practitioners already have Agile
-certificates? Why is this a big deal for TNG?  </p>
+<p>A key activity in A:TNG is organizing a pattern language to encode
+the learnings of practitioners. What advantage can such a pattern language offer over the 1st and 2nd generation frameworks? What benefit in a culture where everyone and their dog has Agile
+certificates? Why are patterns a big deal?  </p>
 
 <!-- more -->
 
@@ -2477,8 +2382,7 @@ certificates? Why is this a big deal for TNG?  </p>
 
 <p>The history of Agile is intertwined with the Design Patterns movement. The
 first XP book was framed as a pattern language and while Scrum started as a
-framework it is now <a href="http://www.scrumplop.org">reformulating as a pattern
-language</a>.</p>
+framework it has also <a href="http://www.scrumplop.org">reformulated as a pattern language</a>.</p>
 
 <p>Design patterns started with the great 20th century architect Chris Alexander.
 Alexander described them this way: <em>Each pattern describes a problem which
@@ -2495,14 +2399,9 @@ Patterns</a>, and Ward Cunningham’s
 Repository</a> which also
 became the first wiki, “Ward’s Wiki”.</p>
 
-<p>The success of wiki as a collaborative editing method may have distracted
-people from the Pattern Language ideas at its core, but there are still PLoP
-conferences every year and popular patterns are known and used by every
-professional software engineer.</p>
+<p>The success of wiki as a collaborative editing method may have distracted people from the Pattern Language ideas at its core, but there are still PLoP conferences every year and popular patterns are known and used by every professional software engineer. Though perhaps not quite so often as googling StackOverflow …</p>
 
-<p>The key advantage of pattern languages is the empowerment of their users to
-make decisions that would otherwise require trial and error or deep expertise.
-Furthermore,</p>
+<p>The key advantage of pattern languages over StackOverflow is the empowerment of users to make decisions that would otherwise require trial and error or deep expertise. </p>
 
 <ul>
   <li>patterns can be adapted and refactored to suit specific domains without
@@ -2555,19 +2454,17 @@ of the Beck/Fowler code smells into the context of the enterprise without
 thinking very hard:</p>
 
 <ul>
-  <li>duplicated code corresponds with teams with duplicate RACI </li>
-  <li>long methods correspond with deferred feedback</li>
-  <li>large classes correspond with large teams or component based teams</li>
-  <li>too many parameters corresponds with part-time resourcing</li>
+  <li>duplicated code corresponds with teams pursuing duplicated stories, features and in fact quite commonly whole epics. </li>
+  <li>long methods correspond with deferred feedback on waterfall programs</li>
+  <li>large classes correspond with over-large teams or component based teams</li>
+  <li>too many parameters corresponds with multi-tasking and part-time resourcing</li>
   <li>and so on …</li>
 </ul>
 
 <p>It may be that this is putting the cart before the horse. It would be better
 to systematically catalogue enterprise smells and refactorings, and then see
-what they have in common with those at a code level. This may form a key
-activity of the A:TNG community, and a substantial part of the OAPL may be
-devoted to the result. We aim to kick off this cataloguing activity as part of
-our inaugural meeting on March 13 in Sydney.</p>
+what they have in common with those at a code level. This may form an
+activity in the A:TNG community. </p>
 
 <h2 id="pattern-languages-over-prescriptive-frameworks">Pattern Languages over Prescriptive Frameworks</h2>
 
@@ -2604,7 +2501,7 @@ art. And so they’re faced with two alternatives. Create a framework of their
 own to brand and market the benefit of their learnings, or add their patterns
 into an existing pattern language so that other practitioners can test them
 against their own experience and refactor them collaboratively. This is the
-purpose of the OAPL.</p>
+purpose of an open pattern language.</p>
 
 <h2 id="we-are-uncovering-better-ways-"><em>We Are Uncovering Better Ways …</em></h2>
 
@@ -2617,9 +2514,8 @@ mission.</p>
 
 <p>We are uncovering better ways to deliver products and services by improving
 our teams, enterprises and communities. And we represent and refactor these
-better ways together as patterns in our OAPL. Thereby we make the trade-offs
-clear so we can work with newcomers and help them find better ways for
-themselves, without expecting them merely to follow in our footsteps.</p>
+better ways together as patterns. Thereby we make trade-offs clear for newcomers 
+and help them find better ways for themselves; better ways than we’ve found.</p>
 
 ]]></content>
   </entry>

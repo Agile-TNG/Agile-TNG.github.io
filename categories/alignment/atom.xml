@@ -4,7 +4,7 @@
   <title><![CDATA[Category: alignment | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/alignment/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-08-12T15:15:32+10:00</updated>
+  <updated>2015-07-27T18:47:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -101,16 +101,14 @@ treating everything like one.</p>
     <link href="http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle/"/>
     <updated>2014-03-27T11:31:11+11:00</updated>
     <id>http://Agile-TNG.github.io/2014/03/27/the-goose-in-the-bottle</id>
-    <content type="html"><![CDATA[<p>Take a newly hatched baby goose. Poke it down the neck of an empty saki bottle
-and feed it till it’s grown. Without killing the goose or breaking the bottle,
-how do you get the goose out of the bottle?</p>
+    <content type="html"><![CDATA[<p>There’s an old Zen riddle. Take a gosling and poke it down the neck of an empty saki bottle.
+Feed it till it’s grown. Now without killing the goose or breaking the bottle, how do you get the goose out of the bottle?</p>
 
 <p><img src="/images/gib.png"></p>
 
 <!-- more -->
 
-<p>Let’s start with the problem and the solution in context and leave the riddle
-till after.</p>
+<p>This is an organizational change pattern so let’s start with the problem and the solution in context. We’ll leave the solution to the riddle till the end.</p>
 
 <h2 id="pattern-in-portland-form">Pattern in Portland Form</h2>
 

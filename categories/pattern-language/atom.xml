@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pattern language | Agile: The Next Generation]]></title>
   <link href="http://Agile-TNG.github.io/categories/pattern-language/atom.xml" rel="self"/>
   <link href="http://Agile-TNG.github.io/"/>
-  <updated>2014-08-12T15:15:32+10:00</updated>
+  <updated>2015-07-27T18:47:44+10:00</updated>
   <id>http://Agile-TNG.github.io/</id>
   <author>
     <name><![CDATA[Peter Merel]]></name>
@@ -144,16 +144,13 @@ Minions</a>.</p>
   <li>At every level, BFR takes the form of a matrix of features and themes.  A <em>theme</em>
 defines some category of acceptance criteria for a cross-cutting technical, business
 or user experience concern. And the features are thought to combine to satisfy the
-BFR’s scoping story across these themes.
-    <ul>
-      <li>Each feature is in turn expanded in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
+BFR’s scoping story across these themes.</li>
+  <li>Each feature is expanded in <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template">story-normal
 form</a>.
 and checked to assure <a href="http://en.wikipedia.org/wiki/INVEST_(mnemonic)">INVEST</a>
 compliance. Here the N in INVEST is modified to mean “we have the right people in
 the room to Negotiate these stories” and the S is generalized to mean “scale
 similar” rather than just “small”.</li>
-    </ul>
-  </li>
   <li>The intersection of a feature and a theme is a checkbox; each checkbox can only
 contain a blank or a checkmark. A checkmark means there are acceptance criteria for
 this feature in this theme and a blank means there aren’t.</li>

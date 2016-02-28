@@ -10,11 +10,9 @@ categories:
 
 {% img /images/oapl300.png 300 %}
 
-A key activity within A:TNG is organizing an open pattern language to relate
-learnings from Agile frameworks to the experiences of our practitioners.
-What advantage can this pattern language offer over the original
-frameworks? What benefit in a culture where practitioners already have Agile
-certificates? Why is this a big deal for TNG?  
+A key activity in A:TNG is organizing a pattern language to encode
+the learnings of practitioners. What advantage can such a pattern language offer over the 1st and 2nd generation frameworks? What benefit in a culture where everyone and their dog has Agile
+certificates? Why are patterns a big deal?  
 
 <!-- more -->
 
@@ -22,8 +20,7 @@ certificates? Why is this a big deal for TNG?
 
 The history of Agile is intertwined with the Design Patterns movement. The
 first XP book was framed as a pattern language and while Scrum started as a
-framework it is now [reformulating as a pattern
-language](http://www.scrumplop.org).
+framework it has also [reformulated as a pattern language](http://www.scrumplop.org).
 
 Design patterns started with the great 20th century architect Chris Alexander.
 Alexander described them this way: _Each pattern describes a problem which
@@ -40,14 +37,9 @@ Patterns](http://www.blackwasp.co.uk/GofPatterns.aspx), and Ward Cunningham's
 Repository](http://c2.com/cgi-bin/wiki?PeopleProjectsAndPatterns) which also
 became the first wiki, "Ward's Wiki".
 
-The success of wiki as a collaborative editing method may have distracted
-people from the Pattern Language ideas at its core, but there are still PLoP
-conferences every year and popular patterns are known and used by every
-professional software engineer.
+The success of wiki as a collaborative editing method may have distracted people from the Pattern Language ideas at its core, but there are still PLoP conferences every year and popular patterns are known and used by every professional software engineer. Though perhaps not quite so often as googling StackOverflow ...
 
-The key advantage of pattern languages is the empowerment of their users to
-make decisions that would otherwise require trial and error or deep expertise.
-Furthermore,
+The key advantage of pattern languages over StackOverflow is the empowerment of users to make decisions that would otherwise require trial and error or deep expertise. 
 
 * patterns can be adapted and refactored to suit specific domains without
   adopting the pattern language as a whole
@@ -97,18 +89,16 @@ design of an enterprise and the design of a computer program, we can lift each
 of the Beck/Fowler code smells into the context of the enterprise without
 thinking very hard:
 
-* duplicated code corresponds with teams with duplicate RACI 
-* long methods correspond with deferred feedback
-* large classes correspond with large teams or component based teams
-* too many parameters corresponds with part-time resourcing
+* duplicated code corresponds with teams pursuing duplicated stories, features and in fact quite commonly whole epics. 
+* long methods correspond with deferred feedback on waterfall programs
+* large classes correspond with over-large teams or component based teams
+* too many parameters corresponds with multi-tasking and part-time resourcing
 * and so on ...
 
 It may be that this is putting the cart before the horse. It would be better
 to systematically catalogue enterprise smells and refactorings, and then see
-what they have in common with those at a code level. This may form a key
-activity of the A:TNG community, and a substantial part of the OAPL may be
-devoted to the result. We aim to kick off this cataloguing activity as part of
-our inaugural meeting on March 13 in Sydney.
+what they have in common with those at a code level. This may form an
+activity in the A:TNG community. 
 
 ## Pattern Languages over Prescriptive Frameworks
 
@@ -145,7 +135,7 @@ art. And so they're faced with two alternatives. Create a framework of their
 own to brand and market the benefit of their learnings, or add their patterns
 into an existing pattern language so that other practitioners can test them
 against their own experience and refactor them collaboratively. This is the
-purpose of the OAPL.
+purpose of an open pattern language.
 
 ## _We Are Uncovering Better Ways ..._ 
 
@@ -158,7 +148,6 @@ mission.
 
 We are uncovering better ways to deliver products and services by improving
 our teams, enterprises and communities. And we represent and refactor these
-better ways together as patterns in our OAPL. Thereby we make the trade-offs
-clear so we can work with newcomers and help them find better ways for
-themselves, without expecting them merely to follow in our footsteps.
+better ways together as patterns. Thereby we make trade-offs clear for newcomers 
+and help them find better ways for themselves; better ways than we've found.
 

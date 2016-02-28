@@ -119,7 +119,7 @@ Minions](https://www.youtube.com/watch?v=K0__FYRdiSY).
   defines some category of acceptance criteria for a cross-cutting technical, business
   or user experience concern. And the features are thought to combine to satisfy the
   BFR's scoping story across these themes.
-  * Each feature is in turn expanded in [story-normal
+* Each feature is expanded in [story-normal
   form](http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template).
   and checked to assure [INVEST](http://en.wikipedia.org/wiki/INVEST_(mnemonic))
   compliance. Here the N in INVEST is modified to mean "we have the right people in

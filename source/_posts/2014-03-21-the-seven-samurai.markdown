@@ -12,30 +12,26 @@ published: true
 ---
 
 Enterprise Agile is a phrase that's bandied about a lot.  What is it, why would you
-want it, and how do you get it? The Seven Samurai answers those questions.
+want it, and how do you get it? The Seven Samurai is a pattern that delivers answers to those questions.
 
 {% img /images/Agreement.jpg %}
 
 <!-- more -->
 
-In the ever-accelerating marketplace it's common sense that businesses must
+In an ever-accelerating marketplace, businesses must
 continously adapt to avoid being outcompeted by others. On a small scale the process
-of adaptation can be dealt with by regular Scrum retrospectives and the Demming cycle.
-A significant program or business unit, however, cannot adapt piece-meal or it risks
-the Lean sins of stress, irregularity and waste.
+of adaptation can be dealt with by Scrum retrospectives and a Demming cycle of continuous improvement.
+A product portfolio, however, can't adapt piece-meal or it risks internal misalignment.
 
 * toc
 {:toc}
 
-Let's define enterprise agility in terms of continuous adaptation. Adaptation of
-internal structure and process as delivery capabilities evolve.  Adaptation of
-external value streams to customer experiences, market forces and technological
-innovations.  Adaptation of these two to each other to maximise product-market fit and
+Enterprise agility is defined by continuous adaptation to changes in the market - both opportunities and challenges. Adaptation of internal structure as delivery capabilities evolve.  Adaptation of
+external service configurations to customer experiences, market forces and technological
+innovations.  Adaptation of services and capabilities to each other to maximise product-market fit and
 ROI. 
 
-Adaptation obviously applies during process transformation, but for enterprise agility
-continous adaptation must continue even after new process elements are bedded down.
-The Seven Samurai pattern language provides a framework for doing that.
+Continuous adaptation obviously applies during process transformation but, to qualify under this definition of enterprise agility, adaptation be continuous even after new process elements are bedded down. It's the pulse of an Agile organization. The Seven Samurai pattern language provides a framework for this.
 
 ## Spoilers
 {:.no_toc}

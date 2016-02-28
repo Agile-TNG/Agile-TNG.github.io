@@ -10,16 +10,14 @@ categories:
 published: true
 ---
 
-Take a newly hatched baby goose. Poke it down the neck of an empty saki bottle
-and feed it till it's grown. Without killing the goose or breaking the bottle,
-how do you get the goose out of the bottle?
+There's an old Zen riddle. Take a gosling and poke it down the neck of an empty saki bottle.
+Feed it till it's grown. Now without killing the goose or breaking the bottle, how do you get the goose out of the bottle?
 
 {% img /images/gib.png %}
 
 <!-- more -->
 
-Let's start with the problem and the solution in context and leave the riddle
-till after.
+This is an organizational change pattern so let's start with the problem and the solution in context. We'll leave the solution to the riddle till the end.
 
 ## Pattern in Portland Form 
 
@@ -253,7 +251,7 @@ to be killed - neither in the bottle nor out of it. But as you feed the goose ou
 more requirements and more budget and more people, soon there is no goose left in the
 bottle. Nor a bottle for it to be in. In other words, **it's out!**
 
-##But ...
+## But ...
 
 What if your organisation can't create a truly cross-functional, end-to-end team? What
 if you can't get executive support to resolve  dependencies on other non-agile areas
